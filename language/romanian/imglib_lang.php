@@ -57,4 +57,4 @@ $lang['imglib_missing_font'] = 'Nu s-a putut găsi un font pentru a fi folosit.'
 $lang['imglib_save_failed'] = 'Imaginea nu a putut fi salvată. Asigurați-vă că imaginea și fișierul director au permisiuni de scriere.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/romanian/imglib_lang.php */
+/* Location: ./application/language/romanian/imglib_lang.php */

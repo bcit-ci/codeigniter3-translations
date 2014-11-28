@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']	= 'Clasei migrației "%s" îi lipsește o
 $lang['migration_invalid_filename']	= 'Migrația "%s" are un nume invalid..';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/romanian/migration_lang.php */
+/* Location: ./application/language/romanian/migration_lang.php */

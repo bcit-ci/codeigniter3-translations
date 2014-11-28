@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset'] = 'Unable to set client connection character s
 $lang['db_error_heading'] = 'A apărut o eroare la baza de date.';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/romanian/db_lang.php */
+/* Location: ./application/language/romanian/db_lang.php */

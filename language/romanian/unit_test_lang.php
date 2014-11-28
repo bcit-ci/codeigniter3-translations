@@ -58,4 +58,4 @@ $lang['ut_null']			= 'Nul';
 $lang['ut_notes']			= 'Notițe';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/romanian/unit_test_lang.php */
+/* Location: ./application/language/romanian/unit_test_lang.php */

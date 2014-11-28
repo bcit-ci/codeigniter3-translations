@@ -43,4 +43,4 @@ $lang['pagination_prev_link']	= '&lt;';
 $lang['pagination_last_link']	= 'Ultimul &rsaquo;';
 
 /* End of file pagination_lang.php */
-/* Location: ./system/language/romanian/pagination_lang.php */
+/* Location: ./application/language/romanian/pagination_lang.php */

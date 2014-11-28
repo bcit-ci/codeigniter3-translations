@@ -66,4 +66,4 @@ $lang['form_validation_greater_than']		= 'Câmpul {field} trebuie să conțină 
 $lang['form_validation_greater_than_equal_to']	= 'Câmpul {field} trebuie să conțină un număr mai mare decât sau egal cu {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/romanian/form_validation_lang.php */
+/* Location: ./application/language/romanian/form_validation_lang.php */

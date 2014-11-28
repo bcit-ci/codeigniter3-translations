@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure'] = 'Datele nu pot fi trimise: %s';
 $lang['email_exit_status'] = 'Codul stării de ieșire: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/romanian/email_lang.php */
+/* Location: ./application/language/romanian/email_lang.php */
