@@ -31,12 +31,12 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-===== ==== ==========
- Idiom User Maintainer
-===== ==== ==========
+===== ===== =====
+Idiom User Maintainer
+===== ===== =====
 german Rufnex Johannes Gamperl    
 yodish jim-parry Jim Parry
-===== ==== ==========
+===== ===== =====
 
 Simple table:
 
