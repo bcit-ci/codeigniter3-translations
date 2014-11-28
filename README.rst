@@ -33,7 +33,7 @@ Each language is maintained by a community member, per the table below:
 
 =====   =====   =====
 Idiom   Maintainer  User
------   -----   -----
+=====   =====   =====
 german  Johannes Gamperl    Rufnex
 yodish  Jim Parry   jim-parry
 =====   =====   =====
