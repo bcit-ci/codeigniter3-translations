@@ -31,13 +31,14 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-========== ========== ===============
-Idiom      User       Maintainer
-========== ========== ===============
-german     Rufnex     Johannes Gamperl    
-polish     michalsn   Michał Śniatała   
-yodish     jim-parry  Jim Parry
-========== ========== ===============
+========== ==========   ===============
+Idiom      User         Maintainer
+========== ==========   ===============
+french     includebeer  Alain Rivest
+german     Rufnex       Johannes Gamperl    
+polish     michalsn     Michał Śniatała   
+yodish     jim-parry    Jim Parry
+========== ==========   ===============
 
 Pull requests to the repository will only be considered if they come from 
 the maintainer for any translations in the request, or if the maintainer
