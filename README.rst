@@ -38,19 +38,6 @@ german     Rufnex     Johannes Gamperl
 yodish     jim-parry  Jim Parry
 ========== ========== ===============
 
-Simple table:
-
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
-
 Pull requests to the repository will only be considered if they come from 
 the maintainer for any translations in the request, or if the maintainer
 adds a comment indicating they approve of any changes.
@@ -58,4 +45,4 @@ adds a comment indicating they approve of any changes.
 If you would like provide a translation, please send me an email, with
 your name, github account, and a brief explanation of your suitability.
 
-Jim Parry
+`Jim Parry <jim_parry@bcit.ca>`_
