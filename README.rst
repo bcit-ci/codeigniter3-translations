@@ -35,6 +35,7 @@ Each language is maintained by a community member, per the table below:
 Idiom      User       Maintainer
 ========== ========== ===============
 german     Rufnex     Johannes Gamperl    
+polish     michalsn   Michał Śniatała   
 yodish     jim-parry  Jim Parry
 ========== ========== ===============
 
