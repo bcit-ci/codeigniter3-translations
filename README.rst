@@ -31,11 +31,11 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-=====   =====   =====
-Idiom   Maintainer  User
-=====   =====   =====
-german  Johannes Gamperl    Rufnex
-yodish  Jim Parry   jim-parry
+===== ===== =====
+Idiom User Maintainer
+===== ===== =====
+german Rufnex Johannes Gamperl    
+yodish jim-parry Jim Parry
 =====   =====   =====
 
 Pull requests to the repository will only be considered if they come from 
@@ -45,6 +45,4 @@ adds a comment indicating they approve of any changes.
 If you would like provide a translation, please send me an email, with
 your name, github account, and a brief explanation of your suitability.
 
-
-
-The German translation is maintained by Johannes Gamperl.
+Jim Parry
