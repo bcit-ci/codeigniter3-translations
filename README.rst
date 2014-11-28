@@ -37,6 +37,7 @@ Idiom      User         Maintainer
 french     includebeer  Alain Rivest
 german     Rufnex       Johannes Gamperl
 polish     michalsn     Michał Śniatała
+romanian   Chiribuc     Cristian Robert Chiribuc
 yodish     jim-parry    Jim Parry
 ========== ===========  ===============
 
