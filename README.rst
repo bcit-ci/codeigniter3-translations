@@ -34,10 +34,12 @@ Each language is maintained by a community member, per the table below:
 ========== ===========  ===============
 Idiom      User         Maintainer
 ========== ===========  ===============
+catalan    ?            Roger Bernaus
 french     includebeer  Alain Rivest
 german     Rufnex       Johannes Gamperl
 polish     michalsn     Michał Śniatała
 romanian   Chiribuc     Cristian Robert Chiribuc
+swedish    peterdenk    Peter Denk
 yodish     jim-parry    Jim Parry
 ========== ===========  ===============
 
