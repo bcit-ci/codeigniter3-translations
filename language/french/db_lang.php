@@ -27,41 +27,41 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str'] = 'To determine the database settings based on the connection string you submitted, unable am I.  ';
-$lang['db_unable_to_connect'] = 'To connect to your database server using the provided settings, unable am I.  Herh herh herh.';
-$lang['db_unable_to_select'] = 'To select the specified database, unable am I: %s';
-$lang['db_unable_to_create'] = 'To create the specified database, unable am I: %s';
-$lang['db_invalid_query'] = 'The query you submitted is valid not.  Yes, hmmm.';
-$lang['db_must_set_table'] = 'Set the database table to be used with your query, you must.  ';
-$lang['db_must_use_set'] = 'To update an entry, use the "Set" method you must.  Yeesssssss.';
-$lang['db_must_use_index'] = 'Specify an index to match on for batch updates, you must.  Yes, hmmm.';
-$lang['db_batch_missing_index'] = 'Missing the specified index, one or more rows submitted for batch updating is.  Herh herh herh.';
-$lang['db_must_use_where'] = 'Updates are allowed not unless they contain a "Where" Clause.  Herh herh herh.';
-$lang['db_del_must_use_where'] = 'Deletes are allowed not unless they contain a "Where" Or "Like"  Clause.  ';
-$lang['db_field_param_missing'] = 'To fetch fields requires the name of the table as a parameter.  Yes, hmmm.';
-$lang['db_unsupported_function'] = 'This feature is available for the database you are using, not.  Yes, hmmm.';
-$lang['db_transaction_failure'] = 'Transaction failure:  Rollback performed.  Yes, hmmm.';
-$lang['db_unable_to_drop'] = 'To drop the specified database, unable.  Herh herh herh.';
-$lang['db_unsupported_feature'] = 'Unsupported feature of the database platform, using you are.  ';
-$lang['db_unsupported_compression'] = 'The file compression format you chose, supported by your server is not.  ';
-$lang['db_filepath_error'] = 'The file path you have submitted, unable to write data to am I.  ';
-$lang['db_invalid_cache_path'] = 'The cache path you submitted, valid or writable it is not.  Yeesssssss.';
-$lang['db_table_name_required'] = 'Required for that operation, a table name is.  ';
-$lang['db_column_name_required'] = 'Required for that operation, a column name is.  ';
-$lang['db_column_definition_required'] = 'Required for that operation, a column definition is.  Herh herh herh.';
-$lang['db_unable_to_set_charset'] = 'To set client connection character set, unable am I.  : %s';
-$lang['db_error_heading'] = 'Database error occurred.  Herh herh herh.';
+$lang['db_invalid_connection_str']      = "Impossible de d&eacute;terminer les param&egrave;tres d'acc&egrave;s &agrave; la base de donn&eacute;es en se basant sur la cha&icirc;ne de connexion que vous avez soumise.";
+$lang['db_unable_to_connect']           = "Impossible de se connecter &agrave; la base de donn&eacute;es en utilisant les param&egrave;tres fournis.";
+$lang['db_unable_to_select']            = "Impossible de s&eacute;lectionner cette base de donn&eacute;es : %s";
+$lang['db_unable_to_create']            = "Impossible de cr&eacute;er cette base de donn&eacute;es : %s";
+$lang['db_invalid_query']               = "La requ&ecirc;te que vous avez fournie est invalide.";
+$lang['db_must_set_table']              = "Vous devez sp&eacute;cifier une table pour effectuer votre requ&ecirc;te.";
+$lang['db_must_use_set']                = "Vous devez utiliser la m&eacute;thode \"set()\" pour mettre &agrave; jour une entr&eacute;e.";
+$lang['db_must_use_index']              = "Vous devez sp&eacute;cifier un index pour les mises &agrave; jour group&eacute;es.";
+$lang['db_batch_missing_index']         = "Une ou plusieurs rang&eacute;es de la mise &agrave; jour group&eacute;e ne disposent pas de l'index requiert.";
+$lang['db_must_use_where']              = "Il faut obligatoirement sp&eacute;cifier la clause \"WHERE\" pour mettre &agrave; jour une entr&eacute;e.";
+$lang['db_del_must_use_where']          = "Il faut obligatoirement sp&eacute;cifier la clause \"WHERE\" pour supprimer une entr&eacute;e.";
+$lang['db_field_param_missing']         = "La m&eacute;thode fetch_fields requiert le nom de la table cible en param&egrave;tre.";
+$lang['db_unsupported_function']        = "Cette fonctionnalit&eacute; n'est pas disponible pour la base de donn&eacute;es utilis&eacute;e.";
+$lang['db_transaction_failure']         = "Erreur de transaction: la transaction est annul&eacute;e";
+$lang['db_unable_to_drop']              = "Impossible d'effacer la base de donn&eacute;es sp&eacute;cifi&eacute;e.";
+$lang['db_unsuported_feature']          = "Cette fonctionnalit&eacute; n'est pas soutenue par la plate-forme de base de donn&eacute;es utilis&eacute;e.";
+$lang['db_unsuported_compression']      = "Le format de compression choisi n'est pas soutenu par votre serveur. ";
+$lang['db_filepath_error']              = "Impossible d'&eacute;crire des donn&eacute;es au chemin de fichiers indiqu&eacute;.";
+$lang['db_invalid_cache_path']          = "Le chemin de mise en cache soumis n'est pas valide ou ne pas inscriptible.";
+$lang['db_table_name_required']         = "Un nom de table est requis pour cette op&eacute;ration.";
+$lang['db_column_name_required']        = "Un nom de colonne est requis pour cette op&eacute;ration.";
+$lang['db_column_definition_required']  = "Une d&eacute;finition d'une colonne est requise pour cette op&eacute;ration.";
+$lang['db_unable_to_set_charset']       = "Impossible de d&eacute;finir le jeu de caract&eagrave;res de la connexion client: %s";
+$lang['db_error_heading']               = "Une erreur de la base de donn&eacute;es s'est produite.";
 
 /* End of file db_lang.php */
 /* Location: ./system/language/english/db_lang.php */
