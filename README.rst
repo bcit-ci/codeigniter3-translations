@@ -37,8 +37,11 @@ Idiom      User         Maintainer
 catalan    ?            Roger Bernaus
 french     includebeer  Alain Rivest
 german     Rufnex       Johannes Gamperl
+italian    ster         Stefano Mazzega
+persian    MSDehghan    Mohammad Sadegh
 polish     michalsn     Michał Śniatała
 romanian   Chiribuc     Cristian Robert Chiribuc
+spanish    Razican      Iban Eguia
 swedish    peterdenk    Peter Denk
 yodish     jim-parry    Jim Parry
 ========== ===========  ===============
