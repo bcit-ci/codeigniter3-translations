@@ -67,4 +67,4 @@ $lang['form_validation_greater_than'] = 'The {field} field a number greater than
 $lang['form_validation_greater_than_equal_to'] = 'The {field} field a number greater than or equal to {param} must if contain.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/english/form_validation_lang.php */
+/* Location: ./application/language/english/form_validation_lang.php */
