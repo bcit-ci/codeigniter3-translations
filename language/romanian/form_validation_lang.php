@@ -39,8 +39,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']		= 'Câmpul {field} este obligatoriu.';
 $lang['form_validation_isset']			= 'Câmpul {field} trebuie să conțină o valoare.';
-$lang['form_validation_valid_email']		= 'Câmpul {field} trebuie să conțină o adresâ de email validă.';
-$lang['form_validation_valid_emails']		= 'Câmpul {field} trebuie să conțină toate adresele de email valide.';
+$lang['form_validation_valid_email']		= 'Câmpul {field} trebuie să conțină o adresă de email validă.';
+$lang['form_validation_valid_emails']		= 'Câmpul {field} trebuie să conțină doar adrese de email valide.';
 $lang['form_validation_valid_url']		= 'Câmpul {field} trebuie să conțină un URL valid.';
 $lang['form_validation_valid_ip']		= 'Câmpul {field} trebuie să conțină un IP valid.';
 $lang['form_validation_min_length']		= 'Câmpul {field} trebuie să fie de cel puțin {param} caractere lungime.';
