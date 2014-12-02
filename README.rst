@@ -38,6 +38,7 @@ catalan    ?            Roger Bernaus
 french     includebeer  Alain Rivest
 german     Rufnex       Johannes Gamperl
 italian    ster         Stefano Mazzega
+norwegian  yhoiseth     Yngve Hoiseth
 persian    MSDehghan    Mohammad Sadegh
 polish     michalsn     Michał Śniatała
 romanian   Chiribuc     Cristian Robert Chiribuc
