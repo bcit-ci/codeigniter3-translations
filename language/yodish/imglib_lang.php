@@ -58,4 +58,4 @@ $lang['imglib_missing_font'] = 'A font to use unable to be found.';
 $lang['imglib_save_failed'] = 'The image saved it could not. Make sure the image and file directory are writable, you must.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/english/imglib_lang.php */
+/* Location: ./application/language/english/imglib_lang.php */
