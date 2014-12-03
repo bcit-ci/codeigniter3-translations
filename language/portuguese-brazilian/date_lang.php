@@ -9,7 +9,7 @@
  * Copyright (c) 2014, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
- * of this software and associated documentation files (the "Software"), to deal
+ * of this software and associated documentation files (the 'Software'), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
@@ -18,7 +18,7 @@
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
  *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
  * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
@@ -37,20 +37,20 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year'] 		= "Ano";
-$lang['date_years'] 	= "Anos";
-$lang['date_month'] 	= "Mês";
-$lang['date_months'] 	= "Meses";
-$lang['date_week'] 		= "Semana";
-$lang['date_weeks'] 	= "Semanas";
-$lang['date_day'] 		= "Dia";
-$lang['date_days'] 		= "Dias";
-$lang['date_hour'] 		= "Hora";
-$lang['date_hours'] 	= "Horas";
-$lang['date_minute'] 	= "Minuto";
-$lang['date_minutes'] 	= "Minutos";
-$lang['date_second'] 	= "Segundo";
-$lang['date_seconds'] 	= "Segundos";
+$lang['date_year'] 		= 'Ano';
+$lang['date_years'] 	= 'Anos';
+$lang['date_month'] 	= 'Mês';
+$lang['date_months'] 	= 'Meses';
+$lang['date_week'] 		= 'Semana';
+$lang['date_weeks'] 	= 'Semanas';
+$lang['date_day'] 		= 'Dia';
+$lang['date_days'] 		= 'Dias';
+$lang['date_hour'] 		= 'Hora';
+$lang['date_hours'] 	= 'Horas';
+$lang['date_minute'] 	= 'Minuto';
+$lang['date_minutes'] 	= 'Minutos';
+$lang['date_second'] 	= 'Segundo';
+$lang['date_seconds'] 	= 'Segundos';
 
 $lang['UM12'] 	= '(UTC -12:00) Ilhas Baker e Howland';
 $lang['UM11'] 	= '(UTC -11:00) Fuso horário de Samoa, Niue';
