@@ -38,24 +38,24 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['imglib_source_image_required'] = 'Você deve especificar a origem da imagem em suas preferências.';
-$lang['imglib_gd_required'] = 'A Bilblioteca "GD image library" é necessária para está funcionalidade.';
-$lang['imglib_gd_required_for_props'] = 'Seu servidor deve suportar a Bilblioteca GD image library em razão de determinar as propriedades da imagem.';
-$lang['imglib_unsupported_imagecreate'] = 'Seu servidor não suporta a função GD necessária para processar este tipo de imagem.';
-$lang['imglib_gif_not_supported'] = 'Imagens GIF geralmente não são suportadas devido à restrições de licenças. Você deve usar JPG ou PNG.';
-$lang['imglib_jpg_not_supported'] = 'Imagens JPG não são suportadas.';
-$lang['imglib_png_not_supported'] = 'Imagens PNG não são suportadas.';
-$lang['imglib_jpg_or_png_required'] = 'O protocolo de redimencionamento de imagem especificado em suas preferências funciona somente com imagens JPEG ou PNG.';
-$lang['imglib_copy_error'] = 'Um erro foi encontrado enquanto tentava substituir um arquivo. Por favor tenha certeza que seu diretório é gravável.';
-$lang['imglib_rotate_unsupported'] = 'Rotação de imagem parece não ser suportada por seu servidor.';
-$lang['imglib_libpath_invalid'] = 'O caminho para a biblioteca de imagens não está correto.  Por favor configure o caminho correto em suas preferências de imagens.';
-$lang['imglib_image_process_failed'] = 'Falha ao processar a imagem. Por favor verifique que seu servidor suporta o protocolo escolhido e que o caminho para sua biblioteca de imagens esteja correto.';
-$lang['imglib_rotation_angle_required'] = 'O ângulo de rotação é obrigatório para rodar a imagem.';
-$lang['imglib_writing_failed_gif'] = 'Imagem GIF.';
-$lang['imglib_invalid_path'] = 'O caminho para a imagem não está correto';
+$lang['imglib_source_image_required'] = 'Specify a source image in your preferences, you must.  Herh herh herh..';
+$lang['imglib_gd_required'] = 'The GD image library for this feature required is.';
+$lang['imglib_gd_required_for_props'] = 'The GD image library in order to determine the image properties, must your server support.';
+$lang['imglib_unsupported_imagecreate'] = 'The GD function required to process this type of image, your server supports it not.';
+$lang['imglib_gif_not_supported'] = 'GIF images supported due to licensing restrictions they are often not . Use JPG or PNG images instead, you might have to.';
+$lang['imglib_jpg_not_supported'] = 'JPG images not supported they are.';
+$lang['imglib_png_not_supported'] = 'PNG images not supported they are.';
+$lang['imglib_jpg_or_png_required'] = 'The image resize protocol specified in your preferences, with JPEG or PNG image types works it only.';
+$lang['imglib_copy_error'] = 'While attempting to replace the file, encountered an error was. Your file directory writable must it be.';
+$lang['imglib_rotate_unsupported'] = 'Image rotation your server does not appear to support.';
+$lang['imglib_libpath_invalid'] = 'The path to your image library correct it is not. The correct path in your image preferences set must be. Yessss.';
+$lang['imglib_image_process_failed'] = 'Failed is the image processing. Verify that your server supports the chosen protocol, and that the path to your image library is correct, you must.';
+$lang['imglib_rotation_angle_required'] = 'To rotate the image, an angle of rotation is required.';
+$lang['imglib_writing_failed_gif'] = 'GIF image.';
+$lang['imglib_invalid_path'] = 'The path to the image correct is not. Hmmmmm.';
 $lang['imglib_copy_failed'] = 'Failed, the image copy routine.';
-$lang['imglib_missing_font'] = 'Não é possível encontrar a fonte para usar.';
-$lang['imglib_save_failed'] = 'Não é possível salvar a imagem.  Por favor tenha certeza que a imagem e o diretório são graváveis.';
+$lang['imglib_missing_font'] = 'A font to use unable to be found.';
+$lang['imglib_save_failed'] = 'The image saved it could not. Make sure the image and file directory are writable, you must.';
 
 /* End of file imglib_lang.php */
-/* Location: ./application/language/portuguese-brazilian/imglib_lang.php */
+/* Location: ./application/language/english/imglib_lang.php */
