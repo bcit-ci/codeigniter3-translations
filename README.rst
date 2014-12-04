@@ -40,7 +40,7 @@ Each language is maintained by a community member, per the table below:
 ======================== ===========  ===============
 Idiom                    User         Maintainer
 ======================== ===========  ===============
-catalan                  ?            Roger Bernaus
+catalan                  rogervila    Roger Vilà
 french                   includebeer  Alain Rivest
 german                   Rufnex       Johannes Gamperl
 italian                  ster         Stefano Mazzega
