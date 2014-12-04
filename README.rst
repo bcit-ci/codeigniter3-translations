@@ -31,21 +31,22 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-========== ===========  ===============
-Idiom      User         Maintainer
-========== ===========  ===============
-catalan    ?            Roger Bernaus
-french     includebeer  Alain Rivest
-german     Rufnex       Johannes Gamperl
-italian    ster         Stefano Mazzega
-norwegian  yhoiseth     Yngve Hoiseth
-persian    MSDehghan    Mohammad Sadegh
-polish     michalsn     Michał Śniatała
-romanian   Chiribuc     Cristian Robert Chiribuc
-spanish    Razican      Iban Eguia
-swedish    peterdenk    Peter Denk
-yodish     jim-parry    Jim Parry
-========== ===========  ===============
+======================== ===========  ===============
+Idiom                    User         Maintainer
+======================== ===========  ===============
+catalan                  ?            Roger Bernaus
+french                   includebeer  Alain Rivest
+german                   Rufnex       Johannes Gamperl
+italian                  ster         Stefano Mazzega
+norwegian                yhoiseth     Yngve Hoiseth
+persian                  MSDehghan    Mohammad Sadegh
+polish                   michalsn     Michał Śniatała
+portugese-brazilian      mateusfbi    Mateus Brandão
+romanian                 Chiribuc     Cristian Robert Chiribuc
+spanish                  Razican      Iban Eguia
+swedish                  peterdenk    Peter Denk
+yodish                   jim-parry    Jim Parry
+======================== ===========  ===============
 
 Pull requests to the repository will only be considered if they come from 
 the maintainer for any translations in the request, or if the maintainer
