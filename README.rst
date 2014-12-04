@@ -47,7 +47,7 @@ italian                ster         Stefano Mazzega
 norwegian              yhoiseth     Yngve Hoiseth
 persian                MSDehghan    Mohammad Sadegh
 polish                 michalsn     Michał Śniatała
-portuguese-brazilian   mateusfbi    Mateus Brandao
+portuguese-brazilian   mateusfbi    Mateus Brandão
 romanian               Chiribuc     Cristian Robert Chiribuc
 serbian                oldwizard    Bojan Egerić
 spanish                Razican      Iban Eguia
