@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset'] = 'Definering av klient-tegnsett mislyktes: %s
 $lang['db_error_heading'] = 'En databasefeil oppstod';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./system/language/norwegian/db_lang.php */
