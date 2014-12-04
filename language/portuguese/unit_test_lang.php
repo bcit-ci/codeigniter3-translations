@@ -58,4 +58,4 @@ $lang['ut_null']            = 'Vazio';
 $lang['ut_notes']           = 'Notas';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/portuguese/unit_test_lang.php */
+/* Location: ./application/language/portuguese/unit_test_lang.php */

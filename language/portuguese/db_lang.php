@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset']       = 'Incapaz de definir o set de caratére
 $lang['db_error_heading']               = 'Ocorreu um erro na base de dados';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/portuguese/db_lang.php */
+/* Location: ./application/language/portuguese/db_lang.php */

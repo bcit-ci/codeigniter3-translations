@@ -55,4 +55,4 @@ $lang['upload_bad_filename']            = 'O nome de ficheiro que introduziu já
 $lang['upload_not_writable']            = 'A diretoria de upload parece não ter permissões de escrita.';
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/portuguese/upload_lang.php */
+/* Location: ./application/language/portuguese/upload_lang.php */

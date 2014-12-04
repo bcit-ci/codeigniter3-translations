@@ -57,4 +57,4 @@ $lang['imglib_missing_font']            = 'Incapaz de encontrar um tipo de letra
 $lang['imglib_save_failed']             = 'Não foi possível guardar a imagem. Por favor certifique-se que tem permissões de escrita da imagem e da diretoria do ficheiro.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/portuguese/imglib_lang.php */
+/* Location: ./application/language/portuguese/imglib_lang.php */

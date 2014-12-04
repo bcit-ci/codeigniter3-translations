@@ -66,4 +66,4 @@ $lang['form_validation_greater_than']           = 'O campo {field} tem que conte
 $lang['form_validation_greater_than_equal_to']  = 'O campo {field} tem que conter um número superior ou igual a {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/portuguese/form_validation_lang.php */
+/* Location: ./application/language/portuguese/form_validation_lang.php */

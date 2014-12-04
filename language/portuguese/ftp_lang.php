@@ -51,4 +51,4 @@ $lang['ftp_unable_to_delete']       = 'Incaapz de apagar o ficheiro.';
 $lang['ftp_unable_to_move']         = 'Incapaz de mover o ficheiro. Por favor certifique-se que a diretoria de detino existe..';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/portuguese/ftp_lang.php */
+/* Location: ./application/language/portuguese/ftp_lang.php */

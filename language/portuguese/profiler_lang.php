@@ -60,4 +60,4 @@ $lang['profiler_section_show']      = 'Mostrar';
 $lang['profiler_seconds']           = 'segundos';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/portuguese/profiler_lang.php */
+/* Location: ./application/language/portuguese/profiler_lang.php */

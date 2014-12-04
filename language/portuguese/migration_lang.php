@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']  = 'Falta o método "down" à classe de m
 $lang['migration_invalid_filename']     = 'A migração "%s" tem um nome de ficheiro inválido.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/portuguese/migration_lang.php */
+/* Location: ./application/language/portuguese/migration_lang.php */
