@@ -13,6 +13,12 @@ You may then use the CodeIgniter Language class to reference the translations
 directly, or you can set the default language in **application/config/config**
 to the idiom appropriate for your webapp.
 
+There have been several questions about RTL languages, but that is not
+something addressed in CodeIgniter. The suggested approach is to keep any
+translations in left-to-right order, and to deal with right-to-left
+rendering through the "dir" attribute of an HTML element, or the "direction"
+attribute in CSS.
+
 ************
 Requirements
 ************
@@ -31,21 +37,24 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-========== ===========  ===============
-Idiom      User         Maintainer
-========== ===========  ===============
-catalan    ?            Roger Bernaus
-french     includebeer  Alain Rivest
-german     Rufnex       Johannes Gamperl
-italian    ster         Stefano Mazzega
-norwegian  yhoiseth     Yngve Hoiseth
-persian    MSDehghan    Mohammad Sadegh
-polish     michalsn     Michał Śniatała
-romanian   Chiribuc     Cristian Robert Chiribuc
-spanish    Razican      Iban Eguia
-swedish    peterdenk    Peter Denk
-yodish     jim-parry    Jim Parry
-========== ===========  ===============
+======================== ===========  ===============
+Idiom                    User         Maintainer
+======================== ===========  ===============
+catalan                  ?            Roger Bernaus
+french                   includebeer  Alain Rivest
+german                   Rufnex       Johannes Gamperl
+italian                  ster         Stefano Mazzega
+norwegian                yhoiseth     Yngve Hoiseth
+persian                  MSDehghan    Mohammad Sadegh
+polish                   michalsn     Michał Śniatała
+portugese-brazilian      mateusfbi    Mateus Brandão
+romanian                 Chiribuc     Cristian Robert Chiribuc
+serbian                  oldwizard    Bojan Egerić
+spanish                  Razican      Iban Eguia
+swedish                  peterdenk    Peter Denk
+yodish                   jim-parry    Jim Parry
+======================== ===========  ===============
+
 
 Pull requests to the repository will only be considered if they come from 
 the maintainer for any translations in the request, or if the maintainer
