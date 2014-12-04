@@ -33,19 +33,32 @@
  * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
- * @since	Version 3.0.0
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = 'Nenhuma migração foi encontrada.';
-$lang['migration_not_found'] = 'Não foi possivel encontar esta migração com o número da versão: %s.';
-$lang['migration_sequence_gap'] = 'Na sequecia de migração Gap o próximo número da versão não existe.: %s.';
-$lang['migration_multiple_version'] = 'Esta são as multiplas migrações com o mesmo número de versão: %s.';
-$lang['migration_class_doesnt_exist'] = 'A classe de migração "%s" não pode ser encontrada.';
-$lang['migration_missing_up_method'] = 'A classe de migração "%s" está faltando o método "up".';
-$lang['migration_missing_down_method'] = 'A classe de migração "%s" está falntando o método "down".';
-$lang['migration_invalid_filename'] = 'A migração "%s" tem nome de arquivo inválido.';
+$lang['profiler_database'] = 'BANCO DE DADOS';
+$lang['profiler_controller_info'] = 'CLASSE/METODO';
+$lang['profiler_benchmarks'] = 'BENCHMARKS';
+$lang['profiler_queries'] = 'CONSULTAS';
+$lang['profiler_get_data'] = 'GET DADOS';
+$lang['profiler_post_data'] = 'POST DADOS';
+$lang['profiler_uri_string'] = 'URI STRING';
+$lang['profiler_memory_usage'] = 'USO DE MEMÓRIA';
+$lang['profiler_config'] = 'VARIÁVEIS DE CONFIGURAÇÃO';
+$lang['profiler_session_data'] = 'DADOS DA SESSÃO';
+$lang['profiler_headers'] = 'HTTP HEADERS';
+$lang['profiler_no_db'] = 'Não foi carregado o driver do banco de dados corrente.';
+$lang['profiler_no_queries'] = 'Não tem consulta em execução.  ';
+$lang['profiler_no_post'] = 'Não existe dados para postar.';
+$lang['profiler_no_get'] = 'Não existe dados para obter.';
+$lang['profiler_no_uri'] = 'URI data, none exists';
+$lang['profiler_no_memory'] = 'Uso de Memória,  indisponível';
+$lang['profiler_no_profiles'] = 'Não há dados no perfil - Todos os perfil da sessão, estão desativados.';
+$lang['profiler_section_hide'] = 'Ocultar';
+$lang['profiler_section_show'] = 'Exibir';
+$lang['profiler_seconds'] = 'segundos';
 
-/* End of file migration_lang.php */
-/* Location: ./application/language/portuguese-brazilian/migration_lang.php */
+/* End of file profiler_lang.php */
+/* Location: ./application/language/portuguese-brazilian/profiler_lang.php */
