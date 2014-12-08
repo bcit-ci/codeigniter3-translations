@@ -37,14 +37,14 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']		= 'No migrations were found.';
-$lang['migration_not_found']		= 'No migration could be found with the version number: %s.';
-$lang['migration_sequence_gap']		= 'There is a gap in the migration sequence near version number: %s.';
-$lang['migration_multiple_version']	= 'There are multiple migrations with the same version number: %s.';
-$lang['migration_class_doesnt_exist']	= 'The migration class "%s" could not be found.';
-$lang['migration_missing_up_method']	= 'The migration class "%s" is missing an "up" method.';
-$lang['migration_missing_down_method']	= 'The migration class "%s" is missing a "down" method.';
-$lang['migration_invalid_filename']	= 'Migration "%s" has an invalid filename.';
+$lang['migration_none_found']		= 'Ingen migrasjoner ble funnet.';
+$lang['migration_not_found']		= 'Ingen migrasjon funner med følgende versjonsnummer: %s.';
+$lang['migration_sequence_gap']		= 'Det er en glippe i migrasjonssekvensen nær versjonsnummer: %s.';
+$lang['migration_multiple_version']	= 'Det er flere migrasjoner med samme versjonsnummer: %s.';
+$lang['migration_class_doesnt_exist']	= 'Fant ikke migrasjonsklassen «%s».';
+$lang['migration_missing_up_method']	= 'Migrasjonsklassen «%s» mangler en «up»-metode.';
+$lang['migration_missing_down_method']	= 'Migrasjonsklassen «%s» mangler en «down»-metode.';
+$lang['migration_invalid_filename']	= 'Migrasjon «%s» har et ugyldig filnavn.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/english/migration_lang.php */
+/* Location: ./system/language/norwegian/migration_lang.php */
