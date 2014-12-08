@@ -37,22 +37,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'Unable to find a post variable called userfile.';
-$lang['upload_file_exceeds_limit'] = 'The uploaded file exceeds the maximum allowed size in your PHP configuration file.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.';
-$lang['upload_file_partial'] = 'The file was only partially uploaded.';
-$lang['upload_no_temp_directory'] = 'The temporary folder is missing.';
-$lang['upload_unable_to_write_file'] = 'The file could not be written to disk.';
-$lang['upload_stopped_by_extension'] = 'The file upload was stopped by extension.';
-$lang['upload_no_file_selected'] = 'You did not select a file to upload.';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is not allowed.';
-$lang['upload_invalid_filesize'] = 'The file you are attempting to upload is larger than the permitted size.';
-$lang['upload_invalid_dimensions'] = 'The image you are attempting to upload doesn\'t fit into the allowed dimensions.';
-$lang['upload_destination_error'] = 'A problem was encountered while attempting to move the uploaded file to the final destination.';
-$lang['upload_no_filepath'] = 'The upload path does not appear to be valid.';
-$lang['upload_no_file_types'] = 'You have not specified any allowed file types.';
-$lang['upload_bad_filename'] = 'The file name you submitted already exists on the server.';
-$lang['upload_not_writable'] = 'The upload destination folder does not appear to be writable.';
+$lang['upload_userfile_not_set'] = 'Fant ikke post-variabelen «userfile».';
+$lang['upload_file_exceeds_limit'] = 'Den opplastede filen er større enn tillatt i PHP-konfigurasjonsfilen din.';
+$lang['upload_file_exceeds_form_limit'] = 'Den opplastede filen er for stor.';
+$lang['upload_file_partial'] = 'Filen ble bare delvis lastet opp.';
+$lang['upload_no_temp_directory'] = 'Den midlertidige mappen mangler.';
+$lang['upload_unable_to_write_file'] = 'Lagring av filen på disk var mislykket.';
+$lang['upload_stopped_by_extension'] = 'Filopplastingen ble stoppet av utvidelse.';
+$lang['upload_no_file_selected'] = 'Du valgte ingen fil å laste opp.';
+$lang['upload_invalid_filetype'] = 'Filtypen du prøver å laste opp er ikke tillatt.';
+$lang['upload_invalid_filesize'] = 'Filen du prøver å laste opp er for stor.';
+$lang['upload_invalid_dimensions'] = 'Bildet du prøver å laste opp passer ikke i de tillatte dimensjonene.';
+$lang['upload_destination_error'] = 'Et problem oppstod ved fltting av den opplastede filen til dens endelige destinasjon.';
+$lang['upload_no_filepath'] = 'Opplastingsstien synes ikke å være gyldig.';
+$lang['upload_no_file_types'] = 'Du har ikke valgt tillatte filtyper.';
+$lang['upload_bad_filename'] = 'Filnavnet du oppgav finnes allerede på tjeneren.';
+$lang['upload_not_writable'] = 'Destinasjonsmappen for opplastingen synes ikke å være skrivbar.';
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/norwegian/upload_lang.php */
