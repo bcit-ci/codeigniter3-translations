@@ -37,25 +37,28 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-======================== ===========  ===============
-Idiom                    User         Maintainer
-======================== ===========  ===============
-catalan                  ?            Roger Bernaus
-dutch                    pkrul        Pieter Krul
-french                   includebeer  Alain Rivest
-german                   Rufnex       Johannes Gamperl
-italian                  ster         Stefano Mazzega
-norwegian                yhoiseth     Yngve Hoiseth
-persian                  MSDehghan    Mohammad Sadegh
-polish                   michalsn     Michał Śniatała
-portugese                j38600       Júlio Sebastião
-portugese-brazilian      mateusfbi    Mateus Brandão
-romanian                 Chiribuc     Cristian Robert Chiribuc
-serbian                  oldwizard    Bojan Egerić
-spanish                  Razican      Iban Eguia
-swedish                  peterdenk    Peter Denk
-yodish                   jim-parry    Jim Parry
-======================== ===========  ===============
+======================== ===========  ===========  ===============
+Idiom                    Status       User         Maintainer
+======================== ===========  ===========  ===============
+arabic                   coming       ?            Ihab Abou Afia
+bulgarian                done         ivantcholakov Ivan Tcholakov
+catalan                  coming       ?            Roger Bernaus
+dutch                    done         pkrul        Pieter Krul
+french                   coming       includebeer  Alain Rivest
+german                   done         Rufnex       Johannes Gamperl
+italian                  done         ster         Stefano Mazzega
+malaysian                coming       hafizhassan  Muhamad Hafizuddin
+norwegian                done         yhoiseth     Yngve Hoiseth
+persian                  coming       MSDehghan    Mohammad Sadegh
+polish                   done         michalsn     Michał Śniatała
+portugese                done         j38600       Júlio Sebastião
+portugese-brazilian      done         mateusfbi    Mateus Brandão
+romanian                 done         Chiribuc     Cristian Robert Chiribuc
+serbian                  coming       oldwizard    Bojan Egerić
+spanish                  done         Razican      Iban Eguia
+swedish                  coming       peterdenk    Peter Denk
+yodish                   done         jim-parry    Jim Parry
+======================== ===========  ===========  ===============
 
 
 Pull requests to the repository will only be considered if they come from 
