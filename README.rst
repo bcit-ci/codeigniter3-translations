@@ -40,7 +40,7 @@ Each language is maintained by a community member, per the table below:
 ======================== ===========  =============  ===============
 Idiom                    Status       User           Maintainer
 ======================== ===========  =============  ===============
-arabic                   coming       ?              Ihab Abou Afia
+arabic                   coming       Ihabafia       Ihab Abou Afia
 bulgarian                done         ivantcholakov  Ivan Tcholakov
 catalan                  coming       rogervila      Roger Bernaus
 dutch                    done         pkrul          Pieter Krul
