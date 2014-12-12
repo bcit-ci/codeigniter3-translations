@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure'] = 'ไม่สามารถส่งข้�
 $lang['email_exit_status'] = 'จบการทำงานด้วยรหัสสถานะ: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/thai/email_lang.php */
+/* Location: ./application/language/thai/email_lang.php */

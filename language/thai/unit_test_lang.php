@@ -37,15 +37,15 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name']		= 'Test Name';
-$lang['ut_test_datatype']	= 'Test Datatype';
-$lang['ut_res_datatype']	= 'Expected Datatype';
-$lang['ut_result']			= 'Result';
-$lang['ut_undefined']		= 'Undefined Test Name';
-$lang['ut_file']			= 'File Name';
-$lang['ut_line']			= 'Line Number';
-$lang['ut_passed']			= 'Passed';
-$lang['ut_failed']			= 'Failed';
+$lang['ut_test_name']		= 'ชื่อกากรทดสอบ';
+$lang['ut_test_datatype']	= 'ชนิดข้อมูลที่ทดสอบ';
+$lang['ut_res_datatype']	= 'ชนิดข้อมูลที่คาดหวัง';
+$lang['ut_result']			= 'ผลลัพธ์';
+$lang['ut_undefined']		= 'ไม่ได้กำหนดชื่อการทดสอบ';
+$lang['ut_file']			= 'ชื่อไฟล์';
+$lang['ut_line']			= 'หมายเลขบรรทัด';
+$lang['ut_passed']			= 'ผ่าน';
+$lang['ut_failed']			= 'ไม่ผ่าน';
 $lang['ut_boolean']			= 'Boolean';
 $lang['ut_integer']			= 'Integer';
 $lang['ut_float']			= 'Float';
@@ -55,7 +55,7 @@ $lang['ut_array']			= 'Array';
 $lang['ut_object']			= 'Object';
 $lang['ut_resource']		= 'Resource';
 $lang['ut_null']			= 'Null';
-$lang['ut_notes']			= 'Notes';
+$lang['ut_notes']			= 'บันทึกเพิ่มเติม';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/english/unit_test_lang.php */
+/* Location: ./application/language/thai/unit_test_lang.php */

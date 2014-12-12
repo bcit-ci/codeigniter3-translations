@@ -15,7 +15,7 @@
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:
  *
- * The above copyright notice and this permission notice shall be included in
+ * ข้อมูลabove copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
  *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -55,15 +55,15 @@ $lang['form_validation_is_numeric']		= 'ข้อมูล{field}จะต้อ
 $lang['form_validation_integer']		= 'ข้อมูล{field}จะต้องประกอบด้วยตัวเลขจำนวนเต็มเท่านั้น';
 $lang['form_validation_regex_match']		= 'รูปแบบของข้อมูล{field}ไม่ถูกต้อง';
 $lang['form_validation_matches']		= 'ข้อมูล{field}ไม่ตรงกับข้อมูล{param}.';
-$lang['form_validation_differs']		= 'The {field} field must differ from the {param} field.';
-$lang['form_validation_is_unique'] 		= 'The {field} field must contain a unique value.';
-$lang['form_validation_is_natural']		= 'The {field} field must only contain digits.';
-$lang['form_validation_is_natural_no_zero']	= 'The {field} field must only contain digits and must be greater than zero.';
-$lang['form_validation_decimal']		= 'The {field} field must contain a decimal number.';
-$lang['form_validation_less_than']		= 'The {field} field must contain a number less than {param}.';
-$lang['form_validation_less_than_equal_to']	= 'The {field} field must contain a number less than or equal to {param}.';
-$lang['form_validation_greater_than']		= 'The {field} field must contain a number greater than {param}.';
-$lang['form_validation_greater_than_equal_to']	= 'The {field} field must contain a number greater than or equal to {param}.';
+$lang['form_validation_differs']		= 'ข้อมูล{field}จะต้องแตกต่างจากข้อมูล{param}';
+$lang['form_validation_is_unique'] 		= 'ข้อมูล{field}จะต้องเป็นค่าที่ซ้ำกับข้อมูลที่มีอยู่ในระบบ';
+$lang['form_validation_is_natural']		= 'ข้อมูล{field}จะต้องเป็นตัวเลขเท่านั้น';
+$lang['form_validation_is_natural_no_zero']	= 'ข้อมูล{field}จะต้องเป้นตัวเลขที่มากกว่า 0 ';
+$lang['form_validation_decimal']		= 'ข้อมูล{field}จะต้องเป็นจำนวนทศนิยมเท่านั้น';
+$lang['form_validation_less_than']		= 'ข้อมูล{field}จะต้องเป็นตัวเลขที่มีค่าน้อยกว่า{param}';
+$lang['form_validation_less_than_equal_to']	= 'ข้อมูล{field}จะต้องเป็นตัวเลขที่มีค่าไม่เกิน{param}';
+$lang['form_validation_greater_than']		= 'ข้อมูล{field}จะต้องเป็นตัวเลขที่มีค่ามากกว่า{param}';
+$lang['form_validation_greater_than_equal_to']	= 'ข้อมูล{field}จะต้องเป็นตัวเลขที่มีค่าตั้งแต่{param}ขึ้นไป.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/english/form_validation_lang.php */
+/* Location: ./application/language/thai/form_validation_lang.php */

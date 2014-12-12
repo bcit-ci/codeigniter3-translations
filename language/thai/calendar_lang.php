@@ -84,4 +84,4 @@ $lang['cal_november']	= 'พฤศจิกายน';
 $lang['cal_december']	= 'ธันวาคม';
 
 /* End of file calendar_lang.php */
-/* Location: ./system/language/thai/calendar_lang.php */
+/* Location: ./application/language/thai/calendar_lang.php */

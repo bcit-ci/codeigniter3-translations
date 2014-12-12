@@ -37,14 +37,14 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']		= 'No migrations were found.';
-$lang['migration_not_found']		= 'No migration could be found with the version number: %s.';
-$lang['migration_sequence_gap']		= 'There is a gap in the migration sequence near version number: %s.';
-$lang['migration_multiple_version']	= 'There are multiple migrations with the same version number: %s.';
-$lang['migration_class_doesnt_exist']	= 'The migration class "%s" could not be found.';
-$lang['migration_missing_up_method']	= 'The migration class "%s" is missing an "up" method.';
-$lang['migration_missing_down_method']	= 'The migration class "%s" is missing a "down" method.';
-$lang['migration_invalid_filename']	= 'Migration "%s" has an invalid filename.';
+$lang['migration_none_found']		= 'การโยกย้ายไม่พบ';
+$lang['migration_not_found']		= 'ไม่พบข้อมูลการโยกย้าย หมายเลขเวอร์ชั่น: %s.';
+$lang['migration_sequence_gap']		= 'มีช่องว่างในลำดับการโยกย้ายที่อยู่ใกล้หมายเลขรุ่นคือ: %s.';
+$lang['migration_multiple_version']	= 'มีการโยกย้ายหลายรายการที่มีหมายเลขรุ่นเดียวกัน: %s.';
+$lang['migration_class_doesnt_exist']	= 'ไม่พบ Migration Class "%s"';
+$lang['migration_missing_up_method']	= 'Migration class "%s" ไม่มีเมธอด "up"';
+$lang['migration_missing_down_method']	= 'Migration class "%s" ไม่มีเมธอด "down"';
+$lang['migration_invalid_filename']	= 'การโยกย้าย "%s" มีไฟล์ที่ไม่ถูกต้อง';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/english/migration_lang.php */
+/* Location: ./application/language/thai/migration_lang.php */

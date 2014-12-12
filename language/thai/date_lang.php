@@ -94,4 +94,4 @@ $lang['UP13']	= '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga';
 $lang['UP14']	= '(UTC +14:00) Line Islands';
 
 /* End of file date_lang.php */
-/* Location: ./system/language/thai/date_lang.php */
+/* Location: ./application/language/thai/date_lang.php */
