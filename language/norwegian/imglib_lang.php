@@ -50,7 +50,6 @@ $lang['imglib_rotate_unsupported'] = 'Bilderotering synes ikke å være støttet
 $lang['imglib_libpath_invalid'] = 'Filstien til bildebiblioteket ditt er feil. Vennligst spesifisér rett sti i bildeinnstillingene dine.';
 $lang['imglib_image_process_failed'] = 'Bildebehandling mislyktes. Sjekk at tjeneren din støtter valgte protokoll og at filstien til bildebiblioteket ditt er korrekt.';
 $lang['imglib_rotation_angle_required'] = 'En vinkel må oppgis for å rotere bildet.';
-$lang['imglib_writing_failed_gif'] = 'GIF-bilde.';
 $lang['imglib_invalid_path'] = 'Stien til bildet er feil.';
 $lang['imglib_copy_failed'] = 'Bildekopiering mislyktes.';
 $lang['imglib_missing_font'] = 'Fant ingen font.';
