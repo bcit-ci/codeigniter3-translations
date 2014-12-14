@@ -50,7 +50,6 @@ $lang['imglib_rotate_unsupported'] = 'Parece que la rotación de imágenes no es
 $lang['imglib_libpath_invalid'] = 'La ruta a la librería de imagen no es correcta. Por favor, configura la ruta correcta en las preferencias de imagen.';
 $lang['imglib_image_process_failed'] = 'Ha fallado el tratamiento de la imagen. Por favor, verifica que el servidor soporta el protocolo elegido y que la ruta a la librería de imagen es correcta.';
 $lang['imglib_rotation_angle_required'] = 'Se requiere un ángulo de rotación para rotar la imagen.';
-$lang['imglib_writing_failed_gif'] = 'Imagen GIF.';
 $lang['imglib_invalid_path'] = 'La ruta a la imagen no es correcta.';
 $lang['imglib_copy_failed'] = 'La rutina de copia de imagen ha fallado.';
 $lang['imglib_missing_font'] = 'No se ha podido encontrar una fuente para su uso.';

@@ -52,7 +52,6 @@ $lang['imglib_rotate_unsupported']		= 'Het roteren van afbeeldingen wordt blijkb
 $lang['imglib_libpath_invalid']			= 'Het pad naar de image library is niet correct. Stel het juiste pad in bij de afbeeldingsvoorkeuren. Ja?';
 $lang['imglib_image_process_failed']		= 'Het verwerken van de afbeelding is mislukt. Controleer of de server het gekozen protocol ondersteunt, en of het pad naar de image library klopt.';
 $lang['imglib_rotation_angle_required']		= 'Om te afbeelding te kunnen roteren, dient een rotatiehoek opgegeven te worden.';
-$lang['imglib_writing_failed_gif']		= 'GIF-afbeelding';
 $lang['imglib_invalid_path']			= 'Het pad naar de afbeelding klopt niet. Dus..';
 $lang['imglib_copy_failed']			= 'De kopiëer-routine werkte niet.';
 $lang['imglib_missing_font']			= 'Ik kon geen bruikbaar lettertype vinden.';

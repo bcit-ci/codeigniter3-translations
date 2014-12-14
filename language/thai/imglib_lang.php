@@ -50,7 +50,6 @@ $lang['imglib_rotate_unsupported'] = 'เซิร์ฟเวอร์ของ
 $lang['imglib_libpath_invalid'] = 'Path ไปยัง image libraryของคุณไม่ถูกต้อง กรุณาตั้งค่าเส้นทางที่ถูกต้องในการตั้งค่าภาพของคุณ';
 $lang['imglib_image_process_failed'] = 'ล้มเหลวในการประมวลผลภาพ กรุณาตรวจสอบว่าเซิร์ฟเวอร์ของคุณรองรับโปรโตคอลที่ใช้และเส้นทางไปยัง image library ของคุณถูกต้อง';
 $lang['imglib_rotation_angle_required'] = 'โปรดระบุมุมของการหมุนภาพ';
-$lang['imglib_writing_failed_gif'] = 'ภาพประเภท GIF';
 $lang['imglib_invalid_path'] = 'ตำแหน่งของภาพไม่ถูกต้อง';
 $lang['imglib_copy_failed'] = 'การคัดลอกภาพล้มเหลว';
 $lang['imglib_missing_font'] = 'ไม่พบฟ้อนต์ที่ต้องการ';

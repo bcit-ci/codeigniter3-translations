@@ -51,7 +51,6 @@ $lang['imglib_rotate_unsupported'] = 'Das Drehen von Grafiken scheint auf Ihrem 
 $lang['imglib_libpath_invalid'] = 'Der Pfad zu Ihrem Bild-Verzeichnis ist falsch. Bitte tragen Sie den korrekten Pfad in den Bild-Einstellungen ein.';
 $lang['imglib_image_process_failed'] = 'Die Bildbearbeitung ist gescheitert. Bitte überprüfen, dass Ihr Server das gewählte Protokoll unterstützt und dass der Pfad zu den Bildern korrekt ist.';
 $lang['imglib_rotation_angle_required'] = 'Es muss ein Winkel zur Drehung des Bildes angegeben werden.';
-$lang['imglib_writing_failed_gif'] = 'GIF-Datei.';
 $lang['imglib_invalid_path'] = 'Der Pfad zum Bild ist falsch.';
 $lang['imglib_copy_failed'] = 'Die Routine zum Kopieren des Bildes ist gescheitert.';
 $lang['imglib_missing_font'] = 'Es konnte kein geeigneter Zeichensatz gefunden werden.';
