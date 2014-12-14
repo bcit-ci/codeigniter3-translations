@@ -42,7 +42,7 @@ Idiom                    Status       User           Maintainer
 ======================== ===========  =============  ===============
 arabic                   coming       Ihabafia       Ihab Abou Afia
 bulgarian                done         ivantcholakov  Ivan Tcholakov
-catalan                  coming       roggithub      Roger Bernaus
+catalan                  coming       rogervila      Roger Vilà
 dutch                    done         pkrul          Pieter Krul
 french                   coming       includebeer    Alain Rivest
 german                   done         Rufnex         Johannes Gamperl
@@ -54,6 +54,7 @@ polish                   done         michalsn       Michał Śniatała
 portugese                done         j38600         Júlio Sebastião
 portugese-brazilian      done         mateusfbi      Mateus Brandão
 romanian                 done         Chiribuc       Cristian Robert Chiribuc
+russian                  coming       vadimyer       Vadim Yermolin
 serbian                  coming       oldwizard      Bojan Egerić
 spanish                  done         Razican        Iban Eguia
 swedish                  coming       peterdenk      Peter Denk
