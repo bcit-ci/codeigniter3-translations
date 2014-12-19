@@ -50,7 +50,6 @@ $lang['imglib_rotate_unsupported'] = 'Rotirea imaginii nu pare a fi suportată d
 $lang['imglib_libpath_invalid'] = 'Calea către biblioteca de imagine nu este corectă. Setați calea corectă în preferințele de imagine.';
 $lang['imglib_image_process_failed'] = 'Procesarea imaginii a eșuat. Verificați dacă serverul dvs. suportă protocolul ales și dacă este corectă calea către biblioteca de imagine.';
 $lang['imglib_rotation_angle_required'] = 'Este necesar un unghi de rotație petru a roti imaginea.';
-$lang['imglib_writing_failed_gif'] = 'Imagine GIF.';
 $lang['imglib_invalid_path'] = 'Calea către imagine nu este corectă.';
 $lang['imglib_copy_failed'] = 'Copierea imaginii de rutină a eșuat.';
 $lang['imglib_missing_font'] = 'Nu s-a putut găsi un font pentru a fi folosit.';
