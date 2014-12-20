@@ -38,18 +38,23 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection'] = '无法找到一个有效的连接 ID。在执行任何文件例程时请确保已经连接成功。';
-$lang['ftp_unable_to_connect'] = '无法使用提供的主机名连接到 FTP 服务器。';
-$lang['ftp_unable_to_login'] = '无法登录到 FTP 服务器，请检查用户名及密码是否正确。';
-$lang['ftp_unable_to_mkdir'] = '无法创建指定的木灵。';
-$lang['ftp_unable_to_changedir'] = '无法改变目录。';
-$lang['ftp_unable_to_chmod'] = '无法设置文件权限，检查文件路径或用户权限。';
-$lang['ftp_unable_to_upload'] = '无法上传指定的文件，检查上传路径或用户权限。';
-$lang['ftp_unable_to_download'] = '无法下载指定的文件，检查下载路径或用户权限。';
-$lang['ftp_no_source_file'] = '无法找到指定的源文件，检查文件路径或用户权限。';
-$lang['ftp_unable_to_rename'] = '无法重命名文件。';
-$lang['ftp_unable_to_delete'] = '无法删除文件。';
-$lang['ftp_unable_to_move'] = '无法移动文件，检查目的目录是否存在。';
+$lang['imglib_source_image_required'] = '必须在设置中指定一个源图像。';
+$lang['imglib_gd_required'] = '此特性依赖 GD 图形库。';
+$lang['imglib_gd_required_for_props'] = '你的服务器必须支持 GD 图形库以确定图像的属性。';
+$lang['imglib_unsupported_imagecreate'] = '你的服务器不支持 GD 函数，无法创建图像文件。';
+$lang['imglib_gif_not_supported'] = 'GIF 格式由于版权问题一般不提供，如果可能请使用 JPG 格式或 PNG 格式。';
+$lang['imglib_jpg_not_supported'] = 'JPG 格式不被支持。';
+$lang['imglib_png_not_supported'] = 'PNG 格式不被支持。';
+$lang['imglib_jpg_or_png_required'] = '设置中指定的图像缩放方法只能用于 JPG 格式或 PNG 格式。';
+$lang['imglib_copy_error'] = '替换文件时发生错误。你的文件目录必须是可写的。';
+$lang['imglib_rotate_unsupported'] = '服务器不支持图像旋转。';
+$lang['imglib_libpath_invalid'] = '图形库路径错误。在设置中必须指定正确的路径。';
+$lang['imglib_image_process_failed'] = '图像处理错误。 请验证服务器支持指定的处理方法，并且图形库路径正确。';
+$lang['imglib_rotation_angle_required'] = '必须指定旋转角度。';
+$lang['imglib_invalid_path'] = '图像路径错误。';
+$lang['imglib_copy_failed'] = '图像复制错误。';
+$lang['imglib_missing_font'] = '无法找到使用的字体。';
+$lang['imglib_save_failed'] = '图像无法保存，请确定图像或目录可写。';
 
-/* End of file ftp_lang.php */
-/* Location: ./application/language/english/ftp_lang.php */
+/* End of file imglib_lang.php */
+/* Location: ./application/language/simplified-chinese/imglib_lang.php */

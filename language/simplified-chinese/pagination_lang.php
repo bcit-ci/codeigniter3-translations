@@ -44,4 +44,4 @@ $lang['pagination_prev_link'] = '&lt;';
 $lang['pagination_last_link'] = '×îºóÒ»Ò³ &rsaquo;';
 
 /* End of file pagination_lang.php */
-/* Location: ./application/language/english/pagination_lang.php */
+/* Location: ./application/language/simplified-chinese/pagination_lang.php */

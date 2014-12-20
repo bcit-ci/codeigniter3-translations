@@ -1,4 +1,5 @@
 <?php
+
 /**
  * CodeIgniter
  *
@@ -32,56 +33,19 @@
  * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @since	Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['cal_su']			= 'Su';
-$lang['cal_mo']			= 'Mo';
-$lang['cal_tu']			= 'Tu';
-$lang['cal_we']			= 'We';
-$lang['cal_th']			= 'Th';
-$lang['cal_fr']			= 'Fr';
-$lang['cal_sa']			= 'Sa';
-$lang['cal_sun']		= 'Sun';
-$lang['cal_mon']		= 'Mon';
-$lang['cal_tue']		= 'Tue';
-$lang['cal_wed']		= 'Wed';
-$lang['cal_thu']		= 'Thu';
-$lang['cal_fri']		= 'Fri';
-$lang['cal_sat']		= 'Sat';
-$lang['cal_sunday']		= 'æ˜ŸæœŸå¤©';
-$lang['cal_monday']		= 'æ˜ŸæœŸä¸€';
-$lang['cal_tuesday']	= 'æ˜ŸæœŸäºŒ';
-$lang['cal_wednesday']	= 'æ˜ŸæœŸä¸‰';
-$lang['cal_thursday']	= 'æ˜ŸæœŸå››';
-$lang['cal_friday']		= 'æ˜ŸæœŸäº”';
-$lang['cal_saturday']	= 'æ˜ŸæœŸå…­';
-$lang['cal_jan']		= 'Jan';
-$lang['cal_feb']		= 'Feb';
-$lang['cal_mar']		= 'Mar';
-$lang['cal_apr']		= 'Apr';
-$lang['cal_may']		= 'May';
-$lang['cal_jun']		= 'Jun';
-$lang['cal_jul']		= 'Jul';
-$lang['cal_aug']		= 'Aug';
-$lang['cal_sep']		= 'Sep';
-$lang['cal_oct']		= 'Oct';
-$lang['cal_nov']		= 'Nov';
-$lang['cal_dec']		= 'Dec';
-$lang['cal_january']	= 'ä¸€æœˆ';
-$lang['cal_february']	= 'äºŒæœˆ';
-$lang['cal_march']		= 'ä¸‰æœˆ';
-$lang['cal_april']		= 'å››æœˆ';
-$lang['cal_mayl']		= 'äº”æœˆ';
-$lang['cal_june']		= 'å…­æœˆ';
-$lang['cal_july']		= 'ä¸ƒæœˆ';
-$lang['cal_august']		= 'å…«æœˆ';
-$lang['cal_september']	= 'ä¹æœˆ';
-$lang['cal_october']	= 'åæœˆ';
-$lang['cal_november']	= 'åä¸€æœˆ';
-$lang['cal_december']	= 'åäºŒæœˆ';
+$lang['migration_none_found'] = '²»ÐèÇ¨ÒÆ¡£  ';
+$lang['migration_not_found'] = 'ÎÞ·¨¸ù¾Ý°æ±¾ºÅÕÒµ½Ç¨ÒÆ·½·¨£º %s¡£';
+$lang['migration_sequence_gap'] = '°æ±¾Ç¨ÒÆ´æÔÚºè¹µ£º%s¡£';
+$lang['migration_multiple_version'] = '¶à¸öÇ¨ÒÆ¶ÔÓ¦Í¬Ò»°æ±¾ºÅ£º%s¡£';
+$lang['migration_class_doesnt_exist'] = 'ÎÞ·¨ÕÒµ½Ç¨ÒÆÀà "%s"¡£';
+$lang['migration_missing_up_method'] = 'ÎÞ·¨ÕÒµ½Ç¨ÒÆÀà "%s" ÖÐµÄ "up" ·½·¨¡£';
+$lang['migration_missing_down_method'] = 'ÎÞ·¨ÕÒµ½Ç¨ÒÆÀà "%s" ÖÐµÄ " ·½·¨¡£';
+$lang['migration_invalid_filename'] = 'ÎÞÐ§µÄÇ¨ÒÆÎÄ¼þÃû£º"%s"¡£';
 
-/* End of file calendar_lang.php */
-/* Location: ./application/language/english/calendar_lang.php */
+/* End of file migration_lang.php */
+/* Location: ./application/language/simplified-chinese/migration_lang.php */

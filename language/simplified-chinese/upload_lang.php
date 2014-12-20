@@ -56,4 +56,4 @@ $lang['upload_bad_filename'] = '提交的文件名已经存在。';
 $lang['upload_not_writable'] = '上传的目的路径不可写。';
 
 /* End of file upload_lang.php */
-/* Location: ./application/language/english/upload_lang.php */
+/* Location: ./application/language/simplified-chinese/upload_lang.php */

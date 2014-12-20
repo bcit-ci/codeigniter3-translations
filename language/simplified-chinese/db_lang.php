@@ -64,4 +64,4 @@ $lang['db_unable_to_set_charset'] = '无法设置字符集： %s';
 $lang['db_error_heading'] = '数据库发生错误。';
 
 /* End of file db_lang.php */
-/* Location: ./application/language/english/db_lang.php */
+/* Location: ./application/language/simplified-chinese/db_lang.php */

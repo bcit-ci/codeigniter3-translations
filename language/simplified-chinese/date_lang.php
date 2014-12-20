@@ -94,4 +94,4 @@ $lang['UP13']	= '(UTC +13:00) 萨摩亚时区，凤凰岛时间，汤加';
 $lang['UP14']	= '(UTC +14:00) 莱恩群岛';
 
 /* End of file date_lang.php */
-/* Location: ./application/language/english/date_lang.php */
+/* Location: ./application/language/simplified-chinese/date_lang.php */

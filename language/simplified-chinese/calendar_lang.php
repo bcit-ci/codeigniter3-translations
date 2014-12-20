@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -38,25 +37,51 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = '²âÊÔÃû';
-$lang['ut_test_datatype'] = '²âÊÔµÄÊý¾ÝÀàÐÍ';
-$lang['ut_res_datatype'] = 'ÆÚÍûµÄÊý¾ÝÀàÐÍ';
-$lang['ut_result'] = '½á¹û';
-$lang['ut_undefined'] = 'Î´¶¨ÒåµÄ²âÊÔÃû';
-$lang['ut_file'] = 'ÎÄ¼þÃû';
-$lang['ut_line'] = 'ÐÐºÅ';
-$lang['ut_passed'] = 'Í¨¹ý';
-$lang['ut_failed'] = 'Ê§°Ü';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = '±Ê¼Ç';
+$lang['cal_su']			= 'Su';
+$lang['cal_mo']			= 'Mo';
+$lang['cal_tu']			= 'Tu';
+$lang['cal_we']			= 'We';
+$lang['cal_th']			= 'Th';
+$lang['cal_fr']			= 'Fr';
+$lang['cal_sa']			= 'Sa';
+$lang['cal_sun']		= 'Sun';
+$lang['cal_mon']		= 'Mon';
+$lang['cal_tue']		= 'Tue';
+$lang['cal_wed']		= 'Wed';
+$lang['cal_thu']		= 'Thu';
+$lang['cal_fri']		= 'Fri';
+$lang['cal_sat']		= 'Sat';
+$lang['cal_sunday']		= 'æ˜ŸæœŸå¤©';
+$lang['cal_monday']		= 'æ˜ŸæœŸä¸€';
+$lang['cal_tuesday']	= 'æ˜ŸæœŸäºŒ';
+$lang['cal_wednesday']	= 'æ˜ŸæœŸä¸‰';
+$lang['cal_thursday']	= 'æ˜ŸæœŸå››';
+$lang['cal_friday']		= 'æ˜ŸæœŸäº”';
+$lang['cal_saturday']	= 'æ˜ŸæœŸå…­';
+$lang['cal_jan']		= 'Jan';
+$lang['cal_feb']		= 'Feb';
+$lang['cal_mar']		= 'Mar';
+$lang['cal_apr']		= 'Apr';
+$lang['cal_may']		= 'May';
+$lang['cal_jun']		= 'Jun';
+$lang['cal_jul']		= 'Jul';
+$lang['cal_aug']		= 'Aug';
+$lang['cal_sep']		= 'Sep';
+$lang['cal_oct']		= 'Oct';
+$lang['cal_nov']		= 'Nov';
+$lang['cal_dec']		= 'Dec';
+$lang['cal_january']	= 'ä¸€æœˆ';
+$lang['cal_february']	= 'äºŒæœˆ';
+$lang['cal_march']		= 'ä¸‰æœˆ';
+$lang['cal_april']		= 'å››æœˆ';
+$lang['cal_mayl']		= 'äº”æœˆ';
+$lang['cal_june']		= 'å…­æœˆ';
+$lang['cal_july']		= 'ä¸ƒæœˆ';
+$lang['cal_august']		= 'å…«æœˆ';
+$lang['cal_september']	= 'ä¹æœˆ';
+$lang['cal_october']	= 'åæœˆ';
+$lang['cal_november']	= 'åä¸€æœˆ';
+$lang['cal_december']	= 'åäºŒæœˆ';
 
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/english/unit_test_lang.php */
+/* End of file calendar_lang.php */
+/* Location: ./application/language/simplified-chinese/calendar_lang.php */

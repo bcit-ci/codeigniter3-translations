@@ -67,4 +67,4 @@ $lang['form_validation_greater_than'] = '{field} 字段的值必须大于 {param}。';
 $lang['form_validation_greater_than_equal_to'] = '{field} 字段的值必须大于等于 {param}。';
 
 /* End of file form_validation_lang.php */
-/* Location: ./application/language/english/form_validation_lang.php */
+/* Location: ./application/language/simplified-chinese/form_validation_lang.php */
