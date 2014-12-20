@@ -57,6 +57,7 @@ romanian                 done         Chiribuc       Cristian Robert Chiribuc
 russian                  coming       vadimyer       Vadim Yermolin
 serbian                  coming       oldwizard      Bojan Egerić
 simplified-chinese       done         denghongcai    Deng HongCai
+traditional-chinese      done         PeterDaveHello Peter Dave Hello
 spanish                  done         Razican        Iban Eguia
 swedish                  coming       peterdenk      Peter Denk
 thai                     done         karidoe        Anuchit Thiam-uan
