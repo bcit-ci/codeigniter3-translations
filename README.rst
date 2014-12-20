@@ -56,9 +56,11 @@ portugese-brazilian      done         mateusfbi      Mateus Brandão
 romanian                 done         Chiribuc       Cristian Robert Chiribuc
 russian                  coming       vadimyer       Vadim Yermolin
 serbian                  coming       oldwizard      Bojan Egerić
+simplified-chinese       done         denghongcai    Deng HongCai
 spanish                  done         Razican        Iban Eguia
 swedish                  coming       peterdenk      Peter Denk
 thai                     done         karidoe        Anuchit Thiam-uan
+vietnamese               coming       depchuanseo    Oliver Sieu
 yodish                   done         jim-parry      Jim Parry
 ======================== ===========  =============  ===============
 
