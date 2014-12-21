@@ -63,7 +63,7 @@ thai                     done         karidoe         Anuchit Thiam-uan
 traditional-chinese      done         PeterDaveHello  Peter Dave Hello
 vietnamese               coming       depchuanseo     Oliver Sieu
 yodish                   done         jim-parry       Jim Parry
-=======================  ===========  =============  =========================
+=======================  ===========  ==============  =========================
 
 
 Pull requests to the repository will only be considered if they come from 
