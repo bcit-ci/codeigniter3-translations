@@ -36,27 +36,27 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'œyÔ‡Ãû·Q';
-$lang['ut_test_datatype'] = 'œyÔ‡µÄÙYÁÏîĞÍ';
-$lang['ut_res_datatype'] = 'ÆÚÍûµÄÙYÁÏîĞÍ';
-$lang['ut_result'] = '½Y¹û';
-$lang['ut_undefined'] = 'Î´¶¨ÁxµÄœyÔ‡Ãû·Q';
-$lang['ut_file'] = '™n°¸Ãû·Q';
-$lang['ut_line'] = 'ĞĞÌ–';
-$lang['ut_passed'] = 'Í¨ß^';
-$lang['ut_failed'] = 'Ê§”¡';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Double'
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = '¹PÓ›';
+$lang['ut_test_name'] = 'æ¸¬è©¦åç¨±';
+$lang['ut_test_datatype'] = 'æ¸¬è©¦çš„è³‡æ–™é¡å‹';
+$lang['ut_res_datatype'] = 'æœŸæœ›çš„è³‡æ–™é¡å‹';
+$lang['ut_result'] = 'çµæœ';
+$lang['ut_undefined'] = 'æœªå®šç¾©çš„æ¸¬è©¦åç¨±';
+$lang['ut_file'] = 'æª”æ¡ˆåç¨±';
+$lang['ut_line'] = 'è¡Œæ•¸';
+$lang['ut_passed'] = 'é€šé';
+$lang['ut_failed'] = 'æœªé€šé';
+$lang['ut_boolean'] = 'å¸ƒæ—å€¼';
+$lang['ut_integer'] = 'æ•´æ•¸';
+$lang['ut_float'] = 'æµ®é»æ•¸';
+$lang['ut_double'] = 'å€ç²¾åº¦æµ®é»æ•¸';
+$lang['ut_string'] = 'å­—ä¸²';
+$lang['ut_array'] = 'é™£åˆ—';
+$lang['ut_object'] = 'ç‰©ä»¶';
+$lang['ut_resource'] = 'è³‡æº';
+$lang['ut_null'] = 'ç„¡';
+$lang['ut_notes'] = 'å‚™è¨»';
 
 /* End of file unit_test_lang.php */
 /* Location: ./application/language/traditional-chinese/unit_test_lang.php */

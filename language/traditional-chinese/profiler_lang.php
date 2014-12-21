@@ -36,29 +36,29 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-$lang['profiler_database'] = 'ÙYÁÏì';
-$lang['profiler_controller_info'] = 'î„e / ·½·¨';
-$lang['profiler_benchmarks'] = '»ùœÊ';
-$lang['profiler_queries'] = '²éÔƒ';
-$lang['profiler_get_data'] = 'GET ÙYÁÏ';
-$lang['profiler_post_data'] = 'POST ÙYÁÏ';
-$lang['profiler_uri_string'] = 'URI ×Ö´®';
-$lang['profiler_memory_usage'] = 'Ó›‘›ówÊ¹ÓÃ';
-$lang['profiler_config'] = 'ÔO¶¨Öµ';
-$lang['profiler_session_data'] = 'SESSION ÙYÁÏ';
-$lang['profiler_headers'] = 'HTTP ˜Ëî^';
-$lang['profiler_no_db'] = '®”Ç°›]ÓĞÒÑ½›İdÈëµÄÙYÁÏìDriver¡£';
-$lang['profiler_no_queries'] = '›]ÓĞ²éÔƒ¡£';
-$lang['profiler_no_post'] = 'POST ÙYÁÏ²»´æÔÚ¡£';
-$lang['profiler_no_get'] = 'GET ÙYÁÏ²»´æÔÚ¡£';
-$lang['profiler_no_uri'] = 'URI ÙYÁÏ²»´æÔÚ¡£';
-$lang['profiler_no_memory'] = 'Ÿo·¨È¡µÃÓ›‘›ówÊ¹ÓÃÙYÁÏ¡£';
-$lang['profiler_no_profiles'] = '›]ÓĞ Profile ÙYÁÏ - È«²¿µÄ Profiler ¶¼ÒÑ±»êPé]¡£';
-$lang['profiler_section_hide'] = 'ë[²Ø';
-$lang['profiler_section_show'] = 'ï@Ê¾';
-$lang['profiler_seconds'] = 'Ãë';
+$lang['profiler_database'] = 'è³‡æ–™åº«';
+$lang['profiler_controller_info'] = 'é¡åˆ¥ / æ–¹æ³•';
+$lang['profiler_benchmarks'] = 'åŸºæº–';
+$lang['profiler_queries'] = 'æŸ¥è©¢';
+$lang['profiler_get_data'] = 'GET è³‡æ–™';
+$lang['profiler_post_data'] = 'POST è³‡æ–™';
+$lang['profiler_uri_string'] = 'URI å­—ä¸²';
+$lang['profiler_memory_usage'] = 'è¨˜æ†¶é«”ä½¿ç”¨';
+$lang['profiler_config'] = 'è¨­å®šå€¼';
+$lang['profiler_session_data'] = 'SESSION è³‡æ–™';
+$lang['profiler_headers'] = 'HTTP æ¨™é ­';
+$lang['profiler_no_db'] = 'ç•¶å‰æ²’æœ‰å·²ç¶“è¼‰å…¥çš„è³‡æ–™åº«Driver';
+$lang['profiler_no_queries'] = 'æ²’æœ‰æŸ¥è©¢';
+$lang['profiler_no_post'] = 'POST è³‡æ–™ä¸å­˜åœ¨';
+$lang['profiler_no_get'] = 'GET è³‡æ–™ä¸å­˜åœ¨';
+$lang['profiler_no_uri'] = 'URI è³‡æ–™ä¸å­˜åœ¨';
+$lang['profiler_no_memory'] = 'ç„¡æ³•å–å¾—è¨˜æ†¶é«”ä½¿ç”¨è³‡æ–™';
+$lang['profiler_no_profiles'] = 'æ²’æœ‰ Profile è³‡æ–™ - å…¨éƒ¨çš„ Profiler éƒ½å·²è¢«é—œé–‰';
+$lang['profiler_section_hide'] = 'éš±è—';
+$lang['profiler_section_show'] = 'é¡¯ç¤º';
+$lang['profiler_seconds'] = 'ç§’';
 
 /* End of file profiler_lang.php */
 /* Location: ./application/language/traditional-chinese/profiler_lang.php */
