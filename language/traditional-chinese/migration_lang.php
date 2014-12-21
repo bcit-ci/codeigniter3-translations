@@ -38,14 +38,14 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = '²»ĞèßwÒÆ¡£  ';
-$lang['migration_not_found'] = 'Ÿo·¨¸ù“ş°æ±¾Ì–´a %s ÕÒµ½ßwÒÆ·½·¨¡£';
-$lang['migration_sequence_gap'] = '°æ±¾ßwÒÆ´æÔÚégÏ¶£º%s¡£';
-$lang['migration_multiple_version'] = 'ÓĞ¶à‚€ßwÒÆŒ¦‘ªµ½Í¬Ò»°æ±¾Ì–£º%s¡£';
-$lang['migration_class_doesnt_exist'] = 'Ÿo·¨ÕÒµ½ßwÒÆî„e "%s"¡£';
-$lang['migration_missing_up_method'] = 'Ÿo·¨ÕÒµ½ßwÒÆî„e "%s" ÖĞµÄ "up" ·½·¨¡£';
-$lang['migration_missing_down_method'] = 'Ÿo·¨ÕÒµ½ßwÒÆî„e "%s" ÖĞµÄ " ·½·¨¡£';
-$lang['migration_invalid_filename'] = 'ŸoĞ§µÄßwÒÆ™nÃû£º"%s"¡£';
+$lang['migration_none_found'] = 'æ²’æœ‰ç™¼ç¾ä»»ä½•é·ç§»';
+$lang['migration_not_found'] = 'ç„¡æ³•æ ¹æ“šç‰ˆæœ¬è™Ÿç¢¼ %s æ‰¾åˆ°é·ç§»æ–¹æ³•';
+$lang['migration_sequence_gap'] = 'ç‰ˆæœ¬é·ç§»å­˜åœ¨é–“éš™ï¼š%s';
+$lang['migration_multiple_version'] = 'æœ‰å¤šå€‹é·ç§»å°æ‡‰åˆ°åŒä¸€ç‰ˆæœ¬è™Ÿï¼š%s';
+$lang['migration_class_doesnt_exist'] = 'ç„¡æ³•æ‰¾åˆ°é·ç§»é¡åˆ¥ "%s"';
+$lang['migration_missing_up_method'] = 'ç„¡æ³•æ‰¾åˆ°é·ç§»é¡åˆ¥ "%s" ä¸­çš„ "up" æ–¹æ³•';
+$lang['migration_missing_down_method'] = 'ç„¡æ³•æ‰¾åˆ°é·ç§»é¡åˆ¥ "%s" ä¸­çš„ " æ–¹æ³•';
+$lang['migration_invalid_filename'] = 'ç„¡æ•ˆçš„é·ç§»æª”åï¼š"%s"';
 
 /* End of file migration_lang.php */
 /* Location: ./application/language/traditional-chinese/migration_lang.php */
