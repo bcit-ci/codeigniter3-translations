@@ -60,7 +60,6 @@ simplified-chinese       done         denghongcai     Deng HongCai
 spanish                  done         Razican         Iban Eguia
 swedish                  coming       peterdenk       Peter Denk
 thai                     done         karidoe         Anuchit Thiam-uan
-traditional-chinese      done         PeterDaveHello  Peter Dave Hello
 vietnamese               coming       depchuanseo     Oliver Sieu
 yodish                   done         jim-parry       Jim Parry
 ======================== ===========  =============  ===============
