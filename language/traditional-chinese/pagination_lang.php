@@ -36,12 +36,12 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-$lang['pagination_first_link'] = '&lsaquo; µÚÒ»í“';
+$lang['pagination_first_link'] = '&lsaquo; ç¬¬ä¸€é ';
 $lang['pagination_next_link'] = '&gt;';
 $lang['pagination_prev_link'] = '&lt;';
-$lang['pagination_last_link'] = '×îááÒ»í“ &rsaquo;';
+$lang['pagination_last_link'] = 'æœ€å¾Œä¸€é  &rsaquo;';
 
 /* End of file pagination_lang.php */
 /* Location: ./application/language/traditional-chinese/pagination_lang.php */

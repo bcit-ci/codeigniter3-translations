@@ -36,24 +36,24 @@
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = '無法找到使用者檔案。';
-$lang['upload_file_exceeds_limit'] = '上傳檔案的大小超過設定的最大值。';
-$lang['upload_file_exceeds_form_limit'] = '上傳檔案的大小超過表單限制。';
-$lang['upload_file_partial'] = '檔案僅上傳了一部分。';
-$lang['upload_no_temp_directory'] = '無法找到暫存資料夾。';
-$lang['upload_unable_to_write_file'] = '無法寫入檔案。.';
-$lang['upload_stopped_by_extension'] = '上傳被擴充套件終止。';
-$lang['upload_no_file_selected'] = '沒有選擇要上傳的檔案。';
-$lang['upload_invalid_filetype'] = '禁止上傳的檔案類型。';
-$lang['upload_invalid_filesize'] = '檔案大小超過限制。';
-$lang['upload_invalid_dimensions'] = '圖片。';
-$lang['upload_destination_error'] = '從暫存區移動上傳的檔案至目的路徑時發生錯誤。';
-$lang['upload_no_filepath'] = '上傳路徑無效。';
-$lang['upload_no_file_types'] = '尚未設定允許上傳的檔案類型。';
-$lang['upload_bad_filename'] = '已經有相同檔名的檔案存在。';
-$lang['upload_not_writable'] = '上傳的目的路徑無法寫入。';
+$lang['upload_userfile_not_set'] = '無法找到送出變數中檔案';
+$lang['upload_file_exceeds_limit'] = '上傳檔案超出PHP限制最大檔案';
+$lang['upload_file_exceeds_form_limit'] = '上傳檔案超出表單限制最大檔案大小';
+$lang['upload_file_partial'] = '部份檔案已經上傳';
+$lang['upload_no_temp_directory'] = '暫存資料夾遺失';
+$lang['upload_unable_to_write_file'] = '無法寫入檔案';
+$lang['upload_stopped_by_extension'] = '無法接受檔案格式';
+$lang['upload_no_file_selected'] = '尚未選擇上傳檔案';
+$lang['upload_invalid_filetype'] = '不允許上傳的檔案格式';
+$lang['upload_invalid_filesize'] = '檔案超出最大上傳檔案大小';
+$lang['upload_invalid_dimensions'] = '圖檔超出最大寬度或長度';
+$lang['upload_destination_error'] = '無法將檔案移動到最終位置';
+$lang['upload_no_filepath'] = '上傳檔案路徑不正確';
+$lang['upload_no_file_types'] = '尚未指定允許副檔名';
+$lang['upload_bad_filename'] = '檔案名稱已有相同存在於主機';
+$lang['upload_not_writable'] = '上傳目錄無法寫入';
 
 /* End of file upload_lang.php */
 /* Location: ./application/language/traditional-chinese/upload_lang.php */
