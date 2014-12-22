@@ -43,6 +43,7 @@ Idiom                    Status       User            Maintainer
 arabic                   coming       Ihabafia        Ihab Abou Afia
 bulgarian                done         ivantcholakov   Ivan Tcholakov
 catalan                  coming       rogervila       Roger Vilà
+czech                    coming       Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
 french                   coming       includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
