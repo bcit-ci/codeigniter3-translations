@@ -65,4 +65,4 @@ $lang['db_unable_to_set_charset']      = 'Nepodařilo se nastavit znakovou sadu 
 $lang['db_error_heading']              = 'Chyba databáze';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./application/language/czech/db_lang.php */

@@ -48,4 +48,4 @@ $lang['migration_missing_down_method'] = 'V migrační tříde "%s" chybí "down
 $lang['migration_invalid_filename']    = 'Migrace "%s" má chybné jméno.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/english/migration_lang.php */
+/* Location: ./application/language/czech/migration_lang.php */

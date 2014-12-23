@@ -45,4 +45,4 @@ $lang['kilobyte_abbr'] = 'KB';
 $lang['bytes']         = 'Bajtů';
 
 /* End of file number_lang.php */
-/* Location: ./system/language/english/number_lang.php */
+/* Location: ./application/language/czech/number_lang.php */

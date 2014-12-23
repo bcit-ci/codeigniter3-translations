@@ -67,4 +67,4 @@ $lang['form_validation_greater_than']          = 'Pole {field} musí být větš
 $lang['form_validation_greater_than_equal_to'] = 'Pole {field} musí být větší nebo stejné jako pole {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/english/form_validation_lang.php */
+/* Location: ./application/language/czech/form_validation_lang.php */

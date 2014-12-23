@@ -85,4 +85,4 @@ $lang['cal_november']  = 'Listopad';
 $lang['cal_december']  = 'Prosinec';
 
 /* End of file calendar_lang.php */
-/* Location: ./system/language/english/calendar_lang.php */
+/* Location: ./application/language/czech/calendar_lang.php */

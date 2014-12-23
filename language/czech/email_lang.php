@@ -42,7 +42,7 @@ $lang['email_must_be_array']         = 'Parametrem validace emailu musí bát po
 $lang['email_invalid_address']       = 'Nesprávna emailová adresa: %s';
 $lang['email_attachment_missing']    = 'Nepodařilo se nalézt přílohu: %s';
 $lang['email_attachment_unreadable'] = 'Nepodařilo se otevřít přílohu: %s';
-$lang['email_no_from']               = 'není možné odeslat  email bez "From" v hlavičce.';
+$lang['email_no_from']               = 'Není možné odeslat  email bez "From" v hlavičce.';
 $lang['email_no_recipients']         = 'Je nutné specifikovat alespoň jednoho adresáta: To, Cc, or Bcc';
 $lang['email_send_failure_phpmail']  = 'Nepodařilo se odeslat email pomocí mail(). Je možné že není serverem podporována.';
 $lang['email_send_failure_sendmail'] = 'Nepodařilo se odeslat email pomocí Sendmail. Je možné že není serverem podporována.';
@@ -59,4 +59,4 @@ $lang['email_smtp_data_failure']     = 'Nemodařilo se odeslat data: %s';
 $lang['email_exit_status']           = 'Exit s kódem: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/english/email_lang.php */
+/* Location: ./application/language/czech/email_lang.php */

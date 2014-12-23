@@ -57,4 +57,4 @@ $lang['upload_bad_filename']            = 'Jméno souboru na serveru již existu
 $lang['upload_not_writable']            = 'Do cesty pro upload se nepodařilo zapsat.';
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./application/language/czech/upload_lang.php */

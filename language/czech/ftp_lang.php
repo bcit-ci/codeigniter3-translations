@@ -52,4 +52,4 @@ $lang['ftp_unable_to_delete']    = 'Nepodařilo se smazat soubor.';
 $lang['ftp_unable_to_move']      = 'Nepodařilo se přesunout soubor. Zkontolujte prosím,zda cílová složka existuje.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/english/ftp_lang.php */
+/* Location: ./application/language/czech/ftp_lang.php */

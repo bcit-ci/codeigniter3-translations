@@ -57,4 +57,4 @@ $lang['imglib_missing_font']            = 'Nepodařilo se nalézt daný font.';
 $lang['imglib_save_failed']             = 'Nepodařilo se uložit obrázek. Zkontrolujte zda-li je možné zapisovat do adresáře.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/english/imglib_lang.php */
+/* Location: ./application/language/czech/imglib_lang.php */
