@@ -27,25 +27,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 3.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = 'Found, no migrations were.  ';
-$lang['migration_not_found'] = 'No migration, found with the version number, could be.  Yes, hmmm: %s.';
-$lang['migration_sequence_gap'] = 'Gap in the migration sequence near version number, there is.  Herh herh herh.: %s.';
-$lang['migration_multiple_version'] = 'Multiple migrations with the same version number, there are.  : %s.';
-$lang['migration_class_doesnt_exist'] = 'The migration class "%s", found it could I not.';
-$lang['migration_missing_up_method'] = 'The migration class "%s" an "up" method, missing it is.';
-$lang['migration_missing_down_method'] = 'The migration class "%s" a "down" method, missing it is.';
-$lang['migration_invalid_filename'] = 'An invalid filename, migration "%s" has.';
+$lang['migration_none_found']            = "Aucunes migrations trouv&eacute;es.";
+$lang['migration_not_found']             = "Aucune migration n'a &eacute;t&eacute; trouv&eacute;e avec le num&eacute;ro de version : %d.";
+$lang['migration_sequence_gap']          = "Il y a un trou dans la s&eacute;quence de migration pr&egrave;s de la version num&eacute;ro : %s.";
+$lang['migration_multiple_version']      = "Il y a plusieurs migrations avec le m&ecirc;me num&eacute;ro de version : %d.";
+$lang['migration_class_doesnt_exist']    = "La classe de migration \"%s\" n'a pas pu &ecirc;tre trouv&eacute;e.";
+$lang['migration_missing_up_method']     = "La classe de migration \"%s\" ne dispose pas d'une m&eacute;thode 'up'.";
+$lang['migration_missing_down_method']   = "La classe de migration \"%s\" ne dispose pas d'une m&eacute;thode 'down'.";
+$lang['migration_invalid_filename']      = "Le nom de fichier de la migration \"%s\" n'est pas valide.";
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/english/migration_lang.php */
+/* Location: ./system/language/french/migration_lang.php */
