@@ -59,29 +59,29 @@ $lang['cal_thursday']   = "Jeudi";
 $lang['cal_friday']     = "Vendredi";
 $lang['cal_saturday']   = "Samedi";
 $lang['cal_jan']        = "Jan";
-$lang['cal_feb']        = "F&eacute;v";
+$lang['cal_feb']        = "Fév";
 $lang['cal_mar']        = "Mar";
 $lang['cal_apr']        = "Avr";
 $lang['cal_may']        = "Mai";
 $lang['cal_jun']        = "Juin";
 $lang['cal_jul']        = "Juil";
-$lang['cal_aug']        = "Ao&ucirc;";
+$lang['cal_aug']        = "Aoû";
 $lang['cal_sep']        = "Sep";
 $lang['cal_oct']        = "Oct";
 $lang['cal_nov']        = "Nov";
-$lang['cal_dec']        = "D&eacute;c";
+$lang['cal_dec']        = "Déc";
 $lang['cal_january']    = "Janvier";
-$lang['cal_february']   = "F&eacute;vrier";
+$lang['cal_february']   = "Février";
 $lang['cal_march']      = "Mars";
 $lang['cal_april']      = "Avril";
 $lang['cal_mayl']       = "Mai";
 $lang['cal_june']       = "Juin";
 $lang['cal_july']       = "Juillet";
-$lang['cal_august']     = "Ao&ucirc;t";
+$lang['cal_august']     = "Août";
 $lang['cal_september']  = "Septembre";
 $lang['cal_october']    = "Octobre";
 $lang['cal_november']   = "Novembre";
-$lang['cal_december']   = "D&eacute;cembre";
+$lang['cal_december']   = "Décembre";
 
 
 /* End of file calendar_lang.php */

@@ -27,22 +27,22 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'TB';
-$lang['gigabyte_abbr'] = 'GB';
-$lang['megabyte_abbr'] = 'MB';
-$lang['kilobyte_abbr'] = 'KB';
-$lang['bytes'] = 'Bytes';
+$lang['terabyte_abbr'] = 'TO';
+$lang['gigabyte_abbr'] = 'GO';
+$lang['megabyte_abbr'] = 'MO';
+$lang['kilobyte_abbr'] = 'KO';
+$lang['bytes'] = 'Octets';
 
 /* End of file number_lang.php */
-/* Location: ./system/language/english/number_lang.php */
+/* Location: ./system/language/french/number_lang.php */

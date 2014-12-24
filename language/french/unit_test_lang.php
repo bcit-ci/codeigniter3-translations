@@ -27,36 +27,36 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'Test Name';
-$lang['ut_test_datatype'] = 'Test Datatype';
-$lang['ut_res_datatype'] = 'Expected Datatype';
-$lang['ut_result'] = 'Result';
-$lang['ut_undefined'] = 'Undefined Test Name';
-$lang['ut_file'] = 'File Name';
-$lang['ut_line'] = 'Line Number';
-$lang['ut_passed'] = 'Passed';
-$lang['ut_failed'] = 'Failed';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = 'Notes';
+$lang['ut_test_name']     = "Nom du test";
+$lang['ut_test_datatype'] = "Type des donn&eacute;es de test";
+$lang['ut_res_datatype']  = "Type attendu";
+$lang['ut_result']        = "R&eacute;sultat";
+$lang['ut_undefined']     = "Nom du test non d&eacute;fini";
+$lang['ut_file']          = "Nom du fichier";
+$lang['ut_line']          = "Num&eacute;ro de ligne";
+$lang['ut_passed']        = "Pass&eacute;";
+$lang['ut_failed']        = "&Eacute;chou&eacute;";
+$lang['ut_boolean']       = "Bool&eacute;en";
+$lang['ut_integer']       = "Nombre entier";
+$lang['ut_float']         = "Nombre r&eacute;el";
+$lang['ut_double']        = "Nombre r&eacute;el"; // can be the same as float
+$lang['ut_string']        = "Chaine de caract&egrave;res";
+$lang['ut_array']         = "Tableau";
+$lang['ut_object']        = "Objet";
+$lang['ut_resource']      = "Ressource";
+$lang['ut_null']          = "Null";
+$lang['ut_notes']         = "Notes";
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/english/unit_test_lang.php */
+/* Location: ./system/language/french/unit_test_lang.php */

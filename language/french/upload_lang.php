@@ -27,33 +27,33 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'To find a post variable called userfile unable.  ';
-$lang['upload_file_exceeds_limit'] = 'Your php configuration file the uploaded file exceeds the maximum allowed size in.  Herh herh herh.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.  Yeesssssss.';
-$lang['upload_file_partial'] = 'Only partially uploaded, the file was.  .';
-$lang['upload_no_temp_directory'] = 'Missing, the temporary folder is.  .';
-$lang['upload_unable_to_write_file'] = 'Be written to disk the file could not.  Yeesssssss.';
-$lang['upload_stopped_by_extension'] = 'Stopped by extension, the file upload was.  ';
-$lang['upload_no_file_selected'] = 'Select a file to upload you did not.  ';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is allowed not.  ';
-$lang['upload_invalid_filesize'] = 'The file, attempting to upload is larger than the permitted size, you are.  Yes, hmmm.';
-$lang['upload_invalid_dimensions'] = 'Attempting to upload doesn\'t fit into the allowed dimensions, the image you are.  Yeesssssss.';
-$lang['upload_destination_error'] = 'Encountered while attempting to move the uploaded file to the final destination, a problem was.  ';
-$lang['upload_no_filepath'] = 'The upload path appears not to be valid.  Herh herh herh.';
-$lang['upload_no_file_types'] = 'Specified any allowed file types you have not.  Yeesssssss.';
-$lang['upload_bad_filename'] = 'You submitted already exists on the server the file name.  Yeesssssss.';
-$lang['upload_not_writable'] = 'The upload destination folder appears to be writable not.  ';
+$lang['upload_userfile_not_set']         = "Impossible de trouver une variable de type POST nomm&eacute;e userfile.";
+$lang['upload_file_exceeds_limit']       = "Le fichier envoy&eacute; d&eacute;passe la taille limite d&eacute;finie dans votre fichier de configuration PHP.";
+$lang['upload_file_exceeds_form_limit']  = "Le fichier charg&eacute; d&eacute;passe la taille limite d&eacute;finie par le formulaire de soumission.";
+$lang['upload_file_partial']             = "Le fichier n'a &eacute;t&eacute; que partiellement envoy&eacute;.";
+$lang['upload_no_temp_directory']        = "Le dossier temporaire manque.";
+$lang['upload_unable_to_write_file']     = "Incapable d'&eacute;crire le fichier sur disque.";
+$lang['upload_stopped_by_extension']     = "Le chargement du fichier a &eacute;t&eacute; arr&ecirc;t&eacute; par extension.";
+$lang['upload_no_file_selected']         = "Vous n'avez pas s&eacute;lectionn&eacute; de fichier &agrave; envoyer.";
+$lang['upload_invalid_filetype']         = "Le type de fichier que vous tentez d'envoyer n'est pas autoris&eacute;.";
+$lang['upload_invalid_filesize']         = "Le fichier que vous tentez d'envoyer est plus gros que la taille autoris&eacute;e.";
+$lang['upload_invalid_dimensions']       = "L'image que vous tentez d'envoyer d&eacute;passe les valeurs maximales autoris&eacute;es pour la hauteur ou la largeur.";
+$lang['upload_destination_error']        = "Une erreur est survenue lors du d&eacute;placement du fichier envoy&eacute; vers sa destination finale.";
+$lang['upload_no_filepath']              = "Le chemin de destination semble invalide.";
+$lang['upload_no_file_types']            = "Vous n'avez pas sp&eacute;cifi&eacute; les types de fichier autoris&eacute;s.";
+$lang['upload_bad_filename']             = "Un fichier avec le m&ecirc;me nom que celui que vous avez envoy&eacute; existe d&eacute;j&agrave; sur le serveur.";
+$lang['upload_not_writable']             = "Le r&eacute;pertoire de destination ne semble pas &ecirc;tre accessible en &eacute;criture.";
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/french/upload_lang.php */

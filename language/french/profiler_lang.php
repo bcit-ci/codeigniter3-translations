@@ -27,38 +27,38 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package    CodeIgniter
+ * @author    EllisLab Dev Team
+ * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license    http://opensource.org/licenses/MIT    MIT License
+ * @link    http://codeigniter.com
+ * @since    Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['profiler_database'] = 'DATABASE';
-$lang['profiler_controller_info'] = 'CLASS/METHOD';
-$lang['profiler_benchmarks'] = 'BENCHMARKS';
-$lang['profiler_queries'] = 'QUERIES';
-$lang['profiler_get_data'] = 'GET DATA';
-$lang['profiler_post_data'] = 'POST DATA';
-$lang['profiler_uri_string'] = 'URI STRING';
-$lang['profiler_memory_usage'] = 'MEMORY USAGE';
-$lang['profiler_config'] = 'CONFIG VARIABLES';
-$lang['profiler_session_data'] = 'SESSION DATA';
-$lang['profiler_headers'] = 'HTTP HEADERS';
-$lang['profiler_no_db'] = 'Currently loaded database driver is not.  ';
-$lang['profiler_no_queries'] = 'Run, no queries were.  ';
-$lang['profiler_no_post'] = 'POST data, none exists';
-$lang['profiler_no_get'] = 'GET data, none exists';
-$lang['profiler_no_uri'] = 'URI data, none exists';
-$lang['profiler_no_memory'] = 'Memory Usage,  unavailable it is';
-$lang['profiler_no_profiles'] = 'No Profile data - all Profiler sections, disabled they have been.';
-$lang['profiler_section_hide'] = 'Hide';
-$lang['profiler_section_show'] = 'Show';
-$lang['profiler_seconds'] = 'seconds';
+$lang['profiler_database']        = 'BASE DE DONNEES';
+$lang['profiler_controller_info'] = 'CLASS/METHODE';
+$lang['profiler_benchmarks']      = 'BENCHMARKS';
+$lang['profiler_queries']         = 'REQUETES';
+$lang['profiler_get_data']        = 'DONNEES GET';
+$lang['profiler_post_data']       = 'DONNEES POST';
+$lang['profiler_uri_string']      = 'URI STRING';
+$lang['profiler_memory_usage']    = 'UTILISATION MEMOIRE';
+$lang['profiler_config']          = 'VARIABLES CONFIG';
+$lang['profiler_session_data']    = 'DONNEES SESSION';
+$lang['profiler_headers']         = 'ENTETES HTTP';
+$lang['profiler_no_db']           = "Le driver de la base de donn&eacute;es n'est actuellement pas charg&eacute;";
+$lang['profiler_no_queries']      = "Aucune requ&ecirc;te n'a &eacute;t&eacute; ex&eacute;cut&eacute;e";
+$lang['profiler_no_post']         = "Aucune donn&eacute;e POST n'existe";
+$lang['profiler_no_get']          = "Aucune donn&eacute;e GET n'existe";
+$lang['profiler_no_uri']          = "Aucune donn&eacute;e URI n'existe";
+$lang['profiler_no_memory']       = 'Utilisation de la m&eacute;moire indisponible';
+$lang['profiler_no_profiles']     = 'Pas de donn&eacute;es du profil - toute section est desactiv&eacute;e.';
+$lang['profiler_section_hide']    = 'Cacher';
+$lang['profiler_section_show']    = 'Montrer';
+$lang['profiler_seconds']         = 'secondes';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/english/profiler_lang.php */
+/* Location: ./system/language/french/profiler_lang.php */
