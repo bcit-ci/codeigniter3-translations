@@ -38,13 +38,13 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']            = "Aucunes migrations trouv&eacute;es.";
-$lang['migration_not_found']             = "Aucune migration n'a &eacute;t&eacute; trouv&eacute;e avec le num&eacute;ro de version : %d.";
-$lang['migration_sequence_gap']          = "Il y a un trou dans la s&eacute;quence de migration pr&egrave;s de la version num&eacute;ro : %s.";
-$lang['migration_multiple_version']      = "Il y a plusieurs migrations avec le m&ecirc;me num&eacute;ro de version : %d.";
-$lang['migration_class_doesnt_exist']    = "La classe de migration \"%s\" n'a pas pu &ecirc;tre trouv&eacute;e.";
-$lang['migration_missing_up_method']     = "La classe de migration \"%s\" ne dispose pas d'une m&eacute;thode 'up'.";
-$lang['migration_missing_down_method']   = "La classe de migration \"%s\" ne dispose pas d'une m&eacute;thode 'down'.";
+$lang['migration_none_found']            = "Aucunes migrations trouvées.";
+$lang['migration_not_found']             = "Aucune migration n'a été trouvée avec le numéro de version : %d.";
+$lang['migration_sequence_gap']          = "Il y a un trou dans la séquence de migration près de la version numéro : %s.";
+$lang['migration_multiple_version']      = "Il y a plusieurs migrations avec le même numéro de version : %d.";
+$lang['migration_class_doesnt_exist']    = "La classe de migration \"%s\" n'a pas pu être trouvée.";
+$lang['migration_missing_up_method']     = "La classe de migration \"%s\" ne dispose pas d'une méthode 'up'.";
+$lang['migration_missing_down_method']   = "La classe de migration \"%s\" ne dispose pas d'une méthode 'down'.";
 $lang['migration_invalid_filename']      = "Le nom de fichier de la migration \"%s\" n'est pas valide.";
 
 /* End of file migration_lang.php */
