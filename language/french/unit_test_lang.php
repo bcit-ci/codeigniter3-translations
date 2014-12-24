@@ -39,19 +39,19 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['ut_test_name']     = "Nom du test";
-$lang['ut_test_datatype'] = "Type des donn&eacute;es de test";
+$lang['ut_test_datatype'] = "Type des données de test";
 $lang['ut_res_datatype']  = "Type attendu";
-$lang['ut_result']        = "R&eacute;sultat";
-$lang['ut_undefined']     = "Nom du test non d&eacute;fini";
+$lang['ut_result']        = "Résultat";
+$lang['ut_undefined']     = "Nom du test non défini";
 $lang['ut_file']          = "Nom du fichier";
-$lang['ut_line']          = "Num&eacute;ro de ligne";
-$lang['ut_passed']        = "Pass&eacute;";
-$lang['ut_failed']        = "&Eacute;chou&eacute;";
-$lang['ut_boolean']       = "Bool&eacute;en";
+$lang['ut_line']          = "Numéro de ligne";
+$lang['ut_passed']        = "Passé";
+$lang['ut_failed']        = "Échoué";
+$lang['ut_boolean']       = "Booléen";
 $lang['ut_integer']       = "Nombre entier";
-$lang['ut_float']         = "Nombre r&eacute;el";
-$lang['ut_double']        = "Nombre r&eacute;el"; // can be the same as float
-$lang['ut_string']        = "Chaine de caract&egrave;res";
+$lang['ut_float']         = "Nombre réel";
+$lang['ut_double']        = "Nombre réel"; // can be the same as float
+$lang['ut_string']        = "Chaine de caractères";
 $lang['ut_array']         = "Tableau";
 $lang['ut_object']        = "Objet";
 $lang['ut_resource']      = "Ressource";
