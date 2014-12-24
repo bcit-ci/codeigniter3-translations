@@ -64,4 +64,4 @@ $lang['db_unable_to_set_charset']       = "Impossible de définir le jeu de cara
 $lang['db_error_heading']               = "Une erreur de la base de données s'est produite.";
 
 /* End of file db_lang.php */
-/* Location: ./system/language/french/db_lang.php */
+/* Location: ./application/language/french/db_lang.php */

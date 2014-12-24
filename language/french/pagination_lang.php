@@ -44,4 +44,4 @@ $lang['pagination_prev_link'] = '&lt;';
 $lang['pagination_last_link'] = 'Dernière &rsaquo;';
 
 /* End of file pagination_lang.php */
-/* Location: ./system/language/french/pagination_lang.php */
+/* Location: ./application/language/french/pagination_lang.php */

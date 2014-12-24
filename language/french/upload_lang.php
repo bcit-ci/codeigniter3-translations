@@ -56,4 +56,4 @@ $lang['upload_bad_filename']             = "Un fichier avec le même nom que cel
 $lang['upload_not_writable']             = "Le répertoire de destination ne semble pas être accessible en écriture.";
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/french/upload_lang.php */
+/* Location: ./application/language/french/upload_lang.php */

@@ -48,4 +48,4 @@ $lang['migration_missing_down_method']   = "La classe de migration \"%s\" ne dis
 $lang['migration_invalid_filename']      = "Le nom de fichier de la migration \"%s\" n'est pas valide.";
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/french/migration_lang.php */
+/* Location: ./application/language/french/migration_lang.php */

@@ -56,4 +56,4 @@ $lang['imglib_missing_font']            = "Impossible de trouver une police de c
 $lang['imglib_save_failed']             = "Impossible de sauvegarder l'image. Veuillez vous assurer que l'image et le répertoire sont accessibles en écriture.";
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/french/imglib_lang.php */
+/* Location: ./application/language/french/imglib_lang.php */
