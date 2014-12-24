@@ -50,7 +50,6 @@ $lang['imglib_rotate_unsupported']      = "La rotation d'images ne semble pas ê
 $lang['imglib_libpath_invalid']         = "Le chemin vers votre librairie d'images est incorrect. Veuillez enter le bon chemin dans les préférences de votre image.";
 $lang['imglib_image_process_failed']    = "Le traintement de l'image a échoué. Veuillez vous assurer que votre serveur prend en charge le protocole choisi et que le chemin vers votre librairie d'images est correct.";
 $lang['imglib_rotation_angle_required'] = "Un angle de rotation est nécéssaire pour faire tourner l'image.";
-$lang['imglib_writing_failed_gif']      = "image GIF."; // TODO unused
 $lang['imglib_invalid_path']            = "Le chemin vers l'image est incorrect.";
 $lang['imglib_copy_failed']             = "La routine de copie d'image a échouée.";
 $lang['imglib_missing_font']            = "Impossible de trouver une police de caractères.";
