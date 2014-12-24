@@ -64,4 +64,4 @@ $lang['db_unable_to_set_charset'] = 'To set client connection character set, una
 $lang['db_error_heading'] = 'Database error occurred.  Herh herh herh.';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./application/language/english/db_lang.php */
