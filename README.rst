@@ -45,7 +45,7 @@ bulgarian                done         ivantcholakov   Ivan Tcholakov
 catalan                  coming       rogervila       Roger Vilà
 czech                    done         Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
-french                   coming       includebeer     Alain Rivest
+french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
 italian                  done         ster            Stefano Mazzega
 malaysian                coming       hafizhassan     Muhamad Hafizuddin
