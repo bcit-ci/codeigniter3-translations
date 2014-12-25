@@ -48,4 +48,4 @@ $lang['migration_missing_down_method'] = 'The migration class "%s" a "down" meth
 $lang['migration_invalid_filename'] = 'An invalid filename, migration "%s" has.';
 
 /* End of file migration_lang.php */
-/* Location: ./application/language/english/migration_lang.php */
+/* Location: ./application/language/persian/migration_lang.php */

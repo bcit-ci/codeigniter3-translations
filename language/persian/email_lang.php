@@ -38,25 +38,25 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['email_must_be_array'] = 'Passed an array, the email validation method must be.  Yes, hmmm.';
-$lang['email_invalid_address'] = 'Invalid email address: %s';
-$lang['email_attachment_missing'] = 'To locate the following email attachment unable.  : %s';
-$lang['email_attachment_unreadable'] = 'To locate the following email attachment unable.  Yes, hmmm.: %s';
-$lang['email_no_from'] = 'Send mail with no "From"  Header, I cannot.  Yeesssssss.';
-$lang['email_no_recipients'] = 'Recipients (To, Cc, or Bcc) must you include ';
-$lang['email_send_failure_phpmail'] = 'To send email using PHP mail() unable.  Your server might be configured to send mail using this method not.  Hmmmmmm.';
-$lang['email_send_failure_sendmail'] = 'To send email using PHP sendmail unable.  Your server might be configured to send mail using this method not.  Hmmmmmm.';
-$lang['email_send_failure_smtp'] = 'To send email using PHP SMTP unable.  Your server might be configured to send mail using this method not.  Hmmmmmm.';
-$lang['email_sent'] = 'Been successfully sent using the following protocol, your message has.  Yes, hmmm.: %s';
-$lang['email_no_socket'] = 'To open a socket to sendmail unable.  Check settings.  Yes, hmmm.';
-$lang['email_no_hostname'] = 'Specify a smtp hostname, you did not.  ';
-$lang['email_smtp_error'] = 'Encountered, the following SMTP error was: %s';
-$lang['email_no_smtp_unpw'] = 'Error: a SMTP username and password assign you must.';
-$lang['email_failed_smtp_login'] = 'To send, AUTH LOGIN command failed. Error: %s';
-$lang['email_smtp_auth_un'] = 'Authenticate username, failed it did. Error: %s';
-$lang['email_smtp_auth_pw'] = 'Authenticate password, failed it did. Error: %s';
-$lang['email_smtp_data_failure'] = 'To send data, unable am I: %s';
-$lang['email_exit_status'] = 'Exit status code: %s. Yesss.';
+$lang['email_must_be_array'] = 'شما باید یک آرایه به متود Email Validation بدهید';
+$lang['email_invalid_address'] = 'پست الکترونیکی غلط: %s';
+$lang['email_attachment_missing'] = 'عدم موفقیت در مشخص کردن پیوست این ایمیل: %s';
+$lang['email_attachment_unreadable'] = 'عدم موفقیت در باز کردن این پیوست: %s';
+$lang['email_no_from'] = 'ارسال ایمیل بدون هدر "From"????!!!';
+$lang['email_no_recipients'] = 'You must include recipients: To, Cc, or Bcc';
+$lang['email_send_failure_phpmail'] = 'عدم موفقیت در ارسال ایمیل توسط تابع mail(). شاید سرور شما برای ارسال ایمیل از این طریق تنظزیم نشده است';
+$lang['email_send_failure_sendmail'] = 'عدم موفقیت در ارسال ایمیل توسط  Sendmail. شاید سرور شما برای ارسال ایمیل از این طریق تنظزیم نشده است';
+$lang['email_send_failure_smtp'] = 'عدم موفقیت در ارسال ایمیل توسط  SMTP. شاید سرور شما برای ارسال ایمیل از این طریق تنظزیم نشده است';
+$lang['email_sent'] = 'پیام شما با موفقیت توسط پروتوکل مشخص شده ارسال شد: %s';
+$lang['email_no_socket'] = 'عدم موفقیت در باز کردن یک سوکت جدید برای Sendmail. لطفا تنظیمات را چک کنید';
+$lang['email_no_hostname'] = 'شما هاست نیم را برای استفاده از SMTP مشخص نکرده اید';
+$lang['email_smtp_error'] = 'خطالی SMTP روبرو رخ داده است: %s';
+$lang['email_no_smtp_unpw'] = 'خطا: شما باید یه نام کاربری و رمز عبور برای SMTP تعریف کنید.';
+$lang['email_failed_smtp_login'] = 'عدم موفقیت برای ارسال فرمان AUTH LOGIN . خطا: %s';
+$lang['email_smtp_auth_un'] = 'Failed to authenticate username. Error: %s';
+$lang['email_smtp_auth_pw'] = 'Failed to authenticate password. Error: %s';
+$lang['email_smtp_data_failure'] = 'عدم موفقیت در ارسال داده ها: %s';
+$lang['email_exit_status'] = 'کد وضعیت خروج: %s';
 
 /* End of file email_lang.php */
-/* Location: ./application/language/english/email_lang.php */
+/* Location: ./application/language/persian/email_lang.php */

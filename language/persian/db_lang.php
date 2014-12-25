@@ -39,11 +39,11 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['db_invalid_connection_str'] = 'To determine the database settings based on the connection string you submitted, unable am I.  ';
-$lang['db_unable_to_connect'] = 'To connect to your database server using the provided settings, unable am I.  Herh herh herh.';
-$lang['db_unable_to_select'] = 'To select the specified database, unable am I: %s';
-$lang['db_unable_to_create'] = 'To create the specified database, unable am I: %s';
-$lang['db_invalid_query'] = 'The query you submitted is valid not.  Yes, hmmm.';
-$lang['db_must_set_table'] = 'Set the database table to be used with your query, you must.  ';
+$lang['db_unable_to_connect'] = 'عدم موفقیت در ارتباط با پایگاه داده';
+$lang['db_unable_to_select'] = 'عدم موفقیت در اتصال به پایگاه داده مشخص شده : %s';
+$lang['db_unable_to_create'] = 'عدم موفقیت در ایجاد جدول مشخص شده : %s';
+$lang['db_invalid_query'] = 'متن کوئری شما معتبر نیست.';
+$lang['db_must_set_table'] = 'شما باید یک جدول برای استفاده همراه با کوئری مشخص کنید';
 $lang['db_must_use_set'] = 'To update an entry, use the "Set" method you must.  Yeesssssss.';
 $lang['db_must_use_index'] = 'Specify an index to match on for batch updates, you must.  Yes, hmmm.';
 $lang['db_batch_missing_index'] = 'Missing the specified index, one or more rows submitted for batch updating is.  Herh herh herh.';
@@ -64,4 +64,4 @@ $lang['db_unable_to_set_charset'] = 'To set client connection character set, una
 $lang['db_error_heading'] = 'Database error occurred.  Herh herh herh.';
 
 /* End of file db_lang.php */
-/* Location: ./application/language/english/db_lang.php */
+/* Location: ./application/language/persian/db_lang.php */

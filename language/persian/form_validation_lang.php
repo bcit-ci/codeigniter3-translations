@@ -38,11 +38,11 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['form_validation_required'] = 'The {field} field required is.';
-$lang['form_validation_isset'] = 'The {field} field a value must have.';
-$lang['form_validation_valid_email'] = 'The {field} field a valid email address must contain.';
-$lang['form_validation_valid_emails'] = 'The {field} field all valid email addresses must contain.';
-$lang['form_validation_valid_url'] = 'The {field} field a valid URL must contain.';
+$lang['form_validation_required'] = 'پر کردن فیلد {field} الزامی است.';
+$lang['form_validation_isset'] = 'فیلد {field} باید یک مقداری داشته باشد.';
+$lang['form_validation_valid_email'] = 'فیلد {field} باید یک ایمیل معتبر داشته باشد.';
+$lang['form_validation_valid_emails'] = 'فیلد {field} باید تماما شمال ایمیل های معتبر باشد.';
+$lang['form_validation_valid_url'] = 'فیلد {field} باید شامل یک آدرس اینترنتی معتبر باشد.';
 $lang['form_validation_valid_ip'] = 'The {field} field a valid IP must contain.';
 $lang['form_validation_min_length'] = 'The {field} field at least {param} characters in length must be.';
 $lang['form_validation_max_length'] = 'The {field} field {param} characters in length exceed it cannot.';
@@ -67,4 +67,4 @@ $lang['form_validation_greater_than'] = 'The {field} field a number greater than
 $lang['form_validation_greater_than_equal_to'] = 'The {field} field a number greater than or equal to {param} must if contain.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./application/language/english/form_validation_lang.php */
+/* Location: ./application/language/persian/form_validation_lang.php */

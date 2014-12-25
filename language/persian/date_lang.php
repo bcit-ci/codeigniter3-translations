@@ -37,20 +37,20 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year'] = 'Year';
-$lang['date_years'] = 'Years';
-$lang['date_month'] = 'Month';
-$lang['date_months'] = 'Months';
-$lang['date_week'] = 'Week';
-$lang['date_weeks'] = 'Weeks';
-$lang['date_day'] = 'Day';
-$lang['date_days'] = 'Days';
-$lang['date_hour'] = 'Hour';
-$lang['date_hours'] = 'Hours';
-$lang['date_minute'] = 'Minute';
-$lang['date_minutes'] = 'Minutes';
-$lang['date_second'] = 'Second';
-$lang['date_seconds'] = 'Seconds';
+$lang['date_year'] = 'سال';
+$lang['date_years'] = 'سال';
+$lang['date_month'] = 'ماه';
+$lang['date_months'] = 'ماه';
+$lang['date_week'] = 'هفته';
+$lang['date_weeks'] = 'هفته';
+$lang['date_day'] = 'روز';
+$lang['date_days'] = 'روز';
+$lang['date_hour'] = 'ساعت';
+$lang['date_hours'] = 'ساعت';
+$lang['date_minute'] = 'دقیقه';
+$lang['date_minutes'] = 'دقیقه';
+$lang['date_second'] = 'ثانیه';
+$lang['date_seconds'] = 'ثانیه';
 
 $lang['UM12']	= '(UTC -12:00) Baker/Howland Island';
 $lang['UM11']	= '(UTC -11:00) Niue';
@@ -94,4 +94,4 @@ $lang['UP13']	= '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga';
 $lang['UP14']	= '(UTC +14:00) Line Islands';
 
 /* End of file date_lang.php */
-/* Location: ./application/language/english/date_lang.php */
+/* Location: ./application/language/persian/date_lang.php */

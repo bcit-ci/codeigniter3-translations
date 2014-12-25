@@ -45,4 +45,4 @@ $lang['kilobyte_abbr'] = 'کیلو بایت';
 $lang['bytes'] = 'بایت';
 
 /* End of file number_lang.php */
-/* Location: ./application/language/english/number_lang.php */
+/* Location: ./application/language/persian/number_lang.php */
