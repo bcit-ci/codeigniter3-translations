@@ -51,4 +51,4 @@ $lang['ftp_unable_to_delete']		= 'Kunde inte ta bort filen.';
 $lang['ftp_unable_to_move']		= 'Kunde inte flytta filen. Kontrollera att målmappen finns.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/swedish/ftp_lang.php */
+/* Location: ./application/language/swedish/ftp_lang.php */

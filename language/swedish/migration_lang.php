@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']	= 'Migrations-klassen "%s" saknar en "dow
 $lang['migration_invalid_filename']	= 'Migrationen "%s" har ett ogiltigt filnamn.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/swedish/migration_lang.php */
+/* Location: ./application/language/swedish/migration_lang.php */

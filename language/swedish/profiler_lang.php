@@ -60,4 +60,4 @@ $lang['profiler_section_show']		= 'Visa';
 $lang['profiler_seconds']		= 'sekunder';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/swedish/profiler_lang.php */
+/* Location: ./application/language/swedish/profiler_lang.php */

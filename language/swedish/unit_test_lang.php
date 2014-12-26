@@ -58,4 +58,4 @@ $lang['ut_null']		= 'NULL';
 $lang['ut_notes']		= 'Noteringar';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/swedish/unit_test_lang.php */
+/* Location: ./application/language/swedish/unit_test_lang.php */

@@ -66,4 +66,4 @@ $lang['form_validation_greater_than']		= '{field} måste innehålla ett tal stö
 $lang['form_validation_greater_than_equal_to']	= '{field} måste innehålla ett tal större än eller lika med {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/swedish/form_validation_lang.php */
+/* Location: ./application/language/swedish/form_validation_lang.php */

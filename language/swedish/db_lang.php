@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset']	= 'Kunde inte välja teckenuppsättning för a
 $lang['db_error_heading']		= 'Ett databasfel uppstod';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/swedish/db_lang.php */
+/* Location: ./application/language/swedish/db_lang.php */

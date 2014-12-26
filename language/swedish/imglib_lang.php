@@ -56,4 +56,4 @@ $lang['imglib_missing_font']		= 'Teckensnitt saknas.';
 $lang['imglib_save_failed']		= 'Kunde inte spara bilden. Kontrollera skrivrättigheterna för filen och mappen.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/swedish/imglib_lang.php */
+/* Location: ./application/language/swedish/imglib_lang.php */

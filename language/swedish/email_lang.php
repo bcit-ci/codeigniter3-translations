@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure']	= 'Kunde inte skicka data: %s';
 $lang['email_exit_status']		= 'Statuskod vid avslut: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/swedish/email_lang.php */
+/* Location: ./application/language/swedish/email_lang.php */

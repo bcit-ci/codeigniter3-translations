@@ -84,4 +84,4 @@ $lang['cal_november']	= 'november';
 $lang['cal_december']	= 'december';
 
 /* End of file calendar_lang.php */
-/* Location: ./system/language/swedish/calendar_lang.php */
+/* Location: ./application/language/swedish/calendar_lang.php */

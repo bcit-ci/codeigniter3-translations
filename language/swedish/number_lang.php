@@ -44,4 +44,4 @@ $lang['kilobyte_abbr']	= 'KB';
 $lang['bytes']		= 'bytes';
 
 /* End of file number_lang.php */
-/* Location: ./system/language/swedish/number_lang.php */
+/* Location: ./application/language/swedish/number_lang.php */
