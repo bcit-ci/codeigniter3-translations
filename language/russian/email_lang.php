@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure'] = 'Невозможно отправить да
 $lang['email_exit_status'] = 'Код завершения: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/english/email_lang.php */
+/* Location: ./application/language/english/email_lang.php */

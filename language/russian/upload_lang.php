@@ -55,4 +55,4 @@ $lang['upload_bad_filename'] = "Файл с указанным именем уж
 $lang['upload_not_writable'] = "Директория для загрузки недоступна для записи.";
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./application/language/english/upload_lang.php */
