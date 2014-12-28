@@ -94,4 +94,4 @@ $lang['UP13'] = '(UTC +13:00) Самоа, Тонга';
 $lang['UP14'] = '(UTC +14:00) Острова Лайн (Кирибати)';
 
 /* End of file date_lang.php */
-/* Location: ./application/language/english/date_lang.php */
+/* Location: ./application/language/russian/date_lang.php */

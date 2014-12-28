@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset'] = 'Невозможно установить �
 $lang['db_error_heading'] = 'Ошибка базы данных.';
 
 /* End of file db_lang.php */
-/* Location: ./application/language/english/db_lang.php */
+/* Location: ./application/language/russian/db_lang.php */

@@ -47,4 +47,4 @@ $lang['migration_missing_down_method'] = 'Класс миграции "%s" не 
 $lang['migration_invalid_filename'] = 'Миграция "%s" имеет недопустимое имя файла.';
 
 /* End of file migration_lang.php */
-/* Location: ./application/language/english/migration_lang.php */
+/* Location: ./application/language/russian/migration_lang.php */

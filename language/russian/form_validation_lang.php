@@ -66,4 +66,4 @@ $lang['form_validation_greater_than'] = 'Поле {field} должно соде�
 $lang['form_validation_greater_than_equal_to'] = 'Поле {field} должно содержать значение больше или равно {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./application/language/english/form_validation_lang.php */
+/* Location: ./application/language/russian/form_validation_lang.php */
