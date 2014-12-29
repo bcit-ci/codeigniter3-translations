@@ -38,14 +38,14 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = 'Found, no migrations were.  ';
-$lang['migration_not_found'] = 'No migration, found with the version number, could be.  Yes, hmmm: %s.';
+$lang['migration_none_found'] = 'هیچ مهاجرتی پیدا نشد  ';
+$lang['migration_not_found'] = 'هیچ مهاجرتی برای نسخه مشخص شده پیدا نشد: %s.';
 $lang['migration_sequence_gap'] = 'Gap in the migration sequence near version number, there is.  Herh herh herh.: %s.';
-$lang['migration_multiple_version'] = 'Multiple migrations with the same version number, there are.  : %s.';
-$lang['migration_class_doesnt_exist'] = 'The migration class "%s", found it could I not.';
-$lang['migration_missing_up_method'] = 'The migration class "%s" an "up" method, missing it is.';
-$lang['migration_missing_down_method'] = 'The migration class "%s" a "down" method, missing it is.';
-$lang['migration_invalid_filename'] = 'An invalid filename, migration "%s" has.';
+$lang['migration_multiple_version'] = 'چند تا مهاجرت برای نسخه مشخص شده وجود دارد  : %s.';
+$lang['migration_class_doesnt_exist'] = 'کلاس مهاجرت "%s", پیدا نشد.';
+$lang['migration_missing_up_method'] = 'کلاس مهاجرت "%s" متود "up" ندارد. ';
+$lang['migration_missing_down_method'] = 'کلاس مهاجرت "%s" متود "down" ندارد.';
+$lang['migration_invalid_filename'] = 'مهاجرت "%s" شامل یک فایل غیر معتبر است..';
 
 /* End of file migration_lang.php */
 /* Location: ./application/language/persian/migration_lang.php */

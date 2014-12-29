@@ -38,30 +38,30 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str'] = 'To determine the database settings based on the connection string you submitted, unable am I.  ';
+$lang['db_invalid_connection_str'] = 'عدم موفقیت در تشخیص تنظیمات پایگاه داده بر مبای رشته وارد شده برای دیتابیس.';
 $lang['db_unable_to_connect'] = 'عدم موفقیت در ارتباط با پایگاه داده';
 $lang['db_unable_to_select'] = 'عدم موفقیت در اتصال به پایگاه داده مشخص شده : %s';
 $lang['db_unable_to_create'] = 'عدم موفقیت در ایجاد جدول مشخص شده : %s';
 $lang['db_invalid_query'] = 'متن کوئری شما معتبر نیست.';
 $lang['db_must_set_table'] = 'شما باید یک جدول برای استفاده همراه با کوئری مشخص کنید';
-$lang['db_must_use_set'] = 'To update an entry, use the "Set" method you must.  Yeesssssss.';
+$lang['db_must_use_set'] = 'شما باید از "set" برای بروز رسانی یک مطلب استفاده کنید.';
 $lang['db_must_use_index'] = 'Specify an index to match on for batch updates, you must.  Yes, hmmm.';
 $lang['db_batch_missing_index'] = 'Missing the specified index, one or more rows submitted for batch updating is.  Herh herh herh.';
-$lang['db_must_use_where'] = 'Updates are allowed not unless they contain a "Where" Clause.  Herh herh herh.';
-$lang['db_del_must_use_where'] = 'Deletes are allowed not unless they contain a "Where" Or "Like"  Clause.  ';
-$lang['db_field_param_missing'] = 'To fetch fields requires the name of the table as a parameter.  Yes, hmmm.';
-$lang['db_unsupported_function'] = 'This feature is available for the database you are using, not.  Yes, hmmm.';
-$lang['db_transaction_failure'] = 'Transaction failure:  Rollback performed.  Yes, hmmm.';
-$lang['db_unable_to_drop'] = 'To drop the specified database, unable.  Herh herh herh.';
-$lang['db_unsupported_feature'] = 'Unsupported feature of the database platform, using you are.  ';
-$lang['db_unsupported_compression'] = 'The file compression format you chose, supported by your server is not.  ';
-$lang['db_filepath_error'] = 'The file path you have submitted, unable to write data to am I.  ';
-$lang['db_invalid_cache_path'] = 'The cache path you submitted, valid or writable it is not.  Yeesssssss.';
-$lang['db_table_name_required'] = 'Required for that operation, a table name is.  ';
-$lang['db_column_name_required'] = 'Required for that operation, a column name is.  ';
-$lang['db_column_definition_required'] = 'Required for that operation, a column definition is.  Herh herh herh.';
-$lang['db_unable_to_set_charset'] = 'To set client connection character set, unable am I.  : %s';
-$lang['db_error_heading'] = 'Database error occurred.  Herh herh herh.';
+$lang['db_must_use_where'] = 'بروز رسانی ها قبول نمی شوند مگر اینکه شما از یک "where" در کوئری استفاده کنید.';
+$lang['db_del_must_use_where'] = 'حذف کردن انجام نمی شود مگر اینکه شما از یک "where" یا "like" در کوئری استفاده کنید.';
+$lang['db_field_param_missing'] = 'برای به دست آوردن فیلد ها شما باید نام جدول را به عنوان یک پارامتر بدهید.';
+$lang['db_unsupported_function'] = 'این امکان برای پایگاه داده ای که شما استفاده میکنید موجود نیست.';
+$lang['db_transaction_failure'] = 'Transaction نا موفق:  Rollback انجام شد.';
+$lang['db_unable_to_drop'] = 'عدم موفقیت در حذف پایگاه داده مشخص شده.';
+$lang['db_unsupported_feature'] = 'شما دارید از یک ویژگی پایگاه داده که پشتیبانی نشده استفاده می کنید.';
+$lang['db_unsupported_compression'] = 'فرمت فشرده شازی که انتخاب شده است پشتیبانی نمی شود.';
+$lang['db_filepath_error'] = 'عدم موفقیت در نوشتن بر روی فایل مشخص شده';
+$lang['db_invalid_cache_path'] = 'آدرسی که برای فایل های cache مشخص کرده اید یا معتبر نیست یا قابل نوشتن نیست.';
+$lang['db_table_name_required'] = 'برای انجام این کار اسم جدول نیاز است.';
+$lang['db_column_name_required'] = 'Rبرای انجام این کار نام ستون مورد نیاز اسیت.';
+$lang['db_column_definition_required'] = 'یک ستون تعریف شده برای این کار مورد نیاز است.';
+$lang['db_unable_to_set_charset'] = 'موفق به تغیر character set نشدم : %s';
+$lang['db_error_heading'] = 'خطالی دیتابیس اتفاق افتاده است.';
 
 /* End of file db_lang.php */
 /* Location: ./application/language/persian/db_lang.php */

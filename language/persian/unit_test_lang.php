@@ -38,25 +38,25 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'Test Name';
-$lang['ut_test_datatype'] = 'Test Datatype';
-$lang['ut_res_datatype'] = 'Expected Datatype';
-$lang['ut_result'] = 'Result';
-$lang['ut_undefined'] = 'Undefined Test Name';
-$lang['ut_file'] = 'File Name';
-$lang['ut_line'] = 'Line Number';
-$lang['ut_passed'] = 'Passed';
-$lang['ut_failed'] = 'Failed';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = 'Notes';
+$lang['ut_test_name'] = 'اسم تست';
+$lang['ut_test_datatype'] = 'نوع داده تست';
+$lang['ut_res_datatype'] = 'نوع داده مورد انتظار';
+$lang['ut_result'] = 'نتیجه';
+$lang['ut_undefined'] = 'تست تعریف نشده';
+$lang['ut_file'] = 'اسم فایل';
+$lang['ut_line'] = 'خط';
+$lang['ut_passed'] = 'موفق';
+$lang['ut_failed'] = 'نا موفق';
+$lang['ut_boolean'] = 'بولین';
+$lang['ut_integer'] = 'عددی';
+$lang['ut_float'] = 'اعشاری';
+$lang['ut_double'] = 'اعشاری'; // can be the same as float
+$lang['ut_string'] = 'رشته';
+$lang['ut_array'] = 'آرایه';
+$lang['ut_object'] = 'شی';
+$lang['ut_resource'] = 'منبع';
+$lang['ut_null'] = 'مال';
+$lang['ut_notes'] = 'یادداشت ها';
 
 /* End of file unit_test_lang.php */
 /* Location: ./application/language/persian/unit_test_lang.php */

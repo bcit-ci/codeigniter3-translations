@@ -38,18 +38,18 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection'] = 'To locate a valid connection id unable.  Make sure, connected before performing any file routines, you are.  Herh herh herh.';
-$lang['ftp_unable_to_connect'] = 'Connect to your FTP server using the supplied hostname, I cannot.';
-$lang['ftp_unable_to_login'] = 'Login to your FTP server, I cannot. Please check your username and password.';
-$lang['ftp_unable_to_mkdir'] = 'Create the directory you have specified, I cannot.';
-$lang['ftp_unable_to_changedir'] = 'Change directories, I cannot.';
-$lang['ftp_unable_to_chmod'] = 'Set file permissions, I cannot. Check your path you must.';
-$lang['ftp_unable_to_upload'] = 'Upload the specified file, I cannot. Check your path you must.';
-$lang['ftp_unable_to_download'] = 'Download the specified file, I cannot. Check your path you must.';
-$lang['ftp_no_source_file'] = 'Locate the source file, I cannot. Check your path you must.';
-$lang['ftp_unable_to_rename'] = 'Rename the file, I cannot.';
-$lang['ftp_unable_to_delete'] = 'Delete the file, I cannot.';
-$lang['ftp_unable_to_move'] = 'Move the file, I cannot. Make sure the destination directory exists you must.';
+$lang['ftp_no_connection']		= 'هیچ ارطباتی پیدا نشد. لطفا اطمینان حاصل کنید ارتباط وجود دارد.';
+$lang['ftp_unable_to_connect']		= 'عدم موفقیت در وصل شدن به سرور FTP.';
+$lang['ftp_unable_to_login']		= 'عدم موفقیت در ورود به FTP.';
+$lang['ftp_unable_to_mkdir']		= 'عدم موفقیت در ایجاد پوشه مورد نظر';
+$lang['ftp_unable_to_changedir']	= 'عدم موفقیت در تغیر پوشه ها.';
+$lang['ftp_unable_to_chmod']		= 'عدم موفقیت در تغیر دسترسی ها.';
+$lang['ftp_unable_to_upload']		= 'عدم موفقیت در آپلود فایل . لطفا آدرس را چک کنید.';
+$lang['ftp_unable_to_download']		= 'عدم موفقیت در دانلود فایل مورد نظر.';
+$lang['ftp_no_source_file']		= 'عدم موفقیت در پیدا کردن فایل منبع.';
+$lang['ftp_unable_to_rename']		= 'عدم موفقیت در تغیر نام فایل.';
+$lang['ftp_unable_to_delete']		= 'عدم موفقیت در حذف کردن فایل.';
+$lang['ftp_unable_to_move']		= 'عدم موفقیت در انتقال فایل. لطفا مطمپن شوید پوشه مقصد موجود است.';
 
 /* End of file ftp_lang.php */
 /* Location: ./application/language/persian/ftp_lang.php */

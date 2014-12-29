@@ -38,22 +38,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'To find a post variable called userfile unable.  ';
-$lang['upload_file_exceeds_limit'] = 'Your php configuration file the uploaded file exceeds the maximum allowed size in.  Herh herh herh.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.  Yeesssssss.';
-$lang['upload_file_partial'] = 'Only partially uploaded, the file was.  .';
-$lang['upload_no_temp_directory'] = 'Missing, the temporary folder is.  .';
-$lang['upload_unable_to_write_file'] = 'Be written to disk the file could not.  Yeesssssss.';
-$lang['upload_stopped_by_extension'] = 'Stopped by extension, the file upload was.  ';
-$lang['upload_no_file_selected'] = 'Select a file to upload you did not.  ';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is allowed not.  ';
-$lang['upload_invalid_filesize'] = 'The file, attempting to upload is larger than the permitted size, you are.  Yes, hmmm.';
-$lang['upload_invalid_dimensions'] = 'Attempting to upload doesn\'t fit into the allowed dimensions, the image you are.  Yeesssssss.';
-$lang['upload_destination_error'] = 'Encountered while attempting to move the uploaded file to the final destination, a problem was.  ';
-$lang['upload_no_filepath'] = 'The upload path appears not to be valid.  Herh herh herh.';
-$lang['upload_no_file_types'] = 'Specified any allowed file types you have not.  Yeesssssss.';
-$lang['upload_bad_filename'] = 'You submitted already exists on the server the file name.  Yeesssssss.';
-$lang['upload_not_writable'] = 'The upload destination folder appears to be writable not.  ';
+$lang['upload_userfile_not_set'] = 'عدم موفقیت در \یدا کردن یک متغیر که در post باشد و نام آن نیز userfile باشد. ';
+$lang['upload_file_exceeds_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در تنظیمات PHP است.';
+$lang['upload_file_exceeds_form_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در فرم است.';
+$lang['upload_file_partial'] = 'فقط قسمتی از فایل آپلود شده است . ';
+$lang['upload_no_temp_directory'] = 'temporary folder موجود نیست . ';
+$lang['upload_unable_to_write_file'] = 'فایل نمی تونه بر روی دیسک نوشته بشه!!! ';
+$lang['upload_stopped_by_extension'] = 'آپلود فایل توسط extension متوقف شده است.  ';
+$lang['upload_no_file_selected'] = 'یک فایل برای آپلود انتخاب کیند. ';
+$lang['upload_invalid_filetype'] = 'نوع فایلی که می خواهید آپلود کنید مجاز نمی باشد.  ';
+$lang['upload_invalid_filesize'] = 'اندازه فایل آپلود شده بیشتر از مقدار مجاز است.';
+$lang['upload_invalid_dimensions'] = 'عکسی که می خواهید آپلود کنید با اندازه های مجاز هم خوانی ندارد.';
+$lang['upload_destination_error'] = 'موقعی که فایل را به مقصد نهایی انتقال می دادیم مشکلی پیش آمده است.  ';
+$lang['upload_no_filepath'] = 'آدرس مورد نظر برای اپلود فایل معتبر نمی باشد.';
+$lang['upload_no_file_types'] = 'شما هیچ نوع فایل مجازی را انتخاب نکرده اید.';
+$lang['upload_bad_filename'] = 'یک فایل هم نام با فایل آپلود شده موجود می باشد.';
+$lang['upload_not_writable'] = 'پوشه مشخص شده برای آپلود قابل نوشتن نیست.  ';
 
 /* End of file upload_lang.php */
 /* Location: ./application/language/englis/upload_lang.php */
