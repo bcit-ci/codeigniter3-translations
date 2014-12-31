@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']	= '마이그레이션 "%s" 클래스의 "
 $lang['migration_invalid_filename']	= '마이그레이션 "%s"은(는) 유효하지 않은 파일입니다.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/korean/migration_lang.php */
+/* Location: ./application/language/korean/migration_lang.php */

@@ -58,4 +58,4 @@ $lang['ut_null']			= 'Null';
 $lang['ut_notes']			= 'Notes';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/korean/unit_test_lang.php */
+/* Location: ./application/language/korean/unit_test_lang.php */

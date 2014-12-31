@@ -51,4 +51,4 @@ $lang['ftp_unable_to_delete']		= '파일을 삭제할 수 없습니다.';
 $lang['ftp_unable_to_move']		= '파일을 이동할 수 없습니다. 경로를 확인하세요.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/korean/ftp_lang.php */
+/* Location: ./application/language/korean/ftp_lang.php */

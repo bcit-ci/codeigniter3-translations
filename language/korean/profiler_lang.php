@@ -60,4 +60,4 @@ $lang['profiler_section_show']	= '보기';
 $lang['profiler_seconds']		= '초';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/korean/profiler_lang.php */
+/* Location: ./application/language/korean/profiler_lang.php */

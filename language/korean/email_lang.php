@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure'] = 'SMTP 다음 정보를 전송하는데 실패
 $lang['email_exit_status'] = 'Exit status code: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/korean/email_lang.php */
+/* Location: ./application/language/korean/email_lang.php */
