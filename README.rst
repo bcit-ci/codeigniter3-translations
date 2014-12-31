@@ -48,6 +48,7 @@ dutch                    done         pkrul           Pieter Krul
 french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
 italian                  done         ster            Stefano Mazzega
+korean                   done         KwonLatte       HyeongJoo Kwon
 malaysian                coming       hafizhassan     Muhamad Hafizuddin
 norwegian                done         yhoiseth        Yngve Hoiseth
 persian                  coming       MSDehghan       Mohammad Sadegh
