@@ -37,7 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['cal_su']			= 'Pz';
+$lang['cal_su']			= 'Pa';
 $lang['cal_mo']			= 'Pt';
 $lang['cal_tu']			= 'Sa';
 $lang['cal_we']			= 'Ça';
