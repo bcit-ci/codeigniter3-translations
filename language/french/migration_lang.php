@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']            = "Aucunes migrations trouvées.";
+$lang['migration_none_found']            = "Aucune migration trouvée.";
 $lang['migration_not_found']             = "Aucune migration n'a été trouvée avec le numéro de version : %d.";
 $lang['migration_sequence_gap']          = "Il y a un trou dans la séquence de migration près de la version numéro : %s.";
 $lang['migration_multiple_version']      = "Il y a plusieurs migrations avec le même numéro de version : %d.";
