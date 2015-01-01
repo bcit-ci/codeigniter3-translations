@@ -56,4 +56,4 @@ $lang['upload_bad_filename'] = 'یک فایل هم نام با فایل آپلو
 $lang['upload_not_writable'] = 'پوشه مشخص شده برای آپلود قابل نوشتن نیست.  ';
 
 /* End of file upload_lang.php */
-/* Location: ./application/language/englis/upload_lang.php */
+/* Location: ./application/language/persian/upload_lang.php */
