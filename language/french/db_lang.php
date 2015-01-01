@@ -53,13 +53,13 @@ $lang['db_field_param_missing']         = "La méthode \"fetch_fields()\" requie
 $lang['db_unsupported_function']        = "Cette fonctionnalité n'est pas disponible pour la base de données utilisée.";
 $lang['db_transaction_failure']         = "Erreur de transaction : la transaction est annulée.";
 $lang['db_unable_to_drop']              = "Impossible d'effacer la base de données spécifiée.";
-$lang['db_unsuported_feature']          = "Cette fonctionnalité n'est pas soutenue par le système de gestion de bases de données utilisé.";
+$lang['db_unsuported_feature']          = "Cette fonctionnalité n'est pas supportée par le système de gestion de bases de données utilisé.";
 $lang['db_unsuported_compression']      = "Le format de compression choisi n'est pas supporté par votre serveur.";
 $lang['db_filepath_error']              = "Impossible d'écrire des données au chemin de fichiers indiqué.";
-$lang['db_invalid_cache_path']          = "Le chemin de mise en cache indiqué n'est pas valide ou ne pas inscriptible.";
+$lang['db_invalid_cache_path']          = "Le chemin de mise en cache indiqué n'est pas valide ou inscriptible.";
 $lang['db_table_name_required']         = "Un nom de table est requis pour cette opération.";
 $lang['db_column_name_required']        = "Un nom de champ est requis pour cette opération.";
-$lang['db_column_definition_required']  = "Une définition d'une colonne est requise pour cette opération.";
+$lang['db_column_definition_required']  = "Une définition de champ est requise pour cette opération.";
 $lang['db_unable_to_set_charset']       = "Impossible de définir le jeu de caractères de la connexion client : %s";
 $lang['db_error_heading']               = "Une erreur de la base de données s'est produite.";
 
