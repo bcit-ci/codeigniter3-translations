@@ -38,10 +38,10 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'TO';
-$lang['gigabyte_abbr'] = 'GO';
-$lang['megabyte_abbr'] = 'MO';
-$lang['kilobyte_abbr'] = 'KO';
+$lang['terabyte_abbr'] = 'To';
+$lang['gigabyte_abbr'] = 'Go';
+$lang['megabyte_abbr'] = 'Mo';
+$lang['kilobyte_abbr'] = 'Ko';
 $lang['bytes'] = 'Octets';
 
 /* End of file number_lang.php */
