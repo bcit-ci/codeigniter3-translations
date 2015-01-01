@@ -37,7 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str'] = 'Verilen bağlantı dizisi bilgileriyle veri tabanı ayarları belirlenemedi.';
+$lang['db_invalid_connection_str'] = 'Verilen bağlantı dizisi bilgileriyle veri tabanı ayarları belirlenemiyor.';
 $lang['db_unable_to_connect'] = 'Verilen ayarlarla veri tabanına bağlantı sağlanamıyor.';
 $lang['db_unable_to_select'] = 'Belirtilen veri tabanı seçilemiyor: %s';
 $lang['db_unable_to_create'] = 'Belirtilen veri tabanı oluşturulamıyor: %s';
