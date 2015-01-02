@@ -43,4 +43,4 @@ $lang['pagination_prev_link']	= '&lt;';
 $lang['pagination_last_link']	= 'Son &rsaquo;';
 
 /* End of file pagination_lang.php */
-/* Location: ./system/language/english/pagination_lang.php */
+/* Location: ./system/language/turkish/pagination_lang.php */

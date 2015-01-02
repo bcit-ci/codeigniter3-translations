@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset'] = 'Kullanıcı bağlantı karakter seti ayarla
 $lang['db_error_heading'] = 'Bir Veri Tabanı Hatası Oluştu';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./system/language/turkish/db_lang.php */

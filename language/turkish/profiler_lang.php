@@ -60,4 +60,4 @@ $lang['profiler_section_show']		= 'Göster';
 $lang['profiler_seconds']			= 'saniye';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/english/profiler_lang.php */
+/* Location: ./system/language/turkish/profiler_lang.php */

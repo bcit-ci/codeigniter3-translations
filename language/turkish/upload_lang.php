@@ -55,4 +55,4 @@ $lang['upload_bad_filename']			= 'Belirtilen dosya adı sunucuda zaten var.';
 $lang['upload_not_writable']			= 'Dosyanın yükleneceği kalıcı klasör yazılabilir değil.';
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/turkish/upload_lang.php */

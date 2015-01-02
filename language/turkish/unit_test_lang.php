@@ -58,4 +58,4 @@ $lang['ut_null']			= 'Null';
 $lang['ut_notes']			= 'Notlar';
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/english/unit_test_lang.php */
+/* Location: ./system/language/turkish/unit_test_lang.php */
