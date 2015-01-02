@@ -26,21 +26,21 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package CodeIgniter
+ * @author  EllisLab Dev Team
+ * @copyright   Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright   Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license http://opensource.org/licenses/MIT  MIT License
+ * @link    http://codeigniter.com
+ * @since   Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['pagination_first_link']	= '&lsaquo; İlk';
-$lang['pagination_next_link']	= '&gt;';
-$lang['pagination_prev_link']	= '&lt;';
-$lang['pagination_last_link']	= 'Son &rsaquo;';
+$lang['pagination_first_link']  = '&lsaquo; İlk';
+$lang['pagination_next_link']   = '&gt;';
+$lang['pagination_prev_link']   = '&lt;';
+$lang['pagination_last_link']   = 'Son &rsaquo;';
 
 /* End of file pagination_lang.php */
 /* Location: ./system/language/turkish/pagination_lang.php */
