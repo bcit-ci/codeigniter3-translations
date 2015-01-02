@@ -37,18 +37,18 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'Unable to locate a valid connection ID. Please make sure you are connected before performing any file routines.';
-$lang['ftp_unable_to_connect']		= 'Unable to connect to your FTP server using the supplied hostname.';
-$lang['ftp_unable_to_login']		= 'Unable to login to your FTP server. Please check your username and password.';
-$lang['ftp_unable_to_mkdir']		= 'Unable to create the directory you have specified.';
-$lang['ftp_unable_to_changedir']	= 'Unable to change directories.';
-$lang['ftp_unable_to_chmod']		= 'Unable to set file permissions. Please check your path.';
-$lang['ftp_unable_to_upload']		= 'Unable to upload the specified file. Please check your path.';
-$lang['ftp_unable_to_download']		= 'Unable to download the specified file. Please check your path.';
-$lang['ftp_no_source_file']		= 'Unable to locate the source file. Please check your path.';
-$lang['ftp_unable_to_rename']		= 'Unable to rename the file.';
-$lang['ftp_unable_to_delete']		= 'Unable to delete the file.';
-$lang['ftp_unable_to_move']		= 'Unable to move the file. Please make sure the destination directory exists.';
+$lang['ftp_no_connection']			= 'Geçerli bir bağlantı ID si bulunamadı. Herhangi bir dosya işlemi yapmadan bağlantınızı kontrol ediniz.';
+$lang['ftp_unable_to_connect']	= 'Verilen sunucu adı ile FTP sunucuya bağlanılamadı.';
+$lang['ftp_unable_to_login']		= 'FTP sunucuya giriş yapılamadı. Lütfen kullanıcı adı ve şifreyi kontrol ediniz.';
+$lang['ftp_unable_to_mkdir']		= 'Belirtilen klasör oluşturulamadı.';
+$lang['ftp_unable_to_changedir']	= 'Klasör değiştirilemedi.';
+$lang['ftp_unable_to_chmod']		= 'Dosya izinleri değiştirilemedi. Lütfen yolu kontrol ediniz.';
+$lang['ftp_unable_to_upload']		= 'Dosya yüklenemedi. Lütfen yolu kontrol ediniz.';
+$lang['ftp_unable_to_download']	= 'Dosya indirilemedi. Lütfen yolu kontrol ediniz.';
+$lang['ftp_no_source_file']		= 'Kaynak dosya bulunamadı. Lütfen yolu kontrol ediniz.';
+$lang['ftp_unable_to_rename']		= 'Dosya adı değiştirilemedi.';
+$lang['ftp_unable_to_delete']		= 'Dosya silinemedi.';
+$lang['ftp_unable_to_move']		= 'Dosya taşınamadı. Lütfen dosyanın taşınacağı klasörün varlığını kontrol ediniz.';
 
 /* End of file ftp_lang.php */
 /* Location: ./system/language/english/ftp_lang.php */
