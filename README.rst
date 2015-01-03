@@ -45,6 +45,7 @@ czech                    done         Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
 french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
+indonesian               done         ridho1991       Mutasim Ridlo
 italian                  done         ster            Stefano Mazzega
 korean                   done         KwonLatte       HyeongJoo Kwon
 norwegian                done         yhoiseth        Yngve Hoiseth
