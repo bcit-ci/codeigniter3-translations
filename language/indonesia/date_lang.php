@@ -94,4 +94,4 @@ $lang['UP13']	= '(UTC +13:00) Zona Waktu Samoa, Waktu Pulau Phoenix, Tonga';
 $lang['UP14']	= '(UTC +14:00) Pulau Line';
 
 /* End of file date_lang.php */
-/* Location: ./application/language/indonesia/date_lang.php */
+/* Location: ./system/language/indonesia/date_lang.php */

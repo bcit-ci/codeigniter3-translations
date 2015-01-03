@@ -37,18 +37,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'Tidak dapat menemukan ID koneksi yang valid. Pastikan Anda terhubung sebelum melakukan rutinitas berkas.';
-$lang['ftp_unable_to_connect']		= 'Tidak dapat terhubung ke server FTP Anda menggunakan nama host yang disediakan.';
-$lang['ftp_unable_to_login']		= 'Tidak dapat login ke server FTP Anda. Silakan periksa nama pengguna dan password Anda.';
-$lang['ftp_unable_to_mkdir']		= 'Tidak dapat membuat direktori yang telah Anda tentukan.';
-$lang['ftp_unable_to_changedir']	= 'Tidak dapat mengubah direktori.';
-$lang['ftp_unable_to_chmod']		= 'Tidak dapat mengatur hak akses berkas. Silakan periksa jalur Anda.';
-$lang['ftp_unable_to_upload']		= 'Tidak dapat mengunggah berkas yang ditentukan. Silakan periksa jalur Anda.';
-$lang['ftp_unable_to_download']		= 'Tidak dapat mengunduh berkas yang ditentukan. Silakan periksa jalur Anda.';
-$lang['ftp_no_source_file']		= 'Tidak dapat menemukan sumber berkas. Silakan periksa jalur Anda.';
-$lang['ftp_unable_to_rename']		= 'Tidak dapat mengubah nama berkas.';
-$lang['ftp_unable_to_delete']		= 'Tidak dapat menghapus berkas.';
-$lang['ftp_unable_to_move']		= 'Tidak dapat memindahkan berkas. Pastikan direktori tujuan ada.';
+$lang['upload_userfile_not_set'] = 'Tidak dapat menemukan variabel pos yang disebut userfile.';
+$lang['upload_file_exceeds_limit'] = 'Berkas yang diunggah melebihi ukuran maksimum yang diperbolehkan dalam file konfigurasi PHP Anda.';
+$lang['upload_file_exceeds_form_limit'] = 'Berkas yang diunggah melebihi ukuran maksimum yang diperbolehkan oleh formulir pengajuan.';
+$lang['upload_file_partial'] = 'File ini hanya sebagian terunggah.';
+$lang['upload_no_temp_directory'] = 'Folder sementara hilang.';
+$lang['upload_unable_to_write_file'] = 'File tidak dapat ditulis ke disk.';
+$lang['upload_stopped_by_extension'] = 'Upload file dihentikan oleh ekstensi.';
+$lang['upload_no_file_selected'] = 'Anda tidak memilih file untuk mengunggah.';
+$lang['upload_invalid_filetype'] = 'Jenis berkas yang Anda coba untuk mengunggah tidak diperbolehkan.';
+$lang['upload_invalid_filesize'] = 'Berkas yang Anda mencoba untuk mengunggah lebih besar dari ukuran yang diizinkan.';
+$lang['upload_invalid_dimensions'] = 'Gambar yang Anda sedang berusaha untuk mengunggah tidak sesuai dengan dimensi diperbolehkan.';
+$lang['upload_destination_error'] = 'Masalah terjadi ketika mencoba untuk memindahkan file terunggah ke tujuan akhir.';
+$lang['upload_no_filepath'] = 'Jalur Unggah tampaknya tidak valid.';
+$lang['upload_no_file_types'] = 'Anda belum ditentukan jenis file yang diijinkan.';
+$lang['upload_bad_filename'] = 'Nama berkas yang Anda kirimkan sudah ada di server.';
+$lang['upload_not_writable'] = 'Folder tujuan unggah sepertinya tidak dapat ditulis.';
 
-/* End of file ftp_lang.php */
-/* Location: ./application/language/indonesia/ftp_lang.php */
+/* End of file upload_lang.php */
+/* Location: ./system/language/indonesia/upload_lang.php */
