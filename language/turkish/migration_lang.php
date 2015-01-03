@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']  = '"%s" taşınma sınıfında "down" me
 $lang['migration_invalid_filename']     = '"%s" taşınmasında geçersiz dosya adı.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/turkish/migration_lang.php */
+/* Location: ./application/language/turkish/migration_lang.php */

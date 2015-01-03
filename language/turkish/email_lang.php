@@ -58,4 +58,4 @@ $lang['email_smtp_data_failure']        = 'Veriler gönderilemedi: %s';
 $lang['email_exit_status']              = 'Çıkış durum kodu: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/turkish/email_lang.php */
+/* Location: ./application/language/turkish/email_lang.php */

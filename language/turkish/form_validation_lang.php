@@ -66,4 +66,4 @@ $lang['form_validation_greater_than']           = '{field} alanı {param} den b�
 $lang['form_validation_greater_than_equal_to']  = '{field} alanı {param} den büyük veya eşit bir sayı içermeli.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/turkish/form_validation_lang.php */
+/* Location: ./application/language/turkish/form_validation_lang.php */

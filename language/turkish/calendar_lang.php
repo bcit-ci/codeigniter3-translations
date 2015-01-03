@@ -84,4 +84,4 @@ $lang['cal_november']   = 'Kasım';
 $lang['cal_december']   = 'Aralık';
 
 /* End of file calendar_lang.php */
-/* Location: ./system/language/turkish/calendar_lang.php */
+/* Location: ./application/language/turkish/calendar_lang.php */

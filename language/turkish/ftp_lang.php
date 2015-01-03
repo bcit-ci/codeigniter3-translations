@@ -51,4 +51,4 @@ $lang['ftp_unable_to_delete']       = 'Dosya silinemedi.';
 $lang['ftp_unable_to_move']         = 'Dosya taşınamadı. Lütfen dosyanın taşınacağı klasörün varlığını kontrol ediniz.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/turkish/ftp_lang.php */
+/* Location: ./application/language/turkish/ftp_lang.php */

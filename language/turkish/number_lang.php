@@ -44,4 +44,4 @@ $lang['kilobyte_abbr']  = 'KB';
 $lang['bytes']          = 'Bayt';
 
 /* End of file number_lang.php */
-/* Location: ./system/language/turkish/number_lang.php */
+/* Location: ./application/language/turkish/number_lang.php */

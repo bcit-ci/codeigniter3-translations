@@ -94,4 +94,4 @@ $lang['UP13']   = '(UTC +13:00) Samoa Saati Bölgesi, Phoenix Adaları Saati, To
 $lang['UP14']   = '(UTC +14:00) Line Adaları';
 
 /* End of file date_lang.php */
-/* Location: ./system/language/turkish/date_lang.php */
+/* Location: ./application/language/turkish/date_lang.php */

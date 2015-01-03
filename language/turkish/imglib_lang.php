@@ -56,4 +56,4 @@ $lang['imglib_missing_font']            = 'Kullanılacak font bulunamadı.';
 $lang['imglib_save_failed']             = 'Resim kaydedilemedi. Resmin ve klasörün yazılabilir olduğunu kontrol ediniz.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/turkish/imglib_lang.php */
+/* Location: ./application/language/turkish/imglib_lang.php */
