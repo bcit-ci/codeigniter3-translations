@@ -63,4 +63,4 @@ $lang['db_unable_to_set_charset'] = 'Tidak dapat mengatur set karakter klien kon
 $lang['db_error_heading'] = 'Sebuah Kesalahan Basis Data Terjadi';
 
 /* End of file db_lang.php */
-/* Location: ./application/language/indonesia/db_lang.php */
+/* Location: ./application/language/indonesian/db_lang.php */

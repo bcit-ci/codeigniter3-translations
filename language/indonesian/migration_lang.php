@@ -47,4 +47,4 @@ $lang['migration_missing_down_method']	= 'Kelas migrasi "%s" kehilangan metode "
 $lang['migration_invalid_filename']	= 'Migrasi "%s" memiliki nama berkas yang tidak valid.';
 
 /* End of file migration_lang.php */
-/* Location: ./application/language/indonesia/migration_lang.php */
+/* Location: ./application/language/indonesian/migration_lang.php */

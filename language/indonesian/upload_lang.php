@@ -55,4 +55,4 @@ $lang['upload_bad_filename'] = 'Nama berkas yang Anda kirimkan sudah ada di serv
 $lang['upload_not_writable'] = 'Folder tujuan unggah sepertinya tidak dapat ditulis.';
 
 /* End of file upload_lang.php */
-/* Location: ./application/language/indonesia/upload_lang.php */
+/* Location: ./application/language/indonesian/upload_lang.php */

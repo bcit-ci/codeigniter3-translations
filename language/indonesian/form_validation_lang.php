@@ -66,4 +66,4 @@ $lang['form_validation_greater_than']		= 'Bidang {field} harus berisi angka lebi
 $lang['form_validation_greater_than_equal_to']	= 'Bidang {field} harus berisi angka yang lebih besar dari atau sama dengan {param}.';
 
 /* End of file form_validation_lang.php */
-/* Location: ./application/language/indonesia/form_validation_lang.php */
+/* Location: ./application/language/indonesian/form_validation_lang.php */

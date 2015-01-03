@@ -51,4 +51,4 @@ $lang['ftp_unable_to_delete']		= 'Tidak dapat menghapus berkas.';
 $lang['ftp_unable_to_move']		= 'Tidak dapat memindahkan berkas. Pastikan direktori tujuan ada.';
 
 /* End of file ftp_lang.php */
-/* Location: ./application/language/indonesia/ftp_lang.php */
+/* Location: ./application/language/indonesian/ftp_lang.php */

@@ -44,4 +44,4 @@ $lang['kilobyte_abbr'] = 'KB';
 $lang['bytes'] = 'Bytes';
 
 /* End of file number_lang.php */
-/* Location: ./application/language/indonesia/number_lang.php */
+/* Location: ./application/language/indonesian/number_lang.php */

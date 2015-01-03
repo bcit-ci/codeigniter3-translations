@@ -60,4 +60,4 @@ $lang['profiler_section_show']	= 'Tampil';
 $lang['profiler_seconds']		= 'detik';
 
 /* End of file profiler_lang.php */
-/* Location: ./application/language/indonesia/profiler_lang.php */
+/* Location: ./application/language/indonesian/profiler_lang.php */

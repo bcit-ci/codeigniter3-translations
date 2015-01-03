@@ -43,4 +43,4 @@ $lang['pagination_prev_link']	= '&lt;';
 $lang['pagination_last_link']	= 'Terakhir &rsaquo;';
 
 /* End of file pagination_lang.php */
-/* Location: ./application/language/indonesia/pagination_lang.php */
+/* Location: ./application/language/indonesian/pagination_lang.php */
