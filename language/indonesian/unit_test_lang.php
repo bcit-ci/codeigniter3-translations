@@ -37,27 +37,25 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['profiler_database']		= 'BASIS DATA';
-$lang['profiler_controller_info'] = 'KELAS/METODE';
-$lang['profiler_benchmarks']	= 'TOLOK UKUR';
-$lang['profiler_queries']		= 'KUERI';
-$lang['profiler_get_data']		= 'GET DATA';
-$lang['profiler_post_data']		= 'POST DATA';
-$lang['profiler_uri_string']	= 'URI STRING';
-$lang['profiler_memory_usage']	= 'PENGGUNAAN MEMORI';
-$lang['profiler_config']		= 'VARIABEL KONFIG';
-$lang['profiler_session_data']	= 'SESSI DATA';
-$lang['profiler_headers']		= 'HTTP HEADERS';
-$lang['profiler_no_db']			= 'Driver basis data saat ini tidak dimuat';
-$lang['profiler_no_queries']	= 'Tidak ada kueri yang dijalankan';
-$lang['profiler_no_post']		= 'Tidak ada data POST';
-$lang['profiler_no_get']		= 'Tidak ada data GET';
-$lang['profiler_no_uri']		= 'Tidak ada data URI';
-$lang['profiler_no_memory']		= 'Penggunaan Memori Tidak Tersedia';
-$lang['profiler_no_profiles']	= 'Tidak ada Profil Data - semua bagian Profiler telah dinonaktifkan.';
-$lang['profiler_section_hide']	= 'Sembunyi';
-$lang['profiler_section_show']	= 'Tampil';
-$lang['profiler_seconds']		= 'detik';
+$lang['ut_test_name']		= 'Nama Uji';
+$lang['ut_test_datatype']	= 'Uji Tipe Data';
+$lang['ut_res_datatype']	= 'Tipe Data yang Diharapkan';
+$lang['ut_result']			= 'Hasil';
+$lang['ut_undefined']		= 'Nama Uji tidak Didefinisikan';
+$lang['ut_file']			= 'Nama Berkas';
+$lang['ut_line']			= 'Jumlah Baris';
+$lang['ut_passed']			= 'Lulus';
+$lang['ut_failed']			= 'Gagal';
+$lang['ut_boolean']			= 'Boolean';
+$lang['ut_integer']			= 'Integer';
+$lang['ut_float']			= 'Float';
+$lang['ut_double']			= 'Float'; // can be the same as float
+$lang['ut_string']			= 'String';
+$lang['ut_array']			= 'Array';
+$lang['ut_object']			= 'Object';
+$lang['ut_resource']		= 'Sumber Daya';
+$lang['ut_null']			= 'Tidak Ada';
+$lang['ut_notes']			= 'Catatan';
 
-/* End of file profiler_lang.php */
-/* Location: ./system/language/indonesia/profiler_lang.php */
+/* End of file unit_test_lang.php */
+/* Location: ./application/language/indonesia/unit_test_lang.php */

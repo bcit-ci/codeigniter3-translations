@@ -37,25 +37,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name']		= 'Nama Uji';
-$lang['ut_test_datatype']	= 'Uji Tipe Data';
-$lang['ut_res_datatype']	= 'Tipe Data yang Diharapkan';
-$lang['ut_result']			= 'Hasil';
-$lang['ut_undefined']		= 'Nama Uji tidak Didefinisikan';
-$lang['ut_file']			= 'Nama Berkas';
-$lang['ut_line']			= 'Jumlah Baris';
-$lang['ut_passed']			= 'Lulus';
-$lang['ut_failed']			= 'Gagal';
-$lang['ut_boolean']			= 'Boolean';
-$lang['ut_integer']			= 'Integer';
-$lang['ut_float']			= 'Float';
-$lang['ut_double']			= 'Float'; // can be the same as float
-$lang['ut_string']			= 'String';
-$lang['ut_array']			= 'Array';
-$lang['ut_object']			= 'Object';
-$lang['ut_resource']		= 'Sumber Daya';
-$lang['ut_null']			= 'Tidak Ada';
-$lang['ut_notes']			= 'Catatan';
+$lang['upload_userfile_not_set'] = 'Tidak dapat menemukan variabel pos yang disebut userfile.';
+$lang['upload_file_exceeds_limit'] = 'Berkas yang diunggah melebihi ukuran maksimum yang diperbolehkan dalam file konfigurasi PHP Anda.';
+$lang['upload_file_exceeds_form_limit'] = 'Berkas yang diunggah melebihi ukuran maksimum yang diperbolehkan oleh formulir pengajuan.';
+$lang['upload_file_partial'] = 'File ini hanya sebagian terunggah.';
+$lang['upload_no_temp_directory'] = 'Folder sementara hilang.';
+$lang['upload_unable_to_write_file'] = 'File tidak dapat ditulis ke disk.';
+$lang['upload_stopped_by_extension'] = 'Upload file dihentikan oleh ekstensi.';
+$lang['upload_no_file_selected'] = 'Anda tidak memilih file untuk mengunggah.';
+$lang['upload_invalid_filetype'] = 'Jenis berkas yang Anda coba untuk mengunggah tidak diperbolehkan.';
+$lang['upload_invalid_filesize'] = 'Berkas yang Anda mencoba untuk mengunggah lebih besar dari ukuran yang diizinkan.';
+$lang['upload_invalid_dimensions'] = 'Gambar yang Anda sedang berusaha untuk mengunggah tidak sesuai dengan dimensi diperbolehkan.';
+$lang['upload_destination_error'] = 'Masalah terjadi ketika mencoba untuk memindahkan file terunggah ke tujuan akhir.';
+$lang['upload_no_filepath'] = 'Jalur Unggah tampaknya tidak valid.';
+$lang['upload_no_file_types'] = 'Anda belum ditentukan jenis file yang diijinkan.';
+$lang['upload_bad_filename'] = 'Nama berkas yang Anda kirimkan sudah ada di server.';
+$lang['upload_not_writable'] = 'Folder tujuan unggah sepertinya tidak dapat ditulis.';
 
-/* End of file unit_test_lang.php */
-/* Location: ./system/language/indonesia/unit_test_lang.php */
+/* End of file upload_lang.php */
+/* Location: ./application/language/indonesia/upload_lang.php */

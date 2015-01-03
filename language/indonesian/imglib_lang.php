@@ -56,4 +56,4 @@ $lang['imglib_missing_font'] = 'Tidak dapat menemukan huruf untuk menggunakan.';
 $lang['imglib_save_failed'] = 'Tidak dapat menyimpan gambar. Pastikan gambar dan direktori berkas dapat ditulis.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/indonesia/imglib_lang.php */
+/* Location: ./application/language/indonesia/imglib_lang.php */
