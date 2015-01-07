@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['migration_none_found']		= 'Tidak ada migrasi ditemukan.';
+$lang['migration_not_found']		= 'Tidak ada migrasi yang dapat ditemukan dengan nomor versi: %s.';
+$lang['migration_sequence_gap']		= 'Ada kesenjangan dalam urutan migrasi dekat nomor versi: %s.';
+$lang['migration_multiple_version']	= 'Ada beberapa migrasi dengan nomor versi yang sama: %s.';
+$lang['migration_class_doesnt_exist']	= 'Kelas migrasi "%s" tidak dapat ditemukan.';
+$lang['migration_missing_up_method']	= 'Kelas migrasi "%s" kehilangan metode "up".';
+$lang['migration_missing_down_method']	= 'Kelas migrasi "%s" kehilangan metode "down".';
+$lang['migration_invalid_filename']	= 'Migrasi "%s" memiliki nama berkas yang tidak valid.';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file migration_lang.php */
+/* Location: ./application/language/indonesian/migration_lang.php */

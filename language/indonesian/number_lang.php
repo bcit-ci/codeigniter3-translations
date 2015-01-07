@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,22 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['terabyte_abbr'] = 'TB';
+$lang['gigabyte_abbr'] = 'GB';
+$lang['megabyte_abbr'] = 'MB';
+$lang['kilobyte_abbr'] = 'KB';
+$lang['bytes'] = 'Bytes';
 
 /* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* Location: ./application/language/indonesian/number_lang.php */

@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['migration_none_found']		= '마이그레이션 파일을 찾을 수 없습니다.';
+$lang['migration_not_found']		= '마이그레이션 버전정보가 없습니다: %s.';
+$lang['migration_sequence_gap']		= '마이그레이션 시퀀스와 차이가 있습니다: %s.';
+$lang['migration_multiple_version']	= '복수의 버전정보가 있습니다.: %s.';
+$lang['migration_class_doesnt_exist']	= '마이그레이션 "%s" 클래스 파일을 찾을 수 없습니다.';
+$lang['migration_missing_up_method']	= '마이그레이션 "%s" 클래스의 "up" 메소드를 찾을 수 없습니다.';
+$lang['migration_missing_down_method']	= '마이그레이션 "%s" 클래스의 "down" 메소드를 찾을 수 없습니다.';
+$lang['migration_invalid_filename']	= '마이그레이션 "%s"은(는) 유효하지 않은 파일입니다.';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file migration_lang.php */
+/* Location: ./application/language/korean/migration_lang.php */

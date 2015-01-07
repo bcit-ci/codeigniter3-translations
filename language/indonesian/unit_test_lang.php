@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,36 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['ut_test_name']		= 'Nama Uji';
+$lang['ut_test_datatype']	= 'Uji Tipe Data';
+$lang['ut_res_datatype']	= 'Tipe Data yang Diharapkan';
+$lang['ut_result']			= 'Hasil';
+$lang['ut_undefined']		= 'Nama Uji tidak Didefinisikan';
+$lang['ut_file']			= 'Nama Berkas';
+$lang['ut_line']			= 'Jumlah Baris';
+$lang['ut_passed']			= 'Lulus';
+$lang['ut_failed']			= 'Gagal';
+$lang['ut_boolean']			= 'Boolean';
+$lang['ut_integer']			= 'Integer';
+$lang['ut_float']			= 'Float';
+$lang['ut_double']			= 'Float'; // can be the same as float
+$lang['ut_string']			= 'String';
+$lang['ut_array']			= 'Array';
+$lang['ut_object']			= 'Object';
+$lang['ut_resource']		= 'Sumber Daya';
+$lang['ut_null']			= 'Tidak Ada';
+$lang['ut_notes']			= 'Catatan';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file unit_test_lang.php */
+/* Location: ./application/language/indonesian/unit_test_lang.php */

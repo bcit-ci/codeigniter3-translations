@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
+ * @package CodeIgniter
+ * @author  EllisLab Dev Team
+ * @copyright   Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright   Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license http://opensource.org/licenses/MIT  MIT License
  * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @since   Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['migration_none_found']           = 'Herhangi bir taşınma bulunamadı.';
+$lang['migration_not_found']            = 'Belirtilen sürüm numaralı taşınma bulunamadı: %s.';
+$lang['migration_sequence_gap']         = 'Şu sürüm numarasına yakın taşınma sıralamasında bir boşluk var: %s.';
+$lang['migration_multiple_version']     = 'Aynı sürüm numaralı birden çok taşınma var: %s.';
+$lang['migration_class_doesnt_exist']   = 'Taşınma sınıfı "%s" bulunamadı.';
+$lang['migration_missing_up_method']    = '"%s" taşınma sınıfında "up" metodu eksik.';
+$lang['migration_missing_down_method']  = '"%s" taşınma sınıfında "down" metodu eksik.';
+$lang['migration_invalid_filename']     = '"%s" taşınmasında geçersiz dosya adı.';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file migration_lang.php */
+/* Location: ./application/language/turkish/migration_lang.php */

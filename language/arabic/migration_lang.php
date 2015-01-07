@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 3.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['migration_none_found']		= 'No migrations were found.';
+$lang['migration_not_found']		= 'No migration could be found with the version number: %s.';
+$lang['migration_sequence_gap']		= 'There is a gap in the migration sequence near version number: %s.';
+$lang['migration_multiple_version']	= 'There are multiple migrations with the same version number: %s.';
+$lang['migration_class_doesnt_exist']	= 'The migration class "%s" could not be found.';
+$lang['migration_missing_up_method']	= 'The migration class "%s" is missing an "up" method.';
+$lang['migration_missing_down_method']	= 'The migration class "%s" is missing a "down" method.';
+$lang['migration_invalid_filename']	= 'Migration "%s" has an invalid filename.';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file migration_lang.php */
+/* Location: ./application/language/arabic/migration_lang.php */

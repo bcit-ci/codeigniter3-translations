@@ -40,32 +40,35 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  ==============  =========================
 Idiom                    Status       User            Maintainer
 =======================  ===========  ==============  =========================
-arabic                   coming       Ihabafia        Ihab Abou Afia
+arabic                   done         daif            Daif Alotaibi
 bulgarian                done         ivantcholakov   Ivan Tcholakov
-catalan                  coming       rogervila       Roger Vilà
 czech                    done         Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
 french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
+indonesian               done         ridho1991       Mutasim Ridlo
 italian                  done         ster            Stefano Mazzega
-malaysian                coming       hafizhassan     Muhamad Hafizuddin
+korean                   done         KwonLatte       HyeongJoo Kwon
 norwegian                done         yhoiseth        Yngve Hoiseth
-persian                  coming       MSDehghan       Mohammad Sadegh
+persian                  done         MSDehghan       Mohammad Sadegh
 polish                   done         michalsn        Michał Śniatała
 portugese                done         j38600          Júlio Sebastião
 portugese-brazilian      done         mateusfbi       Mateus Brandão
 romanian                 done         Chiribuc        Cristian Robert Chiribuc
 russian                  done         vadimyer        Vadim Yermolin
-serbian                  coming       oldwizard       Bojan Egerić
 simplified-chinese       done         denghongcai     Deng HongCai
 spanish                  done         Razican         Iban Eguia
 swedish                  done         peterdenk       Peter Denk
 thai                     done         karidoe         Anuchit Thiam-uan
 traditional-chinese      done         PeterDaveHello  Peter Dave Hello
-vietnamese               coming       depchuanseo     Oliver Sieu
-yodish                   done         jim-parry       Jim Parry
+turkish                  done         obozdag         Osman Bozdag
 =======================  ===========  ==============  =========================
 
+If you have a translation or correction, please fork the repository, clone it
+locally, and then create a new branch (from master) 
+for each set of related changes or for
+a complete language pack. Once your branch is complete, *then* create a pull 
+request to merge it into the main repository. Remember to "sign" your commits.
 
 Pull requests to the repository will only be considered if they come from 
 the maintainer for any translations in the request, or if the maintainer

@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CodeIgniter
  *
@@ -27,22 +26,36 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
+ * @package CodeIgniter
+ * @author  EllisLab Dev Team
+ * @copyright   Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright   Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license http://opensource.org/licenses/MIT  MIT License
  * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @since   Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['ut_test_name']       = 'Test Adı';
+$lang['ut_test_datatype']   = 'Test Veri Türü';
+$lang['ut_res_datatype']    = 'Beklenen Veri Türü';
+$lang['ut_result']          = 'Sonuç';
+$lang['ut_undefined']       = 'Belirsiz Test Adı';
+$lang['ut_file']            = 'Dosya Adı';
+$lang['ut_line']            = 'Satır Numarası';
+$lang['ut_passed']          = 'Geçti';
+$lang['ut_failed']          = 'Başarısız';
+$lang['ut_boolean']         = 'Boolean';
+$lang['ut_integer']         = 'Integer';
+$lang['ut_float']           = 'Float';
+$lang['ut_double']          = 'Float'; // can be the same as float
+$lang['ut_string']          = 'String';
+$lang['ut_array']           = 'Array';
+$lang['ut_object']          = 'Nesne';
+$lang['ut_resource']        = 'Kaynak';
+$lang['ut_null']            = 'Null';
+$lang['ut_notes']           = 'Notlar';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file unit_test_lang.php */
+/* Location: ./application/language/turkish/unit_test_lang.php */

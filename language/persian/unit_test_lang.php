@@ -27,22 +27,36 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'To';
-$lang['gigabyte_abbr'] = 'Go';
-$lang['megabyte_abbr'] = 'Mo';
-$lang['kilobyte_abbr'] = 'Ko';
-$lang['bytes'] = 'Octets';
+$lang['ut_test_name'] = 'اسم تست';
+$lang['ut_test_datatype'] = 'نوع داده تست';
+$lang['ut_res_datatype'] = 'نوع داده مورد انتظار';
+$lang['ut_result'] = 'نتیجه';
+$lang['ut_undefined'] = 'تست تعریف نشده';
+$lang['ut_file'] = 'اسم فایل';
+$lang['ut_line'] = 'خط';
+$lang['ut_passed'] = 'موفق';
+$lang['ut_failed'] = 'نا موفق';
+$lang['ut_boolean'] = 'بولین';
+$lang['ut_integer'] = 'عددی';
+$lang['ut_float'] = 'اعشاری';
+$lang['ut_double'] = 'اعشاری'; // can be the same as float
+$lang['ut_string'] = 'رشته';
+$lang['ut_array'] = 'آرایه';
+$lang['ut_object'] = 'شی';
+$lang['ut_resource'] = 'منبع';
+$lang['ut_null'] = 'مال';
+$lang['ut_notes'] = 'یادداشت ها';
 
-/* End of file number_lang.php */
-/* Location: ./application/language/french/number_lang.php */
+/* End of file unit_test_lang.php */
+/* Location: ./application/language/persian/unit_test_lang.php */
