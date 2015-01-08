@@ -55,10 +55,10 @@ $lang['profiler_no_post'] = 'Nessun POST esistente';
 $lang['profiler_no_get'] = 'Nessun GET esistente';
 $lang['profiler_no_uri'] = 'Nessun URI esistente';
 $lang['profiler_no_memory'] = 'Utilizzo memoria non disponibile';
-$lang['profiler_no_profiles'] = 'No Profile data - all Profiler sections have been disabled.';
+$lang['profiler_no_profiles'] = 'No Profile data - tutte le sezioni del Profiler sono state disabilitate.';
 $lang['profiler_section_hide'] = 'Nascondi';
 $lang['profiler_section_show'] = 'Mostra';
 $lang['profiler_seconds'] = 'secondi';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/italian/profiler_lang.php */
+/* Location: ./application/language/italian/profiler_lang.php */

@@ -45,8 +45,8 @@ $lang['db_unable_to_create'] = 'Impossibile creare il database specificato: %s';
 $lang['db_invalid_query'] = 'La query immessa non &egrave; valida.';
 $lang['db_must_set_table'] = 'Impostare il database da utilizzare per la query immessa.';
 $lang['db_must_use_set'] = 'Devi utilizzare il metodo "set" per eseguire l\'update del tuo record.';
-$lang['db_must_use_index'] = 'You must specify an index to match on for batch updates.'; // translate
-$lang['db_batch_missing_index'] = 'One or more rows submitted for batch updating is missing the specified index.'; // translate
+$lang['db_must_use_index'] = 'Devi specificare un indice per poter effettuare l\'aggiornamento in batch.';
+$lang['db_batch_missing_index'] = 'Una o pi&ugrave; righe presenti per l\'aggiornamento in batch non contengono l\'indice specificato.';
 $lang['db_must_use_where'] = 'Le query di "Update" sono consentite solo se contengono la clausola "where".';
 $lang['db_del_must_use_where'] = 'Le query di "Delete" sono consentite solo se contengono la clausola "where".';
 $lang['db_field_param_missing'] = 'Per eseguire il fetch dei campi &egrave; necessario il nome della tabella passato come parametro.';
@@ -64,4 +64,4 @@ $lang['db_unable_to_set_charset'] = 'Impossibile impostare la client connection 
 $lang['db_error_heading'] = 'Errore del database';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/italian/db_lang.php */
+/* Location: ./application/language/italian/db_lang.php */

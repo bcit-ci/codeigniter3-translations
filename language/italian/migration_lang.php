@@ -48,4 +48,4 @@ $lang['migration_missing_down_method'] = 'La classe migrazione "%s" &egrave; spr
 $lang['migration_invalid_filename'] = 'La migrazione "%s" ha un nome file non valido.';
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/italian/migration_lang.php */
+/* Location: ./application/language/italian/migration_lang.php */

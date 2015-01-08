@@ -52,4 +52,4 @@ $lang['ftp_unable_to_delete'] = 'Impossibile cancellare il file.';
 $lang['ftp_unable_to_move'] = 'Impossibile muovere il file. Assicurarsi che la directory di destinazione esista.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/italian/ftp_lang.php */
+/* Location: ./application/language/italian/ftp_lang.php */

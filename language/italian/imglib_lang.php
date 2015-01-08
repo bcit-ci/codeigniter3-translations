@@ -57,4 +57,4 @@ $lang['imglib_missing_font'] = 'Impossibile trovare la font da utilizzare.';
 $lang['imglib_save_failed'] = 'Impossibile salvare l\'immagine. Verificare che l\'immagine e la directory siano scrivibili.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/italian/imglib_lang.php */
+/* Location: ./application/language/italian/imglib_lang.php */

@@ -59,4 +59,4 @@ $lang['email_smtp_data_failure'] = 'Impossibile inviare i dati: %s';
 $lang['email_exit_status'] = 'Codice di status di uscita: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/italian/email_lang.php */
+/* Location: ./application/language/italian/email_lang.php */

@@ -56,4 +56,4 @@ $lang['upload_bad_filename'] = 'Il nome del file che &egrave; stato inviato &egr
 $lang['upload_not_writable'] = 'La cartella di upload non &egrave; scrivibile.';
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./application/language/italian/upload_lang.php */
