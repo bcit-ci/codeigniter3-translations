@@ -65,6 +65,7 @@ $lang['form_validation_less_than'] = 'Полето "{field}" трябва да �
 $lang['form_validation_less_than_equal_to'] = 'Полето "{field}" трябва да съдържа число, по-малко или равно на {param}.';
 $lang['form_validation_greater_than'] = 'Полето "{field}" трябва да съдържа число, по-голямо от {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Полето "{field}" трябва да съдържа число, по-голямо или равно на {param}.';
+$lang['form_validation_error_message_not_set'] = 'Грешка в полето "{field}". Описанието на грешката не е зададено.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/bulgarian/form_validation_lang.php */
