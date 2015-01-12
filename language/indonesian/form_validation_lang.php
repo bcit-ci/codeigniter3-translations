@@ -64,6 +64,7 @@ $lang['form_validation_less_than']		= 'Bidang {field} harus berisi angka kurang 
 $lang['form_validation_less_than_equal_to']	= 'Bidang {field} harus berisi angka kurang dari atau sama dengan {param}.';
 $lang['form_validation_greater_than']		= 'Bidang {field} harus berisi angka lebih besar dari {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Bidang {field} harus berisi angka yang lebih besar dari atau sama dengan {param}.';
+$lang['form_validation_error_message_not_set'] = 'Tidak dapat mengakses pesan kesalahan sesuai dengan nama bidang Anda {field}.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/indonesian/form_validation_lang.php */
