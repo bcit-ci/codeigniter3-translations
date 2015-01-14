@@ -6,7 +6,7 @@
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -29,7 +29,7 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
@@ -58,12 +58,13 @@ $lang['form_validation_matches']		= '{field}은(는) {param}와(과) 일치하�
 $lang['form_validation_differs']		= '{field}은(는) {param}와(과) 일치하지 않아야 합니다.';
 $lang['form_validation_is_unique'] 		= '{field}은(는) 고윳값이 아닙니다.';
 $lang['form_validation_is_natural']		= '{field}은(는) 반드시 수를 포함하여야 합니다.';
-$lang['form_validation_is_natural_no_zero']	= '{field}은(는) 반드시 숫자를 포함하고, 0보다 커야합니다.';
+$lang['form_validation_is_natural_no_zero']	= '{field}은(는) 반드시 숫자를 포함하고, 0보다 커야 합니다.';
 $lang['form_validation_decimal']		= '{field}은(는) 반드시 소수여야 합니다.';
 $lang['form_validation_less_than']		= '{field}은(는) {param}보다 작아야 합니다.';
 $lang['form_validation_less_than_equal_to']	= '{field}은(는) {param}보다 작거나 같아야 합니다.';
-$lang['form_validation_greater_than']		= '{field}은(는) {param}보다 커야합니다.';
+$lang['form_validation_greater_than']		= '{field}은(는) {param}보다 커야 합니다.';
 $lang['form_validation_greater_than_equal_to']	= '{field}은(는) {param}보다 크거나 같아야 합니다.';
+$lang['form_validation_error_message_not_set']  = '{field}필드의 에러메시지가 설정되어있지 않습니다.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/korean/form_validation_lang.php */
