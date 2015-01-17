@@ -37,7 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['cal_su']         = 'Pz';
+$lang['cal_su']         = 'Pa';
 $lang['cal_mo']         = 'Pt';
 $lang['cal_tu']         = 'Sa';
 $lang['cal_we']         = 'Ça';
@@ -50,7 +50,7 @@ $lang['cal_tue']        = 'Sal';
 $lang['cal_wed']        = 'Çar';
 $lang['cal_thu']        = 'Per';
 $lang['cal_fri']        = 'Cum';
-$lang['cal_sat']        = 'Cts';
+$lang['cal_sat']        = 'Cmt';
 $lang['cal_sunday']     = 'Pazar';
 $lang['cal_monday']     = 'Pazartesi';
 $lang['cal_tuesday']    = 'Salı';
