@@ -2,11 +2,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -26,13 +26,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package CodeIgniter
- * @author  EllisLab Dev Team
- * @copyright   Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright   Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license http://opensource.org/licenses/MIT  MIT License
- * @link    http://codeigniter.com
- * @since   Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
@@ -70,9 +70,9 @@ $lang['UM1']    = '(UTC -1:00) Azores, Cape Verde Adaları';
 $lang['UTC']    = '(UTC) Greenwich Ortalama Saati, Batı Avrupa Saati';
 $lang['UP1']    = '(UTC +1:00) Orta Avrupa Saati, Batı Africa Saati';
 $lang['UP2']    = '(UTC +2:00) Orta Africa Saati, Doğu Avrupa Saati, Kaliningrad Saati';
-$lang['UP3']    = '(UTC +3:00) Doğu Africa Saati, Arabia Standart Saati';
+$lang['UP3']    = '(UTC +3:00) Moskova Saati, Doğu Africa Saati, Arabia Standart Saati';
 $lang['UP35']   = '(UTC +3:30) İran Standart Saati';
-$lang['UP4']    = '(UTC +4:00) Moskova Saati, Azerbaycan Standart Saati';
+$lang['UP4']    = '(UTC +4:00) Azerbaycan Standart Saati, Samara Saati';
 $lang['UP45']   = '(UTC +4:30) Afganistan';
 $lang['UP5']    = '(UTC +5:00) Pakistan Standart Saati, Yekaterinburg Saati';
 $lang['UP55']   = '(UTC +5:30) Hindistan Standart Saati, Sri Lanka Saati';
@@ -86,7 +86,7 @@ $lang['UP9']    = '(UTC +9:00) Japonya Standart Saati, Kore Standart Saati, Yaku
 $lang['UP95']   = '(UTC +9:30) Avustralya Merkezi Standart Saati';
 $lang['UP10']   = '(UTC +10:00) Avustralya Doğu Standart Saati, Vladivostok Saati';
 $lang['UP105']  = '(UTC +10:30) Lord Howe Adası';
-$lang['UP11']   = '(UTC +11:00) Magadan Saati, Solomon Adaları, Vanuatu';
+$lang['UP11']   = '(UTC +11:00) Srednekolymsk Saati, Solomon Adaları, Vanuatu';
 $lang['UP115']  = '(UTC +11:30) Norfolk Adası';
 $lang['UP12']   = '(UTC +12:00) Fiji, Gilbert Adaları, Kamchatka Saati, Yeni Zelanda Standart Saati';
 $lang['UP1275'] = '(UTC +12:45) Chatham Adaları Standart Saati';

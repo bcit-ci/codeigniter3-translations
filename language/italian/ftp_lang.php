@@ -3,11 +3,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,7 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
@@ -43,7 +43,7 @@ $lang['ftp_unable_to_connect'] = 'Impossibile connettersi al server FTP utilizza
 $lang['ftp_unable_to_login'] = 'Impossibile effettuare il login al server FTP. Controllare username e password.';
 $lang['ftp_unable_to_makdir'] = 'Impossibile creare la directory specificata.';
 $lang['ftp_unable_to_changedir'] = 'Impossibile cambiare directory.';
-$lang['ftp_unable_to_chmod'] = 'Impossibile settare i permessi del file. Controllare l\'indirizzo.  Note: Questa funzionalit&agrave; &egrave; disponibile solo con PHP 5 o superiore.';
+$lang['ftp_unable_to_chmod'] = 'Impossibile settare i permessi del file. Controllare l\'indirizzo.  Note: Questa funzionalità è disponibile solo con PHP 5 o superiore.';
 $lang['ftp_unable_to_upload'] = 'Impossibile eseguire l\'upload del file specificato. Controllare l\'indirizzo.';
 $lang['ftp_unable_to_download'] = 'Impossibile eseguire il download del file specificato. Controllare l\'indirizzo.';
 $lang['ftp_no_source_file'] = 'Impossibile localizzare il file sorgente. Controllare l\'indirizzo.';
@@ -52,4 +52,4 @@ $lang['ftp_unable_to_delete'] = 'Impossibile cancellare il file.';
 $lang['ftp_unable_to_move'] = 'Impossibile muovere il file. Assicurarsi che la directory di destinazione esista.';
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/italian/ftp_lang.php */
+/* Location: ./application/language/italian/ftp_lang.php */

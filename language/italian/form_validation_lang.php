@@ -3,11 +3,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,7 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['form_validation_required'] = 'Il campo {field} &egrave; necessario.';
+$lang['form_validation_required'] = 'Il campo {field} è necessario.';
 $lang['form_validation_isset'] = 'Il campo {field} deve avere un valore.';
 $lang['form_validation_valid_email'] = 'Il campo {field} deve contenere un indirizzo email valido.';
 $lang['form_validation_valid_emails'] = 'Il campo {field} deve contenere tutti indirizzi email validi.';
@@ -54,17 +54,18 @@ $lang['form_validation_alpha_dash'] = 'Il campo {field} deve contenere solo cara
 $lang['form_validation_numeric'] = 'Il campo {field} deve contenere un numero.';
 $lang['form_validation_is_numeric'] = 'Il campo {field} deve contenere un numero.';
 $lang['form_validation_integer'] = 'Il campo {field} deve contenere un intero.';
-$lang['form_validation_regex_match'] = 'Il campo {field} non &egrave; stato inserito nella forma corretta.';
+$lang['form_validation_regex_match'] = 'Il campo {field} non è stato inserito nella forma corretta.';
 $lang['form_validation_matches'] = 'Il campo {field} non è uguale al campo {param}.';
 $lang['form_validation_differs'] = 'Il campo {field} deve essere differente dal campo {param}.';
 $lang['form_validation_is_unique'] = 'Il campo {field} deve contenere un valore univoco.';
 $lang['form_validation_is_natural'] = 'Il campo {field} deve contenenre un numero.';
-$lang['form_validation_is_natural_no_zero'] = 'Il campo {field} deve contenere un numero pi&ugrave; grande di zero.';
+$lang['form_validation_is_natural_no_zero'] = 'Il campo {field} deve contenere un numero più grande di zero.';
 $lang['form_validation_decimal'] = 'Il campo {field} deve contenere un numero decimale.';
 $lang['form_validation_less_than'] = 'Il campo {field} deve contenere un numero inferiore a {param}.';
 $lang['form_validation_less_than_equal_to'] = 'Il campo {field} deve contenere un numero inferiore o uguale a {param}.';
 $lang['form_validation_greater_than'] = 'Il campo {field} deve contenere un numero maggiore di {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Il campo {field} deve contenere un numero maggiore o uguale a {param}.';
+$lang['form_validation_error_message_not_set']  = 'Non è stato possibile trovare il messaggio di errore relativo al campo {field}';
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/italian/form_validation_lang.php */
+/* Location: ./application/language/italian/form_validation_lang.php */

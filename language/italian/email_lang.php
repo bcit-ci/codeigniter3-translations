@@ -3,11 +3,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,7 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
@@ -47,9 +47,9 @@ $lang['email_no_recipients'] = 'E\' necessario includere le informazioni: A, Cc,
 $lang['email_send_failure_phpmail'] = 'Impossibile inviare una mail utilizzando la funzione PHP mail(). Il server sembra non essere configurato per inviare mail utilizzando questo metodo.';
 $lang['email_send_failure_sendmail'] = 'Impossibile inviare una mail utilizzando la funzione Sendmail(). Il server sembra non essere configurato per inviare mail utilizzando questo metodo.';
 $lang['email_send_failure_smtp'] = 'Impossibile inviare una mail utilizzando la funzione PHP SMTP. Il server sembra non essere configurato per inviare mail utilizzando questo metodo.';
-$lang['email_sent'] = 'Il tuo messaggio &egrave; stato inviato con successo utilizzando il seguente protocollo: %s';
+$lang['email_sent'] = 'Il tuo messaggio è stato inviato con successo utilizzando il seguente protocollo: %s';
 $lang['email_no_socket'] = 'Impossibile aprire un socket con Sendmail. Controllare i settaggi.';
-$lang['email_no_hostname'] = 'Non &egrave; stato specificato un hostname SMTP.';
+$lang['email_no_hostname'] = 'Non è stato specificato un hostname SMTP.';
 $lang['email_smtp_error'] = 'E\' stato riscontrato il seguente errore SMTP: %s';
 $lang['email_no_smtp_unpw'] = 'Errore: occorre assegnare un SMTP username e password.';
 $lang['email_failed_smtp_login'] = 'Invio del comando AUTH LOGIN fallito. Errore: %s';
@@ -59,4 +59,4 @@ $lang['email_smtp_data_failure'] = 'Impossibile inviare i dati: %s';
 $lang['email_exit_status'] = 'Codice di status di uscita: %s';
 
 /* End of file email_lang.php */
-/* Location: ./system/language/italian/email_lang.php */
+/* Location: ./application/language/italian/email_lang.php */

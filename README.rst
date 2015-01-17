@@ -40,11 +40,13 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  ==============  =========================
 Idiom                    Status       User            Maintainer
 =======================  ===========  ==============  =========================
+arabic                   done         daif            Daif Alotaibi
 bulgarian                done         ivantcholakov   Ivan Tcholakov
 czech                    done         Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
 french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
+indonesian               done         ridho1991       Mutasim Ridlo
 italian                  done         ster            Stefano Mazzega
 korean                   done         KwonLatte       HyeongJoo Kwon
 norwegian                done         yhoiseth        Yngve Hoiseth

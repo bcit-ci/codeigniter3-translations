@@ -3,11 +3,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,7 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
@@ -49,16 +49,16 @@ $lang['profiler_memory_usage'] = 'MEMORY USAGE';
 $lang['profiler_config'] = 'CONFIG VARIABLES';
 $lang['profiler_session_data'] = 'SESSION DATA';
 $lang['profiler_headers'] = 'HTTP HEADERS';
-$lang['profiler_no_db'] = 'Il driver del database non &egrave; attualmente caricato';
-$lang['profiler_no_queries'] = 'Nessuna query &egrave; stata eseguita';
+$lang['profiler_no_db'] = 'Il driver del database non è attualmente caricato';
+$lang['profiler_no_queries'] = 'Nessuna query è stata eseguita';
 $lang['profiler_no_post'] = 'Nessun POST esistente';
 $lang['profiler_no_get'] = 'Nessun GET esistente';
 $lang['profiler_no_uri'] = 'Nessun URI esistente';
 $lang['profiler_no_memory'] = 'Utilizzo memoria non disponibile';
-$lang['profiler_no_profiles'] = 'No Profile data - all Profiler sections have been disabled.';
+$lang['profiler_no_profiles'] = 'No Profile data - tutte le sezioni del Profiler sono state disabilitate.';
 $lang['profiler_section_hide'] = 'Nascondi';
 $lang['profiler_section_show'] = 'Mostra';
 $lang['profiler_seconds'] = 'secondi';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/italian/profiler_lang.php */
+/* Location: ./application/language/italian/profiler_lang.php */

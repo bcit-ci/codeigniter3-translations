@@ -1,13 +1,12 @@
 <?php
-
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -27,13 +26,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package    CodeIgniter
- * @author    EllisLab Dev Team
- * @copyright    Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright    Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license    http://opensource.org/licenses/MIT    MIT License
- * @link    http://codeigniter.com
- * @since    Version 1.0.0
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
@@ -53,8 +52,8 @@ $lang['db_field_param_missing']         = "La méthode \"fetch_fields()\" requie
 $lang['db_unsupported_function']        = "Cette fonctionnalité n'est pas disponible pour la base de données utilisée.";
 $lang['db_transaction_failure']         = "Erreur de transaction : la transaction est annulée.";
 $lang['db_unable_to_drop']              = "Impossible d'effacer la base de données spécifiée.";
-$lang['db_unsuported_feature']          = "Cette fonctionnalité n'est pas supportée par le système de gestion de bases de données utilisé.";
-$lang['db_unsuported_compression']      = "Le format de compression choisi n'est pas supporté par votre serveur.";
+$lang['db_unsupported_feature']         = "Cette fonctionnalité n'est pas supportée par le système de gestion de bases de données utilisé.";
+$lang['db_unsupported_compression']     = "Le format de compression choisi n'est pas supporté par votre serveur.";
 $lang['db_filepath_error']              = "Impossible d'écrire des données au chemin de fichiers indiqué.";
 $lang['db_invalid_cache_path']          = "Le chemin de mise en cache indiqué n'est pas valide ou inscriptible.";
 $lang['db_table_name_required']         = "Un nom de table est requis pour cette opération.";

@@ -2,11 +2,11 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP 5.2.4 or newer
+ * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -29,8 +29,8 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT MIT License
  * @link	http://codeigniter.com
  * @since	Version 1.0.0
  * @filesource
@@ -70,7 +70,7 @@ $lang['UM1'] = '(UTC -1:00) 亞速爾群島、佛得角群島';
 $lang['UTC'] = '(UTC) 格林威治標準時間、西歐';
 $lang['UP1'] = '(UTC +1:00) 中歐、西非';
 $lang['UP2'] = '(UTC +2:00) 中部非洲、東歐、加里寧格勒';
-$lang['UP3'] = '(UTC +3:00) 莫斯科、東非';
+$lang['UP3'] = '(UTC +3:00) 莫斯科、東非、阿拉伯標準時間';
 $lang['UP35'] = '(UTC +3:30) 伊朗標準時間';
 $lang['UP4'] = '(UTC +4:00) 阿塞拜疆標準時間、薩馬拉';
 $lang['UP45'] = '(UTC +4:30) 阿富汗';
@@ -86,7 +86,7 @@ $lang['UP9'] = '(UTC +9:00) 日本標準時間、韓國標準時間、雅庫茨�
 $lang['UP95'] = '(UTC +9:30) 澳大利亞中部標準時間';
 $lang['UP10'] = '(UTC +10:00) 澳大利亞東部標準時間、符拉迪沃斯托克';
 $lang['UP105'] = '(UTC +10:30) 豪勳爵島';
-$lang['UP11'] = '(UTC +11:00) 馬加丹、所羅門群島、瓦努阿圖';
+$lang['UP11'] = '(UTC +11:00) 中科雷姆斯克時間、所羅門群島、瓦努阿圖';
 $lang['UP115'] = '(UTC +11:30) 諾福克島';
 $lang['UP12'] = '(UTC +12:00) 斐濟、吉爾伯特群島、堪察加半島、新西蘭標準時間';
 $lang['UP1275'] = '(UTC +12:45) 查塔姆群島標準時間';
