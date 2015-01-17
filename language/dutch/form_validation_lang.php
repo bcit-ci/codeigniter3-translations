@@ -68,6 +68,6 @@ $lang['form_validation_less_than']		= 'Het {field}-veld dient een nummer kleiner
 $lang['form_validation_less_than_equal_to']	= 'Het {field}-veld dient een nummer kleiner of gelijk aan {param} te bevatten.';
 $lang['form_validation_greater_than']		= 'Het {field}-veld dient een nummer groter dan {param} te bevatten.';
 $lang['form_validation_greater_than_equal_to']	= 'Het {field}-veld dient een nummer groter dan, of gelijk aan {param} te bevatten.';
-
+$lang['form_validation_error_message_not_set']  = 'Het {field}-Geen toegang tot een foutmelding door die overeenkomt met uw veldnaam.';
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/dutch/form_validation_lang.php */
