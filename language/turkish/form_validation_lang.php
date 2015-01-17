@@ -64,6 +64,7 @@ $lang['form_validation_less_than']              = '{field} alanı {param} den k�
 $lang['form_validation_less_than_equal_to']     = '{field} alanı {param} den küçük veya eşit bir sayı içermeli.';
 $lang['form_validation_greater_than']           = '{field} alanı {param} den büyük bir sayı içermeli.';
 $lang['form_validation_greater_than_equal_to']  = '{field} alanı {param} den büyük veya eşit bir sayı içermeli.';
+$lang['form_validation_error_message_not_set']	= '{field} alanı için bir hata mesajı bulunamadı.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/turkish/form_validation_lang.php */
