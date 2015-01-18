@@ -64,7 +64,7 @@ $lang['form_validation_less_than'] = 'Поле {field} должно содерж
 $lang['form_validation_less_than_equal_to'] = 'Поле {field} должно содержать значение меньше или равно {param}.';
 $lang['form_validation_greater_than'] = 'Поле {field} должно содержать значение больше {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Поле {field} должно содержать значение больше или равно {param}.';
-$lang['form_validation_error_message_not_set']  = 'Не удается получить доступ сообщение об ошибке, соответствующий вашему имени поля {field}.';
+$lang['form_validation_error_message_not_set']  = 'Для поля {field} не установлено сообщение об ошибке.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/russian/form_validation_lang.php */
