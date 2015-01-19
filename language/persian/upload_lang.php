@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'عدم موفقیت در \یدا کردن یک متغیر که در post باشد و نام آن نیز userfile باشد. ';
+$lang['upload_userfile_not_set'] = 'عدم موفقیت در پیدا کردن یک متغیر که در post باشد و نام آن نیز userfile باشد. ';
 $lang['upload_file_exceeds_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در تنظیمات PHP است.';
 $lang['upload_file_exceeds_form_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در فرم است.';
 $lang['upload_file_partial'] = 'فقط قسمتی از فایل آپلود شده است . ';

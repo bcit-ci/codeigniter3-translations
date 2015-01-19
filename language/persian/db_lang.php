@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str'] = 'عدم موفقیت در تشخیص تنظیمات پایگاه داده بر مبای رشته وارد شده برای دیتابیس.';
+$lang['db_invalid_connection_str'] = 'عدم موفقیت در تشخیص تنظیمات پایگاه داده بر مبنای رشته وارد شده برای دیتابیس.';
 $lang['db_unable_to_connect'] = 'عدم موفقیت در ارتباط با پایگاه داده';
 $lang['db_unable_to_select'] = 'عدم موفقیت در اتصال به پایگاه داده مشخص شده : %s';
 $lang['db_unable_to_create'] = 'عدم موفقیت در ایجاد جدول مشخص شده : %s';
@@ -61,7 +61,7 @@ $lang['db_table_name_required'] = 'برای انجام این کار اسم جد
 $lang['db_column_name_required'] = 'Rبرای انجام این کار نام ستون مورد نیاز اسیت.';
 $lang['db_column_definition_required'] = 'یک ستون تعریف شده برای این کار مورد نیاز است.';
 $lang['db_unable_to_set_charset'] = 'موفق به تغیر character set نشدم : %s';
-$lang['db_error_heading'] = 'خطالی دیتابیس اتفاق افتاده است.';
+$lang['db_error_heading'] = 'خطایی در دیتابیس اتفاق افتاده است.';
 
 /* End of file db_lang.php */
 /* Location: ./application/language/persian/db_lang.php */

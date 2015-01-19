@@ -41,7 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['form_validation_required'] = 'پر کردن فیلد {field} الزامی است.';
 $lang['form_validation_isset'] = 'فیلد {field} باید یک مقداری داشته باشد.';
 $lang['form_validation_valid_email'] = 'فیلد {field} باید یک ایمیل معتبر داشته باشد.';
-$lang['form_validation_valid_emails'] = 'فیلد {field} باید تماما شمال ایمیل های معتبر باشد.';
+$lang['form_validation_valid_emails'] = 'فیلد {field} باید تماما شامل ایمیل های معتبر باشد.';
 $lang['form_validation_valid_url'] = 'فیلد {field} باید شامل یک آدرس اینترنتی معتبر باشد.';
 $lang['form_validation_valid_ip'] = 'فیلد {field} باید شامل یک IP معتبر باشد.';
 $lang['form_validation_min_length'] = 'فیلد {field} باید حداقل {param} حرف باشد.';

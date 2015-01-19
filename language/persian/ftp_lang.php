@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'هیچ ارطباتی پیدا نشد. لطفا اطمینان حاصل کنید ارتباط وجود دارد.';
+$lang['ftp_no_connection']		= 'هیچ ارتباطی پیدا نشد. لطفا اطمینان حاصل کنید ارتباط وجود دارد.';
 $lang['ftp_unable_to_connect']		= 'عدم موفقیت در وصل شدن به سرور FTP.';
 $lang['ftp_unable_to_login']		= 'عدم موفقیت در ورود به FTP.';
 $lang['ftp_unable_to_mkdir']		= 'عدم موفقیت در ایجاد پوشه مورد نظر';
@@ -49,7 +49,7 @@ $lang['ftp_unable_to_download']		= 'عدم موفقیت در دانلود فای
 $lang['ftp_no_source_file']		= 'عدم موفقیت در پیدا کردن فایل منبع.';
 $lang['ftp_unable_to_rename']		= 'عدم موفقیت در تغیر نام فایل.';
 $lang['ftp_unable_to_delete']		= 'عدم موفقیت در حذف کردن فایل.';
-$lang['ftp_unable_to_move']		= 'عدم موفقیت در انتقال فایل. لطفا مطمپن شوید پوشه مقصد موجود است.';
+$lang['ftp_unable_to_move']		= 'عدم موفقیت در انتقال فایل. لطفا مطمئن شوید پوشه مقصد وجود داشته باشد.';
 
 /* End of file ftp_lang.php */
 /* Location: ./application/language/persian/ftp_lang.php */
