@@ -64,6 +64,7 @@ $lang['form_validation_less_than']		= 'الحقل {field} يجب أن يحتوى
 $lang['form_validation_less_than_equal_to']	= 'الحقل {field} يجب أن يحتوى على رقم أقل أو يساوي {param}.';
 $lang['form_validation_greater_than']		= 'الحقل {field} يجب أن يحتوى على رقم أكبر من {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'الحقل {field} يجب أن يحتوى على رقم أكبر من أو يساوي {param}.';
+$lang['form_validation_error_message_not_set']	= ' الحقل{field}  غير قادر على الوصول إلى رسالة خطأ المقابلة ل اسم مجال عملك.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./application/language/arabic/form_validation_lang.php */
