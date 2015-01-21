@@ -39,8 +39,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']		= '{field}은(는) 필수입니다.';
 $lang['form_validation_isset']			= '{field}은(는) 필수입니다.';
-$lang['form_validation_valid_email']		= '{field}은(는) 유효한 이메일이 아닙니다.';
-$lang['form_validation_valid_emails']		= '{field}은(는) 유효한 이메일들이 아닙니다.';
+$lang['form_validation_valid_email']		= '{field}은(는) 유효한 이메일 주소 형식이 아닙니다.';
+$lang['form_validation_valid_emails']		= '{field}은(는) 하나 이상의 이메일 주소가 유효한 형식이 아닙니다.';
 $lang['form_validation_valid_url']		= '{field}은(는) 유효한 URL이 아닙니다.';
 $lang['form_validation_valid_ip']		= '{field}은(는) 유효한 IP가 아닙니다.';
 $lang['form_validation_min_length']		= '{field}은(는) 최소 {param}자 이상이어야 합니다.';
