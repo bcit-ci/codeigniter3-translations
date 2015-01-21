@@ -37,7 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'FTP connection ID에 연결할 수 없습니다. 계정정보를 확인하거나 서버상태를 확인하세요.';
+$lang['ftp_no_connection']		= 'FTP connection에 연결할 수 없습니다. 계정정보를 확인하거나 서버상태를 확인하세요.';
 $lang['ftp_unable_to_connect']		= '입력하신 호스트에 접속할 수 없습니다.';
 $lang['ftp_unable_to_login']		= 'FTP 서버에 로그인 할 수 없습니다. 계정정보를 확인하세요.';
 $lang['ftp_unable_to_mkdir']		= '디렉토리를 생성할 수 없습니다.';
