@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Не може да се удостовери по
 $lang['email_smtp_auth_pw'] = 'Не може да се удостовери паролата. Грешка: %s';
 $lang['email_smtp_data_failure'] = 'Не могат да се изпращат данни: %s';
 $lang['email_exit_status'] = 'Код на завършване: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/bulgarian/email_lang.php */

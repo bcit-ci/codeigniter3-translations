@@ -58,6 +58,3 @@ $lang['profiler_no_profiles'] = 'Няма Profile данни - всички се
 $lang['profiler_section_hide'] = 'Скриване';
 $lang['profiler_section_show'] = 'Показване';
 $lang['profiler_seconds'] = 'секунди';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/bulgarian/profiler_lang.php */

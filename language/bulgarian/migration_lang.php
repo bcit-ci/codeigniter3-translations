@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist'] = 'Класът за миграция "%s"
 $lang['migration_missing_up_method'] = 'В класа за миграция "%s" липсва методът "up".';
 $lang['migration_missing_down_method'] = 'В класа за миграция "%s" липсва методът "down".';
 $lang['migration_invalid_filename'] = 'Миграцията "%s" е с невалидно име на файл.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/bulgarian/migration_lang.php */

@@ -56,6 +56,3 @@ $lang['ut_object'] = 'Object';
 $lang['ut_resource'] = 'Resource';
 $lang['ut_null'] = 'NULL';
 $lang['ut_notes'] = 'Бележки';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/bulgarian/unit_test_lang.php */
