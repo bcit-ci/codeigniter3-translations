@@ -92,6 +92,3 @@ $lang['UP12']	= '(UTC +12:00) Fiji, Pulau Gilbert, Waktu Kamchatka, Standar Wakt
 $lang['UP1275']	= '(UTC +12:45) Standar Waktu Pulau Chatham';
 $lang['UP13']	= '(UTC +13:00) Zona Waktu Samoa, Waktu Pulau Phoenix, Tonga';
 $lang['UP14']	= '(UTC +14:00) Pulau Line';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/indonesian/date_lang.php */
