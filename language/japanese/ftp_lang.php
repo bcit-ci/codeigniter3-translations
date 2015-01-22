@@ -49,6 +49,3 @@ $lang['ftp_no_source_file'] = '元のファイルにアクセスできません�
 $lang['ftp_unable_to_rename'] = 'ファイル名を変更できません';
 $lang['ftp_unable_to_delete'] = 'ファイルを削除できません';
 $lang['ftp_unable_to_move'] = 'ファイルを移動できません。移動先のディレクトリが存在するか確かめてください';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/japanese/ftp_lang.php */

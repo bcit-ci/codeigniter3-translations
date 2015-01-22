@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = 'Stien til bildet er feil.';
 $lang['imglib_copy_failed'] = 'Bildekopiering mislyktes.';
 $lang['imglib_missing_font'] = 'Fant ingen font.';
 $lang['imglib_save_failed'] = 'Lagring av bildet mislyktes. Sjekk at bildet og mappen er skrivbare.';
-
-/* End of file imglib_lang.php */
-/* Location: ./system/language/norwegian/imglib_lang.php */

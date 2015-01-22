@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist']	= 'Fant ikke migrasjonsklassen «%s».';
 $lang['migration_missing_up_method']	= 'Migrasjonsklassen «%s» mangler en «up»-metode.';
 $lang['migration_missing_down_method']	= 'Migrasjonsklassen «%s» mangler en «down»-metode.';
 $lang['migration_invalid_filename']	= 'Migrasjon «%s» har et ugyldig filnavn.';
-
-/* End of file migration_lang.php */
-/* Location: ./system/language/norwegian/migration_lang.php */

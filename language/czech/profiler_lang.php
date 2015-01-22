@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']     = 'Žádná profilová data. Všechny sekce pr
 $lang['profiler_section_hide']    = 'Skryj';
 $lang['profiler_section_show']    = 'Ukaž';
 $lang['profiler_seconds']         = 'sekund';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/czech/profiler_lang.php */

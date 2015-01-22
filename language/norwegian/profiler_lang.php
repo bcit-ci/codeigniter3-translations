@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'Ingen profildata - alle profiler-seksjoner har 
 $lang['profiler_section_hide']	= 'Skjul';
 $lang['profiler_section_show']	= 'Vis';
 $lang['profiler_seconds']		= 'Sekunder';
-
-/* End of file profiler_lang.php */
-/* Location: ./system/language/norwegian/profiler_lang.php */

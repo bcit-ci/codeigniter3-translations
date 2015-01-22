@@ -83,6 +83,3 @@ $lang['cal_september'] = 'Setembro';
 $lang['cal_october'] = 'Outubro';
 $lang['cal_november'] = 'Novembro';
 $lang['cal_december'] = 'Dezembro';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/portuguese-brazilian/calendar_lang.php */

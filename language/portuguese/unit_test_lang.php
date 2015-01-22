@@ -56,6 +56,3 @@ $lang['ut_object'] = 'Objeto';
 $lang['ut_resource'] = 'Recurso';
 $lang['ut_null'] = 'Vazio';
 $lang['ut_notes'] = 'Notas';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/portuguese/unit_test_lang.php */

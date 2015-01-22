@@ -58,6 +58,3 @@ $lang['profiler_no_profiles'] = 'Não há dados de Profile - Todas as secções 
 $lang['profiler_section_hide'] = 'Esconder';
 $lang['profiler_section_show'] = 'Mostrar';
 $lang['profiler_seconds'] = 'segundos';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/portuguese/profiler_lang.php */

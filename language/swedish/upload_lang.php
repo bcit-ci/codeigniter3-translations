@@ -53,6 +53,3 @@ $lang['upload_no_filepath']		= 'Sökvägen för uppladdning tycks inte vara gilt
 $lang['upload_no_file_types']		= 'Inga tillåtna filtyper har angetts.';
 $lang['upload_bad_filename']		= 'En fil med samma namn finns redan på servern.';
 $lang['upload_not_writable']		= 'Destinationsmappen för uppladdningen tycks inte vara skrivbar.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/swedish/upload_lang.php */

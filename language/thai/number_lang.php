@@ -42,6 +42,3 @@ $lang['gigabyte_abbr'] = 'GB';
 $lang['megabyte_abbr'] = 'MB';
 $lang['kilobyte_abbr'] = 'KB';
 $lang['bytes'] = 'ไบต์';
-
-/* End of file number_lang.php */
-/* Location: ./application/language/thai/number_lang.php */

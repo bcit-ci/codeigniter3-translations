@@ -57,6 +57,3 @@ $lang['email_smtp_auth_un'] = 'خطا در اعتبارسنجی username. خطا
 $lang['email_smtp_auth_pw'] = 'خطا در اعتبارسنجی password. خطا: %s';
 $lang['email_smtp_data_failure'] = 'عدم موفقیت در ارسال داده ها: %s';
 $lang['email_exit_status'] = 'کد وضعیت خروج: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/persian/email_lang.php */

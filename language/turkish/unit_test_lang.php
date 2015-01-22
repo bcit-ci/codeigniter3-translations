@@ -56,6 +56,3 @@ $lang['ut_object']          = 'Nesne';
 $lang['ut_resource']        = 'Kaynak';
 $lang['ut_null']            = 'Null';
 $lang['ut_notes']           = 'Notlar';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/turkish/unit_test_lang.php */

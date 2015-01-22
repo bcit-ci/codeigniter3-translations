@@ -53,6 +53,3 @@ $lang['upload_no_filepath']             = 'Yükleme yolu geçersiz.';
 $lang['upload_no_file_types']           = 'İzin verilen dosya türleri belirtilmemiş.';
 $lang['upload_bad_filename']            = 'Belirtilen dosya adı sunucuda zaten var.';
 $lang['upload_not_writable']            = 'Dosyanın yükleneceği kalıcı klasör yazılabilir değil.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/turkish/upload_lang.php */

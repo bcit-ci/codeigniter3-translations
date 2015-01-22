@@ -46,6 +46,3 @@ $lang['migration_class_doesnt_exist'] = '无法找到迁移类 "%s"。';
 $lang['migration_missing_up_method'] = '无法找到迁移类 "%s" 中的 "up" 方法。';
 $lang['migration_missing_down_method'] = '无法找到迁移类 "%s" 中的 " 方法。';
 $lang['migration_invalid_filename'] = '无效的迁移文件名："%s"。';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/simplified-chinese/migration_lang.php */

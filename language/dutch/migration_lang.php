@@ -49,6 +49,3 @@ $lang['migration_class_doesnt_exist']	= 'De migratie-class "%s" kon niet gevonde
 $lang['migration_missing_up_method']	= 'De migratie-class "%s" mist een "up"-methode';
 $lang['migration_missing_down_method']	= 'De migratie-class "%s" mist een "down"-methode.';
 $lang['migration_invalid_filename']	= 'De migratie "%s" heeft een ongeldige bestandsnaam.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/dutch/migration_lang.php */

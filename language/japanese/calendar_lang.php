@@ -82,6 +82,3 @@ $lang['cal_september']	= "9月";
 $lang['cal_october'] 	= "10月";
 $lang['cal_november']	= "11月";
 $lang['cal_december'] 	= "12月";
-
-/* End of file calendar_lang.php */
-/* Location: ./system/language/english/calendar_lang.php */

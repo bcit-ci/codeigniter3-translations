@@ -65,6 +65,3 @@ $lang['form_validation_less_than_equal_to']     = 'O campo {field} tem que conte
 $lang['form_validation_greater_than']           = 'O campo {field} tem que conter um número superior a {param}.';
 $lang['form_validation_greater_than_equal_to']  = 'O campo {field} tem que conter um número superior ou igual a {param}.';
 $lang['form_validation_error_message_not_set']  = 'Não existe uma mensagem de erro para o campo com o nome {field}.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/portuguese/form_validation_lang.php */

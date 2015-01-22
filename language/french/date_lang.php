@@ -92,6 +92,3 @@ $lang['UP12']    = "(UTC +12:00) Heure Fidji, Îles Gilbert, Kamchatka, heure no
 $lang['UP1275']  = "(UTC +12:45) Heure normale des Îles Chatham";
 $lang['UP13']    = "(UTC +13:00) Heure normale des Îles Phénix, heure Tonga";
 $lang['UP14']    = "(UTC +14:00) Heure normale des Îles Line";
-
-/* End of file date_lang.php */
-/* Location: ./application/language/french/date_lang.php */

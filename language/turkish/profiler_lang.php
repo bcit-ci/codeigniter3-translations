@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']       = 'Profil verisi bulunamadı - Tüm profil b
 $lang['profiler_section_hide']      = 'Gizle';
 $lang['profiler_section_show']      = 'Göster';
 $lang['profiler_seconds']           = 'saniye';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/turkish/profiler_lang.php */

@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist'] = 'マイグレーションクラス "%s"�
 $lang['migration_missing_up_method'] = '"up"メソッドではマイグレーションクラス "%s" は見つかりません';
 $lang['migration_missing_down_method'] = '"down"メソッドではマイグレーションクラス "%s" は見つかりません';
 $lang['migration_invalid_filename'] = 'マイグレーション "%s" に不正なファイル名があります';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/japanese/migration_lang.php */

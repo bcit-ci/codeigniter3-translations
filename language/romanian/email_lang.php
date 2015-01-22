@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Autentificarea numelui de utilizator nu a putut f
 $lang['email_smtp_auth_pw'] = 'Autentificarea parolei nu a putut fi efectuată. Error: %s';
 $lang['email_smtp_data_failure'] = 'Datele nu pot fi trimise: %s';
 $lang['email_exit_status'] = 'Codul stării de ieșire: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/romanian/email_lang.php */

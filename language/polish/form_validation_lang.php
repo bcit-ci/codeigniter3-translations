@@ -66,6 +66,3 @@ $lang['form_validation_less_than_equal_to']     = 'Pole {field} musi zawierać l
 $lang['form_validation_greater_than']           = 'Pole {field} musi zawierać liczbę większą niż {param}.';
 $lang['form_validation_greater_than_equal_to']  = 'Pole {field} musi zawierać liczbę większą lub równą {param}.';
 $lang['form_validation_error_message_not_set']  = 'Nie można uzyskać dostępu do komunikatu o błędzie dla pola {field}.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/polish/form_validation_lang.php */

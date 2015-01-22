@@ -66,6 +66,3 @@ $lang['form_validation_less_than_equal_to'] = 'فیلد {field} باید شام�
 $lang['form_validation_greater_than'] = 'فیلد {field} باید شامل یک مقدار بزرگ تر از {param} باشد.';
 $lang['form_validation_greater_than_equal_to'] = 'فیلد {field} باید شامل یک مقدار بیشتر یا مساوی {param} باشد.';
 $lang['form_validation_error_message_not_set']  = 'عدم دسترسی به پیغام خطای فیلد{field}.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/persian/form_validation_lang.php */

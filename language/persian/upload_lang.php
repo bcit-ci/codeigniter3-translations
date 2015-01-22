@@ -54,6 +54,3 @@ $lang['upload_no_filepath'] = 'آدرس مورد نظر برای اپلود فا
 $lang['upload_no_file_types'] = 'شما هیچ نوع فایل مجازی را انتخاب نکرده اید.';
 $lang['upload_bad_filename'] = 'یک فایل هم نام با فایل آپلود شده موجود می باشد.';
 $lang['upload_not_writable'] = 'پوشه مشخص شده برای آپلود قابل نوشتن نیست.  ';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/persian/upload_lang.php */

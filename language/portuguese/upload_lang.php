@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'O caminho de upload não parece ser válido.';
 $lang['upload_no_file_types'] = 'Não especificou nenhum tipo de ficheiro válidos.';
 $lang['upload_bad_filename'] = 'O nome de ficheiro que introduziu já existe no servidor.';
 $lang['upload_not_writable'] = 'A diretoria de upload parece não ter permissões de escrita.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/portuguese/upload_lang.php */

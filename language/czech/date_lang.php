@@ -92,6 +92,3 @@ $lang['UP12']   = '(UTC +12:00) Fiji, Gilbertovy Ostrovy, Kamčatský Čas, Novo
 $lang['UP1275'] = '(UTC +12:45) Chathamovy ostrovy';
 $lang['UP13']   = '(UTC +13:00) Samoa Časová Zóna, Fénixovy Ostrovy, Tonga';
 $lang['UP14']   = '(UTC +14:00) Liniové ostrovy';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/czech/date_lang.php */

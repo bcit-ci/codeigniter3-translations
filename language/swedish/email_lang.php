@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un']		= 'Användarnamnet godkändes inte. Felmeddelande: 
 $lang['email_smtp_auth_pw']		= 'Lösenordet godkändes inte. Felmeddelande: %s';
 $lang['email_smtp_data_failure']	= 'Kunde inte skicka data: %s';
 $lang['email_exit_status']		= 'Statuskod vid avslut: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/swedish/email_lang.php */

@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = 'Jalur ke gambar tersebut tidak benar.';
 $lang['imglib_copy_failed'] = 'Menyalin gambar rutin gagal.';
 $lang['imglib_missing_font'] = 'Tidak dapat menemukan huruf untuk menggunakan.';
 $lang['imglib_save_failed'] = 'Tidak dapat menyimpan gambar. Pastikan gambar dan direktori berkas dapat ditulis.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/indonesian/imglib_lang.php */

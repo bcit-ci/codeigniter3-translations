@@ -82,6 +82,3 @@ $lang['cal_september']	= 'سبتمبر';
 $lang['cal_october']	= 'أكتوبر';
 $lang['cal_november']	= 'نوفمبر';
 $lang['cal_december']	= 'ديسمبر';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/arabic/calendar_lang.php */

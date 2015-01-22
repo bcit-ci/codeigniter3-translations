@@ -61,6 +61,3 @@ $lang['db_column_name_required']        = 'Bu işlem için bir sütun adı gerek
 $lang['db_column_definition_required']  = 'Bu işlem için bir sütun tanımlaması gerekli';
 $lang['db_unable_to_set_charset']       = 'Kullanıcı bağlantı karakter seti ayarlanamıyor: %s';
 $lang['db_error_heading']               = 'Bir Veri Tabanı Hatası Oluştu';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/turkish/db_lang.php */

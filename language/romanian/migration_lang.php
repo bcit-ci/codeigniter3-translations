@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist']	= 'Clasa migrației "%s" nu a fost găsit�
 $lang['migration_missing_up_method']	= 'Clasei migrației "%s" îi lipsește o metodă de tip "up".';
 $lang['migration_missing_down_method']	= 'Clasei migrației "%s" îi lipsește o metodă de tip "down".';
 $lang['migration_invalid_filename']	= 'Migrația "%s" are un nume invalid..';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/romanian/migration_lang.php */

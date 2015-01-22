@@ -62,6 +62,3 @@ $lang['db_column_name_required'] = 'Rبرای انجام این کار نام س
 $lang['db_column_definition_required'] = 'یک ستون تعریف شده برای این کار مورد نیاز است.';
 $lang['db_unable_to_set_charset'] = 'موفق به تغیر character set نشدم : %s';
 $lang['db_error_heading'] = 'خطایی در دیتابیس اتفاق افتاده است.';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/persian/db_lang.php */

@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = 'Calea către imagine nu este corectă.';
 $lang['imglib_copy_failed'] = 'Copierea imaginii de rutină a eșuat.';
 $lang['imglib_missing_font'] = 'Nu s-a putut găsi un font pentru a fi folosit.';
 $lang['imglib_save_failed'] = 'Imaginea nu a putut fi salvată. Asigurați-vă că imaginea și fișierul director au permisiuni de scriere.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/romanian/imglib_lang.php */

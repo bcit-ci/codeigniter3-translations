@@ -92,6 +92,3 @@ $lang['UP12']	= '(UTC +12:00) フィジー、ギルバート諸島、カムチ�
 $lang['UP1275']	= '(UTC +12:45) チャタム諸島標準時';
 $lang['UP13']	= '(UTC +13:00) フェニックス諸島時間、トンガ';
 $lang['UP14']	= '(UTC +14:00) ライン諸島';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/japanese/date_lang.php */

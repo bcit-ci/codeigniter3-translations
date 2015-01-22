@@ -57,6 +57,3 @@ $lang['upload_no_filepath']			= 'Het pad voor uploads blijkt niet te kloppen. Du
 $lang['upload_no_file_types']			= 'Er zijn nog geen toegestane bestandstypen opgegeven. Dus..';
 $lang['upload_bad_filename']			= 'De opgegeven bestandsnaam bestaat al op de server. Dus..';
 $lang['upload_not_writable']			= 'Schrijfrechten lijken nog te ontbreken voor de upload-directory.  ';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/dutch/upload_lang.php */

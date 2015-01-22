@@ -54,6 +54,3 @@ $lang['upload_no_filepath'] = '上传路径无效。';
 $lang['upload_no_file_types'] = '指定允许的文件类型。';
 $lang['upload_bad_filename'] = '提交的文件名已经存在。';
 $lang['upload_not_writable'] = '上传的目的路径不可写。';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/simplified-chinese/upload_lang.php */

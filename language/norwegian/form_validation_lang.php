@@ -65,6 +65,3 @@ $lang['form_validation_less_than_equal_to']	= '{field} må inneholde et tall min
 $lang['form_validation_greater_than']		= '{field} må inneholde et tall større enn {param}.';
 $lang['form_validation_greater_than_equal_to']	= '{field} må inneholde et tall større enn eller lik {param}.';
 $lang['form_validation_error_message_not_set']  = 'Finner ingen feilmelding som hører til feltet {field}';
-
-/* End of file form_validation_lang.php */
-/* Location: ./system/language/norwegian/form_validation_lang.php */

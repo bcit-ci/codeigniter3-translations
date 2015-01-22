@@ -55,6 +55,3 @@ $lang['imglib_invalid_path'] = '圖檔路徑錯誤';
 $lang['imglib_copy_failed'] = '圖檔複製錯誤';
 $lang['imglib_missing_font'] = '無法找到指定的字體';
 $lang['imglib_save_failed'] = '無法存檔，請確定圖檔或目錄可寫';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/traditional-chinese/imglib_lang.php */

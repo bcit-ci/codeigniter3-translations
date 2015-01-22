@@ -56,6 +56,3 @@ $lang['ut_object']			= 'Object';
 $lang['ut_resource']		= 'Resource';
 $lang['ut_null']			= 'Null';
 $lang['ut_notes']			= 'บันทึกเพิ่มเติม';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/thai/unit_test_lang.php */

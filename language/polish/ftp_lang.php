@@ -50,6 +50,3 @@ $lang['ftp_no_source_file']         = 'Nie można znaleźć pliku źródłowego.
 $lang['ftp_unable_to_rename']       = 'Nie można zmienić nazwy pliku.';
 $lang['ftp_unable_to_delete']       = 'Nie można usunąć pliku.';
 $lang['ftp_unable_to_move']         = 'Nie można przenieść pliku. Upewnij się że folder docelowy istnieje.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/polish/ftp_lang.php */

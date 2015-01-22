@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist']	= 'Migrations-klassen "%s" finns inte.';
 $lang['migration_missing_up_method']	= 'Migrations-klassen "%s" saknar en "up"-metod.';
 $lang['migration_missing_down_method']	= 'Migrations-klassen "%s" saknar en "down"-metod.';
 $lang['migration_invalid_filename']	= 'Migrationen "%s" har ett ogiltigt filnamn.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/swedish/migration_lang.php */

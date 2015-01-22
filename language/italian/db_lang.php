@@ -62,6 +62,3 @@ $lang['db_column_name_required'] = 'E\' necessario specificare il nome di una co
 $lang['db_column_definition_required'] = 'E\' necessario specificare la definizione di una colonna per questa operazione.';
 $lang['db_unable_to_set_charset'] = 'Impossibile impostare la client connection character set: %s';
 $lang['db_error_heading'] = 'Errore del database';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/italian/db_lang.php */

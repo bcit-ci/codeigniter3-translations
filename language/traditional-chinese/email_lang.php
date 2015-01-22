@@ -57,6 +57,3 @@ $lang['email_smtp_auth_un'] = '帳號認證失敗，錯誤：%s';
 $lang['email_smtp_auth_pw'] = '密碼認證失敗，錯誤：%s';
 $lang['email_smtp_data_failure'] = '無法傳送資料：%s';
 $lang['email_exit_status'] = '結束狀態：%s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/traditional-chinese/email_lang.php */

@@ -55,6 +55,3 @@ $lang['email_smtp_auth_un'] = 'Der angegebene  Username konnte nicht authentifiz
 $lang['email_smtp_auth_pw'] = 'Das angegebene Passwort konnte nicht authentifiziert werden. Fehler: %s';
 $lang['email_smtp_data_failure'] = 'Die Daten konnten nicht gesendet werden: %s';
 $lang['email_exit_status'] = 'Abbruch Status-Code: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/german/email_lang.php */

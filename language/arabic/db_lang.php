@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'إسم العمود مطلوب لهذه ال
 $lang['db_column_definition_required'] = 'تعريف العمود مطلوب لهذه العملية.';
 $lang['db_unable_to_set_charset'] = 'غير قادر على تحديد نوع الترميز: %s';
 $lang['db_error_heading'] = 'حصل خطأ في قاعدة البيانات';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/arabic/db_lang.php */

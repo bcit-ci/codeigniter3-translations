@@ -46,6 +46,3 @@ $lang['migration_class_doesnt_exist'] = '無法找到遷移類別 "%s"';
 $lang['migration_missing_up_method'] = '無法找到遷移類別 "%s" 中的 "up" 方法';
 $lang['migration_missing_down_method'] = '無法找到遷移類別 "%s" 中的 " 方法';
 $lang['migration_invalid_filename'] = '無效的遷移檔名："%s"';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/traditional-chinese/migration_lang.php */

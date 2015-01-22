@@ -50,6 +50,3 @@ $lang['ftp_no_source_file']		= 'عدم موفقیت در پیدا کردن فا�
 $lang['ftp_unable_to_rename']		= 'عدم موفقیت در تغیر نام فایل.';
 $lang['ftp_unable_to_delete']		= 'عدم موفقیت در حذف کردن فایل.';
 $lang['ftp_unable_to_move']		= 'عدم موفقیت در انتقال فایل. لطفا مطمئن شوید پوشه مقصد وجود داشته باشد.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/persian/ftp_lang.php */

@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = '작업에 칼럼명이 필요합니다.';
 $lang['db_column_definition_required'] = '작업에 칼럼에 대한 정의가 필요합니다.';
 $lang['db_unable_to_set_charset'] = '해당 언어셋을 사용할 수 없습니다: %s';
 $lang['db_error_heading'] = '데이터베이스 오류';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/korean/db_lang.php */
