@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'La ruta de subida no parece válida.';
 $lang['upload_no_file_types'] = 'No has especificado ningún tipo de archivo permitido.';
 $lang['upload_bad_filename'] = 'El nombre de archivo que has proporcionado ya existe en el servidor.';
 $lang['upload_not_writable'] = 'La carpeta de destino de la subida no parece escribible.';
-
-/* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */

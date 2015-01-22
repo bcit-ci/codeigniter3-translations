@@ -92,6 +92,3 @@ $lang['UP12']	= '(UTC +12:00) Fiji, Islas Gilbert, Horario de Kamchatka, Hora es
 $lang['UP1275']	= '(UTC +12:45) Hora Estándar de las Islas Chatham';
 $lang['UP13']	= '(UTC +13:00) Zona horaria de Samoa, Hora de las Islas Fénix, Tonga';
 $lang['UP14']	= '(UTC +14:00) Islas de la Línea';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/spanish/date_lang.php */
