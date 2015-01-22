@@ -49,6 +49,3 @@ $lang['ftp_no_source_file'] = 'Посоченият файл не може да 
 $lang['ftp_unable_to_rename'] = 'Файлът не може да бъде преименуван.';
 $lang['ftp_unable_to_delete'] = 'Файлът не може да бъде изтрит.';
 $lang['ftp_unable_to_move'] = 'Файлът не може да бъде преместен. Уверете се, че директорията съществува.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/bulgarian/ftp_lang.php */

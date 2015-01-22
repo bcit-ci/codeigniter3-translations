@@ -82,6 +82,3 @@ $lang['cal_september'] = 'Септември';
 $lang['cal_october'] = 'Октомври';
 $lang['cal_november'] = 'Ноември';
 $lang['cal_december'] = 'Декември';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/bulgarian/calendar_lang.php */
