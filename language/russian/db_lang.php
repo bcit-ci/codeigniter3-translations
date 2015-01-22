@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'Необходимо указать имя �
 $lang['db_column_definition_required'] = 'Указание столбца обязательно для этой операции.';
 $lang['db_unable_to_set_charset'] = 'Невозможно установить кодировку соединения: %s';
 $lang['db_error_heading'] = 'Ошибка базы данных.';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/russian/db_lang.php */

@@ -92,6 +92,3 @@ $lang['UP12']   = '(UTC +12:00) Fiji, Wyspy Gilberta, czas kamczacki, czas nowoz
 $lang['UP1275'] = '(UTC +12:45) Czas wysp Chatham';
 $lang['UP13']   = '(UTC +13:00) Czas Samoa, czas Feniks, Tonga';
 $lang['UP14']   = '(UTC +14:00) Wyspy Line';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/polish/date_lang.php */

@@ -43,6 +43,3 @@ $lang['gigabyte_abbr']  = 'GB';
 $lang['megabyte_abbr']  = 'MB';
 $lang['kilobyte_abbr']  = 'KB';
 $lang['bytes']          = 'Bajty';
-
-/* End of file number_lang.php */
-/* Location: ./application/language/polish/number_lang.php */

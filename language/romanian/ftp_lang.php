@@ -49,6 +49,3 @@ $lang['ftp_no_source_file']		= 'Fișierul sursă nu a putut fi localizat. Verifi
 $lang['ftp_unable_to_rename']		= 'Fișierul nu a putut fi redenumit.';
 $lang['ftp_unable_to_delete']		= 'Fișierul nu a putut fi șters.';
 $lang['ftp_unable_to_move']		= 'Fișierul nu a putut fi mutat. Asigurați-vă că directorul de destinație există.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/romanian/ftp_lang.php */

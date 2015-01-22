@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'SMTP 아이디 인증에 실패했습니다: %s';
 $lang['email_smtp_auth_pw'] = 'SMTP 비밀번호 인증에 실패했습니다: %s';
 $lang['email_smtp_data_failure'] = 'SMTP 다음 정보를 전송하는데 실패했습니다: %s';
 $lang['email_exit_status'] = 'Exit status code: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/korean/email_lang.php */

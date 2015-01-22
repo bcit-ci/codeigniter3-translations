@@ -57,6 +57,3 @@ $lang['email_smtp_auth_un'] = 'Falha ao autenticar usuário. Erro: %s';
 $lang['email_smtp_auth_pw'] = 'Falha ao autenticar senha. Erro: %s';
 $lang['email_smtp_data_failure'] = 'Não foi possível enviar dados: %s';
 $lang['email_exit_status'] = 'Código de status de saída: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/portuguese-brazilian/email_lang.php */

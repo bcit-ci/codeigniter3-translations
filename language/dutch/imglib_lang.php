@@ -58,6 +58,3 @@ $lang['imglib_invalid_path']			= 'Het pad naar de afbeelding klopt niet. Dus..';
 $lang['imglib_copy_failed']			= 'De kopiëer-routine werkte niet.';
 $lang['imglib_missing_font']			= 'Ik kon geen bruikbaar lettertype vinden.';
 $lang['imglib_save_failed']			= 'Het opslaan van de afbeelding is mislukt. Controleer of er voldoende rechten zijn om te kunnen schrijven naar de bestandsdirectories';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/dutch/imglib_lang.php */

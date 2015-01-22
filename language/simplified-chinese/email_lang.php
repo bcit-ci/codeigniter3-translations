@@ -57,6 +57,3 @@ $lang['email_smtp_auth_un'] = '用户名认证失败，错误：%s';
 $lang['email_smtp_auth_pw'] = '密码认证失败，错误：%s';
 $lang['email_smtp_data_failure'] = '无法发送数据：%s';
 $lang['email_exit_status'] = '退出状态码：%s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/simplified-chinese/email_lang.php */

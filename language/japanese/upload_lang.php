@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = "アップロードパスが間違っています�
 $lang['upload_no_file_types'] = "許可されているファイルタイプが指定されていません。";
 $lang['upload_bad_filename'] = "送信されたファイル名と同名のファイルがすでにサーバ上に存在します。";
 $lang['upload_not_writable'] = "アップロード先のフォルダに書き込みできません。";
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/japanese/upload_lang.php */

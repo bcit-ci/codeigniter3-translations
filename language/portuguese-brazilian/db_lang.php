@@ -62,6 +62,3 @@ $lang['db_column_name_required'] = 'O nome da coluna é obrigatório para esta o
 $lang['db_column_definition_required'] = 'A definição da coluna é obrigatória para esta operação.';
 $lang['db_unable_to_set_charset'] = 'Não é possível configurar o character set da conexão cliente: %s';
 $lang['db_error_heading'] = 'Um erro no Banco de Dados aconteceu';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/portuguese-brazilian/db_lang.php */

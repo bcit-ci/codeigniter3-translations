@@ -82,6 +82,3 @@ $lang['cal_september']  = 'Wrzesień';
 $lang['cal_october']    = 'Październik';
 $lang['cal_november']   = 'Listopad';
 $lang['cal_december']   = 'Grudzień';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/polish/calendar_lang.php */

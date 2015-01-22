@@ -57,6 +57,3 @@ $lang['email_smtp_auth_un']             = 'Błąd autentykacji nazwy użytkownik
 $lang['email_smtp_auth_pw']             = 'Błąd autentykacji hasła. Błąd: %s';
 $lang['email_smtp_data_failure']        = 'Nie można wysłać danych: %s';
 $lang['email_exit_status']              = 'Status kodu wyjścia: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/polish/email_lang.php */

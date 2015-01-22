@@ -49,6 +49,3 @@ $lang['ftp_no_source_file'] = 'Невозможно найти исходный 
 $lang['ftp_unable_to_rename'] = 'Невозможно переименовать файл.';
 $lang['ftp_unable_to_delete'] = 'Невозможно удалить файл.';
 $lang['ftp_unable_to_move'] = 'Невозможно переместить файл. Пожалуйста, убедитесь что каталог назначения существует.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/russian/ftp_lang.php */

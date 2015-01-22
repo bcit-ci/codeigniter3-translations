@@ -57,6 +57,3 @@ $lang['ut_object'] = 'شی';
 $lang['ut_resource'] = 'منبع';
 $lang['ut_null'] = 'نول(پوچ)';
 $lang['ut_notes'] = 'یادداشت ها';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/persian/unit_test_lang.php */

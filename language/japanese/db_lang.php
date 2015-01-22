@@ -61,7 +61,3 @@ $lang['db_column_name_required'] = 'この操作にはコラム名が必要で�
 $lang['db_column_definition_required'] = 'この操作にはカランの定義が必要です。';
 $lang['db_unable_to_set_charset'] = 'クライアント接続文字エンコードを設定できませんでした: %s';
 $lang['db_error_heading'] = 'データベースエラーが発生しました。';
-
-
-/* End of file db_lang.php */
-/* Location: ./application/language/japanese/db_lang.php */

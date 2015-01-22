@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = 'Der Pfad zum Bild ist falsch.';
 $lang['imglib_copy_failed'] = 'Die Routine zum Kopieren des Bildes ist gescheitert.';
 $lang['imglib_missing_font'] = 'Es konnte kein geeigneter Zeichensatz gefunden werden.';
 $lang['imglib_save_failed'] = 'Das Bild konnte nicht gespeichert werden. Stellen Sie sicher, dass die benötigten Verzeichnis beschreibbar ist.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/german/imglib_lang.php */

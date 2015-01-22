@@ -92,6 +92,3 @@ $lang['UP12']   = '(UTC +12:00) Fiji, Gilbert Adaları, Kamchatka Saati, Yeni Ze
 $lang['UP1275'] = '(UTC +12:45) Chatham Adaları Standart Saati';
 $lang['UP13']   = '(UTC +13:00) Samoa Saati Bölgesi, Phoenix Adaları Saati, Tonga';
 $lang['UP14']   = '(UTC +14:00) Line Adaları';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/turkish/date_lang.php */

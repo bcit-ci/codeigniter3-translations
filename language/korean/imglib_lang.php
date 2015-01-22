@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = '이미지 경로가 올바르지 않습니다.';
 $lang['imglib_copy_failed'] = '이미지 복사에 실패했습니다.';
 $lang['imglib_missing_font'] = '해당 폰트를 찾을 수 없습니다.';
 $lang['imglib_save_failed'] = '이미지를 저장할 수 없습니다. 권한을 확인하거나 경로를 확인하세요.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/korean/imglib_lang.php */

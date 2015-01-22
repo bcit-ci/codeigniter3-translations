@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'プロファイルデータがありません -
 $lang['profiler_section_hide']	= '隠す';
 $lang['profiler_section_show']	= '表示';
 $lang['profiler_seconds'] = '秒';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/japanese/profiler_lang.php */

@@ -56,6 +56,3 @@ $lang['ut_object']			= 'Object';
 $lang['ut_resource']		= 'Sumber Daya';
 $lang['ut_null']			= 'Tidak Ada';
 $lang['ut_notes']			= 'Catatan';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/indonesian/unit_test_lang.php */

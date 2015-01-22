@@ -92,6 +92,3 @@ $lang['UP12'] = '(UTC +12:00) 斐濟、吉爾伯特群島、堪察加半島、�
 $lang['UP1275'] = '(UTC +12:45) 查塔姆群島標準時間';
 $lang['UP13'] = '(UTC +13:00) 菲尼克斯群島、湯加';
 $lang['UP14'] = '(UTC +14:00) 萊恩群島';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/traditional-chinese/date_lang.php */

@@ -56,6 +56,3 @@ $lang['imglib_invalid_path'] = 'آدرس تصویر درست نیست.';
 $lang['imglib_copy_failed'] = 'عملیات کپی کردن عکس ناموفق بود.';
 $lang['imglib_missing_font'] = 'فونتی برای استفاده پیدا نشد.';
 $lang['imglib_save_failed'] = 'عدم موفقیت در ذخیره عکس. لطفا اطمینان حاصل کنید پوشه مقصد قابل نوشتن است.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/persian/imglib_lang.php */

@@ -49,6 +49,3 @@ $lang['ftp_no_source_file']		= 'Saknar källfilen. Kontrollera sökvägen.';
 $lang['ftp_unable_to_rename']		= 'Kunde inte byta namn på filen.';
 $lang['ftp_unable_to_delete']		= 'Kunde inte ta bort filen.';
 $lang['ftp_unable_to_move']		= 'Kunde inte flytta filen. Kontrollera att målmappen finns.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/swedish/ftp_lang.php */

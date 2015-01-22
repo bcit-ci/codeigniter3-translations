@@ -62,6 +62,3 @@ $lang['db_column_name_required']       = 'Jméno sloupce je nutné pro tuto oper
 $lang['db_column_definition_required'] = 'Definice sloupce je nutná pro tuto operaci.';
 $lang['db_unable_to_set_charset']      = 'Nepodařilo se nastavit znakovou sadu pro klienta: %s';
 $lang['db_error_heading']              = 'Chyba databáze';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/czech/db_lang.php */

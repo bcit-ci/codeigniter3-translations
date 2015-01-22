@@ -66,5 +66,3 @@ $lang['form_validation_greater_than']          = 'Pole {field} musí být větš
 $lang['form_validation_greater_than_equal_to'] = 'Pole {field} musí být větší nebo stejné jako pole {param}.';
 $lang['form_validation_error_message_not_set'] = 'Pro pole {field} není nastavena chybová zpráva.';
         
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/czech/form_validation_lang.php */

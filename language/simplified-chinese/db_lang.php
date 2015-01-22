@@ -62,6 +62,3 @@ $lang['db_column_name_required'] = '操作需要指定列名。  ';
 $lang['db_column_definition_required'] = '操作需要指定列定义。';
 $lang['db_unable_to_set_charset'] = '无法设置字符集： %s';
 $lang['db_error_heading'] = '数据库发生错误。';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/simplified-chinese/db_lang.php */

@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = '画像のパスが間違っています。';
 $lang['imglib_copy_failed'] = '画像のコピーに失敗しました。';
 $lang['imglib_missing_font'] = '使用するフォントが見つかりません。';
 $lang['imglib_save_failed'] = '画像を保存できません。画像と保存先のディレクトリを書き込み可能にしてください。';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/japanese/imglib_lang.php */

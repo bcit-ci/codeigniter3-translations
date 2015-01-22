@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Feil ved autentisering av brukernavn: %s';
 $lang['email_smtp_auth_pw'] = 'Feil ved autentisering av passord: %s';
 $lang['email_smtp_data_failure'] = 'Klarte ikke å sende data: %s';
 $lang['email_exit_status'] = 'Statuskode ved avslutning: %s';
-
-/* End of file email_lang.php */
-/* Location: ./system/language/norwegian/email_lang.php */

@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Gagal untuk mengotentikasi nama pengguna. Kesalah
 $lang['email_smtp_auth_pw'] = 'Gagal untuk mengotentikasi password. Kesalahan: %s';
 $lang['email_smtp_data_failure'] = 'Tidak dapat mengirim data: %s';
 $lang['email_exit_status'] = 'Kode status keluar: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/indonesian/email_lang.php */

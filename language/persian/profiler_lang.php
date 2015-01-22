@@ -59,6 +59,3 @@ $lang['profiler_no_profiles'] = 'اطلاعات مربوط به پروفایلر
 $lang['profiler_section_hide'] = 'مخفی کردن';
 $lang['profiler_section_show'] = 'نشان دادن';
 $lang['profiler_seconds'] = 'ثانیه';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/persian/profiler_lang.php */

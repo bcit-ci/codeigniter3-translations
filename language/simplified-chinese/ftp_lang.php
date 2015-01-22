@@ -50,6 +50,3 @@ $lang['ftp_no_source_file'] = '无法找到指定的源文件，检查文件路径或用户权限。';
 $lang['ftp_unable_to_rename'] = '无法重命名文件。';
 $lang['ftp_unable_to_delete'] = '无法删除文件。';
 $lang['ftp_unable_to_move'] = '无法移动文件，检查目的目录是否存在。';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/simplified-chinese/ftp_lang.php */

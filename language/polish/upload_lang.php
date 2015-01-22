@@ -54,6 +54,3 @@ $lang['upload_no_filepath']             = 'Ścieżka wgrywania plików wydaje si
 $lang['upload_no_file_types']           = 'Nie określono żadnych dozwolonych typów plików.';
 $lang['upload_bad_filename']            = 'Plik o danej nazwie już istnieje na serwerze.';
 $lang['upload_not_writable']            = 'Folder do którego wgrywane są pliki nie posiada praw zapisu.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/polish/upload_lang.php */

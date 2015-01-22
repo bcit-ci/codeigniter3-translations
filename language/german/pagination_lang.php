@@ -41,6 +41,3 @@ $lang['pagination_first_link']	= '&lsaquo; Erste';
 $lang['pagination_next_link']	= '&gt;';
 $lang['pagination_prev_link']	= '&lt;';
 $lang['pagination_last_link']	= 'Letzte &rsaquo;';
-
-/* End of file pagination_lang.php */
-/* Location: ./application/language/german/pagination_lang.php */

@@ -65,6 +65,3 @@ $lang['db_column_name_required'] = 'Voor deze actie zou de database graag de naa
 $lang['db_column_definition_required'] = 'Voor deze actie zou de database graag de definitie van een kolom willen weten. Dus..';
 $lang['db_unable_to_set_charset'] = 'Ik kan de karakterset voor de clientverbinding niet instellen: %s';
 $lang['db_error_heading'] = 'De database heeft opgemerkt dat er een fout is ontstaan. Dus..';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/dutch/db_lang.php */

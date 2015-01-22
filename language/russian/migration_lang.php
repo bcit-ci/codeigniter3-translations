@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist'] = 'Невозможно найти кла�
 $lang['migration_missing_up_method'] = 'Класс миграции "%s" не содержит "up" метода.';
 $lang['migration_missing_down_method'] = 'Класс миграции "%s" не содержит "down" метода.';
 $lang['migration_invalid_filename'] = 'Миграция "%s" имеет недопустимое имя файла.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/russian/migration_lang.php */

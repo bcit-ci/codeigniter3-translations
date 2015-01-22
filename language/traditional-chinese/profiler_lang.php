@@ -59,6 +59,3 @@ $lang['profiler_no_profiles'] = '沒有 Profile 資料 - 全部的 Profiler 都�
 $lang['profiler_section_hide'] = '隱藏';
 $lang['profiler_section_show'] = '顯示';
 $lang['profiler_seconds'] = '秒';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/traditional-chinese/profiler_lang.php */

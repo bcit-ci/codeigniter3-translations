@@ -60,6 +60,3 @@ $lang['email_smtp_auth_un']		= 'Bij het authenticeren gaf de gebruikersnaam een 
 $lang['email_smtp_auth_pw']		= 'Bij het authenticeren gaf het wachtwoord een foutmelding:  %s';
 $lang['email_smtp_data_failure']	= 'Ik kan geen data versturen: %s';
 $lang['email_exit_status']		= 'Exit statuscode: %s. Ja?';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/dutch/email_lang.php */

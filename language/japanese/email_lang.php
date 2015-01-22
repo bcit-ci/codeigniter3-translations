@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'ユーザ名の認証に失敗しました。エ�
 $lang['email_smtp_auth_pw'] = 'パスワードの認証に失敗しました。エラー: %s';
 $lang['email_smtp_data_failure'] = 'データを送信できません: %s';
 $lang['email_exit_status'] = '終了ステータスコード: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/japanese/email_lang.php */

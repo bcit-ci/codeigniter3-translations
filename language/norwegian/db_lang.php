@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'Et kolonnenavn er påkrevet for å gjennomf�
 $lang['db_column_definition_required'] = 'En kolonnedefinisjon er påkrevet for å gjennomføre denne operasjonen.';
 $lang['db_unable_to_set_charset'] = 'Definering av klient-tegnsett mislyktes: %s';
 $lang['db_error_heading'] = 'En databasefeil oppstod';
-
-/* End of file db_lang.php */
-/* Location: ./system/language/norwegian/db_lang.php */

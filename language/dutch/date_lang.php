@@ -96,6 +96,3 @@ $lang['UP12']	= '(UTC +12:00) Fiji, Gilbert Eilanden, Kamchatka Time, New Zealan
 $lang['UP1275']	= '(UTC +12:45) Chatham Eilanden Standard Time';
 $lang['UP13']	= '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga';
 $lang['UP14']	= '(UTC +14:00) Line Eilanden';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/dutch/date_lang.php */

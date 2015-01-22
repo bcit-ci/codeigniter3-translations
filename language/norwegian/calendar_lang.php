@@ -82,6 +82,3 @@ $lang['cal_september']	= 'september';
 $lang['cal_october']	= 'oktober';
 $lang['cal_november']	= 'november';
 $lang['cal_december']	= 'desember';
-
-/* End of file calendar_lang.php */
-/* Location: ./system/language/norwegian/calendar_lang.php */

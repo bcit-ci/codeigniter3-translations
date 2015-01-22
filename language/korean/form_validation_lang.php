@@ -65,6 +65,3 @@ $lang['form_validation_less_than_equal_to']	= '{field}은(는) {param}보다 작
 $lang['form_validation_greater_than']		= '{field}은(는) {param}보다 커야 합니다.';
 $lang['form_validation_greater_than_equal_to']	= '{field}은(는) {param}보다 크거나 같아야 합니다.';
 $lang['form_validation_error_message_not_set']  = '{field}필드의 에러메시지가 설정되어있지 않습니다.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/korean/form_validation_lang.php */

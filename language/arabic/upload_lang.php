@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'مسار الرفع المحدد غير صحيح.
 $lang['upload_no_file_types'] = 'لم تقم بتحديد أنواع ملفات مسموح بها.';
 $lang['upload_bad_filename'] = 'إسم الملف المرسل موجود على الخادم.';
 $lang['upload_not_writable'] = 'مجلد الرفع المحدد غير قابل للكتابة.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/arabic/upload_lang.php */

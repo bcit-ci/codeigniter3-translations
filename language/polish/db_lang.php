@@ -62,6 +62,3 @@ $lang['db_column_name_required']        = 'Nazwa kolumny jest wymagana do wykona
 $lang['db_column_definition_required']  = 'Definicja kolumny jest wymagana do wykonania tej operacji.';
 $lang['db_unable_to_set_charset']       = 'Nie można ustanowić połączenia w kodowaniu znaków: %s';
 $lang['db_error_heading']               = 'Wystąpił błąd bazy danych.';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/polish/db_lang.php */

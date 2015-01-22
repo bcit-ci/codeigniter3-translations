@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Сбой при проверке имени по�
 $lang['email_smtp_auth_pw'] = 'Сбой при проверке пароля. Ошибка: %s';
 $lang['email_smtp_data_failure'] = 'Невозможно отправить данные: %s';
 $lang['email_exit_status'] = 'Код завершения: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/russian/email_lang.php */
