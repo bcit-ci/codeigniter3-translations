@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'Tidak ada Profil Data - semua bagian Profiler t
 $lang['profiler_section_hide']	= 'Sembunyi';
 $lang['profiler_section_show']	= 'Tampil';
 $lang['profiler_seconds']		= 'detik';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/indonesian/profiler_lang.php */
