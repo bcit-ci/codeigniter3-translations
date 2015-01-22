@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'Jalur Unggah tampaknya tidak valid.';
 $lang['upload_no_file_types'] = 'Anda belum ditentukan jenis file yang diijinkan.';
 $lang['upload_bad_filename'] = 'Nama berkas yang Anda kirimkan sudah ada di server.';
 $lang['upload_not_writable'] = 'Folder tujuan unggah sepertinya tidak dapat ditulis.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/indonesian/upload_lang.php */
