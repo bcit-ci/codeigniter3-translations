@@ -54,5 +54,5 @@ $lang['ut_string']			= 'String';
 $lang['ut_array']			= 'Array';
 $lang['ut_object']			= 'Object';
 $lang['ut_resource']		= 'Sumber Daya';
-$lang['ut_null']			= 'Tidak Ada';
+$lang['ut_null']			= 'Null';
 $lang['ut_notes']			= 'Catatan';
