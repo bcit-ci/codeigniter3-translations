@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']		= 'Ingen profilering - alla delar av profileringe
 $lang['profiler_section_hide']		= 'Dölj';
 $lang['profiler_section_show']		= 'Visa';
 $lang['profiler_seconds']		= 'sekunder';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/swedish/profiler_lang.php */

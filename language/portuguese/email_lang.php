@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un'] = 'Falha na autenticação de username. Erro: %s';
 $lang['email_smtp_auth_pw'] = 'Falha na autenticação da password. Erro: %s';
 $lang['email_smtp_data_failure'] = 'Incapaz de enviar dados: %s';
 $lang['email_exit_status'] = 'Código do estado de saída: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/portuguese/email_lang.php */

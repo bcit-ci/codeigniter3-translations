@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'No Profile data - all Profiler sections have be
 $lang['profiler_section_hide']	= 'إخفاء';
 $lang['profiler_section_show']	= 'عرض';
 $lang['profiler_seconds']		= 'ثواني';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/arabic/profiler_lang.php */

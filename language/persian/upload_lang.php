@@ -38,7 +38,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'عدم موفقیت در \یدا کردن یک متغیر که در post باشد و نام آن نیز userfile باشد. ';
+$lang['upload_userfile_not_set'] = 'عدم موفقیت در پیدا کردن یک متغیر که در post باشد و نام آن نیز userfile باشد. ';
 $lang['upload_file_exceeds_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در تنظیمات PHP است.';
 $lang['upload_file_exceeds_form_limit'] = 'اندازه فایل آپلود شده بیشتر از مقدار تعریف شده در فرم است.';
 $lang['upload_file_partial'] = 'فقط قسمتی از فایل آپلود شده است . ';
@@ -54,6 +54,3 @@ $lang['upload_no_filepath'] = 'آدرس مورد نظر برای اپلود فا
 $lang['upload_no_file_types'] = 'شما هیچ نوع فایل مجازی را انتخاب نکرده اید.';
 $lang['upload_bad_filename'] = 'یک فایل هم نام با فایل آپلود شده موجود می باشد.';
 $lang['upload_not_writable'] = 'پوشه مشخص شده برای آپلود قابل نوشتن نیست.  ';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/persian/upload_lang.php */

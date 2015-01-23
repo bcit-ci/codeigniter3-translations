@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'Pentru această operațiune este necesar un 
 $lang['db_column_definition_required'] = 'Pentru această operație este necesară o definiție de coloană.';
 $lang['db_unable_to_set_charset'] = 'Unable to set client connection character set: %s'; //I must find a proper translation for this
 $lang['db_error_heading'] = 'A apărut o eroare la baza de date.';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/romanian/db_lang.php */

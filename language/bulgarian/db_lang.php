@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'Името на колоната е задъ
 $lang['db_column_definition_required'] = 'Дефинирането на колоната е задължително за тази операция.';
 $lang['db_unable_to_set_charset'] = 'Не може да настрои клиентът с правилен енкодинг: %s';
 $lang['db_error_heading'] = 'Възникна грешка в базата данни';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/bulgarian/db_lang.php */

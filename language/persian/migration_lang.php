@@ -46,6 +46,3 @@ $lang['migration_class_doesnt_exist'] = 'کلاس مهاجرت "%s", پیدا ن
 $lang['migration_missing_up_method'] = 'کلاس مهاجرت "%s" متود "up" ندارد. ';
 $lang['migration_missing_down_method'] = 'کلاس مهاجرت "%s" متود "down" ندارد.';
 $lang['migration_invalid_filename'] = 'مهاجرت "%s" شامل یک فایل غیر معتبر است..';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/persian/migration_lang.php */

@@ -64,6 +64,4 @@ $lang['form_validation_less_than']		= 'Câmpul {field} trebuie să conțină un 
 $lang['form_validation_less_than_equal_to']	= 'Câmpul {field} trebuie să conțină un număr mai mic sau egacl cu {param}.';
 $lang['form_validation_greater_than']		= 'Câmpul {field} trebuie să conțină un număr mai mare decât {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Câmpul {field} trebuie să conțină un număr mai mare decât sau egal cu {param}.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/romanian/form_validation_lang.php */
+$lang['form_validation_error_message_not_set']  = 'Nu se poate accesa un mesaj de eroare corespunzător numele tău domeniu {field}.';

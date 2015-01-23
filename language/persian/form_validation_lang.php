@@ -41,7 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['form_validation_required'] = 'پر کردن فیلد {field} الزامی است.';
 $lang['form_validation_isset'] = 'فیلد {field} باید یک مقداری داشته باشد.';
 $lang['form_validation_valid_email'] = 'فیلد {field} باید یک ایمیل معتبر داشته باشد.';
-$lang['form_validation_valid_emails'] = 'فیلد {field} باید تماما شمال ایمیل های معتبر باشد.';
+$lang['form_validation_valid_emails'] = 'فیلد {field} باید تماما شامل ایمیل های معتبر باشد.';
 $lang['form_validation_valid_url'] = 'فیلد {field} باید شامل یک آدرس اینترنتی معتبر باشد.';
 $lang['form_validation_valid_ip'] = 'فیلد {field} باید شامل یک IP معتبر باشد.';
 $lang['form_validation_min_length'] = 'فیلد {field} باید حداقل {param} حرف باشد.';
@@ -65,6 +65,4 @@ $lang['form_validation_less_than'] = 'فیلد {field} باید کمتر از {p
 $lang['form_validation_less_than_equal_to'] = 'فیلد {field} باید شامل یک مقدار کمتر یا مساوی {param} باشد.';
 $lang['form_validation_greater_than'] = 'فیلد {field} باید شامل یک مقدار بزرگ تر از {param} باشد.';
 $lang['form_validation_greater_than_equal_to'] = 'فیلد {field} باید شامل یک مقدار بیشتر یا مساوی {param} باشد.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/persian/form_validation_lang.php */
+$lang['form_validation_error_message_not_set']  = 'عدم دسترسی به پیغام خطای فیلد{field}.';

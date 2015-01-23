@@ -54,6 +54,3 @@ $lang['imglib_invalid_path'] = 'ตำแหน่งของภาพไม่
 $lang['imglib_copy_failed'] = 'การคัดลอกภาพล้มเหลว';
 $lang['imglib_missing_font'] = 'ไม่พบฟ้อนต์ที่ต้องการ';
 $lang['imglib_save_failed'] = 'ไม่สามารถบันทึกภาพ กรุณาตรวจสอบภาพและไดเรกทอรีของแฟ้มว่าสามารถเขียนได้หรือไม่';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/thai/imglib_lang.php */

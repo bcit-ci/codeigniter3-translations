@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist']  = 'Třída pro migraci "%s" nebyla naleze
 $lang['migration_missing_up_method']   = 'V migrační tříde "%s" chybí "up" metoda.';
 $lang['migration_missing_down_method'] = 'V migrační tříde "%s" chybí "down" metoda.';
 $lang['migration_invalid_filename']    = 'Migrace "%s" má chybné jméno.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/czech/migration_lang.php */

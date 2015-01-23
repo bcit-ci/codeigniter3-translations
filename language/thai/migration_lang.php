@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist']	= 'ไม่พบ Migration Class "%s"';
 $lang['migration_missing_up_method']	= 'Migration class "%s" ไม่มีเมธอด "up"';
 $lang['migration_missing_down_method']	= 'Migration class "%s" ไม่มีเมธอด "down"';
 $lang['migration_invalid_filename']	= 'การโยกย้าย "%s" มีไฟล์ที่ไม่ถูกต้อง';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/thai/migration_lang.php */

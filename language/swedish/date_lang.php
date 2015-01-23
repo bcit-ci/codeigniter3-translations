@@ -92,6 +92,3 @@ $lang['UP12']	= '(UTC +12:00) Nya Zeeland, Fiji, Kamtjatka, Sydpolen';
 $lang['UP1275']	= '(UTC +12:45) Chathamöarna';
 $lang['UP13']	= '(UTC +13:00) Samoa, Tonga, Phoenixöarna';
 $lang['UP14']	= '(UTC +14:00) Linjeöarna';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/swedish/date_lang.php */

@@ -65,6 +65,3 @@ $lang['form_validation_less_than_equal_to']	= '{field} måste innehålla ett tal
 $lang['form_validation_greater_than']		= '{field} måste innehålla ett tal större än {param}.';
 $lang['form_validation_greater_than_equal_to']	= '{field} måste innehålla ett tal större än eller lika med {param}.';
 $lang['form_validation_error_message_not_set']  = 'Kan inte hitta ett felmeddelande kopplat till fältet {field}.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/swedish/form_validation_lang.php */

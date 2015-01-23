@@ -61,6 +61,3 @@ $lang['db_column_name_required']        = "Un nom de champ est requis pour cette
 $lang['db_column_definition_required']  = "Une définition de champ est requise pour cette opération.";
 $lang['db_unable_to_set_charset']       = "Impossible de définir le jeu de caractères de la connexion client : %s";
 $lang['db_error_heading']               = "Une erreur de la base de données s'est produite.";
-
-/* End of file db_lang.php */
-/* Location: ./application/language/french/db_lang.php */

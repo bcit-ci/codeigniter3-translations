@@ -46,7 +46,7 @@ $lang['ut_undefined'] = 'تست تعریف نشده';
 $lang['ut_file'] = 'اسم فایل';
 $lang['ut_line'] = 'خط';
 $lang['ut_passed'] = 'موفق';
-$lang['ut_failed'] = 'نا موفق';
+$lang['ut_failed'] = 'ناموفق';
 $lang['ut_boolean'] = 'بولین';
 $lang['ut_integer'] = 'عددی';
 $lang['ut_float'] = 'اعشاری';
@@ -55,8 +55,5 @@ $lang['ut_string'] = 'رشته';
 $lang['ut_array'] = 'آرایه';
 $lang['ut_object'] = 'شی';
 $lang['ut_resource'] = 'منبع';
-$lang['ut_null'] = 'مال';
+$lang['ut_null'] = 'نول(پوچ)';
 $lang['ut_notes'] = 'یادداشت ها';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/persian/unit_test_lang.php */

@@ -83,6 +83,3 @@ $lang['cal_september'] = 'Settembre';
 $lang['cal_october'] = 'Ottobre';
 $lang['cal_november'] = 'Novembre';
 $lang['cal_december'] = 'Dicembre';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/italian/calendar_lang.php */

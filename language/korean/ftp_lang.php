@@ -37,7 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'FTP connection ID에 연결할 수 없습니다. 계정정보를 확인하거나 서버상태를 확인하세요.';
+$lang['ftp_no_connection']		= 'FTP connection에 연결할 수 없습니다. 계정정보를 확인하거나 서버상태를 확인하세요.';
 $lang['ftp_unable_to_connect']		= '입력하신 호스트에 접속할 수 없습니다.';
 $lang['ftp_unable_to_login']		= 'FTP 서버에 로그인 할 수 없습니다. 계정정보를 확인하세요.';
 $lang['ftp_unable_to_mkdir']		= '디렉토리를 생성할 수 없습니다.';
@@ -49,6 +49,3 @@ $lang['ftp_no_source_file']		= '원본파일을 찾을 수 없습니다. 경로�
 $lang['ftp_unable_to_rename']		= '파일명을 변경할 수 없습니다.';
 $lang['ftp_unable_to_delete']		= '파일을 삭제할 수 없습니다.';
 $lang['ftp_unable_to_move']		= '파일을 이동할 수 없습니다. 경로를 확인하세요.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/korean/ftp_lang.php */

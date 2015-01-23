@@ -65,6 +65,4 @@ $lang['form_validation_less_than'] = '{field} 字段的值必须小于 {param}。';
 $lang['form_validation_less_than_equal_to'] = '{field} 字段的值必须小于等于 {param}。';
 $lang['form_validation_greater_than'] = '{field} 字段的值必须大于 {param}。';
 $lang['form_validation_greater_than_equal_to'] = '{field} 字段的值必须大于等于 {param}。';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/simplified-chinese/form_validation_lang.php */
+$lang['form_validation_error_message_not_set'] = '无法获得 {field} 字段的错误信息。';

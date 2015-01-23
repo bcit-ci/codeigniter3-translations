@@ -56,6 +56,3 @@ $lang['ut_object']        = 'Objekt';
 $lang['ut_resource']      = 'Zdroj';
 $lang['ut_null']          = 'Null';
 $lang['ut_notes']         = 'Poznámky';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/czech/unit_test_lang.php */

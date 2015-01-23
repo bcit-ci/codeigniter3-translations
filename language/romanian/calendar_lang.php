@@ -82,6 +82,3 @@ $lang['cal_september']	= 'Septembrie';
 $lang['cal_october']	= 'Octombrie';
 $lang['cal_november']	= 'Noiembrie';
 $lang['cal_december']	= 'Decembrie';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/romanian/calendar_lang.php */

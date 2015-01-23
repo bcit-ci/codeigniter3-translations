@@ -48,6 +48,7 @@ french                   done         includebeer     Alain Rivest
 german                   done         Rufnex          Johannes Gamperl
 indonesian               done         ridho1991       Mutasim Ridlo
 italian                  done         ster            Stefano Mazzega
+japanese                 done         tsukasa         Tsukasa Takao
 korean                   done         KwonLatte       HyeongJoo Kwon
 norwegian                done         yhoiseth        Yngve Hoiseth
 persian                  done         MSDehghan       Mohammad Sadegh

@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'Calea de încărcare nu pare a fi validă.';
 $lang['upload_no_file_types'] = 'Nu ați specificat tipul/tipurile de fișiere permise.';
 $lang['upload_bad_filename'] = 'Numele fișieului setat există deja pe server.';
 $lang['upload_not_writable'] = 'Destinația directorului de încărcare nu pare să aibă permisiuni de scriere.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/romanian/upload_lang.php */

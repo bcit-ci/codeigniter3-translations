@@ -55,6 +55,3 @@ $lang['imglib_invalid_path'] = 'O caminho para a imagem não está correto';
 $lang['imglib_copy_failed'] = 'Failed, the image copy routine.';
 $lang['imglib_missing_font'] = 'Não é possível encontrar a fonte para usar.';
 $lang['imglib_save_failed'] = 'Não é possível salvar a imagem.  Por favor tenha certeza que a imagem e o diretório são graváveis.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/portuguese-brazilian/imglib_lang.php */

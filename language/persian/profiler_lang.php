@@ -50,7 +50,7 @@ $lang['profiler_config'] = 'متغیر های تنظیمات';
 $lang['profiler_session_data'] = 'اطلاعات نشست ها';
 $lang['profiler_headers'] = 'هدر های HTTP';
 $lang['profiler_no_db'] = 'در حال حاضر هیچ دیتابیسی بارگذاری نشده است ';
-$lang['profiler_no_queries'] = 'هیچ پرس و جویی انجام نشده است. ';
+$lang['profiler_no_queries'] = 'هیچ query انجام نشده است. ';
 $lang['profiler_no_post'] = 'اطلاعات مربوط به POST موجود نمی باشد. ';
 $lang['profiler_no_get'] = 'اطلاعات مربوط به GET موجود نمی باشد. ';
 $lang['profiler_no_uri'] = 'اطلاعات مربوط به URI موجود نمی باشد. ';
@@ -59,6 +59,3 @@ $lang['profiler_no_profiles'] = 'اطلاعات مربوط به پروفایلر
 $lang['profiler_section_hide'] = 'مخفی کردن';
 $lang['profiler_section_show'] = 'نشان دادن';
 $lang['profiler_seconds'] = 'ثانیه';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/persian/profiler_lang.php */

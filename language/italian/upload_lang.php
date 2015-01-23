@@ -54,6 +54,3 @@ $lang['upload_no_filepath'] = 'Il percorso di upload non è valido.';
 $lang['upload_no_file_types'] = 'Non sono stati specificati i tipi di file permessi.';
 $lang['upload_bad_filename'] = 'Il nome del file che è stato inviato è già presente sul server.';
 $lang['upload_not_writable'] = 'La cartella di upload non è scrivibile.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/italian/upload_lang.php */

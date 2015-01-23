@@ -49,6 +49,3 @@ $lang['ftp_no_source_file']		= 'ไม่สามารถค้นหาไฟ
 $lang['ftp_unable_to_rename']		= 'ไม่สามารถเปลี่ยนชื่อไฟล์';
 $lang['ftp_unable_to_delete']		= 'ไม่สามารถลบไฟล์';
 $lang['ftp_unable_to_move']		= 'ไม่สามารถย้ายไฟลกรุณาตรวจสอบให้แน่ใจว่าตำแหน่งปลายทางนัั้นมีจริง';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/thai/ftp_lang.php */

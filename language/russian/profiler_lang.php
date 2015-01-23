@@ -58,6 +58,3 @@ $lang['profiler_no_profiles'] = 'Нет данных для профилиров
 $lang['profiler_section_hide'] = 'Спрятать';
 $lang['profiler_section_show'] = 'Показать';
 $lang['profiler_seconds'] = 'секунд';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/russian/profiler_lang.php */

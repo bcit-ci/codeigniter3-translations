@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'Der angegebene Upload-Pfad scheint nicht gültig 
 $lang['upload_no_file_types'] = 'Sie haben keine Angaben zu den erlaubten Dateitypen vorgenommen.';
 $lang['upload_bad_filename'] = 'Der angegebene Dateiname existiert bereits auf dem Server.';
 $lang['upload_not_writable'] = 'Das Upload-Zielverzeichnis scheint keine Schreibrechte zu besitzen.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/german/upload_lang.php */

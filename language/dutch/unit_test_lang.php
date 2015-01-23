@@ -60,6 +60,3 @@ $lang['ut_object']		= 'Object';
 $lang['ut_resource']		= 'Bron';
 $lang['ut_null']		= 'Null';
 $lang['ut_notes']		= 'Notities';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/dutch/unit_test_lang.php */

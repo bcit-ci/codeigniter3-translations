@@ -55,6 +55,3 @@ $lang['imglib_invalid_path'] = 'مسار الصورة غير صحيح.';
 $lang['imglib_copy_failed'] = 'عملية نسخ الصورة فشلت.';
 $lang['imglib_missing_font'] = 'غير قادر على إيجاد الخط.';
 $lang['imglib_save_failed'] = 'غير قادر على حفظ الصورة. الرجاء التأكد من أن ملف الصورة والمجلد قابلة للكتابة.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/arabic/imglib_lang.php */

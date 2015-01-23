@@ -59,6 +59,3 @@ $lang['profiler_no_profiles'] = 'Ã»ÓÐ Profile Êý¾Ý - È«²¿µÄ Profiler ¶¼ÒÑ±»¹Ø±Õ¡
 $lang['profiler_section_hide'] = 'Òþ²Ø';
 $lang['profiler_section_show'] = 'ÏÔÊ¾';
 $lang['profiler_seconds'] = 'Ãë';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/simplified-chinese/profiler_lang.php */

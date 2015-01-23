@@ -37,8 +37,8 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str'] = '입력하신 connection 정보로 연결할 수 없습니다.';
-$lang['db_unable_to_connect'] = 'config/databases 로 연결할 수 없습니다. 입력값을 확인하세요.';
+$lang['db_invalid_connection_str'] = '입력하신 connection_string 정보로 연결할 수 없습니다.';
+$lang['db_unable_to_connect'] = 'config/databases.php의 정보로 연결할 수 없습니다. 입력값을 확인하세요.';
 $lang['db_unable_to_select'] = '데이터베이스를 선택할 수 없습니다: %s';
 $lang['db_unable_to_create'] = '데이터베이스를 생성할 수 없습니다: %s';
 $lang['db_invalid_query'] = '유효하지 않은 쿼리문입니다.';
@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = '작업에 칼럼명이 필요합니다.';
 $lang['db_column_definition_required'] = '작업에 칼럼에 대한 정의가 필요합니다.';
 $lang['db_unable_to_set_charset'] = '해당 언어셋을 사용할 수 없습니다: %s';
 $lang['db_error_heading'] = '데이터베이스 오류';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/korean/db_lang.php */

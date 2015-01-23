@@ -49,6 +49,3 @@ $lang['ftp_no_source_file']         = 'Incaapz de localizar o ficheiro de origem
 $lang['ftp_unable_to_rename']       = 'Incapaz de mudar o nome ao ficheiro.';
 $lang['ftp_unable_to_delete']       = 'Incaapz de apagar o ficheiro.';
 $lang['ftp_unable_to_move']         = 'Incapaz de mover o ficheiro. Por favor certifique-se que a diretoria de detino existe..';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/portuguese/ftp_lang.php */

@@ -82,6 +82,3 @@ $lang['cal_september']  = 'Eylül';
 $lang['cal_october']    = 'Ekim';
 $lang['cal_november']   = 'Kasım';
 $lang['cal_december']   = 'Aralık';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/turkish/calendar_lang.php */

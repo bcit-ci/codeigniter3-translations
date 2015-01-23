@@ -61,6 +61,3 @@ $lang['db_column_name_required']	= 'Kommandot kräver ett kolumnnamn.';
 $lang['db_column_definition_required']	= 'Kommandot kräver en definition av kolumnen.';
 $lang['db_unable_to_set_charset']	= 'Kunde inte välja teckenuppsättning för anslutningen : %s';
 $lang['db_error_heading']		= 'Ett databasfel uppstod';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/swedish/db_lang.php */

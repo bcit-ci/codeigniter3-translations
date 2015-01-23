@@ -61,6 +61,3 @@ $lang['db_column_name_required'] = 'Ein Spaltenname wird für diesen Vorgang ben
 $lang['db_column_definition_required'] = 'Eine Spalten-Definition wird für diesen Vorgang benötigt.';
 $lang['db_unable_to_set_charset'] = 'Der Verbindungs-Zeichensatz konnte nicht gesetzt werden: %s';
 $lang['db_error_heading'] = 'Es ist ein Datenbank-Fehler aufgetreten.';
-
-/* End of file db_lang.php */
-/* Location: ./application/language/german/db_lang.php */

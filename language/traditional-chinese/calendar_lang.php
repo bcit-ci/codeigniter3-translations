@@ -82,6 +82,3 @@ $lang['cal_september'] = '九月';
 $lang['cal_october'] = '十月';
 $lang['cal_november'] = '十一月';
 $lang['cal_december'] = '十二月';
-
-/* End of file calendar_lang.php */
-/* Location: ./application/language/traditional-chinese/calendar_lang.php */

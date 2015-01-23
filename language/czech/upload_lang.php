@@ -54,6 +54,3 @@ $lang['upload_no_filepath']             = 'Cesta pro upload je chybná.';
 $lang['upload_no_file_types']           = 'Nejsou specifikovány žádné povolené typy souboru.';
 $lang['upload_bad_filename']            = 'Jméno souboru na serveru již existuje.';
 $lang['upload_not_writable']            = 'Do cesty pro upload se nepodařilo zapsat.';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/czech/upload_lang.php */

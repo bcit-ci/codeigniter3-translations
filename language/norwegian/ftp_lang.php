@@ -50,6 +50,3 @@ $lang['ftp_no_source_file']		= 'Fant ikke kildefilen. Vennligst sjekk filstien.'
 $lang['ftp_unable_to_rename']		= 'Klarte ikke å gi filen nytt navn.';
 $lang['ftp_unable_to_delete']		= 'Klarte ikke å slette filen.';
 $lang['ftp_unable_to_move']		= 'Klarte ikke å flytte filen. Vennligst sjekk at mappen eksisterer.';
-
-/* End of file ftp_lang.php */
-/* Location: ./system/language/norwegian/ftp_lang.php */

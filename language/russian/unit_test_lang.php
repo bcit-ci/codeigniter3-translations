@@ -56,6 +56,3 @@ $lang['ut_object'] = 'Объект';
 $lang['ut_resource'] = 'Ресурс';
 $lang['ut_null'] = 'NULL';
 $lang['ut_notes'] = 'Заметки';
-
-/* End of file unit_test_lang.php */
-/* Location: ./application/language/russian/unit_test_lang.php */

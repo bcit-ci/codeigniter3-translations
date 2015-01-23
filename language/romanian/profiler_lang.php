@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'Nu există date de profil - toate secțiunile d
 $lang['profiler_section_hide']	= 'Ascunde';
 $lang['profiler_section_show']	= 'Arată';
 $lang['profiler_seconds']		= 'secunde';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/romanian/profiler_lang.php */

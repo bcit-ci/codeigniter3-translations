@@ -39,8 +39,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']		= '{field}은(는) 필수입니다.';
 $lang['form_validation_isset']			= '{field}은(는) 필수입니다.';
-$lang['form_validation_valid_email']		= '{field}은(는) 유효한 이메일이 아닙니다.';
-$lang['form_validation_valid_emails']		= '{field}은(는) 유효한 이메일들이 아닙니다.';
+$lang['form_validation_valid_email']		= '{field}은(는) 유효한 이메일 주소 형식이 아닙니다.';
+$lang['form_validation_valid_emails']		= '{field}은(는) 하나 이상의 이메일 주소가 유효한 형식이 아닙니다.';
 $lang['form_validation_valid_url']		= '{field}은(는) 유효한 URL이 아닙니다.';
 $lang['form_validation_valid_ip']		= '{field}은(는) 유효한 IP가 아닙니다.';
 $lang['form_validation_min_length']		= '{field}은(는) 최소 {param}자 이상이어야 합니다.';
@@ -65,6 +65,3 @@ $lang['form_validation_less_than_equal_to']	= '{field}은(는) {param}보다 작
 $lang['form_validation_greater_than']		= '{field}은(는) {param}보다 커야 합니다.';
 $lang['form_validation_greater_than_equal_to']	= '{field}은(는) {param}보다 크거나 같아야 합니다.';
 $lang['form_validation_error_message_not_set']  = '{field}필드의 에러메시지가 설정되어있지 않습니다.';
-
-/* End of file form_validation_lang.php */
-/* Location: ./application/language/korean/form_validation_lang.php */

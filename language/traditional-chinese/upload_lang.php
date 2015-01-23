@@ -54,6 +54,3 @@ $lang['upload_no_filepath'] = '上傳檔案路徑不正確';
 $lang['upload_no_file_types'] = '尚未指定允許副檔名';
 $lang['upload_bad_filename'] = '檔案名稱已有相同存在於主機';
 $lang['upload_not_writable'] = '上傳目錄無法寫入';
-
-/* End of file upload_lang.php */
-/* Location: ./application/language/traditional-chinese/upload_lang.php */

@@ -53,6 +53,3 @@ $lang['ftp_no_source_file']		= 'Ik kan het bronbestand niet vinden. Controleer a
 $lang['ftp_unable_to_rename']		= 'Ik kan het bestand niet hernoemen.';
 $lang['ftp_unable_to_delete']		= 'Ik kan het bestand niet verwijderen.';
 $lang['ftp_unable_to_move']		= 'Ik kan het bestand niet verplaatsen. Controleer of het bestemmingspad bestaat.';
-
-/* End of file ftp_lang.php */
-/* Location: ./application/language/dutch/ftp_lang.php */

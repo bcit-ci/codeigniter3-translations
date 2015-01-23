@@ -93,5 +93,3 @@ $lang['UP1275'] = '(UTC +12:45) Ilhas Chatham';
 $lang['UP13']   = '(UTC +13:00) Ilhas Fénix, Tonga';
 $lang['UP14']   = '(UTC +14:00) Ilhas da linha';
 
-/* End of file date_lang.php */
-/* Location: ./application/language/portuguese/date_lang.php */

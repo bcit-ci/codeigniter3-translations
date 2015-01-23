@@ -58,6 +58,3 @@ $lang['profiler_no_profiles']	= 'ไม่พบข้อมูลประว�
 $lang['profiler_section_hide']	= 'ซ่อน';
 $lang['profiler_section_show']	= 'แสดง';
 $lang['profiler_seconds']		= 'วินาที';
-
-/* End of file profiler_lang.php */
-/* Location: ./application/language/thai/profiler_lang.php */

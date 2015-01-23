@@ -53,6 +53,3 @@ $lang['upload_no_filepath'] = 'Opplastingsstien synes ikke å være gyldig.';
 $lang['upload_no_file_types'] = 'Du har ikke valgt tillatte filtyper.';
 $lang['upload_bad_filename'] = 'Filnavnet du oppgav finnes allerede på tjeneren.';
 $lang['upload_not_writable'] = 'Destinasjonsmappen for opplastingen synes ikke å være skrivbar.';
-
-/* End of file upload_lang.php */
-/* Location: ./system/language/norwegian/upload_lang.php */

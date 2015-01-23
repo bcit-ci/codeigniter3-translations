@@ -54,6 +54,3 @@ $lang['imglib_invalid_path']            = 'Resim yolu doğru değil.';
 $lang['imglib_copy_failed']             = 'Resim kopyalama işlemi başarısız.';
 $lang['imglib_missing_font']            = 'Kullanılacak font bulunamadı.';
 $lang['imglib_save_failed']             = 'Resim kaydedilemedi. Resmin ve klasörün yazılabilir olduğunu kontrol ediniz.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/turkish/imglib_lang.php */

@@ -56,6 +56,3 @@ $lang['email_smtp_auth_un']          = 'Nepodařilo se autentizovat pomocjí př
 $lang['email_smtp_auth_pw']          = 'Nepodařilo se autentizovat pomocjí hesla. Error: %s';
 $lang['email_smtp_data_failure']     = 'Nemodařilo se odeslat data: %s';
 $lang['email_exit_status']           = 'Exit s kódem: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/czech/email_lang.php */

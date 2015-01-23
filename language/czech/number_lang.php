@@ -42,6 +42,3 @@ $lang['gigabyte_abbr'] = 'GB';
 $lang['megabyte_abbr'] = 'MB';
 $lang['kilobyte_abbr'] = 'KB';
 $lang['bytes']         = 'Bajtů';
-
-/* End of file number_lang.php */
-/* Location: ./application/language/czech/number_lang.php */

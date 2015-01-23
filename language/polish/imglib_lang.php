@@ -55,6 +55,3 @@ $lang['imglib_invalid_path']            = 'Ścieżka do obrazu jest niepoprawna.
 $lang['imglib_copy_failed']             = 'Kopiowanie obrazu nie powiodło się.';
 $lang['imglib_missing_font']            = 'Nie można znaleźć czcionki.';
 $lang['imglib_save_failed']             = 'Nie można zapisać obrazu. Upewnij się że folder oraz obraz mają prawa zapisu.';
-
-/* End of file imglib_lang.php */
-/* Location: ./application/language/polish/imglib_lang.php */

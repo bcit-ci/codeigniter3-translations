@@ -55,6 +55,3 @@ $lang['email_smtp_auth_un'] = 'فشل في التحقق من إسم المستخ
 $lang['email_smtp_auth_pw'] = 'فشل في التحقق من كلمة مرور. الخطأ: %s';
 $lang['email_smtp_data_failure'] = 'غير قادر على إرسال البيانات: %s';
 $lang['email_exit_status'] = 'رمز الخطأ: %s';
-
-/* End of file email_lang.php */
-/* Location: ./application/language/arabic/email_lang.php */

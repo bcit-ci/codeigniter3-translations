@@ -45,6 +45,3 @@ $lang['migration_class_doesnt_exist'] = 'Não foi possível encontrar a classe d
 $lang['migration_missing_up_method'] = 'Falta o método "up" à classe de migração "%s"';
 $lang['migration_missing_down_method'] = 'Falta o método "down" à classe de migração "%s"';
 $lang['migration_invalid_filename'] = 'A migração "%s" tem um nome de ficheiro inválido.';
-
-/* End of file migration_lang.php */
-/* Location: ./application/language/portuguese/migration_lang.php */

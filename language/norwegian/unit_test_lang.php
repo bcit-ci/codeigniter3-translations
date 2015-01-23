@@ -56,6 +56,3 @@ $lang['ut_object']			= 'Objekt';
 $lang['ut_resource']		= 'Ressurs';
 $lang['ut_null']			= 'Null';
 $lang['ut_notes']			= 'Notater';
-
-/* End of file unit_test_lang.php */
-/* Location: ./system/language/norwegian/unit_test_lang.php */
