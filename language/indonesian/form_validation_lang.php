@@ -39,10 +39,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']		= 'Bidang {field} dibutuhkan.';
 $lang['form_validation_isset']			= 'Bidang {field} harus memiliki nilai.';
-$lang['form_validation_valid_email']		= 'Bidang {field} harus berisi alamat email yang valid.';
-$lang['form_validation_valid_emails']		= 'Bidang {field} harus berisi semua alamat email yang valid.';
-$lang['form_validation_valid_url']		= 'Bidang {field} harus berisi URL yang valid.';
-$lang['form_validation_valid_ip']		= 'Bidang {field} harus berisi IP yang valid.';
+$lang['form_validation_valid_email']		= 'Bidang {field} harus berisi alamat email yang sah.';
+$lang['form_validation_valid_emails']		= 'Bidang {field} harus berisi semua alamat email yang sah.';
+$lang['form_validation_valid_url']		= 'Bidang {field} harus berisi URL yang sah.';
+$lang['form_validation_valid_ip']		= 'Bidang {field} harus berisi IP yang sah.';
 $lang['form_validation_min_length']		= 'Bidang {field} harus setidaknya {param} panjang karakter.';
 $lang['form_validation_max_length']		= 'Bidang {field} tidak dapat melebihi {param} panjang karakter.';
 $lang['form_validation_exact_length']		= 'Bidang {field} harus tepat {param} panjang karakter.';
