@@ -38,10 +38,10 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = 'Metode validasi email harus melewati sebuah array.';
-$lang['email_invalid_address'] = 'Alamat email tidak valid: %s';
+$lang['email_invalid_address'] = 'Alamat email tidak sah: %s';
 $lang['email_attachment_missing'] = 'Tidak dapat menemukan lampiran email berikut: %s';
 $lang['email_attachment_unreadable'] = 'Tidak dapat membuka lampiran ini: %s';
-$lang['email_no_from'] = 'Tidak bisa mengirim email tanpa kepala "Dari".';
+$lang['email_no_from'] = 'Tidak dapat mengirim email tanpa kepala "Dari".';
 $lang['email_no_recipients'] = 'Anda harus menyertakan penerima: Kepada, CC, atau BCC';
 $lang['email_send_failure_phpmail'] = 'Tidak dapat mengirim email menggunakan PHP mail(). Server Anda mungkin tidak dikonfigurasi untuk mengirim email menggunakan metode ini.';
 $lang['email_send_failure_sendmail'] = 'Tidak dapat mengirim email menggunakan PHP Sendmail. Server Anda mungkin tidak dikonfigurasi untuk mengirim email menggunakan metode ini.';

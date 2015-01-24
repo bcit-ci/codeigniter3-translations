@@ -37,9 +37,9 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'Tidak dapat menemukan ID koneksi yang valid. Pastikan Anda terhubung sebelum melakukan rutinitas berkas.';
+$lang['ftp_no_connection']		= 'Tidak dapat menemukan ID koneksi yang sah. Pastikan Anda terhubung sebelum melakukan rutinitas berkas.';
 $lang['ftp_unable_to_connect']		= 'Tidak dapat terhubung ke server FTP Anda menggunakan nama host yang disediakan.';
-$lang['ftp_unable_to_login']		= 'Tidak dapat login ke server FTP Anda. Silakan periksa nama pengguna dan password Anda.';
+$lang['ftp_unable_to_login']		= 'Tidak dapat masuk ke server FTP Anda. Silakan periksa nama pengguna dan password Anda.';
 $lang['ftp_unable_to_mkdir']		= 'Tidak dapat membuat direktori yang telah Anda tentukan.';
 $lang['ftp_unable_to_changedir']	= 'Tidak dapat mengubah direktori.';
 $lang['ftp_unable_to_chmod']		= 'Tidak dapat mengatur hak akses berkas. Silakan periksa jalur Anda.';
