@@ -10,20 +10,20 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year'] = 'Tahun';
-$lang['date_years'] = 'Tahun';
-$lang['date_month'] = 'Bulan';
-$lang['date_months'] = 'Bulan';
-$lang['date_week'] = 'Minggu';
-$lang['date_weeks'] = 'Minggu';
-$lang['date_day'] = 'Hari';
-$lang['date_days'] = 'Hari';
-$lang['date_hour'] = 'Jam';
-$lang['date_hours'] = 'Jam';
-$lang['date_minute'] = 'Menit';
-$lang['date_minutes'] = 'Menit';
-$lang['date_second'] = 'Detik';
-$lang['date_seconds'] = 'Detik';
+$lang['date_year'] 		= 'Tahun';
+$lang['date_years'] 	= 'Tahun';
+$lang['date_month'] 	= 'Bulan';
+$lang['date_months'] 	= 'Bulan';
+$lang['date_week'] 		= 'Minggu';
+$lang['date_weeks'] 	= 'Minggu';
+$lang['date_day'] 		= 'Hari';
+$lang['date_days'] 		= 'Hari';
+$lang['date_hour'] 		= 'Jam';
+$lang['date_hours'] 	= 'Jam';
+$lang['date_minute'] 	= 'Menit';
+$lang['date_minutes'] 	= 'Menit';
+$lang['date_second'] 	= 'Detik';
+$lang['date_seconds'] 	= 'Detik';
 
 $lang['UM12']	= '(UTC -12:00) Pulau Baker/Howland';
 $lang['UM11']	= '(UTC -11:00) Niue';
