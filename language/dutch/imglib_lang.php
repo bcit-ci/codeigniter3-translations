@@ -3,8 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @author	Pieter Krul
  * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Pieter Krul
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
