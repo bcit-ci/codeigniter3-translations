@@ -1,39 +1,12 @@
 <?php
 /**
- * CodeIgniter
+ * System messages translation for CodeIgniter(tm)
  *
- * An open source application development framework for PHP 5.2.4 or newer
- *
- * This content is released under the MIT License (MIT)
- *
- * Copyright (c) 2014, British Columbia Institute of Technology
- *
- * Permission is hereby granted, free of charge, to any person obtaining a copy
- * of this software and associated documentation files (the "Software"), to deal
- * in the Software without restriction, including without limitation the rights
- * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- * copies of the Software, and to permit persons to whom the Software is
- * furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice shall be included in
- * all copies or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
- * THE SOFTWARE.
- *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @author	CodeIgniter community
+ * @author	Iban Eguia
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
- * @since	Version 1.0.0
- * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -70,9 +43,9 @@ $lang['UM1']	= '(UTC -1:00) Azores, Islas de Cabo Verde';
 $lang['UTC']	= '(UTC) Tiempo medio de Greenwich, Hora de Europa Occidental';
 $lang['UP1']	= '(UTC +1:00) Hora Central Europea, Tiempo de África Occidental';
 $lang['UP2']	= '(UTC +2:00) Tiempo de África Central, Hora de Europa Oriental, Hora de Kaliningrado';
-$lang['UP3']	= '(UTC +3:00) Tiempo de África Oriental, Hora Estándar de Arabia';
+$lang['UP3']	= '(UTC +3:00) Hora de Moscú, Tiempo de África Oriental, Hora Estándar de Arabia';
 $lang['UP35']	= '(UTC +3:30) Hora Estándar de Irán';
-$lang['UP4']	= '(UTC +4:00) Hora de Moscú, Hora Estándar de Azerbaiyán';
+$lang['UP4']	= '(UTC +4:00) Hora Estándar de Azerbaiyán, Hora de Samara';
 $lang['UP45']	= '(UTC +4:30) Afganistán';
 $lang['UP5']	= '(UTC +5:00) Hora Estándar de Pakistan, Hora de Ekaterimburgo';
 $lang['UP55']	= '(UTC +5:30) Hora Estándar de la India, Hora Estándar de Sri Lanka';
@@ -86,12 +59,9 @@ $lang['UP9']	= '(UTC +9:00) Hora Estándar de Japón, Hora Estándar de Corea, H
 $lang['UP95']	= '(UTC +9:30) Hora Estándar Central Australiana';
 $lang['UP10']	= '(UTC +10:00) Hora Estándar Oriental Australiana, Hora de Vladivostok';
 $lang['UP105']	= '(UTC +10:30) Isla de Lord Howe';
-$lang['UP11']	= '(UTC +11:00) Hora de Magadán, Islas Salomón, Vanuatu';
+$lang['UP11']	= '(UTC +11:00) Hora de Srednekolimsk, Islas Salomón, Vanuatu';
 $lang['UP115']	= '(UTC +11:30) Isla Norfolk';
 $lang['UP12']	= '(UTC +12:00) Fiji, Islas Gilbert, Horario de Kamchatka, Hora estandar de Nueva Zelanda';
 $lang['UP1275']	= '(UTC +12:45) Hora Estándar de las Islas Chatham';
 $lang['UP13']	= '(UTC +13:00) Zona horaria de Samoa, Hora de las Islas Fénix, Tonga';
 $lang['UP14']	= '(UTC +14:00) Islas de la Línea';
-
-/* End of file date_lang.php */
-/* Location: ./application/language/spanish/date_lang.php */
