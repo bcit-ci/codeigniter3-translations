@@ -38,3 +38,4 @@ $lang['form_validation_less_than_equal_to'] = 'Полето "{field}" трябв
 $lang['form_validation_greater_than'] = 'Полето "{field}" трябва да съдържа число, по-голямо от {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Полето "{field}" трябва да съдържа число, по-голямо или равно на {param}.';
 $lang['form_validation_error_message_not_set'] = 'Грешка в полето "{field}". Описанието на грешката не е зададено.';
+$lang['form_validation_in_list'] = 'Полето "{field}" трябва да е измежду стойностите {param}.';
