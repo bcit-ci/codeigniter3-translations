@@ -37,3 +37,4 @@ $lang['form_validation_less_than_equal_to']	= 'الحقل {field} يجب أن ي
 $lang['form_validation_greater_than']		= 'الحقل {field} يجب أن يحتوى على رقم أكبر من {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'الحقل {field} يجب أن يحتوى على رقم أكبر من أو يساوي {param}.';
 $lang['form_validation_error_message_not_set']	= ' الحقل{field}  غير قادر على الوصول إلى رسالة خطأ المقابلة ل اسم مجال عملك.';
+$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
