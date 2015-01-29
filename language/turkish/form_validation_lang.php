@@ -36,4 +36,5 @@ $lang['form_validation_less_than']              = '{field} alanı {param} den k�
 $lang['form_validation_less_than_equal_to']     = '{field} alanı {param} den küçük veya eşit bir sayı içermeli.';
 $lang['form_validation_greater_than']           = '{field} alanı {param} den büyük bir sayı içermeli.';
 $lang['form_validation_greater_than_equal_to']  = '{field} alanı {param} den büyük veya eşit bir sayı içermeli.';
-$lang['form_validation_error_message_not_set']	= '{field} alanı için bir hata mesajı bulunamadı.';
+$lang['form_validation_error_message_not_set']  = '{field} alanı için bir hata mesajı bulunamadı.';
+$lang['form_validation_in_list']                = 'The {field} field must be one of: {param}.'; // to translate

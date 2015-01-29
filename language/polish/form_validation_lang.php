@@ -37,3 +37,4 @@ $lang['form_validation_less_than_equal_to']     = 'Pole {field} musi zawierać l
 $lang['form_validation_greater_than']           = 'Pole {field} musi zawierać liczbę większą niż {param}.';
 $lang['form_validation_greater_than_equal_to']  = 'Pole {field} musi zawierać liczbę większą lub równą {param}.';
 $lang['form_validation_error_message_not_set']  = 'Nie można uzyskać dostępu do komunikatu o błędzie dla pola {field}.';
+$lang['form_validation_in_list']                = 'Pole {field} musi mieć jedną z następujących wartości: {param}.';

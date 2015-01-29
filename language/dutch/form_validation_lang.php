@@ -37,4 +37,5 @@ $lang['form_validation_less_than']		= 'Het {field}-veld dient een nummer kleiner
 $lang['form_validation_less_than_equal_to']	= 'Het {field}-veld dient een nummer kleiner of gelijk aan {param} te bevatten.';
 $lang['form_validation_greater_than']		= 'Het {field}-veld dient een nummer groter dan {param} te bevatten.';
 $lang['form_validation_greater_than_equal_to']	= 'Het {field}-veld dient een nummer groter dan, of gelijk aan {param} te bevatten.';
-$lang['form_validation_error_message_not_set']  = 'Tijdens de validatie van het {field}-veld is een niet nader genoemde fout ontstaan.';
+$lang['form_validation_error_message_not_set']	= 'Tijdens de validatie van het {field}-veld is een niet nader genoemde fout ontstaan.';
+$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
