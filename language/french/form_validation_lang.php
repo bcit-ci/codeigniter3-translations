@@ -36,4 +36,4 @@ $lang['form_validation_less_than_equal_to']    = "Le champ {field} doit contenir
 $lang['form_validation_greater_than']          = "Le champ {field} doit contenir un nombre supérieur à {param}.";
 $lang['form_validation_greater_than_equal_to'] = "Le champ {field} doit contenir un nombre supérieur ou égal à {param}.";
 $lang['form_validation_error_message_not_set'] = "Impossible d'accéder à un message d'erreur correspondant à votre champ nommé {field}.";
-$lang['form_validation_in_list']               = 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']               = "Le champ {field} doit avoir une de ces valeurs : {param}.";
