@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']     = 'O campo {field} tem que conte
 $lang['form_validation_greater_than']           = 'O campo {field} tem que conter um número superior a {param}.';
 $lang['form_validation_greater_than_equal_to']  = 'O campo {field} tem que conter um número superior ou igual a {param}.';
 $lang['form_validation_error_message_not_set']  = 'Não existe uma mensagem de erro para o campo com o nome {field}.';
-$lang['form_validation_in_list']                = 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']                = 'O campor {field} tem que ser de um dos seguintes tipos: {param}.';
