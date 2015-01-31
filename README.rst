@@ -63,6 +63,7 @@ swedish                  done         peterdenk       Peter Denk
 thai                     done         karidoe         Anuchit Thiam-uan
 traditional-chinese      done         PeterDaveHello  Peter Dave Hello
 turkish                  done         obozdag         Osman Bozdag
+ukranian                 done         flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
 
 If you have a translation or correction, please fork the repository, clone it
