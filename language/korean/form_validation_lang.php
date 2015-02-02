@@ -37,5 +37,5 @@ $lang['form_validation_less_than']		= '{field}은(는) {param}보다 작아야 �
 $lang['form_validation_less_than_equal_to']	= '{field}은(는) {param}보다 작거나 같아야 합니다.';
 $lang['form_validation_greater_than']		= '{field}은(는) {param}보다 커야 합니다.';
 $lang['form_validation_greater_than_equal_to']	= '{field}은(는) {param}보다 크거나 같아야 합니다.';
-$lang['form_validation_error_message_not_set']	= '{field}필드의 에러메시지가 설정되어있지 않습니다.';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_error_message_not_set']	= '{field} 필드의 에러메시지가 설정되어있지 않습니다.';
+$lang['form_validation_in_list']		= '{field} 필드는 반드시 다음 중 하나와 일치해야 합니다 : {param}';
