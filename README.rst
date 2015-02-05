@@ -2,10 +2,8 @@
 Translations for CodeIgniter System Messages
 ############################################
 
-..note:: In preparation for the 3.0 release, we have switched
-    to a more proper branching model. The *master* branch has been
-    tagged for release, and all new changes or additions will be
-    to the *develop* branch.
+Note: In preparation for the 3.0 release, we have switched to a more proper branching model. 
+    The *master* branch has been tagged for release, and all new changes or additions will be to the *develop* branch.
 
 This project contains translations for the CodeIgniter 
 system messages folder, **system/language/english**.
