@@ -2,6 +2,11 @@
 Translations for CodeIgniter System Messages
 ############################################
 
+..note:: In preparation for the 3.0 release, we have switched
+    to a more proper branching model. The *master* branch has been
+    tagged for release, and all new changes or additions will be
+    to the *develop* branch.
+
 This project contains translations for the CodeIgniter 
 system messages folder, **system/language/english**.
 
@@ -18,18 +23,6 @@ something addressed in CodeIgniter. The suggested approach is to keep any
 translations in left-to-right order, and to deal with right-to-left
 rendering through the "dir" attribute of an HTML element, or the "direction"
 attribute in CSS.
-
-************
-Requirements
-************
-
-These translations are intended for use with CodeIgniter 3.0.
-
-*******
-License
-*******
-
-These translations are licensed under the `MIT license <license.txt>`_.
 
 **********************
 Repository Information
@@ -66,8 +59,24 @@ turkish                  done         obozdag         Osman Bozdag
 ukranian                 done         flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
 
+************
+Requirements
+************
+
+These translations are intended for use with CodeIgniter 3.0.
+
+*******
+License
+*******
+
+These translations are licensed under the `MIT license <license.txt>`_.
+
+************
+Contributing
+************
+
 If you have a translation or correction, please fork the repository, clone it
-locally, and then create a new branch (from master) 
+locally, and then create a new branch (from develop) 
 for each set of related changes or for
 a complete language pack. Once your branch is complete, *then* create a pull 
 request to merge it into the main repository. Remember to "sign" your commits.
