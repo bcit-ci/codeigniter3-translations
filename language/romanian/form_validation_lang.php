@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']	= 'Câmpul {field} trebuie să conț
 $lang['form_validation_greater_than']		= 'Câmpul {field} trebuie să conțină un număr mai mare decât {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Câmpul {field} trebuie să conțină un număr mai mare decât sau egal cu {param}.';
 $lang['form_validation_error_message_not_set']	= 'Nu se poate accesa un mesaj de eroare corespunzător numele tău domeniu {field}.';
-$lang['form_validation_in_list']		= 'Câmpul {field} trebuie să fie unul dintr: {param}.';
+$lang['form_validation_in_list']		= 'Câmpul {field} trebuie să fie unul dintre: {param}.';
