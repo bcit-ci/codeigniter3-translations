@@ -33,6 +33,7 @@ Idiom                    Status       User            Maintainer
 =======================  ===========  ==============  =========================
 arabic                   done         daif            Daif Alotaibi
 bulgarian                done         ivantcholakov   Ivan Tcholakov
+catalan                  done         Ignasimg        Ignasi Molsosa
 czech                    done         Ruplahlava      Štěpán Postránecký
 dutch                    done         pkrul           Pieter Krul
 french                   done         includebeer     Alain Rivest
