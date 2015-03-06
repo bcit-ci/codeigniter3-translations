@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']	= '{field}欄は{param}以下の値�
 $lang['form_validation_greater_than']		= '{field}欄は{param}より大きい値でなければいけません。';
 $lang['form_validation_greater_than_equal_to']	= '{field}欄は{param}以上の値でなければいけません。';
 $lang['form_validation_error_message_not_set']	= '{field}欄に適切なエラーメッセージがありません';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; //FIXME

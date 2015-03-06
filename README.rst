@@ -31,31 +31,31 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  ==============  =========================
 Idiom                    Status       User            Maintainer
 =======================  ===========  ==============  =========================
-arabic                   done         daif            Daif Alotaibi
-bulgarian                done         ivantcholakov   Ivan Tcholakov
-catalan                  done         Ignasimg        Ignasi Molsosa
-czech                    done         Ruplahlava      Štěpán Postránecký
-dutch                    done         pkrul           Pieter Krul
-french                   done         includebeer     Alain Rivest
-german                   done         Rufnex          Johannes Gamperl
-indonesian               done         ridho1991       Mutasim Ridlo
-italian                  done         ster            Stefano Mazzega
-japanese                 done         tsukasa         Tsukasa Takao
-korean                   done         KwonLatte       HyeongJoo Kwon
-norwegian                done         yhoiseth        Yngve Hoiseth
-persian                  done         MSDehghan       Mohammad Sadegh
-polish                   done         michalsn        Michał Śniatała
-portugese                done         j38600          Júlio Sebastião
-portugese-brazilian      done         mateusfbi       Mateus Brandão
-romanian                 done         Chiribuc        Cristian Robert Chiribuc
-russian                  done         vadimyer        Vadim Yermolin
-simplified-chinese       done         denghongcai     Deng HongCai
-spanish                  done         Razican         Iban Eguia
-swedish                  done         peterdenk       Peter Denk
-thai                     done         karidoe         Anuchit Thiam-uan
-traditional-chinese      done         PeterDaveHello  Peter Dave Hello
-turkish                  done         obozdag         Osman Bozdag
-ukranian                 done         flybot          Sergiy Kosiy
+arabic                   part         daif            Daif Alotaibi
+bulgarian                good         ivantcholakov   Ivan Tcholakov
+catalan                  good         Ignasimg        Ignasi Molsosa
+czech                    most         Ruplahlava      Štěpán Postránecký
+dutch                    good         pkrul           Pieter Krul
+french                   good         includebeer     Alain Rivest
+german                   most         Rufnex          Johannes Gamperl
+indonesian               good         ridho1991       Mutasim Ridlo
+italian                  good         ster            Stefano Mazzega
+japanese                 most         tsukasa         Tsukasa Takao
+korean                   good         KwonLatte       HyeongJoo Kwon
+norwegian                most         yhoiseth        Yngve Hoiseth
+persian                  most         MSDehghan       Mohammad Sadegh
+polish                   good         michalsn        Michał Śniatała
+portugese                good         j38600          Júlio Sebastião
+portugese-brazilian      good         mateusfbi       Mateus Brandão
+romanian                 good         Chiribuc        Cristian Robert Chiribuc
+russian                  good         vadimyer        Vadim Yermolin
+simplified-chinese       most         denghongcai     Deng HongCai
+spanish                  good         Razican         Iban Eguia
+swedish                  good         peterdenk       Peter Denk
+thai                     most         karidoe         Anuchit Thiam-uan
+traditional-chinese      most         PeterDaveHello  Peter Dave Hello
+turkish                  most         obozdag         Osman Bozdag
+ukranian                 good         flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
 
 ************
