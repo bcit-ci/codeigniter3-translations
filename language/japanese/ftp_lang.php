@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['ftp_no_connection'] = '正しい接続IDが見つかりません。ファイル処理を行う前にまず接続されているか確かめてください';
 $lang['ftp_unable_to_connect'] = '指定したホスト名でFTPサーバに接続できません';
 $lang['ftp_unable_to_login'] = 'FTP サーバにログインできません。ユーザ名とパスワードを確かめてください';
-$lang['ftp_unable_to_makdir'] = '指定したディレクトリを作成できません';
+$lang['ftp_unable_to_mkdir'] = '指定したディレクトリを作成できません';
 $lang['ftp_unable_to_changedir'] = 'ディレクトリを変更できません';
 $lang['ftp_unable_to_chmod'] = 'パーミッションをセットできません。パスを確かめてください';
 $lang['ftp_unable_to_upload'] = '指定したファイルをアップロードできません。パスを確かめてください';

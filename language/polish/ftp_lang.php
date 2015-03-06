@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['ftp_no_connection']          = 'Nie można zlokalizować poprawnego ID połączenia. Upewnij się że połączenie zostało ustanowione zanim zaczniesz wykonywać jakiekolwiek operacje z plikami.';
 $lang['ftp_unable_to_connect']      = 'Nie można połączyć się z serwerem FTP używając podanej nazwy hosta.';
 $lang['ftp_unable_to_login']        = 'Nie można zalogować się do serwera FTP. Proszę sprawdzić nazwę użytkownika oraz hasło.';
-$lang['ftp_unable_to_makdir']       = 'Nie można utworzyć folderu o podanej nazwie.';
+$lang['ftp_unable_to_mkdir']       = 'Nie można utworzyć folderu o podanej nazwie.';
 $lang['ftp_unable_to_changedir']    = 'Nie można zmienić folderu.';
 $lang['ftp_unable_to_chmod']        = 'Nie można ustawić praw dostępu dla pliku. Proszę sprawdzić ścieżkę dostępu.';
 $lang['ftp_unable_to_upload']       = 'Nie można wgrać wybranego pliku. Proszę sprawdzić ścieżkę dostępu.';

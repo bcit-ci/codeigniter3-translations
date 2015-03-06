@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to'] = 'Поле {field} повинно �
 $lang['form_validation_greater_than'] = 'Поле {field} повинно мати значення більше {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Поле {field} повинно мати значення, не менше ніж {param}.';
 $lang['form_validation_error_message_not_set'] = 'Для поля {field} не встановлено повідомлення про помилку.';
-$lang['form_validation_in_list'] = 'Поле {field} повинно бути одним з: {param}.'; // to translate
+$lang['form_validation_in_list'] = 'Поле {field} повинно бути одним з: {param}.';  
