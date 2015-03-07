@@ -9,11 +9,11 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = '²»ĞèÇ¨ÒÆ¡£  ';
-$lang['migration_not_found'] = 'ÎŞ·¨¸ù¾İ°æ±¾ºÅÕÒµ½Ç¨ÒÆ·½·¨£º %s¡£';
-$lang['migration_sequence_gap'] = '°æ±¾Ç¨ÒÆ´æÔÚºè¹µ£º%s¡£';
-$lang['migration_multiple_version'] = '¶à¸öÇ¨ÒÆ¶ÔÓ¦Í¬Ò»°æ±¾ºÅ£º%s¡£';
-$lang['migration_class_doesnt_exist'] = 'ÎŞ·¨ÕÒµ½Ç¨ÒÆÀà "%s"¡£';
-$lang['migration_missing_up_method'] = 'ÎŞ·¨ÕÒµ½Ç¨ÒÆÀà "%s" ÖĞµÄ "up" ·½·¨¡£';
-$lang['migration_missing_down_method'] = 'ÎŞ·¨ÕÒµ½Ç¨ÒÆÀà "%s" ÖĞµÄ " ·½·¨¡£';
-$lang['migration_invalid_filename'] = 'ÎŞĞ§µÄÇ¨ÒÆÎÄ¼şÃû£º"%s"¡£';
+$lang['migration_none_found'] = 'ä¸éœ€è¿ç§»ã€‚  ';
+$lang['migration_not_found'] = 'æ— æ³•æ ¹æ®ç‰ˆæœ¬å·æ‰¾åˆ°è¿ç§»æ–¹æ³•ï¼š %sã€‚';
+$lang['migration_sequence_gap'] = 'ç‰ˆæœ¬è¿ç§»å­˜åœ¨é¸¿æ²Ÿï¼š%sã€‚';
+$lang['migration_multiple_version'] = 'å¤šä¸ªè¿ç§»å¯¹åº”åŒä¸€ç‰ˆæœ¬å·ï¼š%sã€‚';
+$lang['migration_class_doesnt_exist'] = 'æ— æ³•æ‰¾åˆ°è¿ç§»ç±» "%s"ã€‚';
+$lang['migration_missing_up_method'] = 'æ— æ³•æ‰¾åˆ°è¿ç§»ç±» "%s" ä¸­çš„ "up" æ–¹æ³•ã€‚';
+$lang['migration_missing_down_method'] = 'æ— æ³•æ‰¾åˆ°è¿ç§»ç±» "%s" ä¸­çš„ " æ–¹æ³•ã€‚';
+$lang['migration_invalid_filename'] = 'æ— æ•ˆçš„è¿ç§»æ–‡ä»¶åï¼š"%s"ã€‚';
