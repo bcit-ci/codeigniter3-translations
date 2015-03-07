@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to'] = '{field} 欄位的值必須小於�
 $lang['form_validation_greater_than'] = '{field} 欄位的值必須大於 {param}';
 $lang['form_validation_greater_than_equal_to'] = '{field} 欄位的值必須大於等於 {param}';
 $lang['form_validation_error_message_not_set'] = '無法取得 {field} 欄位的錯誤資訊';
-$lang['form_validation_in_list'] = 'The {field} field must be one of: {param}.'; //FIXME
+$lang['form_validation_in_list'] = '{field} 欄位必须是 {param} 中的一種。';
