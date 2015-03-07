@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to'] = '{field} 字段的值必须小于等于 {par
 $lang['form_validation_greater_than'] = '{field} 字段的值必须大于 {param}。';
 $lang['form_validation_greater_than_equal_to'] = '{field} 字段的值必须大于等于 {param}。';
 $lang['form_validation_error_message_not_set'] = '无法获得 {field} 字段的错误信息。';
-$lang['form_validation_in_list'] = 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list'] = '{field} 字段必须是 {param} 中的一种。'; 
