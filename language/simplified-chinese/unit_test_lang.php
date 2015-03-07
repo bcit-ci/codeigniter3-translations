@@ -9,15 +9,15 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = '²âÊÔÃû';
-$lang['ut_test_datatype'] = '²âÊÔµÄÊı¾İÀàĞÍ';
-$lang['ut_res_datatype'] = 'ÆÚÍûµÄÊı¾İÀàĞÍ';
-$lang['ut_result'] = '½á¹û';
-$lang['ut_undefined'] = 'Î´¶¨ÒåµÄ²âÊÔÃû';
-$lang['ut_file'] = 'ÎÄ¼şÃû';
-$lang['ut_line'] = 'ĞĞºÅ';
-$lang['ut_passed'] = 'Í¨¹ı';
-$lang['ut_failed'] = 'Ê§°Ü';
+$lang['ut_test_name'] = 'æµ‹è¯•å';
+$lang['ut_test_datatype'] = 'æµ‹è¯•çš„æ•°æ®ç±»å‹';
+$lang['ut_res_datatype'] = 'æœŸæœ›çš„æ•°æ®ç±»å‹';
+$lang['ut_result'] = 'ç»“æœ';
+$lang['ut_undefined'] = 'æœªå®šä¹‰çš„æµ‹è¯•å';
+$lang['ut_file'] = 'æ–‡ä»¶å';
+$lang['ut_line'] = 'è¡Œå·';
+$lang['ut_passed'] = 'é€šè¿‡';
+$lang['ut_failed'] = 'å¤±è´¥';
 $lang['ut_boolean'] = 'Boolean';
 $lang['ut_integer'] = 'Integer';
 $lang['ut_float'] = 'Float';
@@ -27,4 +27,4 @@ $lang['ut_array'] = 'Array';
 $lang['ut_object'] = 'Object';
 $lang['ut_resource'] = 'Resource';
 $lang['ut_null'] = 'Null';
-$lang['ut_notes'] = '±Ê¼Ç';
+$lang['ut_notes'] = 'ç¬”è®°';
