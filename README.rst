@@ -36,7 +36,7 @@ bulgarian                3.0          ivantcholakov   Ivan Tcholakov
 catalan                  3.0          Ignasimg        Ignasi Molsosa
 czech                    most         Ruplahlava      Štěpán Postránecký
 dutch                    3.0          pkrul           Pieter Krul
-filipino                 coming       dzerium         Edzer Josh V. Padilla
+filipino                 3.0          dzerium         Edzer Josh V. Padilla
 french                   3.0          includebeer     Alain Rivest
 german                   most         Rufnex          Johannes Gamperl
 hungarian                3.0          orionstar       Lászlo Bóra
