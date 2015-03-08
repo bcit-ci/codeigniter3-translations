@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']	= '{field} må inneholde et tall min
 $lang['form_validation_greater_than']		= '{field} må inneholde et tall større enn {param}.';
 $lang['form_validation_greater_than_equal_to']	= '{field} må inneholde et tall større enn eller lik {param}.';
 $lang['form_validation_error_message_not_set']	= 'Finner ingen feilmelding som hører til feltet {field}';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; //FIXME
+$lang['form_validation_in_list']		= '{field} må være én av: {param}.';

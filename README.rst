@@ -32,31 +32,32 @@ Each language is maintained by a community member, per the table below:
 Idiom                    Status       User            Maintainer
 =======================  ===========  ==============  =========================
 arabic                   part         daif            Daif Alotaibi
-bulgarian                good         ivantcholakov   Ivan Tcholakov
-catalan                  good         Ignasimg        Ignasi Molsosa
+bulgarian                3.0          ivantcholakov   Ivan Tcholakov
+catalan                  3.0          Ignasimg        Ignasi Molsosa
 czech                    most         Ruplahlava      Štěpán Postránecký
-dutch                    good         pkrul           Pieter Krul
-french                   good         includebeer     Alain Rivest
+dutch                    3.0          pkrul           Pieter Krul
+filipino                 coming       dzerium         Edzer Josh V. Padilla
+french                   3.0          includebeer     Alain Rivest
 german                   most         Rufnex          Johannes Gamperl
 hungarian                3.0          orionstar       Lászlo Bóra
-indonesian               good         ridho1991       Mutasim Ridlo
-italian                  good         ster            Stefano Mazzega
+indonesian               3.0          ridho1991       Mutasim Ridlo
+italian                  3.0          ster            Stefano Mazzega
 japanese                 most         tsukasa         Tsukasa Takao
-korean                   good         KwonLatte       HyeongJoo Kwon
-norwegian                most         yhoiseth        Yngve Hoiseth
+korean                   3.0          KwonLatte       HyeongJoo Kwon
+norwegian                3.0          yhoiseth        Yngve Hoiseth
 persian                  most         MSDehghan       Mohammad Sadegh
-polish                   good         michalsn        Michał Śniatała
-portugese                good         j38600          Júlio Sebastião
-portugese-brazilian      good         mateusfbi       Mateus Brandão
-romanian                 good         Chiribuc        Cristian Robert Chiribuc
-russian                  good         vadimyer        Vadim Yermolin
+polish                   3.0          michalsn        Michał Śniatała
+portugese                3.0          j38600          Júlio Sebastião
+portugese-brazilian      3.0          mateusfbi       Mateus Brandão
+romanian                 3.0          Chiribuc        Cristian Robert Chiribuc
+russian                  3.0          vadimyer        Vadim Yermolin
 simplified-chinese       most         denghongcai     Deng HongCai
-spanish                  good         Razican         Iban Eguia
-swedish                  good         peterdenk       Peter Denk
+spanish                  3.0          Razican         Iban Eguia
+swedish                  3.0          peterdenk       Peter Denk
 thai                     most         karidoe         Anuchit Thiam-uan
 traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  most         obozdag         Osman Bozdag
-ukranian                 good         flybot          Sergiy Kosiy
+ukranian                 3.0          flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
 
 ************
