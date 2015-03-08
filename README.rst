@@ -38,6 +38,7 @@ czech                    most         Ruplahlava      Štěpán Postránecký
 dutch                    good         pkrul           Pieter Krul
 french                   good         includebeer     Alain Rivest
 german                   most         Rufnex          Johannes Gamperl
+hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               good         ridho1991       Mutasim Ridlo
 italian                  good         ster            Stefano Mazzega
 japanese                 most         tsukasa         Tsukasa Takao
@@ -53,7 +54,7 @@ simplified-chinese       most         denghongcai     Deng HongCai
 spanish                  good         Razican         Iban Eguia
 swedish                  good         peterdenk       Peter Denk
 thai                     most         karidoe         Anuchit Thiam-uan
-traditional-chinese      most         PeterDaveHello  Peter Dave Hello
+traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  most         obozdag         Osman Bozdag
 ukranian                 good         flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
