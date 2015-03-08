@@ -37,3 +37,4 @@ $lang['form_validation_less_than_equal_to']		= '{field} mező értéke kisebb va
 $lang['form_validation_greater_than']			= '{field} mező értéke nagyobb, mint {param}.';
 $lang['form_validation_greater_than_equal_to']	= '{field} mező értéke nagyobb vagy egyenlő, mint {param}.';
 $lang['form_validation_error_message_not_set']	= '{field} mezőhöz tartozó hibaüzenet nem érhető el!';
+$lang['form_validation_in_list']				= '{field} mező értékének a következők egyikének kell lennie: {param}.';
