@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']    = 'Pole {field} musí být menš�
 $lang['form_validation_greater_than']          = 'Pole {field} musí být větší než pole {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Pole {field} musí být větší nebo stejné jako pole {param}.';
 $lang['form_validation_error_message_not_set'] = 'Pro pole {field} není nastavena chybová zpráva.';
-$lang['form_validation_in_list']               = 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']               = 'Pole {field} musí být jedním z: {param}.'; // to translate
