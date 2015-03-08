@@ -37,15 +37,15 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'Unable to locate a valid connection ID. Please make sure you are connected before performing any file routines.';
-$lang['ftp_unable_to_connect']		= 'Unable to connect to your FTP server using the supplied hostname.';
-$lang['ftp_unable_to_login']		= 'Unable to login to your FTP server. Please check your username and password.';
-$lang['ftp_unable_to_mkdir']		= 'Unable to create the directory you have specified.';
-$lang['ftp_unable_to_changedir']	= 'Unable to change directories.';
-$lang['ftp_unable_to_chmod']		= 'Unable to set file permissions. Please check your path.';
-$lang['ftp_unable_to_upload']		= 'Unable to upload the specified file. Please check your path.';
-$lang['ftp_unable_to_download']		= 'Unable to download the specified file. Please check your path.';
-$lang['ftp_no_source_file']		= 'Unable to locate the source file. Please check your path.';
-$lang['ftp_unable_to_rename']		= 'Unable to rename the file.';
-$lang['ftp_unable_to_delete']		= 'Unable to delete the file.';
-$lang['ftp_unable_to_move']		= 'Unable to move the file. Please make sure the destination directory exists.';
+$lang['ftp_no_connection']		= 'Hindi mahanap ang isang wastong connection ID. Mangyaring tiyakin na ikaw ay konektado bago magsagawa ng anumang file routines.';
+$lang['ftp_unable_to_connect']		= 'Hindi makakonekta sa iyong FTP server gamit ang ibinigay na hostname.';
+$lang['ftp_unable_to_login']		= 'Hindi magawang mag-login sa iyong FTP server. Mangyaring suriin ang iyong username at password.';
+$lang['ftp_unable_to_mkdir']		= 'Hindi malikha ang directory na iyong tinukoy.';
+$lang['ftp_unable_to_changedir']	= 'Hindi mabago ang mga directory.';
+$lang['ftp_unable_to_chmod']		= 'Hindi mai-set ang mga file permission. Mangyaring suriin ang iyong path.';
+$lang['ftp_unable_to_upload']		= 'Hindi ma-upload ang tinukoy na file. Mangyaring suriin ang iyong path.';
+$lang['ftp_unable_to_download']		= 'Hindi ma-download ang tinukoy na file. Mangyaring suriin ang iyong path.';
+$lang['ftp_no_source_file']		= 'Hindi mahanap ang source file. Mangyaring suriin ang iyong path.';
+$lang['ftp_unable_to_rename']		= 'Hindi mabago ang pangalan ng file.';
+$lang['ftp_unable_to_delete']		= 'Hindi matanggal ang file.';
+$lang['ftp_unable_to_move']		= 'Hindi mailipat ang file na ito. Mangyaring tiyakin na mayroong patutunguhang directory.';
