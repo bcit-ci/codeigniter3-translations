@@ -39,6 +39,7 @@ dutch                    3.0          pkrul           Pieter Krul
 filipino                 coming       dzerium         Edzer Josh V. Padilla
 french                   3.0          includebeer     Alain Rivest
 german                   most         Rufnex          Johannes Gamperl
+hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               3.0          ridho1991       Mutasim Ridlo
 italian                  3.0          ster            Stefano Mazzega
 japanese                 most         tsukasa         Tsukasa Takao
@@ -54,7 +55,7 @@ simplified-chinese       most         denghongcai     Deng HongCai
 spanish                  3.0          Razican         Iban Eguia
 swedish                  3.0          peterdenk       Peter Denk
 thai                     most         karidoe         Anuchit Thiam-uan
-traditional-chinese      most         PeterDaveHello  Peter Dave Hello
+traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  most         obozdag         Osman Bozdag
 ukranian                 3.0          flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
