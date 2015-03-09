@@ -43,7 +43,7 @@ hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               3.0          ridho1991       Mutasim Ridlo
 italian                  3.0          ster            Stefano Mazzega
 japanese                 most         tsukasa         Tsukasa Takao
-khmer					 most		  chanthoeunkim   Kim Chanthoeun
+khmer   most    chanthoeunkim   Kim Chanthoeun
 korean                   3.0          KwonLatte       HyeongJoo Kwon
 norwegian                3.0          yhoiseth        Yngve Hoiseth
 persian                  most         MSDehghan       Mohammad Sadegh
