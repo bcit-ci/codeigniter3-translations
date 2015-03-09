@@ -34,7 +34,7 @@ Idiom                    Status       User            Maintainer
 arabic                   part         daif            Daif Alotaibi
 bulgarian                3.0          ivantcholakov   Ivan Tcholakov
 catalan                  3.0          Ignasimg        Ignasi Molsosa
-czech                    most         Ruplahlava      Štěpán Postránecký
+czech                    3.0          Ruplahlava      Štěpán Postránecký
 dutch                    3.0          pkrul           Pieter Krul
 filipino                 3.0          dzerium         Edzer Josh V. Padilla
 french                   3.0          includebeer     Alain Rivest
@@ -43,6 +43,7 @@ hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               3.0          ridho1991       Mutasim Ridlo
 italian                  3.0          ster            Stefano Mazzega
 japanese                 most         tsukasa         Tsukasa Takao
+khmer                    3.0          Chanthoeun      Chanthoeun Kim
 korean                   3.0          KwonLatte       HyeongJoo Kwon
 norwegian                3.0          yhoiseth        Yngve Hoiseth
 persian                  most         MSDehghan       Mohammad Sadegh
@@ -51,7 +52,7 @@ portugese                3.0          j38600          Júlio Sebastião
 portugese-brazilian      3.0          mateusfbi       Mateus Brandão
 romanian                 3.0          Chiribuc        Cristian Robert Chiribuc
 russian                  3.0          vadimyer        Vadim Yermolin
-simplified-chinese       most         denghongcai     Deng HongCai
+simplified-chinese       3.0          denghongcai     Deng HongCai
 slovak                   coming       muzikant        ?
 spanish                  3.0          Razican         Iban Eguia
 swedish                  3.0          peterdenk       Peter Denk
