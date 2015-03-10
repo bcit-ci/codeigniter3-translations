@@ -14,6 +14,7 @@ $lang['email_must_be_array']            = 'អ៊ីម៉ែល validation meth
 $lang['email_invalid_address']          = 'អាសយដ្ឋានអ៊ីមែលមិនត្រឹមត្រូវ: %s';
 $lang['email_attachment_missing']       = 'មិនអាចកំណត់ទីតាំងឯកសារភ្ជាប់អ៊ីម៉ែលដូចខាងក្រោមតាម: %s';
 $lang['email_attachment_unreadable']    = 'មិនអាចបើកឯកសារភ្ជាប់នេះ: %s';
+$lang['email_no_from']                  = 'Cannot send mail with no "From" header.';// to translate
 $lang['email_no_recipients']            = 'អ្នកត្រូវតែរួមបញ្ចូលទាំងអ្នកទទួល: To, Cc, or Bcc';
 $lang['email_send_failure_phpmail']     = 'មិនអាចផ្ញើអ៊ីមែលដោយប្រើ mail() របស់ PHP។​ ម៉ាស៊ីនរបស់អ្នកមិនបានកំណត់លក្ខ័ន​ត្រឹម​ត្រូវ​ដើម្បីផ្ញើសំបុត្រដោយប្រើវិធីសាស្រ្តនេះ។';
 $lang['email_send_failure_sendmail']    = 'មិនអាចផ្ញើអ៊ីមែលដោយប្រើ Sendmail របស់ PHP។​ ម៉ាស៊ីនរបស់អ្នកមិនបានកំណត់លក្ខ័ន​ត្រឹម​ត្រូវ​ដើម្បីផ្ញើសំបុត្រដោយប្រើវិធីសាស្រ្តនេះ។';
