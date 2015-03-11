@@ -46,7 +46,7 @@ japanese                 most         tsukasa         Tsukasa Takao
 khmer                    3.0          Chanthoeun      Chanthoeun Kim
 korean                   3.0          KwonLatte       HyeongJoo Kwon
 norwegian                3.0          yhoiseth        Yngve Hoiseth
-persian                  most         MSDehghan       Mohammad Sadegh
+persian                  3.0          MSDehghan       Mohammad Sadegh
 polish                   3.0          michalsn        Michał Śniatała
 portugese                3.0          j38600          Júlio Sebastião
 portugese-brazilian      3.0          mateusfbi       Mateus Brandão
