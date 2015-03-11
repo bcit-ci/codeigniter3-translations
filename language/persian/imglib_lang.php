@@ -22,7 +22,6 @@ $lang['imglib_rotate_unsupported'] = 'به نظر می رسد که سرور شم
 $lang['imglib_libpath_invalid'] = 'آدرسی که برای کتابخانه image تعریف کرده اید درست نیست. لطفا در تنظیمات خود آدرس رو درست کنید.';
 $lang['imglib_image_process_failed'] = 'عملیت پردازش تسویر ناموفق بود. لطفا اطمینان حاصل کنید که سرور شما قوانین مربوطه را پشتیبانی می کند و آدرس image library  نیز درست است..';
 $lang['imglib_rotation_angle_required'] = 'برای چرخاندن تصویر یک زاویه باید بدهید!!!!';
-$lang['imglib_writing_failed_gif'] = 'GIF image.';
 $lang['imglib_invalid_path'] = 'آدرس تصویر درست نیست.';
 $lang['imglib_copy_failed'] = 'عملیات کپی کردن عکس ناموفق بود.';
 $lang['imglib_missing_font'] = 'فونتی برای استفاده پیدا نشد.';

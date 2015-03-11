@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to'] = 'فیلد {field} باید شام�
 $lang['form_validation_greater_than'] = 'فیلد {field} باید شامل یک مقدار بزرگ تر از {param} باشد.';
 $lang['form_validation_greater_than_equal_to'] = 'فیلد {field} باید شامل یک مقدار بیشتر یا مساوی {param} باشد.';
 $lang['form_validation_error_message_not_set'] = 'عدم دسترسی به پیغام خطای فیلد{field}.';
-$lang['form_validation_in_list'] = 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list'] = 'فیلد {field} باید دارای یکی از مقادیر روبرو باشد : {param}.';

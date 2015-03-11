@@ -13,6 +13,7 @@ $lang['email_must_be_array'] = 'Die Methode zur Überprüfung der E-Mail muss in
 $lang['email_invalid_address'] = 'Ungültige E-Mail-Adresse: %s';
 $lang['email_attachment_missing'] = 'Der folgende E-Mail-Anhang konnte nicht gefunden werden: %s';
 $lang['email_attachment_unreadable'] = 'Der folgende Anhang konnte nicht geöffnet werden: %s';
+$lang['email_no_from'] = 'Cannot send mail with no "From" header.';// to translate
 $lang['email_no_recipients'] = 'Sie müssen mindestens einen der folgenden Empfänger angeben: To, Cc, oder Bcc';
 $lang['email_send_failure_phpmail'] = 'Die E-Mail konnte mit PHP mail() nicht gesendet werden. Ihr Server ist offenbar nicht konfiguriert, um mit dieser Methode E-Mails zu versenden.';
 $lang['email_send_failure_sendmail'] = 'Die E-Mail konnte mit PHP Sendmail nicht gesendet werden. Der Server ist offenbar nicht konfiguriert, um mit dieser Methode E-Mails zu versenden.';

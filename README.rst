@@ -2,6 +2,9 @@
 Translations for CodeIgniter System Messages
 ############################################
 
+Note: In preparation for the 3.0 release, we have switched to a more proper branching model. 
+    The *master* branch has been tagged for release, and all new changes or additions will be to the *develop* branch.
+
 This project contains translations for the CodeIgniter 
 system messages folder, **system/language/english**.
 
@@ -19,6 +22,47 @@ translations in left-to-right order, and to deal with right-to-left
 rendering through the "dir" attribute of an HTML element, or the "direction"
 attribute in CSS.
 
+**********************
+Repository Information
+**********************
+
+Each language is maintained by a community member, per the table below:
+
+=======================  ===========  ==============  =========================
+Idiom                    Status       User            Maintainer
+=======================  ===========  ==============  =========================
+arabic                   part         daif            Daif Alotaibi
+bulgarian                3.0          ivantcholakov   Ivan Tcholakov
+catalan                  3.0          Ignasimg        Ignasi Molsosa
+czech                    3.0          Ruplahlava      Štěpán Postránecký
+dutch                    3.0          pkrul           Pieter Krul
+filipino                 3.0          dzerium         Edzer Josh V. Padilla
+french                   3.0          includebeer     Alain Rivest
+german                   3.0          Rufnex          Johannes Gamperl
+hungarian                3.0          orionstar       Lászlo Bóra
+indonesian               3.0          ridho1991       Mutasim Ridlo
+italian                  3.0          ster            Stefano Mazzega
+japanese                 3.0          tsukasa         Tsukasa Takao
+khmer                    3.0          Chanthoeun      Chanthoeun Kim
+korean                   3.0          KwonLatte       HyeongJoo Kwon
+norwegian                3.0          yhoiseth        Yngve Hoiseth
+persian                  3.0          MSDehghan       Mohammad Sadegh
+polish                   3.0          michalsn        Michał Śniatała
+portugese                3.0          j38600          Júlio Sebastião
+portugese-brazilian      3.0          mateusfbi       Mateus Brandão
+romanian                 3.0          Chiribuc        Cristian Robert Chiribuc
+russian                  3.0          vadimyer        Vadim Yermolin
+simplified-chinese       3.0          denghongcai     Deng HongCai
+slovak                   coming       muzikant        ?
+spanish                  3.0          Razican         Iban Eguia
+swedish                  3.0          peterdenk       Peter Denk
+tamil                    soon         karthik-code    Karthikeyan
+thai                     3.0          karidoe         Anuchit Thiam-uan
+traditional-chinese      3.0          appleboy        Bo-Yi Wu
+turkish                  3.0          obozdag         Osman Bozdag
+ukranian                 3.0          flybot          Sergiy Kosiy
+=======================  ===========  ==============  =========================
+
 ************
 Requirements
 ************
@@ -31,43 +75,12 @@ License
 
 These translations are licensed under the `MIT license <license.txt>`_.
 
-**********************
-Repository Information
-**********************
-
-Each language is maintained by a community member, per the table below:
-
-=======================  ===========  ==============  =========================
-Idiom                    Status       User            Maintainer
-=======================  ===========  ==============  =========================
-arabic                   done         daif            Daif Alotaibi
-bulgarian                done         ivantcholakov   Ivan Tcholakov
-czech                    done         Ruplahlava      Štěpán Postránecký
-dutch                    done         pkrul           Pieter Krul
-french                   done         includebeer     Alain Rivest
-german                   done         Rufnex          Johannes Gamperl
-indonesian               done         ridho1991       Mutasim Ridlo
-italian                  done         ster            Stefano Mazzega
-japanese                 done         tsukasa         Tsukasa Takao
-korean                   done         KwonLatte       HyeongJoo Kwon
-norwegian                done         yhoiseth        Yngve Hoiseth
-persian                  done         MSDehghan       Mohammad Sadegh
-polish                   done         michalsn        Michał Śniatała
-portugese                done         j38600          Júlio Sebastião
-portugese-brazilian      done         mateusfbi       Mateus Brandão
-romanian                 done         Chiribuc        Cristian Robert Chiribuc
-russian                  done         vadimyer        Vadim Yermolin
-simplified-chinese       done         denghongcai     Deng HongCai
-spanish                  done         Razican         Iban Eguia
-swedish                  done         peterdenk       Peter Denk
-thai                     done         karidoe         Anuchit Thiam-uan
-traditional-chinese      done         PeterDaveHello  Peter Dave Hello
-turkish                  done         obozdag         Osman Bozdag
-ukranian                 done         flybot          Sergiy Kosiy
-=======================  ===========  ==============  =========================
+************
+Contributing
+************
 
 If you have a translation or correction, please fork the repository, clone it
-locally, and then create a new branch (from master) 
+locally, and then create a new branch (from develop) 
 for each set of related changes or for
 a complete language pack. Once your branch is complete, *then* create a pull 
 request to merge it into the main repository. Remember to "sign" your commits.
