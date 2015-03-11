@@ -37,4 +37,5 @@ $lang['form_validation_less_than_equal_to']	= 'Das {field} Formularfeld muss ein
 $lang['form_validation_greater_than']		= 'Das {field} Formularfeld muss einen Zahlenwert enthalten der gößer als {param} ist.';
 $lang['form_validation_greater_than_equal_to']	= 'Das {field} Formularfeld muss einen Wert enthalten, der größer oder gleich {param} ist.';
 $lang['form_validation_error_message_not_set']	= 'Kann eine Fehlermeldung entsprechend Ihrer Feldname {field } zugreifen .';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; //FIXME
+//$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; //FIXME
+$lang['form_validation_in_list']		= '{param}: Der {field} Feld muss einer der folgenden sein.'; //google translated

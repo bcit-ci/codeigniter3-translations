@@ -38,11 +38,11 @@ czech                    3.0          Ruplahlava      Štěpán Postránecký
 dutch                    3.0          pkrul           Pieter Krul
 filipino                 3.0          dzerium         Edzer Josh V. Padilla
 french                   3.0          includebeer     Alain Rivest
-german                   most         Rufnex          Johannes Gamperl
+german                   3.0          Rufnex          Johannes Gamperl
 hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               3.0          ridho1991       Mutasim Ridlo
 italian                  3.0          ster            Stefano Mazzega
-japanese                 most         tsukasa         Tsukasa Takao
+japanese                 3.0          tsukasa         Tsukasa Takao
 khmer                    3.0          Chanthoeun      Chanthoeun Kim
 korean                   3.0          KwonLatte       HyeongJoo Kwon
 norwegian                3.0          yhoiseth        Yngve Hoiseth
@@ -57,9 +57,9 @@ slovak                   coming       muzikant        ?
 spanish                  3.0          Razican         Iban Eguia
 swedish                  3.0          peterdenk       Peter Denk
 tamil                    soon         karthik-code    Karthikeyan
-thai                     most         karidoe         Anuchit Thiam-uan
+thai                     3.0          karidoe         Anuchit Thiam-uan
 traditional-chinese      3.0          appleboy        Bo-Yi Wu
-turkish                  most         obozdag         Osman Bozdag
+turkish                  3.0          obozdag         Osman Bozdag
 ukranian                 3.0          flybot          Sergiy Kosiy
 =======================  ===========  ==============  =========================
 
