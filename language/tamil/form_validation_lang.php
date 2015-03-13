@@ -36,3 +36,5 @@ $lang['form_validation_less_than']		= '{field} புலம் {param}ஐ வி
 $lang['form_validation_less_than_equal_to']	= '{field} புலம் {param}ஐ விட குறைவான  அல்லது சமமான எண் மதிப்பை கொண்டிருக்க வேண்டும். ';
 $lang['form_validation_greater_than']		= '{field} புலம் {param}ஐ விட  பெரிய எண்ணாக இருக்க வேண்டும்.';
 $lang['form_validation_greater_than_equal_to']	= '{field} புலம் {param}ஐ விட அதிகமான  அல்லது சமமான எண் மதிப்பை கொண்டிருக்க வேண்டும்.';
+$lang['form_validation_error_message_not_set']	= '{field} என்ற புலத்திற்கான பிழை செய்தியை அனுக முடியவில்லை.';
+$lang['form_validation_in_list']		= '{field} என்ற புலம்,  {param} - இவற்றில் ஒன்றாக இருக்க வேண்டும்.';
