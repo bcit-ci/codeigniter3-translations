@@ -8,7 +8,7 @@
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	http://codeigniter.com
 */
-defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
+defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['date_year'] = 'साल';
 $lang['date_years'] = 'वर्षों';
 $lang['date_month'] = 'महीना';
