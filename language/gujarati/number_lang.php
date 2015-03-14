@@ -37,8 +37,8 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'TB';
-$lang['gigabyte_abbr'] = 'GB';
-$lang['megabyte_abbr'] = 'MB';
-$lang['kilobyte_abbr'] = 'KB';
-$lang['bytes'] = 'Bytes';
+$lang['terabyte_abbr'] = 'ટીબી';
+$lang['gigabyte_abbr'] = 'જીબી';
+$lang['megabyte_abbr'] = 'એમબી';
+$lang['kilobyte_abbr'] = 'કેબી';
+$lang['bytes'] = 'બાઇટ્સ';
