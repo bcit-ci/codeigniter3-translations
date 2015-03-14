@@ -37,22 +37,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'Test Name';
-$lang['ut_test_datatype'] = 'Test Datatype';
-$lang['ut_res_datatype'] = 'Expected Datatype';
-$lang['ut_result'] = 'Result';
-$lang['ut_undefined'] = 'Undefined Test Name';
-$lang['ut_file'] = 'File Name';
-$lang['ut_line'] = 'Line Number';
-$lang['ut_passed'] = 'Passed';
-$lang['ut_failed'] = 'Failed';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = 'Notes';
+$lang['ut_test_name'] = 'ટેસ્ટ નામ';
+$lang['ut_test_datatype'] = 'ટેસ્ટ Datatype';
+$lang['ut_res_datatype'] = 'ઈચ્છિત Datatype';
+$lang['ut_result'] = 'પરિણામ';
+$lang['ut_undefined'] = 'અવ્યાખ્યાયિત ટેસ્ટ નામ';
+$lang['ut_file'] = 'ફાઇલ નામ';
+$lang['ut_line'] = 'વાક્ય સંખ્યા';
+$lang['ut_passed'] = 'પાસ';
+$lang['ut_failed'] = 'ફેઅ્લ્ડ';
+$lang['ut_boolean'] = 'બુલીન';
+$lang['ut_integer'] = 'પૂર્ણાંક';
+$lang['ut_float'] = 'ફલોઅ્ટ';
+$lang['ut_double'] = 'ફલોઅ્ટ'; // can be the same as float
+$lang['ut_string'] = 'શબ્દમાળા';
+$lang['ut_array'] = 'અ્રે';
+$lang['ut_object'] = 'ઑબ્જેક્ટ';
+$lang['ut_resource'] = 'રિસોર્સ';
+$lang['ut_null'] = 'નકામંુ';
+$lang['ut_notes'] = 'નોંધ';
