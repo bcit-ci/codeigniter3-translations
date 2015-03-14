@@ -37,19 +37,19 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'Unable to find a post variable called userfile.';
-$lang['upload_file_exceeds_limit'] = 'The uploaded file exceeds the maximum allowed size in your PHP configuration file.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.';
-$lang['upload_file_partial'] = 'The file was only partially uploaded.';
-$lang['upload_no_temp_directory'] = 'The temporary folder is missing.';
-$lang['upload_unable_to_write_file'] = 'The file could not be written to disk.';
-$lang['upload_stopped_by_extension'] = 'The file upload was stopped by extension.';
-$lang['upload_no_file_selected'] = 'You did not select a file to upload.';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is not allowed.';
-$lang['upload_invalid_filesize'] = 'The file you are attempting to upload is larger than the permitted size.';
-$lang['upload_invalid_dimensions'] = 'The image you are attempting to upload doesn\'t fit into the allowed dimensions.';
-$lang['upload_destination_error'] = 'A problem was encountered while attempting to move the uploaded file to the final destination.';
-$lang['upload_no_filepath'] = 'The upload path does not appear to be valid.';
-$lang['upload_no_file_types'] = 'You have not specified any allowed file types.';
-$lang['upload_bad_filename'] = 'The file name you submitted already exists on the server.';
-$lang['upload_not_writable'] = 'The upload destination folder does not appear to be writable.';
+$lang['upload_userfile_not_set'] = 'Userfile કહેવાય અવી પોસ્ટ ચલ શોધવામાં અસફળ.';
+$lang['upload_file_exceeds_limit'] = 'અપલોડ કરેલી ફાઇલ તમારા PHP રૂપરેખાંકન ફાઈલમાં વધુમાં વધુ મંજૂરી માપ કરતાં વધી જાય છે.';
+$lang['upload_file_exceeds_form_limit'] = 'અપલોડ કરેલ ફાઇલ સબમિશન ફોર્મ દ્વારા માપ મંજૂરી કરતાં વધી જાય.';
+$lang['upload_file_partial'] = 'ફાઇલ માત્ર થોડી અથવા અડધી અપલોડ કરવામાં આવી હતી.';
+$lang['upload_no_temp_directory'] = 'કામચલાઉ ફોલ્ડર ગુમ થયેલ છે.';
+$lang['upload_unable_to_write_file'] = 'ફાઇલ ડિસ્ક પર લખાતી નતી.';
+$lang['upload_stopped_by_extension'] = 'ફાઇલ અપલોડ એક્સ્ટેંશન દ્વારા બંધ કરવામાં આવ્યું.';
+$lang['upload_no_file_selected'] = 'તમે અપલોડ કરવા માટે ફાઇલ પસંદ કરી નથી.';
+$lang['upload_invalid_filetype'] = 'તમે અપલોડ કરવાનો પ્રયાસ કરી રહ્યા એ પ્રકારની ફાઇલ ની મંજૂરી નથી.';
+$lang['upload_invalid_filesize'] = 'તમે અપલોડ કરવાનો પ્રયાસ કરી રહ્યા એ ફાઇલ પરવાનગી કદ (સાઇઝ) કરતાં મોટી છે.';
+$lang['upload_invalid_dimensions'] = 'તમે અપલોડ કરવાનો પ્રયાસ કરી રહ્યા એ છબી (ઈમેજ) મંજૂરી પરિમાણો ની બહારે છે.';
+$lang['upload_destination_error'] = 'અપલોડ થયેલ ફાઇલ અંતિમ મુકામ મા ખસેડવા ના પ્રયાસ કરતી વખતે એક સમસ્યા આવી હતી.';
+$lang['upload_no_filepath'] = 'અપલોડ પાથ યોગ્ય હોય તેમ લાગતું નથી.';
+$lang['upload_no_file_types'] = 'તમે કોઇ ફાઇલ પ્રકારો ની મંજૂરી સ્પષ્ટ કરી નથી.';
+$lang['upload_bad_filename'] = 'તમે પહેલાથી જ રજૂ કરેલ ફાઇલ નામ સર્વર પર હાજર છે.';
+$lang['upload_not_writable'] = 'અપલોડ મુકામ ફોલ્ડર લખી શકાય હોય તેમ દેખાતું નથી.';
