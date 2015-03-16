@@ -10,7 +10,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['db_invalid_connection_str']	= 'آپ نے جمع کروائی کنکشن سٹرنگ کی بنیاد پر ڈیٹا بیس کی ترتیبات کا تعین کرنے سے قاصر ہے.';
+$lang['db_invalid_connection_str']	= 'آپ کی جمع کروائی کنکشن سٹرنگ کی بنیاد پر ڈیٹا بیس کی ترتیبات کا تعین کرنے سے قاصر ہے.';
 $lang['db_unable_to_connect'] = 'فراہم کی ترتیبات استعمال کرتے ہوئے آپ کے ڈیٹا بیس سرور سے رابطہ کرنے سے قاصر ہے.';
 $lang['db_unable_to_select'] = 'مخصوص کردہ ڈیٹا بیس کو منتخب کرنے کے قابل نہیں: %s';
 $lang['db_unable_to_create'] = 'مخصوص کردہ ڈیٹابیس بنانے کے قابل نہیں: %s';
