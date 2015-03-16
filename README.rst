@@ -40,7 +40,7 @@ dutch                    3.0          pkrul           Pieter Krul
 filipino                 3.0          dzerium         Edzer Josh V. Padilla
 french                   3.0          includebeer     Alain Rivest
 german                   3.0          Rufnex          Johannes Gamperl
-gujarti                  coming       sajid19991      ?
+gujarati                 3.0          sajid19991      Sajid Mathupotra
 hungarian                3.0          orionstar       Lászlo Bóra
 indonesian               3.0          ridho1991       Mutasim Ridlo
 italian                  3.0          ster            Stefano Mazzega
@@ -63,6 +63,7 @@ thai                     3.0          karidoe         Anuchit Thiam-uan
 traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  3.0          obozdag         Osman Bozdag
 ukranian                 3.0          flybot          Sergiy Kosiy
+urdu                     coming       codeonion       Muhammad Ali
 =======================  ===========  ==============  =========================
 
 ************
