@@ -7,7 +7,7 @@
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
- */
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = 'તમને તમારી પસંદગીઓ માં એક સ્ત્રોત છબી સ્પષ્ટ કરવી જ પડશે.';

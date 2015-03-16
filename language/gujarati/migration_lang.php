@@ -6,7 +6,6 @@
  * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
- */rce
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
