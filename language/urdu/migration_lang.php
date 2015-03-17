@@ -11,7 +11,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['migration_none_found']		= 'کوئی منتقلی پائی نہیں گئی.';
-$lang['migration_not_found']		= 'کوئی منتقلی پائی نہیں گئی جہاں ورژن  نمبر تھا: %s.';
+$lang['migration_not_found']		= 'کوئی منتقلی پائی نہیں گئی جہاں یہ ورژن  نمبر تھا: %s.';
 $lang['migration_sequence_gap']		= 'منتقلی میں ایک تسسلسل پایا گیا ہے جہاں ورژن نمبر ہے: %s.';
 $lang['migration_multiple_version']	= 'ایک سے زیادہ منتقلی موجود ہیں جھان ورژن نمبر ہے: %s.';
 $lang['migration_class_doesnt_exist']	= 'مائیگریشن کلاس  "%s" نہیں  ملی.';
