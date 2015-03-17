@@ -63,7 +63,7 @@ thai                     3.0          karidoe         Anuchit Thiam-uan
 traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  3.0          obozdag         Osman Bozdag
 ukranian                 3.0          flybot          Sergiy Kosiy
-urdu                     coming       codeonion       Muhammad Ali
+urdu                     3.0          codeonion       Muhammad Ali
 =======================  ===========  ==============  =========================
 
 ************
