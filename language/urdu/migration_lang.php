@@ -11,10 +11,10 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['migration_none_found']		= 'کوئی منتقلی پائی نہیں گئی.';
-$lang['migration_not_found']		= 'کوئی منتقلی پائی نہیں گئی جہاں یہ ورژن  نمبر تھا: %s.';
-$lang['migration_sequence_gap']		= 'منتقلی میں ایک تسسلسل پایا گیا ہے جہاں ورژن نمبر ہے: %s.';
-$lang['migration_multiple_version']	= 'ایک سے زیادہ منتقلی موجود ہیں جھان ورژن نمبر ہے: %s.';
-$lang['migration_class_doesnt_exist']	= 'مائیگریشن کلاس  "%s" نہیں  ملی.';
-$lang['migration_missing_up_method']	= 'مائیگریشن کلاس "%s"  "up" method موجود نہیں.';
-$lang['migration_missing_down_method']	= 'مائیگریشن کلاس "%s" میں ایک "down" method موجود نہیں.';
-$lang['migration_invalid_filename']	= 'مائیگریشن "%s" کی فائل کا نام غلط ہے.';
+$lang['migration_not_found']		= '%s :کوئی منتقلی پائی نہیں گئی جہاں یہ ورژن  نمبر تھا';
+$lang['migration_sequence_gap']		= '%s :منتقلی میں ایک تسسلسل پایا گیا ہے جہاں ورژن نمبر ہے';
+$lang['migration_multiple_version']	= '%s :ایک سے زیادہ منتقلی موجود ہیں جھان ورژن نمبر ہے';
+$lang['migration_class_doesnt_exist']	= '.نہیں  ملی "%s" مائیگریشن کلاس';
+$lang['migration_missing_up_method']	= '.میتھڈ موجود نہیں ہے "up" میں "%s" مائیگریشن کلاس';
+$lang['migration_missing_down_method']	= '.میتھڈ موجود نہیں ہے "down" میں "%s" مائیگریشن کلاس';
+$lang['migration_invalid_filename']	= '.کا نام غلط ہے "%s" مائیگریشن فائل';
