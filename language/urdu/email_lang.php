@@ -10,7 +10,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['email_must_be_array'] = '.ای میل کی تصدیق کا طریقہ کار ایک ایرے میں مھیا کرنا زروری حے';
+$lang['email_must_be_array'] = '.ای میل کی تصدیق کا طریقہ کار ایک ایرے میں مھیا کرنا زروری ہے';
 $lang['email_invalid_address'] = '%s :غلط ای میل ایڈریس';
 $lang['email_attachment_missing'] = '%s :مندرجہ ذیل ای میل دستاویز کو تلاش سے قاصر ہے';
 $lang['email_attachment_unreadable'] = '%s :یہ منسلکہ ای میل اٹیچمنت کھولنے کے قابل نہیں';
