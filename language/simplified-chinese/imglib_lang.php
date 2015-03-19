@@ -25,4 +25,4 @@ $lang['imglib_rotation_angle_required'] = '必须指定旋转角度。';
 $lang['imglib_invalid_path'] = '图像路径错误。';
 $lang['imglib_copy_failed'] = '图像复制错误。';
 $lang['imglib_missing_font'] = '无法找到使用的字体。';
-$lang['imglib_save_failed'] = '图像无法保存，请确定图像或目录可写。';
+$lang['imglib_save_failed'] = '图像无法保存，请确保图像和目录可写。';

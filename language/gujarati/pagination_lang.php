@@ -9,8 +9,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = "ت.ب";
-$lang['gigabyte_abbr'] = "ج.ب";
-$lang['megabyte_abbr'] = "م.ب";
-$lang['kilobyte_abbr'] = "ك.ب";
-$lang['bytes'] = "بايت";
+$lang['pagination_first_link'] = '&lsaquo; પ્રથમ';
+$lang['pagination_next_link'] = '&gt;';
+$lang['pagination_prev_link'] = '&lt;';
+$lang['pagination_last_link'] = 'છેલ્લુ &rsaquo;';

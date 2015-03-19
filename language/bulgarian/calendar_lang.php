@@ -10,13 +10,13 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['cal_su'] = 'Не';
-$lang['cal_mo'] = 'По';
+$lang['cal_su'] = 'Нд';
+$lang['cal_mo'] = 'Пн';
 $lang['cal_tu'] = 'Вт';
 $lang['cal_we'] = 'Ср';
-$lang['cal_th'] = 'Че';
-$lang['cal_fr'] = 'Пе';
-$lang['cal_sa'] = 'Съ';
+$lang['cal_th'] = 'Чт';
+$lang['cal_fr'] = 'Пт';
+$lang['cal_sa'] = 'Сб';
 $lang['cal_sun'] = 'Нед';
 $lang['cal_mon'] = 'Пон';
 $lang['cal_tue'] = 'Вто';
