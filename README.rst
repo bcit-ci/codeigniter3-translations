@@ -64,6 +64,7 @@ traditional-chinese      3.0          appleboy        Bo-Yi Wu
 turkish                  3.0          obozdag         Osman Bozdag
 ukranian                 3.0          flybot          Sergiy Kosiy
 urdu                     3.0          codeonion       Muhammad Ali
+vietnamese               3.0          tinhphaistc     Trần Xuân Sâm
 =======================  ===========  ==============  =========================
 
 ************
