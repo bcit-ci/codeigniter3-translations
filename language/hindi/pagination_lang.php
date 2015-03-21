@@ -8,3 +8,8 @@
 * @link	http://codeigniter.com
 */
 defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['pagination_first_link'] = '&lsaquo; प्रथम';
+$lang['pagination_next_link'] = '&gt;';
+$lang['pagination_prev_link'] = '&lt;';
+$lang['pagination_last_link'] = 'आखरी &rsaquo;';
