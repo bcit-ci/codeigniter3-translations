@@ -9,11 +9,11 @@
 */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = 'No migrations were found.';
-$lang['migration_not_found'] = 'No migration could be found with the version number: %s.';
-$lang['migration_sequence_gap'] = 'There is a gap in the migration sequence near version number: %s.';
-$lang['migration_multiple_version'] = 'There are multiple migrations with the same version number: %s.';
-$lang['migration_class_doesnt_exist'] = 'The migration class "%s" could not be found.';
-$lang['migration_missing_up_method'] = 'The migration class "%s" is missing an "up" method.';
-$lang['migration_missing_down_method'] = 'The migration class "%s" is missing a "down" method.';
-$lang['migration_invalid_filename'] = 'Migration "%s" has an invalid filename.';
+$lang['migration_none_found'] = 'कोई माइग्रेशन नहीं पाए गए।';
+$lang['migration_not_found'] = 'कोई माइग्रेशन वर्जन नंबर के साथनहीं नहीं पाया जा सका:% s।';
+$lang['migration_sequence_gap'] = 'वर्जन नंबर %s के निकट माइग्रेशन अनुक्रम में एक अंतर है। ';
+$lang['migration_multiple_version'] = 'वर्जन नंबर %s के जैसे कई माइग्रेशन पाये गए हैं।';
+$lang['migration_class_doesnt_exist'] = 'माइग्रेशन क्लास "%s" नहीं पाया जा सका।';
+$lang['migration_missing_up_method'] = 'माइग्रेशन क्लास "%s" में "up" मेथड मौजूद नहीं है।';
+$lang['migration_missing_down_method'] = 'माइग्रेशन क्लास "%s" में "down" मेथड मौजूद नहीं है।';
+$lang['migration_invalid_filename'] = 'माइग्रेशन "%s" एक अवैध फाइल नाम है।';
