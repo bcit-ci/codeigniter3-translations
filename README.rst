@@ -32,6 +32,7 @@ Each language is maintained by a community member, per the table below:
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
 arabic                   3.0          daif               Daif Alotaibi
+azerbaijan               3.0          Qarakom            Sübhan Cabbarov
 bangla                   coming       ngangchill         ?
 bulgarian                3.0          ivantcholakov      Ivan Tcholakov
 catalan                  3.0          Ignasimg           Ignasi Molsosa
