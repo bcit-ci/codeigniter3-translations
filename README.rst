@@ -32,7 +32,7 @@ Each language is maintained by a community member, per the table below:
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
 arabic                   3.0          daif               Daif Alotaibi
-bangla                   coming       ngangchill         ?
+azerbaijan               3.0          ---                Subhan Cabbarov
 bulgarian                3.0          ivantcholakov      Ivan Tcholakov
 catalan                  3.0          Ignasimg           Ignasi Molsosa
 czech                    3.0          Ruplahlava         Štěpán Postránecký
@@ -56,7 +56,6 @@ portugese-brazilian      3.0          mateusfbi          Mateus Brandão
 romanian                 3.0          Chiribuc           Cristian Robert Chiribuc
 russian                  3.0          vadimyer           Vadim Yermolin
 simplified-chinese       3.0          denghongcai        Deng HongCai
-slovak                   coming       muzikant           ?
 spanish                  3.0          Razican            Iban Eguia
 swedish                  3.0          peterdenk          Peter Denk
 tamil                    3.0          karthik-code       Karthikeyan
