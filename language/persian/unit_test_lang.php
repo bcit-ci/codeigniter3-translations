@@ -9,17 +9,17 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'اسم تست';
-$lang['ut_test_datatype'] = 'نوع داده تست';
+$lang['ut_test_name'] = 'نام آزمون';
+$lang['ut_test_datatype'] = 'نوع داده آزمون';
 $lang['ut_res_datatype'] = 'نوع داده مورد انتظار';
 $lang['ut_result'] = 'نتیجه';
-$lang['ut_undefined'] = 'تست تعریف نشده';
-$lang['ut_file'] = 'اسم فایل';
-$lang['ut_line'] = 'خط';
+$lang['ut_undefined'] = 'نام آزمون تعریف نشده';
+$lang['ut_file'] = 'نام فایل';
+$lang['ut_line'] = 'شماره خط';
 $lang['ut_passed'] = 'موفق';
 $lang['ut_failed'] = 'ناموفق';
 $lang['ut_boolean'] = 'بولین';
-$lang['ut_integer'] = 'عددی';
+$lang['ut_integer'] = 'صحیح';
 $lang['ut_float'] = 'اعشاری';
 $lang['ut_double'] = 'اعشاری'; // can be the same as float
 $lang['ut_string'] = 'رشته';

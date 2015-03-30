@@ -37,3 +37,5 @@ $lang['form_validation_less_than']		= 'ទំរង់​ {field} ត្រូ�
 $lang['form_validation_less_than_equal_to']	= 'ទំរង់​ {field} ត្រូវតែជាលេខ និងតិចជាង ឬស្មើ {param}។';
 $lang['form_validation_greater_than']		= 'ទំរង់​ {field} ត្រូវតែជាលេខ និងច្រើនជាង {param}។';
 $lang['form_validation_greater_than_equal_to']	= 'ទំរង់​ {field} ត្រូវតែជាលេខ និងធំជាង ឬស្មើ {param}។';
+$lang['form_validation_error_message_not_set']	= 'មិន​អាច​ស្វែង​រក​កំហុស​ដែល​ត្រូវ​នឹង​ឈ្មោះ​ទំរង់​ {field} នេះទេ។';
+$lang['form_validation_in_list']		= 'ទំរង់​ {field} ត្រូវតែមាន​​ក្នុង​ចំណោម: {param} ទាំងអស់​នេះ។';

@@ -28,43 +28,44 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-=======================  ===========  ==============  =========================
-Idiom                    Status       User            Maintainer
-=======================  ===========  ==============  =========================
-arabic                   3.0          daif            Daif Alotaibi
-bangla                   coming       ngangchill      ?
-bulgarian                3.0          ivantcholakov   Ivan Tcholakov
-catalan                  3.0          Ignasimg        Ignasi Molsosa
-czech                    3.0          Ruplahlava      Štěpán Postránecký
-dutch                    3.0          pkrul           Pieter Krul
-filipino                 3.0          dzerium         Edzer Josh V. Padilla
-french                   3.0          includebeer     Alain Rivest
-german                   3.0          Rufnex          Johannes Gamperl
-gujarati                 3.0          sajid19991      Sajid Mathupotra
-hungarian                3.0          orionstar       Lászlo Bóra
-indonesian               3.0          ridho1991       Mutasim Ridlo
-italian                  3.0          ster            Stefano Mazzega
-japanese                 3.0          tsukasa         Tsukasa Takao
-khmer                    3.0          Chanthoeun      Chanthoeun Kim
-korean                   3.0          KwonLatte       HyeongJoo Kwon
-norwegian                3.0          yhoiseth        Yngve Hoiseth
-persian                  3.0          MSDehghan       Mohammad Sadegh
-polish                   3.0          michalsn        Michał Śniatała
-portugese                3.0          j38600          Júlio Sebastião
-portugese-brazilian      3.0          mateusfbi       Mateus Brandão
-romanian                 3.0          Chiribuc        Cristian Robert Chiribuc
-russian                  3.0          vadimyer        Vadim Yermolin
-simplified-chinese       3.0          denghongcai     Deng HongCai
-slovak                   coming       muzikant        ?
-spanish                  3.0          Razican         Iban Eguia
-swedish                  3.0          peterdenk       Peter Denk
-tamil                    3.0          karthik-code    Karthikeyan
-thai                     3.0          karidoe         Anuchit Thiam-uan
-traditional-chinese      3.0          appleboy        Bo-Yi Wu
-turkish                  3.0          obozdag         Osman Bozdag
-ukranian                 3.0          flybot          Sergiy Kosiy
-urdu                     3.0          codeonion       Muhammad Ali
-=======================  ===========  ==============  =========================
+=======================  ===========  =================  =========================
+Idiom                    Status       User               Maintainer
+=======================  ===========  =================  =========================
+arabic                   3.0          daif               Daif Alotaibi
+azerbaijani              3.0          Qarakom            Sübhan Cabbarov
+bulgarian                3.0          ivantcholakov      Ivan Tcholakov
+catalan                  3.0          Ignasimg           Ignasi Molsosa
+czech                    3.0          Ruplahlava         Štěpán Postránecký
+dutch                    3.0          pkrul              Pieter Krul
+filipino                 3.0          dzerium            Edzer Josh V. Padilla
+french                   3.0          includebeer        Alain Rivest
+german                   3.0          Rufnex             Johannes Gamperl
+gujarati                 3.0          sajid19991         Sajid Mathupotra
+hindi                    3.0          shindesushilkumar  Shindesushil Kumar
+hungarian                3.0          orionstar          Lászlo Bóra
+indonesian               3.0          ridho1991          Mutasim Ridlo
+italian                  3.0          ster               Stefano Mazzega
+japanese                 3.0          tsukasa            Tsukasa Takao
+khmer                    3.0          Chanthoeun         Chanthoeun Kim
+korean                   3.0          KwonLatte          HyeongJoo Kwon
+norwegian                3.0          yhoiseth           Yngve Hoiseth
+persian                  3.0          MSDehghan          Mohammad Sadegh
+polish                   3.0          michalsn           Michał Śniatała
+portugese                3.0          j38600             Júlio Sebastião
+portugese-brazilian      3.0          mateusfbi          Mateus Brandão
+romanian                 3.0          Chiribuc           Cristian Robert Chiribuc
+russian                  3.0          vadimyer           Vadim Yermolin
+simplified-chinese       3.0          denghongcai        Deng HongCai
+spanish                  3.0          Razican            Iban Eguia
+swedish                  3.0          peterdenk          Peter Denk
+tamil                    3.0          karthik-code       Karthikeyan
+thai                     3.0          karidoe            Anuchit Thiam-uan
+traditional-chinese      3.0          appleboy           Bo-Yi Wu
+turkish                  3.0          obozdag            Osman Bozdag
+ukranian                 3.0          flybot             Sergiy Kosiy
+urdu                     3.0          codeonion          Muhammad Ali
+vietnamese               3.0          tinhphaistc        Trần Xuân Sâm
+=======================  ===========  =================  =========================
 
 ************
 Requirements
