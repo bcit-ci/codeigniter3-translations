@@ -29,5 +29,5 @@ $lang['profiler_no_uri']		= 'Er is geen URI-data aangetroffen';
 $lang['profiler_no_memory']		= 'Geheugengebruik is niet beschikbaar';
 $lang['profiler_no_profiles']		= 'Er is geen Profile-data - alle Profiler-secties zijn uitgeschakeld.';
 $lang['profiler_section_hide']		= 'Verberg';
-$lang['profiler_section_show']		= 'Laat zien';
+$lang['profiler_section_show']		= 'Weergeven';
 $lang['profiler_seconds']		= 'seconden';
