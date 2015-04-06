@@ -37,3 +37,4 @@ $lang['form_validation_less_than_equal_to']	= '{field} फील्ड {param} �
 $lang['form_validation_greater_than']		= '{field} फील्ड {param} से बड़ा अंक होने चाहिए।';
 $lang['form_validation_greater_than_equal_to']	= '{field} फील्ड {param} से अधिक या बराबर होना चाहिए।';
 $lang['form_validation_error_message_not_set']	= '{field} फील्ड से सम्बंधित त्रुटि संदेश का उपयोग करने में असमर्थ।';
+$lang['form_validation_in_list']	= 'The {field} field must be one of: {param}.'; //FIXME
