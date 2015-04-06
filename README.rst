@@ -56,6 +56,7 @@ portugese-brazilian      3.0          mateusfbi          Mateus Brandão
 romanian                 3.0          Chiribuc           Cristian Robert Chiribuc
 russian                  3.0          vadimyer           Vadim Yermolin
 simplified-chinese       3.0          denghongcai        Deng HongCai
+slovak                   3.0          gadelat            Gabriel Potkány
 spanish                  3.0          Razican            Iban Eguia
 swedish                  3.0          peterdenk          Peter Denk
 tamil                    3.0          karthik-code       Karthikeyan
