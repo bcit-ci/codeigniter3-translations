@@ -47,6 +47,7 @@ indonesian               3.0          ridho1991          Mutasim Ridlo
 italian                  3.0          ster               Stefano Mazzega
 japanese                 3.0          tsukasa            Tsukasa Takao
 khmer                    3.0          Chanthoeun         Chanthoeun Kim
+latvian                  3.0          DavisMiculis       Davis Miculis
 korean                   3.0          KwonLatte          HyeongJoo Kwon
 norwegian                3.0          yhoiseth           Yngve Hoiseth
 persian                  3.0          MSDehghan          Mohammad Sadegh
