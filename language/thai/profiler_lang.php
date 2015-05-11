@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database']		= 'ฐานข้อมูล';
 $lang['profiler_controller_info'] = 'คลาส/เมธอด';
-$lang['profiler_benchmarks']	= 'การวัดเสมรรถนะ';
+$lang['profiler_benchmarks']	= 'การวัดสมรรถนะ';
 $lang['profiler_queries']		= 'คิวรี';
 $lang['profiler_get_data']		= 'ข้อมูล GET';
 $lang['profiler_post_data']		= 'ข้อมูล POST';
