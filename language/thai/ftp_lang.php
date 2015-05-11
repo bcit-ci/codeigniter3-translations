@@ -9,7 +9,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'ไม่สามารถค้นหา connection ID ที่ถูกต้องโปรดตรวจสอบให้แน่ใจว่าคุณได้ทำการเชื่อต่ออย่างเรียบร้อย ก่อนที่จะใช้างาน';
+$lang['ftp_no_connection']		= 'ไม่สามารถค้นหา connection ID ที่ถูกต้อง,โปรดตรวจสอบให้แน่ใจว่าคุณได้ทำการเชื่อต่อเรียบร้อยแล้วก่อนใช้งาน';
 $lang['ftp_unable_to_connect']		= 'Uไม่สามารถเชื่อต่อไปยัง FTP Server ของคุณได้';
 $lang['ftp_unable_to_login']		= 'ไม่สามารถล็อกเอินเข้าสู่ FTP Server กรุณาตรวจสอบให้แน่ใจว่่ารหัสผ่านและผู้ใช้และรหัสผ่านนั้นถูกต้อง';
 $lang['ftp_unable_to_mkdir']		= 'ไม่มสามารถสร้างไอเร็คทำรีตามที่คุณกำหนด';
