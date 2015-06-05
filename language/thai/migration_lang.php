@@ -9,7 +9,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']		= 'การโยกย้ายไม่พบ';
+$lang['migration_none_found']		= 'ไม่พบการโยกย้าย';
 $lang['migration_not_found']		= 'ไม่พบข้อมูลการโยกย้าย หมายเลขเวอร์ชั่น: %s.';
 $lang['migration_sequence_gap']		= 'มีช่องว่างในลำดับการโยกย้ายที่อยู่ใกล้หมายเลขรุ่นคือ: %s.';
 $lang['migration_multiple_version']	= 'มีการโยกย้ายหลายรายการที่มีหมายเลขรุ่นเดียวกัน: %s.';
