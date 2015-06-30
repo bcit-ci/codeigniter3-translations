@@ -10,19 +10,19 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['date_year'] = 'سنة';
-$lang['date_years'] = 'سنة';
+$lang['date_years'] = 'سنوات';
 $lang['date_month'] = 'شهر';
-$lang['date_months'] = 'شهر';
+$lang['date_months'] = 'أشهر';
 $lang['date_week'] = 'أسبوع';
-$lang['date_weeks'] = 'أسبوع';
+$lang['date_weeks'] = 'أسابيع';
 $lang['date_day'] = 'يوم';
-$lang['date_days'] = 'يوم';
+$lang['date_days'] = 'أيام';
 $lang['date_hour'] = 'ساعة';
-$lang['date_hours'] = 'ساعة';
+$lang['date_hours'] = 'ساعات';
 $lang['date_minute'] = 'دقيقة';
-$lang['date_minutes'] = 'دقيقة';
+$lang['date_minutes'] = 'دقائق';
 $lang['date_second'] = 'ثانية';
-$lang['date_seconds'] = 'ثانية';
+$lang['date_seconds'] = 'ثواني';
 
 $lang['UM12'] = '(UTC -12:00) جزيرة بيكر/هاولاند';
 $lang['UM11'] = '(UTC -11:00) توقيت ساموا، نيو';
