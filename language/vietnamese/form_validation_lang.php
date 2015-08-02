@@ -9,7 +9,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['form_validation_required']		= '{field} Trường bắt buột.';
+$lang['form_validation_required']		= '{field} Trường bắt buộc.';
 $lang['form_validation_isset']			= '{field} Phải có một giá trị.';
 $lang['form_validation_valid_email']		= '{field} Phải có một địa chỉ Email hợp lệ.';
 $lang['form_validation_valid_emails']		= '{field} Các trường phải có địa chỉ Email hợp lệ.';
