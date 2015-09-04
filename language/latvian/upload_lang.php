@@ -23,5 +23,5 @@ $lang['upload_invalid_dimensions'] = 'Augšupielādējamā attēla garums vai pl
 $lang['upload_destination_error'] = 'Augšupielādēto failu uz Jūsu norādīto vietu pārvietot neizdevās.';
 $lang['upload_no_filepath'] = 'Failu augšupielādes ceļš ir nepareizs.';
 $lang['upload_no_file_types'] = 'Jūs aizmirsāt norādīt atļautos failu tipus.';
-$lang['upload_bad_filename'] = 'Fais ar šādu nosaukumu jau atrodas serverī.';
+$lang['upload_bad_filename'] = 'Fails ar šādu nosaukumu jau atrodas serverī.';
 $lang['upload_not_writable'] = 'Augšupielādes direktorijā nav ļauts veikt ierakstu.';
