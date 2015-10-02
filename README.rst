@@ -2,11 +2,10 @@
 Translations for CodeIgniter System Messages
 ############################################
 
-Note: In preparation for the 3.0 release, we have switched to a more proper branching model. 
-    The *master* branch has been tagged for release, and all new changes or additions will be to the *develop* branch.
-
 This project contains translations for the CodeIgniter 
 system messages folder, **system/language/english**.
+A changelog has been added to the repository, so you can track updates
+between official releases.
 
 Copy the folder(s) for the idioms you are interested in,
 from inside the **language** folder of this project to your 
@@ -47,6 +46,7 @@ indonesian               3.0          ridho1991          Mutasim Ridlo
 italian                  3.0          ster               Stefano Mazzega
 japanese                 3.0          tsukasa            Tsukasa Takao
 khmer                    3.0          Chanthoeun         Chanthoeun Kim
+latvian                  3.0          DavisMiculis       Davis Miculis
 korean                   3.0          KwonLatte          HyeongJoo Kwon
 norwegian                3.0          yhoiseth           Yngve Hoiseth
 persian                  3.0          MSDehghan          Mohammad Sadegh
@@ -56,6 +56,7 @@ portugese-brazilian      3.0          mateusfbi          Mateus Brandão
 romanian                 3.0          Chiribuc           Cristian Robert Chiribuc
 russian                  3.0          vadimyer           Vadim Yermolin
 simplified-chinese       3.0          denghongcai        Deng HongCai
+slovak                   3.0          gadelat            Gabriel Potkány
 spanish                  3.0          Razican            Iban Eguia
 swedish                  3.0          peterdenk          Peter Denk
 tamil                    3.0          karthik-code       Karthikeyan
