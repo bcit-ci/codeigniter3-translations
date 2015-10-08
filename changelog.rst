@@ -5,7 +5,10 @@ Change Log
 Version 3.0.x
 =============
 
-Release Date: Not Released
+Version 3.0.2
+=============
+
+Release Date: Oct 8, 2015
 
 -   Enhancements
 
