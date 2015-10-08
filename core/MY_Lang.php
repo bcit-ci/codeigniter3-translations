@@ -127,7 +127,7 @@ class MY_Lang extends CI_Lang {
 
 		// load the default language first, if necessary
 		// only do this for the language files under system/
-		$basepath = SYSTEM_PATH . 'language/' . $this->base_language . '/' . $langfile;
+		$basepath = SYSDIR . 'language/' . $this->base_language . '/' . $langfile;
 		if (($found = file_exists($basepath)) === TRUE)
 		{
 			include($basepath);
