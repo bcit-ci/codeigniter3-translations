@@ -5,6 +5,13 @@ Change Log
 Version 3.0.x
 =============
 
+Version 3.0.3
+=============
+
+Release Date: Oct 31, 2015
+
+- No changes. Updated version # to sync with framework.
+
 Version 3.0.2
 =============
 
