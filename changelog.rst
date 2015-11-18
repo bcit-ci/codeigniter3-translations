@@ -5,6 +5,12 @@ Change Log
 Version 3.0.x
 =============
 
+Release Date: Unreleased
+
+-   Updated Translations
+
+    -   vietnamese
+
 Version 3.0.3
 =============
 
