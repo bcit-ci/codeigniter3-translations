@@ -9,15 +9,15 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ftp_no_connection']		= 'Unable to locate a valid connection ID. Please make sure you are connected before performing any file routines.';
-$lang['ftp_unable_to_connect']		= 'Unable to connect to your FTP server using the supplied hostname.';
-$lang['ftp_unable_to_login']		= 'Unable to login to your FTP server. Please check your username and password.';
-$lang['ftp_unable_to_mkdir']		= 'Unable to create the directory you have specified.';
-$lang['ftp_unable_to_changedir']	= 'Unable to change directories.';
-$lang['ftp_unable_to_chmod']		= 'Unable to set file permissions. Please check your path.';
-$lang['ftp_unable_to_upload']		= 'Unable to upload the specified file. Please check your path.';
-$lang['ftp_unable_to_download']		= 'Unable to download the specified file. Please check your path.';
-$lang['ftp_no_source_file']		= 'Unable to locate the source file. Please check your path.';
-$lang['ftp_unable_to_rename']		= 'Unable to rename the file.';
-$lang['ftp_unable_to_delete']		= 'Unable to delete the file.';
-$lang['ftp_unable_to_move']		= 'Unable to move the file. Please make sure the destination directory exists.';
+$lang['ftp_no_connection']		= 'Չհաջողվեց գտնել կապի վավեր իդենտիֆիկատոր [ID]. Խնդրում ենք համոզվել, որ կապը հաստատված է, նախքան ֆայլերի հետ կապված որևէ գործողություն կատարելը։';
+$lang['ftp_unable_to_connect']		= 'Չհաջողվեց կապ հաստատել FTP սերվերին օգտագործելով տրված սերվերի անվանումը [hostname]։';
+$lang['ftp_unable_to_login']		= 'Չհաջողվեց մուտք գործել FTP սերվեր։ Խնդրում ենք ստուգել մուտքանունը [username] և գաղտնաբառը [password]։';
+$lang['ftp_unable_to_mkdir']		= 'Չհաջողվեց ստեղծել պանակ Ձեր կողմից տրված անունով։';
+$lang['ftp_unable_to_changedir']	= 'Չհաջողվեց փոփոխել պանակները։';
+$lang['ftp_unable_to_chmod']		= 'Չհաջողվեց սահմանել ֆայլի թույլտվությունները։ Խնդրում ենք ստուգել ճանապարհը։';
+$lang['ftp_unable_to_upload']		= 'Չհաջողվեց վերբեռնել նշված ֆայլը։ Խնդրում ենք ստուգել ճանապարհը։';
+$lang['ftp_unable_to_download']		= 'Չհաջողվեց ներբեռնել նշված ֆայլը։ Խնդրում ենք ստուգել ճանապարհը։';
+$lang['ftp_no_source_file']		= 'Չհաջողվեց տեղորոշել հիմնաֆայլը։ Խնդրում ենք ստուգել ճանապարհը։';
+$lang['ftp_unable_to_rename']		= 'Չհաջողվեց անվանափոխել ֆայլը։';
+$lang['ftp_unable_to_delete']		= 'Չհաջողվեց ջնջել ֆայլը։';
+$lang['ftp_unable_to_move']		= 'Չհաջողվեց տեղափոխել ֆայլը։ Խնդրում ենք համոզվել, որ նշանակման վայրի պանակը գոյություն ունի։';
