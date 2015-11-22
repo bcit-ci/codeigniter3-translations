@@ -9,19 +9,19 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'Unable to find a post variable called userfile.';
-$lang['upload_file_exceeds_limit'] = 'The uploaded file exceeds the maximum allowed size in your PHP configuration file.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.';
-$lang['upload_file_partial'] = 'The file was only partially uploaded.';
-$lang['upload_no_temp_directory'] = 'The temporary folder is missing.';
-$lang['upload_unable_to_write_file'] = 'The file could not be written to disk.';
-$lang['upload_stopped_by_extension'] = 'The file upload was stopped by extension.';
-$lang['upload_no_file_selected'] = 'You did not select a file to upload.';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is not allowed.';
-$lang['upload_invalid_filesize'] = 'The file you are attempting to upload is larger than the permitted size.';
-$lang['upload_invalid_dimensions'] = 'The image you are attempting to upload doesn\'t fit into the allowed dimensions.';
-$lang['upload_destination_error'] = 'A problem was encountered while attempting to move the uploaded file to the final destination.';
-$lang['upload_no_filepath'] = 'The upload path does not appear to be valid.';
-$lang['upload_no_file_types'] = 'You have not specified any allowed file types.';
-$lang['upload_bad_filename'] = 'The file name you submitted already exists on the server.';
-$lang['upload_not_writable'] = 'The upload destination folder does not appear to be writable.';
+$lang['upload_userfile_not_set'] = 'Չհաջողվեց գտնել userfile անունով փոփոխական POST զանգվածում։';
+$lang['upload_file_exceeds_limit'] = 'Վերբեռնված ֆայլը գերազանցում է PHP կարգավորումներով հասանելի մաքսիմալ չափը։';
+$lang['upload_file_exceeds_form_limit'] = 'Վերբեռնված ֆայլը գերազանցում է ուղարկված ֆորմայում նշված մաքսիմալ չափը։';
+$lang['upload_file_partial'] = 'Ֆայլը միայն մասամբ է վերբեռնվել։';
+$lang['upload_no_temp_directory'] = 'Ժամանակավոր ֆայլեր պահելու պանակը բացակայում է։';
+$lang['upload_unable_to_write_file'] = 'Ֆայլը սկավառակի վրա գրել չհաջողվեց։';
+$lang['upload_stopped_by_extension'] = 'Ֆայլի վերբեռնումը կասեցվել է ընդլայնման [extension] կողմից։';
+$lang['upload_no_file_selected'] = 'Դուք չեք ընտրել ֆայլ վերբեռնելու համար։';
+$lang['upload_invalid_filetype'] = 'Ֆայլի տեսակը, որը ցանկանում եք վերբեռնել չի թույլատրվում։';
+$lang['upload_invalid_filesize'] = 'Ֆայլը, որը փորձում եք վերբեռնել ունի ավելի մեծ չափ քան թույլատրելի է։';
+$lang['upload_invalid_dimensions'] = 'Նկարը, որը փորձում եք վերբեռնել չի տեղավորվում թույլատրելի չափերի սահմաններում։';
+$lang['upload_destination_error'] = 'Առաջացել է խնդիր այն ժամանակ, երբ փորձ էր արվում տեղափոխել ֆայլը վերջնական նախատեսված վայր։';
+$lang['upload_no_filepath'] = 'Ֆայլի վերբեռնման ճանապարհը վավեր չէ։';
+$lang['upload_no_file_types'] = 'Դուք չեք նշել որևէ թույլատրելի ֆայլի տեսակներ։';
+$lang['upload_bad_filename'] = 'Արդեն գոյություն ունի ուղարկված անուն ունեցող ֆալ սերվերի վրա։';
+$lang['upload_not_writable'] = 'Վերբեռնման համար նախատեսված պանակը գրելու համար հասանելի չէ։';
