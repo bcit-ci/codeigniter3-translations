@@ -5,11 +5,16 @@ Change Log
 Version 3.0.x
 =============
 
-Release Date: Not released
+Release Date: Unreleased
 
 -   New Translations
 
+    -   armenian
     -   slovenian
+
+-   Updated Translations
+
+    -   vietnamese
 
 Version 3.0.3
 =============

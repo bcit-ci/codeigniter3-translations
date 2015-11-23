@@ -31,6 +31,7 @@ Each language is maintained by a community member, per the table below:
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
 arabic                   3.0.3        daif               Daif Alotaibi
+armenian                 3.0.x        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
 bulgarian                3.0.3        ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
