@@ -14,6 +14,7 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   filipino
     -   vietnamese
 
 Version 3.0.3
