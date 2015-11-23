@@ -7,6 +7,10 @@ Version 3.0.x
 
 Release Date: Unreleased
 
+-   New Translations
+
+    -   armenian
+
 -   Updated Translations
 
     -   vietnamese
