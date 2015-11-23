@@ -37,7 +37,7 @@ bulgarian                3.0.3        ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
 czech                    3.0.3        Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
-filipino                 3.0.3        dzerium            Edzer Josh V. Padilla
+filipino                 3.0.x        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
 german                   3.0.3        Rufnex             Johannes Gamperl
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
@@ -67,7 +67,7 @@ traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.0.3        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
-vietnamese               3.0.3        tinhphaistc        Trần Xuân Sâm
+vietnamese               3.0.x        tinhphaistc        Trần Xuân Sâm
 =======================  ===========  =================  =========================
 
 ************
