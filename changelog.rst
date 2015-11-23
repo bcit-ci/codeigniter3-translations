@@ -10,6 +10,7 @@ Release Date: Unreleased
 -   New Translations
 
     -   armenian
+    -   slovenian
 
 -   Updated Translations
 
