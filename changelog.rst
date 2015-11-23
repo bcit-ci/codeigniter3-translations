@@ -5,6 +5,12 @@ Change Log
 Version 3.0.x
 =============
 
+Release Date: Not released
+
+-   New Translations
+
+    -   slovenian
+
 Version 3.0.3
 =============
 
