@@ -40,6 +40,7 @@ dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.x        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
 german                   3.0.3        Rufnex             Johannes Gamperl
+greek                    3.0.x        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.0.3        shindesushilkumar  Shindesushil Kumar
 hungarian                3.0.3        orionstar          Lászlo Bóra
