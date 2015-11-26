@@ -1,4 +1,14 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
+/**
+ * System messages translation for CodeIgniter(tm)
+ *
+ * @author	CodeIgniter community
+ * @author	Grigoris Charamidis
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = 'Πρέπει να καθορίσετε μια πηγή εικόνας στις προτιμήσεις σας.';
 $lang['imglib_gd_required'] = 'Tο GD image library πακέτο είναι απαραίτητο για αυτήν την ενέργεια.';

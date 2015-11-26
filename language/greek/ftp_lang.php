@@ -1,4 +1,14 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
+/**
+ * System messages translation for CodeIgniter(tm)
+ *
+ * @author	CodeIgniter community
+ * @author	Grigoris Charamidis
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['ftp_no_connection']		= 'Αδυναμία εντοπισμού έγκυρου αναγνωριστικού σύνδεσης. Παρακαλώ βεβαιωθείτε οτι έχετε συνδεθεί πριν εκτελέσεται οποιαδήποτε ενέργεια σε οποιαδήποτε αρχείο.';
 $lang['ftp_unable_to_connect']		= 'Αδυναμία σύνδεσης με FTP server χρησιμοποιώντας αυτό το όνομα τομέα.';
