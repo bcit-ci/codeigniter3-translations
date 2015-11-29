@@ -1,28 +1,29 @@
 <?php
 /**
-* System messages translation for CodeIgniter(tm)
-*
-* @author	CodeIgniter community
-* @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
-* @license	http://opensource.org/licenses/MIT MIT License
-* @link	http://codeigniter.com
-*/
+ * System messages translation for CodeIgniter(tm)
+ *
+ * @author	CodeIgniter community
+ * @author	Grigoris Charamidis
+ * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	http://codeigniter.com
+ */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year'] = 'Taon';
-$lang['date_years'] = 'Taon';
-$lang['date_month'] = 'Buwan';
-$lang['date_months'] = 'Buwan';
-$lang['date_week'] = 'Linggo';
-$lang['date_weeks'] = 'Linggo';
-$lang['date_day'] = 'Araw';
-$lang['date_days'] = 'Araw';
-$lang['date_hour'] = 'Oras';
-$lang['date_hours'] = 'Oras';
-$lang['date_minute'] = 'Minuto';
-$lang['date_minutes'] = 'Minuto';
-$lang['date_second'] = 'Segundo';
-$lang['date_seconds'] = 'Segundo';
+$lang['date_year'] = 'Χρόνος';
+$lang['date_years'] = 'Χρόνια';
+$lang['date_month'] = 'Μήνας';
+$lang['date_months'] = 'Μήνες';
+$lang['date_week'] = 'Εβδομάδα';
+$lang['date_weeks'] = 'Εβδομάδες';
+$lang['date_day'] = 'Ημέρα';
+$lang['date_days'] = 'Ημέρες';
+$lang['date_hour'] = 'Ώρα';
+$lang['date_hours'] = 'Ώρες';
+$lang['date_minute'] = 'Λεπτό';
+$lang['date_minutes'] = 'Λεπτά';
+$lang['date_second'] = 'Δευτερόλεπτο';
+$lang['date_seconds'] = 'Δευτερόλεπτα';
 
 $lang['UM12']	= '(UTC -12:00) Baker/Howland Island';
 $lang['UM11']	= '(UTC -11:00) Niue';

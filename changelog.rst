@@ -5,6 +5,19 @@ Change Log
 Version 3.0.x
 =============
 
+Release Date: Unreleased
+
+-   New Translations
+
+    -   armenian
+    -   greek
+    -   slovenian
+
+-   Updated Translations
+
+    -   filipino
+    -   vietnamese
+
 Version 3.0.3
 =============
 
