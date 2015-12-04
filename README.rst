@@ -43,7 +43,7 @@ german                   3.0.3        Rufnex             Johannes Gamperl
 greek                    3.0.x        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.0.3        shindesushilkumar  Shindesushil Kumar
-hungarian                3.0.3        orionstar          Lászlo Bóra
+hungarian                3.0.3        orionstar          László Bóra
 indonesian               3.0.3        ridho1991          Mutasim Ridlo
 italian                  3.0.3        ster               Stefano Mazzega
 japanese                 3.0.3        tsukasa            Tsukasa Takao
