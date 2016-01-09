@@ -5,6 +5,8 @@ Change Log
 Version 3.0.x
 =============
 
+Updated copyright dates for 2016.
+
 Release Date: Unreleased
 
 -   New Translations
