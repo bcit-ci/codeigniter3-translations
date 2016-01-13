@@ -3,7 +3,7 @@
 * System messages translation for CodeIgniter(tm)
 *
 * @author	CodeIgniter community
-* @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+* @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	http://codeigniter.com
 */
@@ -13,8 +13,8 @@ $lang['date_year'] = 'Taon';
 $lang['date_years'] = 'Taon';
 $lang['date_month'] = 'Buwan';
 $lang['date_months'] = 'Buwan';
-$lang['date_week'] = 'Lingo';
-$lang['date_weeks'] = 'Lingo';
+$lang['date_week'] = 'Linggo';
+$lang['date_weeks'] = 'Linggo';
 $lang['date_day'] = 'Araw';
 $lang['date_days'] = 'Araw';
 $lang['date_hour'] = 'Oras';

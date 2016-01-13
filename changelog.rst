@@ -2,8 +2,32 @@
 Change Log
 ##########
 
-Version 3.0.x
+Version 3.0.4
 =============
+
+Release Date: Jan 13, 2016
+
+-   Housekeeping
+
+    -   Updated copyright dates for 2016.
+
+-   New Translations
+
+    -   armenian
+    -   greek
+    -   slovenian
+
+-   Updated Translations
+
+    -   filipino
+    -   vietnamese
+
+Version 3.0.3
+=============
+
+Release Date: Oct 31, 2015
+
+- No changes. Updated version # to sync with framework.
 
 Version 3.0.2
 =============
