@@ -31,16 +31,16 @@ Each language is maintained by a community member, per the table below:
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
 arabic                   3.0.3        daif               Daif Alotaibi
-armenian                 3.0.x        tgrnmrdn           Tigran Muradyan
+armenian                 3.0.4        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
 bulgarian                3.0.3        ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
 czech                    3.0.3        Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
-filipino                 3.0.x        dzerium            Edzer Josh V. Padilla
+filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
 german                   3.0.3        Rufnex             Johannes Gamperl
-greek                    3.0.x        grigoris86         Grigoris Charamidis
+greek                    3.0.4        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.0.3        shindesushilkumar  Shindesushil Kumar
 hungarian                3.0.3        orionstar          László Bóra
@@ -59,7 +59,7 @@ romanian                 3.0.3        Chiribuc           Cristian Robert Chiribu
 russian                  3.0.3        vadimyer           Vadim Yermolin
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
-slovenian                3.0.x        andrejflorjancic   Andrej Florjančič
+slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
 spanish                  3.0.3        Razican            Iban Eguia
 swedish                  3.0.3        peterdenk          Peter Denk
 tamil                    3.0.3        karthik-code       Karthikeyan
@@ -68,7 +68,7 @@ traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.0.3        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
-vietnamese               3.0.x        tinhphaistc        Trần Xuân Sâm
+vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
 =======================  ===========  =================  =========================
 
 ************
