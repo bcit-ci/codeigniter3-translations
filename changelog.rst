@@ -2,12 +2,14 @@
 Change Log
 ##########
 
-Version 3.0.x
+Version 3.0.4
 =============
 
-Updated copyright dates for 2016.
+Release Date: Jan 13, 2016
 
-Release Date: Unreleased
+-   Housekeeping
+
+    -   Updated copyright dates for 2016.
 
 -   New Translations
 
