@@ -2,13 +2,13 @@
 Translations for CodeIgniter System Messages
 ############################################
 
-This project contains translations for the CodeIgniter 
+This project contains translations for the CodeIgniter
 system messages folder, **system/language/english**.
 A changelog has been added to the repository, so you can track updates
 between official releases.
 
 Copy the folder(s) for the idioms you are interested in,
-from inside the **language** folder of this project to your 
+from inside the **language** folder of this project to your
 **application/language** folder.
 
 You may then use the CodeIgniter Language class to reference the translations
@@ -53,8 +53,8 @@ korean                   3.0.3        KwonLatte          HyeongJoo Kwon
 norwegian                3.0.3        yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
 polish                   3.0.3        michalsn           Michał Śniatała
-portugese                3.0.3        j38600             Júlio Sebastião
-portugese-brazilian      3.0.3        mateusfbi          Mateus Brandão
+portuguese               3.0.3        j38600             Júlio Sebastião
+portuguese-brazilian     3.0.3        mateusfbi          Mateus Brandão
 romanian                 3.0.3        Chiribuc           Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
@@ -88,12 +88,12 @@ Contributing
 ************
 
 If you have a translation or correction, please fork the repository, clone it
-locally, and then create a new branch (from develop) 
+locally, and then create a new branch (from develop)
 for each set of related changes or for
-a complete language pack. Once your branch is complete, *then* create a pull 
+a complete language pack. Once your branch is complete, *then* create a pull
 request to merge it into the main repository. Remember to "sign" your commits.
 
-Pull requests to the repository will only be considered if they come from 
+Pull requests to the repository will only be considered if they come from
 the maintainer for any translations in the request, or if the maintainer
 adds a comment indicating they approve of any changes.
 
