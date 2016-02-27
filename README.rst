@@ -69,6 +69,7 @@ turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.0.3        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
 vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
+bengali					 3.0.4		  kabircse			Kabir Hossain
 =======================  ===========  =================  =========================
 
 ************
