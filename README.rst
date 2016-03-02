@@ -33,6 +33,7 @@ Idiom                    Status       User               Maintainer
 arabic                   3.0.3        daif               Daif Alotaibi
 armenian                 3.0.4        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
+bengali                  3.0.4        kabircse           Kabir Hossain
 bulgarian                3.0.3        ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
 czech                    3.0.3        Ruplahlava         Štěpán Postránecký
@@ -69,7 +70,6 @@ turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.0.3        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
 vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
-bengali                  3.0.4        kabircse           Kabir Hossain
 =======================  ===========  =================  =========================
 
 ************
