@@ -16,6 +16,7 @@ Release Date: Jan 13, 2016
     -   armenian
     -   greek
     -   slovenian
+    -	bengali
 
 -   Updated Translations
 
@@ -59,14 +60,6 @@ Version 3.0.0
 =============
 
 Release Date: March 30, 2015
-
-Version 3.0.4 
-=============
-
-Release Date: January 13, 2016
-
--   New Translations
-	-	bengali
 	
 Initial "official" release, with settings consistent with CodeIgniter 3.0.0
 
