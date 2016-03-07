@@ -2,6 +2,15 @@
 Change Log
 ##########
 
+Version 3.0.x
+=============
+
+Release Date: Unreleased
+
+-   New Translations
+
+    -   bengali
+
 Version 3.0.4
 =============
 
