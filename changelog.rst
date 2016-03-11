@@ -7,6 +7,11 @@ Version 3.0.x
 
 Release Date: Unreleased
 
+Version 3.0.5
+=============
+
+Release Date: Mar 11, 2016
+
 -   New Translations
 
     -   bengali
