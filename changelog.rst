@@ -7,6 +7,15 @@ Version 3.0.x
 
 Release Date: Unreleased
 
+Version 3.0.6
+=============
+
+Release Date: Mar 21, 2016
+
+-   Housekeeping
+
+    - Synchronize release # with CI3.
+
 Version 3.0.5
 =============
 
