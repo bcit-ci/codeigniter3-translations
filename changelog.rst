@@ -7,6 +7,10 @@ Version 3.0.x
 
 Release Date: Unreleased
 
+-   Updated Translations
+
+    -   italian
+
 Version 3.0.6
 =============
 
