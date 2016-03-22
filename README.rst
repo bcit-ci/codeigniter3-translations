@@ -62,7 +62,7 @@ simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
 slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
 spanish                  3.0.3        Razican            Iban Eguia
-swedish                  3.0.3        peterdenk          Peter Denk
+swedish                  3.0.3x       peterdenk          Peter Denk
 tamil                    3.0.3        karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
 traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
