@@ -10,6 +10,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   italian
+    -   swedish
 
 Version 3.0.6
 =============
