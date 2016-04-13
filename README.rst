@@ -43,7 +43,7 @@ french                   3.0.3        includebeer        Alain Rivest
 german                   3.0.3        Rufnex             Johannes Gamperl
 greek                    3.0.4        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
-hindi                    3.0.3        shindesushilkumar  Shindesushil Kumar
+hindi                    3.0.3        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.0.3        orionstar          László Bóra
 indonesian               3.0.3        ridho1991          Mutasim Ridlo
 italian                  3.0.3x       ster               Stefano Mazzega
