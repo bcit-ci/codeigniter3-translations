@@ -9,6 +9,7 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   hindi
     -   italian
     -   swedish
 
