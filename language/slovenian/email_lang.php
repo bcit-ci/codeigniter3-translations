@@ -55,3 +55,4 @@ $lang['email_failed_smtp_login'] = 'Pošiljanje AUTH LOGIN komande ni uspelo. Na
 $lang['email_smtp_auth_un'] = 'Neuspešna avtentikacija uporabnika. Napaka: %s';
 $lang['email_smtp_auth_pw'] = 'Neuspešna avtentikacija gesla. Napaka: %s';
 $lang['email_smtp_data_failure'] = 'Ni možno poslati podatkov: %s';
+$lang['email_exit_status'] = 'Izhodna statusna koda: %s';
