@@ -16,6 +16,7 @@ Release Date: Unreleased
     -   german
     -   hindi
     -   italian
+    -   slovenian
     -   swedish
 
 Version 3.0.6
