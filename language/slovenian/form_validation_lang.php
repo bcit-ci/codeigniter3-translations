@@ -65,3 +65,4 @@ $lang['form_validation_less_than_equal_to']	= 'Polje {field} mora vsebovati šte
 $lang['form_validation_greater_than']		= 'Polje {field} mora vsebovati številko večjo od {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Polje {field} mora vsebovati številko enako ali večjo od {param}.';
 $lang['form_validation_error_message_not_set']	= 'Ni možno dostopati do sporočila napake za ustrezno polje {field}.';
+$lang['form_validation_in_list'] = 'Polje {polje} mora biti eno izmed: {param}.';
