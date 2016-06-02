@@ -40,7 +40,7 @@ czech                    3.0.3        Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
-german                   3.0.3        Rufnex             Johannes Gamperl
+german                   3.0.6x       Rufnex             Johannes Gamperl
 greek                    3.0.4        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.0.6x       shindesushilkumar  Sushilkumar Shinde
