@@ -58,6 +58,7 @@ portuguese               3.0.3        j38600             Júlio Sebastião
 portuguese-brazilian     3.0.3        mateusfbi          Mateus Brandão
 romanian                 3.0.3        Chiribuc           Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
+serbian                  3.0.6x       novakurosevic      Novak Urosevic
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
 slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
