@@ -37,22 +37,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'Test Name';
-$lang['ut_test_datatype'] = 'Test Datatype';
-$lang['ut_res_datatype'] = 'Expected Datatype';
-$lang['ut_result'] = 'Result';
-$lang['ut_undefined'] = 'Undefined Test Name';
-$lang['ut_file'] = 'File Name';
-$lang['ut_line'] = 'Line Number';
-$lang['ut_passed'] = 'Passed';
-$lang['ut_failed'] = 'Failed';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
-$lang['ut_null'] = 'Null';
-$lang['ut_notes'] = 'Notes';
+$lang['ut_test_name'] = 'Testo pavadinimas';
+$lang['ut_test_datatype'] = 'Testo duomenų tipas';
+$lang['ut_res_datatype'] = 'Tipas, kurio tikimasi';
+$lang['ut_result'] = 'Rezultatas';
+$lang['ut_undefined'] = 'Nenustatytas testo pavadinimas';
+$lang['ut_file'] = 'Failo pavadinimas';
+$lang['ut_line'] = 'Eilutės numeris';
+$lang['ut_passed'] = 'Testas pavyko';
+$lang['ut_failed'] = 'Testas nepavyko';
+$lang['ut_boolean'] = 'Taip/ne';
+$lang['ut_integer'] = 'Sveikasis skaičius';
+$lang['ut_float'] = 'Po kablelio';
+$lang['ut_double'] = 'Po kablelio'; // can be the same as float
+$lang['ut_string'] = 'Eilutė';
+$lang['ut_array'] = 'Masyvas';
+$lang['ut_object'] = 'Objektas';
+$lang['ut_resource'] = 'Resursas';
+$lang['ut_null'] = 'Be reikšmės';
+$lang['ut_notes'] = 'Pastabos';

@@ -37,19 +37,19 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'Unable to find a post variable called userfile.';
-$lang['upload_file_exceeds_limit'] = 'The uploaded file exceeds the maximum allowed size in your PHP configuration file.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.';
-$lang['upload_file_partial'] = 'The file was only partially uploaded.';
-$lang['upload_no_temp_directory'] = 'The temporary folder is missing.';
-$lang['upload_unable_to_write_file'] = 'The file could not be written to disk.';
-$lang['upload_stopped_by_extension'] = 'The file upload was stopped by extension.';
-$lang['upload_no_file_selected'] = 'You did not select a file to upload.';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is not allowed.';
-$lang['upload_invalid_filesize'] = 'The file you are attempting to upload is larger than the permitted size.';
-$lang['upload_invalid_dimensions'] = 'The image you are attempting to upload doesn\'t fit into the allowed dimensions.';
-$lang['upload_destination_error'] = 'A problem was encountered while attempting to move the uploaded file to the final destination.';
-$lang['upload_no_filepath'] = 'The upload path does not appear to be valid.';
-$lang['upload_no_file_types'] = 'You have not specified any allowed file types.';
-$lang['upload_bad_filename'] = 'The file name you submitted already exists on the server.';
-$lang['upload_not_writable'] = 'The upload destination folder does not appear to be writable.';
+$lang['upload_userfile_not_set'] = 'Nepavyksta rasti POST vertės vadinamos vartotojo failu („userfile“).';
+$lang['upload_file_exceeds_limit'] = 'Įkeltas failas didesnis, nei maksimalus dydis, nurodytas sistemos PHP konfigūracijos faile.';
+$lang['upload_file_exceeds_form_limit'] = 'Įkeltas failas didesnis nei maksimalus dydis, nurodytas failo įkėlimo formoje.';
+$lang['upload_file_partial'] = 'Failas buvo įkeltas tik iš dalies.';
+$lang['upload_no_temp_directory'] = 'Nėra laikinojo aplanko.';
+$lang['upload_unable_to_write_file'] = 'Failo įrašyti į diską nepavyko.';
+$lang['upload_stopped_by_extension'] = 'Failo įkėlimas buvo sustabdytas praplėtimo.';
+$lang['upload_no_file_selected'] = 'Jūs nepasirinkote failo įkėlimui.';
+$lang['upload_invalid_filetype'] = 'Neleidžiama įkelti failų tipo, kuriam priklauso bandomas įkelti failas.';
+$lang['upload_invalid_filesize'] = 'Failas, kurį bandote įkelti, didesnis už didžiausią leidžiamą dydį.';
+$lang['upload_invalid_dimensions'] = 'Paveikslėlis, kurį bandote įkelti, neįtelpa į leidžiamus išmatavimus.';
+$lang['upload_destination_error'] = 'Bandant perkelti įkeltą failą į galutinę jo talpinimo vietą kilo problema.';
+$lang['upload_no_filepath'] = 'Kelias, kuriuo įkeliamas failas, neteisingas.';
+$lang['upload_no_file_types'] = 'Jūs nenurodėte jokių leidžiamų failų tipų.';
+$lang['upload_bad_filename'] = 'Failas tokiu vardu, kurį įkeliate, jau egzistuoja serveryje.';
+$lang['upload_not_writable'] = 'Negalima rašyti į direktoriją, į kurią bandote įkelti failą.';

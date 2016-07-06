@@ -37,11 +37,11 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found'] = 'No migrations were found.';
-$lang['migration_not_found'] = 'No migration could be found with the version number: %s.';
-$lang['migration_sequence_gap'] = 'There is a gap in the migration sequence near version number: %s.';
-$lang['migration_multiple_version'] = 'There are multiple migrations with the same version number: %s.';
-$lang['migration_class_doesnt_exist'] = 'The migration class "%s" could not be found.';
-$lang['migration_missing_up_method'] = 'The migration class "%s" is missing an "up" method.';
-$lang['migration_missing_down_method'] = 'The migration class "%s" is missing a "down" method.';
-$lang['migration_invalid_filename'] = 'Migration "%s" has an invalid filename.';
+$lang['migration_none_found'] = 'Jokių migracijos instrukcijų neaptikta.';
+$lang['migration_not_found'] = 'Nerasta migracijos instrukcijų su versijos numeriu: %s.';
+$lang['migration_sequence_gap'] = 'Migracijos instrukcijų sekoje yra tarptas netoli versijos numerio: %s.';
+$lang['migration_multiple_version'] = 'Yra keletas migracijos instrukcijų su tuo pačiu versijos numeriu: %s.';
+$lang['migration_class_doesnt_exist'] = 'Nepavyko rasti migracijos klasės „%s“.';
+$lang['migration_missing_up_method'] = 'Migracijos klasei „%s“ trūksta „aukštyn“ (up) metodo.';
+$lang['migration_missing_down_method'] = 'Migracijos klasei „%s“ trūksta „žemyn“ (down) metodo.';
+$lang['migration_invalid_filename'] = 'Migracijos instrukcija „%s“ turi neteisingą failo pavadinimą.';
