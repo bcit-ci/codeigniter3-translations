@@ -37,17 +37,17 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['form_validation_required']		= 'The {field} field is required.';
-$lang['form_validation_isset']			= 'The {field} field must have a value.';
-$lang['form_validation_valid_email']		= 'The {field} field must contain a valid email address.';
-$lang['form_validation_valid_emails']		= 'The {field} field must contain all valid email addresses.';
-$lang['form_validation_valid_url']		= 'The {field} field must contain a valid URL.';
-$lang['form_validation_valid_ip']		= 'The {field} field must contain a valid IP.';
-$lang['form_validation_min_length']		= 'The {field} field must be at least {param} characters in length.';
-$lang['form_validation_max_length']		= 'The {field} field cannot exceed {param} characters in length.';
-$lang['form_validation_exact_length']		= 'The {field} field must be exactly {param} characters in length.';
-$lang['form_validation_alpha']			= 'The {field} field may only contain alphabetical characters.';
-$lang['form_validation_alpha_numeric']		= 'The {field} field may only contain alpha-numeric characters.';
+$lang['form_validation_required']		= 'Laukas {field} yra privalomas.';
+$lang['form_validation_isset']			= 'Laukas {field} turi turėti reikšmę.';
+$lang['form_validation_valid_email']		= 'Lauke {field} turi būti teisingas el. pašto adresas.';
+$lang['form_validation_valid_emails']		= 'Lauke {field} visi el. pašto adresai turi būti teisingi.';
+$lang['form_validation_valid_url']		= 'Lauke {field} turi būti galiojantis URL adresas.';
+$lang['form_validation_valid_ip']		= 'Lauke {field} turi būti taisyklingas IP adresas.';
+$lang['form_validation_min_length']		= 'Lauką {field} turi sudaryti bent {param} ženklai/-ų.';
+$lang['form_validation_max_length']		= 'Laukas {field} negali būti ilgesnis, nei {param} ženklai/-ų.';
+$lang['form_validation_exact_length']		= 'Lauke {field} turi būti lygiai {param} ženklai/-ų.';
+$lang['form_validation_alpha']			= 'Lauke {field} gali būti tik abėcėlės raidės.';
+$lang['form_validation_alpha_numeric']		= 'Lauke {field} gali būti tik raidės ir skaičiai.';
 $lang['form_validation_alpha_numeric_spaces']	= 'The {field} field may only contain alpha-numeric characters and spaces.';
 $lang['form_validation_alpha_dash']		= 'The {field} field may only contain alpha-numeric characters, underscores, and dashes.';
 $lang['form_validation_numeric']		= 'The {field} field must contain only numbers.';
