@@ -50,6 +50,7 @@ italian                  3.0.3x       ster               Stefano Mazzega
 japanese                 3.0.3        tsukasa            Tsukasa Takao
 khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
 latvian                  3.0.3        DavisMiculis       Davis Miculis
+lithuanian               3.0.6x       dgvirtual          Donatas Glodenis
 korean                   3.0.3        KwonLatte          HyeongJoo Kwon
 norwegian                3.0.3        yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
