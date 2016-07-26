@@ -2,10 +2,32 @@
 Change Log
 ##########
 
-Version 3.0.x
+Version 3.1.x
 =============
 
 Release Date: Unreleased
+
+-   New Translations
+
+-   Updated Translations
+
+
+Version 3.1.0
+=============
+
+Release Date: Jul 26, 2016
+
+-   New Translations
+
+    -   serbian
+    
+-   Updated Translations
+
+    -   german
+    -   hindi
+    -   italian
+    -   slovenian
+    -   swedish
 
 Version 3.0.6
 =============
