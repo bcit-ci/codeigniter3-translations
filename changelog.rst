@@ -11,6 +11,8 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   portuguese-brazilian
+    -   ukrainian
 
 Version 3.1.0
 =============
