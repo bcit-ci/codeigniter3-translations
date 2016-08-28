@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -25,4 +25,4 @@ $lang['imglib_rotation_angle_required'] = '必须指定旋转角度。';
 $lang['imglib_invalid_path'] = '图像路径错误。';
 $lang['imglib_copy_failed'] = '图像复制错误。';
 $lang['imglib_missing_font'] = '无法找到使用的字体。';
-$lang['imglib_save_failed'] = '图像无法保存，请确定图像或目录可写。';
+$lang['imglib_save_failed'] = '图像无法保存，请确保图像和目录可写。';

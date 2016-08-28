@@ -4,7 +4,7 @@
  *
  * @author CodeIgniter community
  * @author Peter Denk
- * @copyright Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license http://opensource.org/licenses/MIT MIT License
  * @link http://codeigniter.com
  */
@@ -27,7 +27,7 @@ $lang['profiler_no_post']		= 'Det finns inga POST-värden';
 $lang['profiler_no_get']		= 'Det finns inga GET-värden';
 $lang['profiler_no_uri']		= 'Det finns ingen URI-sträng';
 $lang['profiler_no_memory']		= 'Ingen uppgift om minnesanvändning';
-$lang['profiler_no_profiles']		= 'Ingen profilering - alla delar av profileringen har blivit avtängda.';
+$lang['profiler_no_profiles']		= 'Ingen profilering - alla delar av profileringen har blivit avstängda.';
 $lang['profiler_section_hide']		= 'Dölj';
 $lang['profiler_section_show']		= 'Visa';
 $lang['profiler_seconds']		= 'sekunder';

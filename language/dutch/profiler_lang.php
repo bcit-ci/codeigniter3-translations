@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @copyright	Pieter Krul
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
@@ -29,5 +29,5 @@ $lang['profiler_no_uri']		= 'Er is geen URI-data aangetroffen';
 $lang['profiler_no_memory']		= 'Geheugengebruik is niet beschikbaar';
 $lang['profiler_no_profiles']		= 'Er is geen Profile-data - alle Profiler-secties zijn uitgeschakeld.';
 $lang['profiler_section_hide']		= 'Verberg';
-$lang['profiler_section_show']		= 'Laat zien';
+$lang['profiler_section_show']		= 'Weergeven';
 $lang['profiler_seconds']		= 'seconden';

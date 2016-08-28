@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -15,13 +15,13 @@ $lang['form_validation_valid_email'] = 'O campo {field} deve conter um email vá
 $lang['form_validation_valid_emails'] = 'O campo {field} deve conter apenas emails válidos.';
 $lang['form_validation_valid_url'] = 'O campo {field} deve conter uma URL válida.';
 $lang['form_validation_valid_ip'] = 'O campo {field} deve conter um IP válido.';
-$lang['form_validation_min_length'] = 'O campo {field} deve ter pelo menos {field} caractere(s).';
-$lang['form_validation_max_length'] = 'O campo {field} ultrapassou o limte de {param} caractere(s).';
+$lang['form_validation_min_length'] = 'O campo {field} deve ter pelo menos {param} caractere(s).';
+$lang['form_validation_max_length'] = 'O campo {field} ultrapassou o limite de {param} caractere(s).';
 $lang['form_validation_exact_length'] = 'O campo {field} não pode exceder {param} caractere(s).';
 $lang['form_validation_alpha'] = 'O campo {field} deve conter somente letras.';
 $lang['form_validation_alpha_numeric'] = 'O campo {field} deve conter somente letras e números.';
 $lang['form_validation_alpha_numeric_spaces'] = 'O campo {field} deve conter somente letras, números e espaços.';
-$lang['form_validation_alpha_dash'] = 'O campo {field} deve conter somente letras, números, underlines e traços.';
+$lang['form_validation_alpha_dash'] = 'O campo {field} deve conter somente letras, números, sublinhados e traços.';
 $lang['form_validation_numeric'] = 'O campo {field} deve conter somente números.';
 $lang['form_validation_is_numeric'] = 'O campo {field} deve conter somente números.';
 $lang['form_validation_integer'] = 'O campo {field} deve conter um número inteiro.';
@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to'] = 'O campo {field} deve conter um n�
 $lang['form_validation_greater_than'] = 'O campo {field} deve conter um número maior que {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'O campo {field} deve conter um número maior ou igual que {param}.';
 $lang['form_validation_error_message_not_set'] = 'Não existe uma mensagem de erro para o campo com o nome {field}.';
-$lang['form_validation_in_list'] = 'O campo {field} deve ser um de: {param}.'; 
+$lang['form_validation_in_list'] = 'O campo {field} deve ser um de: {param}.';

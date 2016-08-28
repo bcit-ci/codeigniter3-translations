@@ -3,7 +3,7 @@
 * System messages translation for CodeIgniter(tm)
 *
 * @author	CodeIgniter community
-* @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+* @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	http://codeigniter.com
 */
@@ -15,7 +15,7 @@ $lang['db_unable_to_select'] = 'Hindi magawang piliin ang tinukoy na database: %
 $lang['db_unable_to_create'] = 'Hindi malikha ang tinukoy na database: %s';
 $lang['db_invalid_query'] = 'Ang query na iyong isinumite ay hindi wasto.';
 $lang['db_must_set_table'] = 'Dapat mong itakda ang database table na gagamitin sa iyong query.';
-$lang['db_must_use_set'] = 'Dapat mong gamitin ang "set" metghod upang i-update ang isang entry.';
+$lang['db_must_use_set'] = 'Dapat mong gamitin ang "set" method upang i-update ang isang entry.';
 $lang['db_must_use_index'] = 'Dapat mong tukuyin ang isang index upang tumugma sa mga batch update.';
 $lang['db_batch_missing_index'] = 'Ang isa o higit pang mga row na isinumite para sa batch na pag-update ay walang tinukoy na index';
 $lang['db_must_use_where'] = 'Ang mga update ay hindi pinahihintulutan maliban kung naglalaman ang mga ito ng isang "where" clause.';
