@@ -3,26 +3,26 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['imglib_source_image_required'] = '±ØĞëÔÚÉèÖÃÖĞÖ¸¶¨Ò»¸öÔ´Í¼Ïñ¡£';
-$lang['imglib_gd_required'] = '´ËÌØĞÔÒÀÀµ GD Í¼ĞÎ¿â¡£';
-$lang['imglib_gd_required_for_props'] = 'ÄãµÄ·şÎñÆ÷±ØĞëÖ§³Ö GD Í¼ĞÎ¿âÒÔÈ·¶¨Í¼ÏñµÄÊôĞÔ¡£';
-$lang['imglib_unsupported_imagecreate'] = 'ÄãµÄ·şÎñÆ÷²»Ö§³Ö GD º¯Êı£¬ÎŞ·¨´´½¨Í¼ÏñÎÄ¼ş¡£';
-$lang['imglib_gif_not_supported'] = 'GIF ¸ñÊ½ÓÉÓÚ°æÈ¨ÎÊÌâÒ»°ã²»Ìá¹©£¬Èç¹û¿ÉÄÜÇëÊ¹ÓÃ JPG ¸ñÊ½»ò PNG ¸ñÊ½¡£';
-$lang['imglib_jpg_not_supported'] = 'JPG ¸ñÊ½²»±»Ö§³Ö¡£';
-$lang['imglib_png_not_supported'] = 'PNG ¸ñÊ½²»±»Ö§³Ö¡£';
-$lang['imglib_jpg_or_png_required'] = 'ÉèÖÃÖĞÖ¸¶¨µÄÍ¼ÏñËõ·Å·½·¨Ö»ÄÜÓÃÓÚ JPG ¸ñÊ½»ò PNG ¸ñÊ½¡£';
-$lang['imglib_copy_error'] = 'Ìæ»»ÎÄ¼şÊ±·¢Éú´íÎó¡£ÄãµÄÎÄ¼şÄ¿Â¼±ØĞëÊÇ¿ÉĞ´µÄ¡£';
-$lang['imglib_rotate_unsupported'] = '·şÎñÆ÷²»Ö§³ÖÍ¼ÏñĞı×ª¡£';
-$lang['imglib_libpath_invalid'] = 'Í¼ĞÎ¿âÂ·¾¶´íÎó¡£ÔÚÉèÖÃÖĞ±ØĞëÖ¸¶¨ÕıÈ·µÄÂ·¾¶¡£';
-$lang['imglib_image_process_failed'] = 'Í¼Ïñ´¦Àí´íÎó¡£ ÇëÑéÖ¤·şÎñÆ÷Ö§³ÖÖ¸¶¨µÄ´¦Àí·½·¨£¬²¢ÇÒÍ¼ĞÎ¿âÂ·¾¶ÕıÈ·¡£';
-$lang['imglib_rotation_angle_required'] = '±ØĞëÖ¸¶¨Ğı×ª½Ç¶È¡£';
-$lang['imglib_invalid_path'] = 'Í¼ÏñÂ·¾¶´íÎó¡£';
-$lang['imglib_copy_failed'] = 'Í¼Ïñ¸´ÖÆ´íÎó¡£';
-$lang['imglib_missing_font'] = 'ÎŞ·¨ÕÒµ½Ê¹ÓÃµÄ×ÖÌå¡£';
-$lang['imglib_save_failed'] = 'Í¼ÏñÎŞ·¨±£´æ£¬ÇëÈ·¶¨Í¼Ïñ»òÄ¿Â¼¿ÉĞ´¡£';
+$lang['imglib_source_image_required'] = 'å¿…é¡»åœ¨è®¾ç½®ä¸­æŒ‡å®šä¸€ä¸ªæºå›¾åƒã€‚';
+$lang['imglib_gd_required'] = 'æ­¤ç‰¹æ€§ä¾èµ– GD å›¾å½¢åº“ã€‚';
+$lang['imglib_gd_required_for_props'] = 'ä½ çš„æœåŠ¡å™¨å¿…é¡»æ”¯æŒ GD å›¾å½¢åº“ä»¥ç¡®å®šå›¾åƒçš„å±æ€§ã€‚';
+$lang['imglib_unsupported_imagecreate'] = 'ä½ çš„æœåŠ¡å™¨ä¸æ”¯æŒ GD å‡½æ•°ï¼Œæ— æ³•åˆ›å»ºå›¾åƒæ–‡ä»¶ã€‚';
+$lang['imglib_gif_not_supported'] = 'GIF æ ¼å¼ç”±äºç‰ˆæƒé—®é¢˜ä¸€èˆ¬ä¸æä¾›ï¼Œå¦‚æœå¯èƒ½è¯·ä½¿ç”¨ JPG æ ¼å¼æˆ– PNG æ ¼å¼ã€‚';
+$lang['imglib_jpg_not_supported'] = 'JPG æ ¼å¼ä¸è¢«æ”¯æŒã€‚';
+$lang['imglib_png_not_supported'] = 'PNG æ ¼å¼ä¸è¢«æ”¯æŒã€‚';
+$lang['imglib_jpg_or_png_required'] = 'è®¾ç½®ä¸­æŒ‡å®šçš„å›¾åƒç¼©æ”¾æ–¹æ³•åªèƒ½ç”¨äº JPG æ ¼å¼æˆ– PNG æ ¼å¼ã€‚';
+$lang['imglib_copy_error'] = 'æ›¿æ¢æ–‡ä»¶æ—¶å‘ç”Ÿé”™è¯¯ã€‚ä½ çš„æ–‡ä»¶ç›®å½•å¿…é¡»æ˜¯å¯å†™çš„ã€‚';
+$lang['imglib_rotate_unsupported'] = 'æœåŠ¡å™¨ä¸æ”¯æŒå›¾åƒæ—‹è½¬ã€‚';
+$lang['imglib_libpath_invalid'] = 'å›¾å½¢åº“è·¯å¾„é”™è¯¯ã€‚åœ¨è®¾ç½®ä¸­å¿…é¡»æŒ‡å®šæ­£ç¡®çš„è·¯å¾„ã€‚';
+$lang['imglib_image_process_failed'] = 'å›¾åƒå¤„ç†é”™è¯¯ã€‚ è¯·éªŒè¯æœåŠ¡å™¨æ”¯æŒæŒ‡å®šçš„å¤„ç†æ–¹æ³•ï¼Œå¹¶ä¸”å›¾å½¢åº“è·¯å¾„æ­£ç¡®ã€‚';
+$lang['imglib_rotation_angle_required'] = 'å¿…é¡»æŒ‡å®šæ—‹è½¬è§’åº¦ã€‚';
+$lang['imglib_invalid_path'] = 'å›¾åƒè·¯å¾„é”™è¯¯ã€‚';
+$lang['imglib_copy_failed'] = 'å›¾åƒå¤åˆ¶é”™è¯¯ã€‚';
+$lang['imglib_missing_font'] = 'æ— æ³•æ‰¾åˆ°ä½¿ç”¨çš„å­—ä½“ã€‚';
+$lang['imglib_save_failed'] = 'å›¾åƒæ— æ³•ä¿å­˜ï¼Œè¯·ç¡®ä¿å›¾åƒå’Œç›®å½•å¯å†™ã€‚';

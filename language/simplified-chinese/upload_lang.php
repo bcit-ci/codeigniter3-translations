@@ -3,25 +3,25 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['upload_userfile_not_set'] = 'ÎŞ·¨ÕÒµ½ÓÃ»§ÎÄ¼ş¡£  ';
-$lang['upload_file_exceeds_limit'] = 'ÉÏ´«ÎÄ¼şµÄ´óĞ¡³¬¹ı PHP ÉèÖÃÖĞÖ¸¶¨µÄ×î´ó´óĞ¡¡£';
-$lang['upload_file_exceeds_form_limit'] = 'ÉÏ´«ÎÄ¼şµÄ´óĞ¡³¬¹ı±íµ¥ÖĞÖ¸¶¨µÄ×î´ó´óĞ¡¡£';
-$lang['upload_file_partial'] = 'ÎÄ¼ş½öÉÏ´«ÁËÒ»²¿·Ö¡£  .';
-$lang['upload_no_temp_directory'] = 'ÎŞ·¨ÕÒµ½ÁÙÊ±ÎÄ¼ş¼Ğ¡£  .';
-$lang['upload_unable_to_write_file'] = 'ÎŞ·¨Ğ´ÈëÎÄ¼ş¡£ Yeesssssss.';
-$lang['upload_stopped_by_extension'] = 'ÎÄ¼şÉÏ´«±»À©Õ¹Í£Ö¹¡£  ';
-$lang['upload_no_file_selected'] = 'Ã»ÓĞÑ¡ÔñÒªÉÏ´«µÄÎÄ¼ş¡£  ';
-$lang['upload_invalid_filetype'] = '½ûÖ¹ÉÏ´«µÄÎÄ¼şÀàĞÍ.  ';
-$lang['upload_invalid_filesize'] = 'ÎÄ¼ş´óĞ¡³¬¹ıÏŞÖÆ¡£';
-$lang['upload_invalid_dimensions'] = '²»ÔÊĞíµÄÍ¼Ïñ³ß´ç¡£';
-$lang['upload_destination_error'] = 'ÒÆ¶¯ÉÏ´«µÄÎÄ¼şÖÁ×îÖÕ±£´æÂ·¾¶Ê±·¢Éú´íÎó¡£  ';
-$lang['upload_no_filepath'] = 'ÉÏ´«Â·¾¶ÎŞĞ§¡£';
-$lang['upload_no_file_types'] = 'Ö¸¶¨ÔÊĞíµÄÎÄ¼şÀàĞÍ¡£';
-$lang['upload_bad_filename'] = 'Ìá½»µÄÎÄ¼şÃûÒÑ¾­´æÔÚ¡£';
-$lang['upload_not_writable'] = 'ÉÏ´«µÄÄ¿µÄÂ·¾¶²»¿ÉĞ´¡£';
+$lang['upload_userfile_not_set'] = 'æ— æ³•æ‰¾åˆ°ç”¨æˆ·æ–‡ä»¶ã€‚  ';
+$lang['upload_file_exceeds_limit'] = 'ä¸Šä¼ æ–‡ä»¶çš„å¤§å°è¶…è¿‡ PHP è®¾ç½®ä¸­æŒ‡å®šçš„æœ€å¤§å¤§å°ã€‚';
+$lang['upload_file_exceeds_form_limit'] = 'ä¸Šä¼ æ–‡ä»¶çš„å¤§å°è¶…è¿‡è¡¨å•ä¸­æŒ‡å®šçš„æœ€å¤§å¤§å°ã€‚';
+$lang['upload_file_partial'] = 'æ–‡ä»¶ä»…ä¸Šä¼ äº†ä¸€éƒ¨åˆ†ã€‚  .';
+$lang['upload_no_temp_directory'] = 'æ— æ³•æ‰¾åˆ°ä¸´æ—¶æ–‡ä»¶å¤¹ã€‚  .';
+$lang['upload_unable_to_write_file'] = 'æ— æ³•å†™å…¥æ–‡ä»¶ã€‚.';
+$lang['upload_stopped_by_extension'] = 'æ–‡ä»¶ä¸Šä¼ è¢«æ‰©å±•åœæ­¢ã€‚  ';
+$lang['upload_no_file_selected'] = 'æ²¡æœ‰é€‰æ‹©è¦ä¸Šä¼ çš„æ–‡ä»¶ã€‚  ';
+$lang['upload_invalid_filetype'] = 'ç¦æ­¢ä¸Šä¼ çš„æ–‡ä»¶ç±»å‹.  ';
+$lang['upload_invalid_filesize'] = 'æ–‡ä»¶å¤§å°è¶…è¿‡é™åˆ¶ã€‚';
+$lang['upload_invalid_dimensions'] = 'ä¸å…è®¸çš„å›¾åƒå°ºå¯¸ã€‚';
+$lang['upload_destination_error'] = 'ç§»åŠ¨ä¸Šä¼ çš„æ–‡ä»¶è‡³æœ€ç»ˆä¿å­˜è·¯å¾„æ—¶å‘ç”Ÿé”™è¯¯ã€‚  ';
+$lang['upload_no_filepath'] = 'ä¸Šä¼ è·¯å¾„æ— æ•ˆã€‚';
+$lang['upload_no_file_types'] = 'æŒ‡å®šå…è®¸çš„æ–‡ä»¶ç±»å‹ã€‚';
+$lang['upload_bad_filename'] = 'æäº¤çš„æ–‡ä»¶åå·²ç»å­˜åœ¨ã€‚';
+$lang['upload_not_writable'] = 'ä¸Šä¼ çš„ç›®çš„è·¯å¾„ä¸å¯å†™ã€‚';

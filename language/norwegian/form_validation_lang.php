@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']	= '{field} må inneholde et tall min
 $lang['form_validation_greater_than']		= '{field} må inneholde et tall større enn {param}.';
 $lang['form_validation_greater_than_equal_to']	= '{field} må inneholde et tall større enn eller lik {param}.';
 $lang['form_validation_error_message_not_set']	= 'Finner ingen feilmelding som hører til feltet {field}';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']		= '{field} må være én av: {param}.';

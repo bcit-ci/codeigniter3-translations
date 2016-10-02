@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -13,6 +13,7 @@ $lang['email_must_be_array'] = 'يجب تمرير مصفوفة إلى دالة �
 $lang['email_invalid_address'] = 'عنوان بريد إلكتروني خاطيء: %s';
 $lang['email_attachment_missing'] = 'غير قادر على إيجاد الملف المرفق: %s';
 $lang['email_attachment_unreadable'] = 'غير قاد على فتح الملف المرفق: %s';
+$lang['email_no_from'] = 'لا يمكن إرسال البريد الإلكتروني بدون تحديد المرسل.';
 $lang['email_no_recipients'] = 'يجب إضافة مستقبلين: To, Cc, or Bcc';
 $lang['email_send_failure_phpmail'] = 'غير قادر على الإرسال بإستخدام PHP mail(). قد يكون الخادم غير معد للإرسال بإستخدام هذه الطريقة.';
 $lang['email_send_failure_sendmail'] = 'غير قادر على الإرسال بإستخدام PHP Sendmail. قد يكون الخادم غير معد للإرسال بإستخدام هذه الطريقة.';

@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -24,8 +24,8 @@ $lang['db_field_param_missing'] = 'フィールドを取り出すには、テー
 $lang['db_unsupported_function'] = 'この機能はお使いのデータベースでは利用できません。';
 $lang['db_transaction_failure'] = 'トランザクションが失敗しました: ロールバックが実行されました。';
 $lang['db_unable_to_drop'] = '指定したデータベースを削除できません。';
-$lang['db_unsuported_feature'] = 'お使いのデータベースプラットフォームではサポートされない機能です。';
-$lang['db_unsuported_compression'] = 'お使いのサーバでは、選択したファイル圧縮フォーマットはサポートされていません。';
+$lang['db_unsupported_feature'] = 'お使いのデータベースプラットフォームではサポートされない機能です。';
+$lang['db_unsupported_compression'] = 'お使いのサーバでは、選択したファイル圧縮フォーマットはサポートされていません。';
 $lang['db_filepath_error'] = '指定したファイルパスにデータを書き込むことができませんでした。';
 $lang['db_invalid_cache_path'] = '指定したキャッシュパスは正しくないか書き込みできません。';
 $lang['db_table_name_required'] = 'この操作にはテーブル名が必要です。';

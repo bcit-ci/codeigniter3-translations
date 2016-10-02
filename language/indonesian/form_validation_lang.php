@@ -4,7 +4,7 @@
  *
  * @author CodeIgniter community
  * @author Mutasim Ridlo, S.Kom
- * @copyright Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license http://opensource.org/licenses/MIT MIT License
  * @link http://codeigniter.com
  */
@@ -38,4 +38,4 @@ $lang['form_validation_less_than_equal_to'] = 'Bidang {field} harus berisi angka
 $lang['form_validation_greater_than'] = 'Bidang {field} harus berisi angka lebih besar dari {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Bidang {field} harus berisi angka yang lebih besar dari atau sama dengan {param}.';
 $lang['form_validation_error_message_not_set'] = 'Tidak dapat mengakses pesan kesalahan sesuai dengan nama bidang Anda {field}.';
-$lang['form_validation_in_list'] = 'Bidang {field} harus menjadi salah satu dari: {param}.'; // to translate
+$lang['form_validation_in_list'] = 'Bidang {field} harus menjadi salah satu dari: {param}.';

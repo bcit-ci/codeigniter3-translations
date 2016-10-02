@@ -3,28 +3,28 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = '²âÊÔÃû';
-$lang['ut_test_datatype'] = '²âÊÔµÄÊı¾İÀàĞÍ';
-$lang['ut_res_datatype'] = 'ÆÚÍûµÄÊı¾İÀàĞÍ';
-$lang['ut_result'] = '½á¹û';
-$lang['ut_undefined'] = 'Î´¶¨ÒåµÄ²âÊÔÃû';
-$lang['ut_file'] = 'ÎÄ¼şÃû';
-$lang['ut_line'] = 'ĞĞºÅ';
-$lang['ut_passed'] = 'Í¨¹ı';
-$lang['ut_failed'] = 'Ê§°Ü';
-$lang['ut_boolean'] = 'Boolean';
-$lang['ut_integer'] = 'Integer';
-$lang['ut_float'] = 'Float';
-$lang['ut_double'] = 'Float'; // can be the same as float
-$lang['ut_string'] = 'String';
-$lang['ut_array'] = 'Array';
-$lang['ut_object'] = 'Object';
-$lang['ut_resource'] = 'Resource';
+$lang['ut_test_name'] = 'æµ‹è¯•å';
+$lang['ut_test_datatype'] = 'æµ‹è¯•çš„æ•°æ®ç±»å‹';
+$lang['ut_res_datatype'] = 'æœŸæœ›çš„æ•°æ®ç±»å‹';
+$lang['ut_result'] = 'ç»“æœ';
+$lang['ut_undefined'] = 'æœªå®šä¹‰çš„æµ‹è¯•å';
+$lang['ut_file'] = 'æ–‡ä»¶å';
+$lang['ut_line'] = 'è¡Œå·';
+$lang['ut_passed'] = 'é€šè¿‡';
+$lang['ut_failed'] = 'å¤±è´¥';
+$lang['ut_boolean'] = 'å¸ƒå°”å‹';
+$lang['ut_integer'] = 'æ•´å‹';
+$lang['ut_float'] = 'æµ®ç‚¹æ•°';
+$lang['ut_double'] = 'åŒç²¾åº¦æ•°'; // can be the same as float
+$lang['ut_string'] = 'å­—ç¬¦ä¸²';
+$lang['ut_array'] = 'æ•°ç»„';
+$lang['ut_object'] = 'å¯¹è±¡';
+$lang['ut_resource'] = 'èµ„æº';
 $lang['ut_null'] = 'Null';
-$lang['ut_notes'] = '±Ê¼Ç';
+$lang['ut_notes'] = 'ç¬”è®°';

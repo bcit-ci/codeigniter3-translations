@@ -3,13 +3,13 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']		= 'การโยกย้ายไม่พบ';
+$lang['migration_none_found']		= 'ไม่พบการโยกย้าย';
 $lang['migration_not_found']		= 'ไม่พบข้อมูลการโยกย้าย หมายเลขเวอร์ชั่น: %s.';
 $lang['migration_sequence_gap']		= 'มีช่องว่างในลำดับการโยกย้ายที่อยู่ใกล้หมายเลขรุ่นคือ: %s.';
 $lang['migration_multiple_version']	= 'มีการโยกย้ายหลายรายการที่มีหมายเลขรุ่นเดียวกัน: %s.';

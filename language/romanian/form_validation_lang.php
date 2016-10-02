@@ -3,7 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @author  Cristian Robert Chiribuc
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -37,4 +38,4 @@ $lang['form_validation_less_than_equal_to']	= 'Câmpul {field} trebuie să conț
 $lang['form_validation_greater_than']		= 'Câmpul {field} trebuie să conțină un număr mai mare decât {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Câmpul {field} trebuie să conțină un număr mai mare decât sau egal cu {param}.';
 $lang['form_validation_error_message_not_set']	= 'Nu se poate accesa un mesaj de eroare corespunzător numele tău domeniu {field}.';
-$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.'; // to translate
+$lang['form_validation_in_list']		= 'Câmpul {field} trebuie să fie unul dintre: {param}.';

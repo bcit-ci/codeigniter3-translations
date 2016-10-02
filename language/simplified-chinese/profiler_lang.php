@@ -3,30 +3,30 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['profiler_database'] = 'Êı¾İ¿â';
-$lang['profiler_controller_info'] = 'Àà / ·½·¨';
-$lang['profiler_benchmarks'] = '»ù×¼';
-$lang['profiler_queries'] = '²éÑ¯';
-$lang['profiler_get_data'] = 'GET Êı¾İ';
-$lang['profiler_post_data'] = 'POST Êı¾İ';
-$lang['profiler_uri_string'] = 'URI ×Ö·û´®';
-$lang['profiler_memory_usage'] = 'ÄÚ´æÊ¹ÓÃ';
-$lang['profiler_config'] = 'ÉèÖÃÖµ';
-$lang['profiler_session_data'] = 'SESSION Êı¾İ';
-$lang['profiler_headers'] = 'HTTP Í·';
-$lang['profiler_no_db'] = 'µ±Ç°Ã»ÓĞÒÑ¾­ÔØÈëµÄÊı¾İ¿âÇı¶¯¡£  ';
-$lang['profiler_no_queries'] = 'ÔËĞĞ£¬ÎŞ²éÑ¯¡£  ';
-$lang['profiler_no_post'] = 'POST Êı¾İ²»´æÔÚ¡£';
-$lang['profiler_no_get'] = 'GET Êı¾İ²»´æÔÚ¡£';
-$lang['profiler_no_uri'] = 'URI Êı¾İ²»´æÔÚ¡£';
-$lang['profiler_no_memory'] = 'ÎŞ·¨»ñµÃÄÚ´æÊ¹ÓÃÊı¾İ¡£';
-$lang['profiler_no_profiles'] = 'Ã»ÓĞ Profile Êı¾İ - È«²¿µÄ Profiler ¶¼ÒÑ±»¹Ø±Õ¡£';
-$lang['profiler_section_hide'] = 'Òş²Ø';
-$lang['profiler_section_show'] = 'ÏÔÊ¾';
-$lang['profiler_seconds'] = 'Ãë';
+$lang['profiler_database'] = 'æ•°æ®åº“';
+$lang['profiler_controller_info'] = 'ç±» / æ–¹æ³•';
+$lang['profiler_benchmarks'] = 'åŸºå‡†';
+$lang['profiler_queries'] = 'æŸ¥è¯¢';
+$lang['profiler_get_data'] = 'GET æ•°æ®';
+$lang['profiler_post_data'] = 'POST æ•°æ®';
+$lang['profiler_uri_string'] = 'URI å­—ç¬¦ä¸²';
+$lang['profiler_memory_usage'] = 'å†…å­˜ä½¿ç”¨';
+$lang['profiler_config'] = 'è®¾ç½®å€¼';
+$lang['profiler_session_data'] = 'SESSION æ•°æ®';
+$lang['profiler_headers'] = 'HTTP å¤´';
+$lang['profiler_no_db'] = 'å½“å‰æ²¡æœ‰å·²ç»è½½å…¥çš„æ•°æ®åº“é©±åŠ¨ã€‚  ';
+$lang['profiler_no_queries'] = 'è¿è¡Œï¼Œæ— æŸ¥è¯¢ã€‚  ';
+$lang['profiler_no_post'] = 'POST æ•°æ®ä¸å­˜åœ¨ã€‚';
+$lang['profiler_no_get'] = 'GET æ•°æ®ä¸å­˜åœ¨ã€‚';
+$lang['profiler_no_uri'] = 'URI æ•°æ®ä¸å­˜åœ¨ã€‚';
+$lang['profiler_no_memory'] = 'æ— æ³•è·å¾—å†…å­˜ä½¿ç”¨æ•°æ®ã€‚';
+$lang['profiler_no_profiles'] = 'æ²¡æœ‰ Profile æ•°æ® - å…¨éƒ¨çš„ Profiler éƒ½å·²è¢«å…³é—­ã€‚';
+$lang['profiler_section_hide'] = 'éšè—';
+$lang['profiler_section_show'] = 'æ˜¾ç¤º';
+$lang['profiler_seconds'] = 'ç§’';

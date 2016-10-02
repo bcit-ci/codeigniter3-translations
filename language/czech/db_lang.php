@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -26,7 +26,6 @@ $lang['db_transaction_failure']        = 'Chyba transakce: Proveden rollback.';
 $lang['db_unable_to_drop']             = 'Drop databáze se nezdařil.';
 $lang['db_unsupported_feature']        = 'Tato funkce není tímto typem databázové platformy podporována.';
 $lang['db_unsupported_compression']    = 'Daný typ komprese není serverem podporován.';
-$lang['db_filepath_error']             = 'Unable to write data to the file path you have submitted.';
 $lang['db_filepath_error']             = 'Nepodařilo se zapsat data dle dané cesty.';
 $lang['db_invalid_cache_path']         = 'Daná cesta k cache není správná, nebo se do ní nedá zapisovat.';
 $lang['db_table_name_required']        = 'Jméno tabulky je nutné pro tuto operaci.';
