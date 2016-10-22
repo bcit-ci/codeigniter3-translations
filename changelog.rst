@@ -11,6 +11,15 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+Version 3.1.1
+=============
+
+Release Date: Oct 22, 2016
+
+-   Updated Translations
+
+    -   portuguese-brazilian
+    -   ukrainian
 
 Version 3.1.0
 =============

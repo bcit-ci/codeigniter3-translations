@@ -56,7 +56,7 @@ norwegian                3.0.3        yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
 polish                   3.0.3        michalsn           Michał Śniatała
 portuguese               3.0.3        j38600             Júlio Sebastião
-portuguese-brazilian     3.0.3        mateusfbi          Mateus Brandão
+portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
 romanian                 3.0.3        Chiribuc           Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
 serbian                  3.1.0        novakurosevic      Novak Urosevic
@@ -69,7 +69,7 @@ tamil                    3.0.3        karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
 traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
-ukranian                 3.0.3        flybot             Sergiy Kosiy
+ukranian                 3.1.1        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
 vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
 =======================  ===========  =================  =========================
@@ -78,7 +78,7 @@ vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
 Requirements
 ************
 
-These translations are intended for use with CodeIgniter 3.0.
+These translations are intended for use with CodeIgniter 3.x.
 
 *******
 License
