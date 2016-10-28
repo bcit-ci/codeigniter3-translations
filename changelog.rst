@@ -11,6 +11,13 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+Version 3.1.2
+=============
+
+Release Date: Oct 28, 2016
+
+No changes, just synching with framework.
+
 Version 3.1.1
 =============
 
