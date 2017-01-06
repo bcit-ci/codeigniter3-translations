@@ -34,14 +34,14 @@ arabic                   3.0.3        daif               Daif Alotaibi
 armenian                 3.0.4        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
 bengali                  3.0.5        kabircse           Kabir Hossain
-bulgarian                3.0.3        ivantcholakov      Ivan Tcholakov
+bulgarian                3.1.3*       ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
 czech                    3.0.3        Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
 german                   3.1.0        Rufnex             Johannes Gamperl
-greek                    3.0.4        grigoris86         Grigoris Charamidis
+greek                    3.0.4        xargr              Grigoris Charamidis ???
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.0.3        orionstar          László Bóra
@@ -57,12 +57,12 @@ persian                  3.0.3        MSDehghan          Mohammad Sadegh
 polish                   3.0.3        michalsn           Michał Śniatała
 portuguese               3.0.3        j38600             Júlio Sebastião
 portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
-romanian                 3.0.3        Chiribuc           Cristian Robert Chiribuc
+romanian                 3.0.3        CodefishRo         Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
-serbian                  3.1.0        novakurosevic      Novak Urosevic
+serbian                  3.1.0        novakurosevic      Novak Urosevic ???
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
-slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
+slovenian                3.0.4        andrejflorjancic   Andrej Florjančič ???
 spanish                  3.0.3        Razican            Iban Eguia
 swedish                  3.1.0        peterdenk          Peter Denk
 tamil                    3.0.3        karthik-code       Karthikeyan
@@ -71,7 +71,7 @@ traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.1.1        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
-vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm
+vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm ???
 =======================  ===========  =================  =========================
 
 ************
