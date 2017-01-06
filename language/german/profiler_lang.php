@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -26,7 +26,7 @@ $lang['profiler_no_post']		= 'Es sind keine POST-Daten vorhanden.';
 $lang['profiler_no_get']		= 'Es sind keine GET-Daten vorhanden.';
 $lang['profiler_no_uri']		= 'Es sind keine URI-Daten vorhanden.';
 $lang['profiler_no_memory']		= 'Es sind keine Angaben für die Verwendung des Arbeitsspeichers verfügbar.';
-$lang['profiler_no_profiles']	= 'E sind keine Profiler-Daten verfügbar, da alle Bereiche dazu deaktiviert wurden.';
+$lang['profiler_no_profiles']	= 'Es sind keine Profiler-Daten verfügbar, da alle Bereiche dazu deaktiviert wurden.';
 $lang['profiler_section_hide']	= 'Verstecken';
 $lang['profiler_section_show']	= 'Anzeigen';
 $lang['profiler_seconds']		= 'Sekunden';
