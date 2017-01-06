@@ -6,7 +6,7 @@
  * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @copyright	Pieter Krul
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
