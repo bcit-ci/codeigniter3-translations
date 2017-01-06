@@ -2,7 +2,7 @@
 Change Log
 ##########
 
-Version 3.1.x
+Version 3.1.3
 =============
 
 Release Date: Unreleased
@@ -10,6 +10,11 @@ Release Date: Unreleased
 -   New Translations
 
 -   Updated Translations
+
+    -    bulgarian
+
+-   Copyright date updated
+-   Link to CodeIgniter website updated (https)
 
 Version 3.1.2
 =============
