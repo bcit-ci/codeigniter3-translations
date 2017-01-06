@@ -23,6 +23,7 @@ $lang['imglib_libpath_invalid']         = 'Ścieżka dostępu do Twojej bibliote
 $lang['imglib_image_process_failed']    = 'Przetwarzanie obrazu nie powiodło się. Upewnij się że Twój serwer wspiera wybrany protokół oraz że ścieżka do biblioteki obrazów jest poprawna.';
 $lang['imglib_rotation_angle_required'] = 'Kąt obrotu jest wymagady do wykonania tej manipulacji.';
 $lang['imglib_invalid_path']            = 'Ścieżka do obrazu jest niepoprawna.';
+$lang['imglib_invalid_image']           = 'The provided image is not valid.';
 $lang['imglib_copy_failed']             = 'Kopiowanie obrazu nie powiodło się.';
 $lang['imglib_missing_font']            = 'Nie można znaleźć czcionki.';
 $lang['imglib_save_failed']             = 'Nie można zapisać obrazu. Upewnij się że folder oraz obraz mają prawa zapisu.';
