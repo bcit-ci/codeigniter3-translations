@@ -23,6 +23,7 @@ $lang['imglib_libpath_invalid']         = 'Resim kütüphanesi yolu yanlış. L�
 $lang['imglib_image_process_failed']    = 'Resim işleme başarısız. Lütfen sunucunuzun seçilen protokolü desteklediğini ve resim kütüphanesinin yolunu kontrol ediniz.';
 $lang['imglib_rotation_angle_required'] = 'Resmin döndürülmesi için bir döndürme açısı gerekli.';
 $lang['imglib_invalid_path']            = 'Resim yolu doğru değil.';
+$lang['imglib_invalid_image']           = 'The provided image is not valid.';
 $lang['imglib_copy_failed']             = 'Resim kopyalama işlemi başarısız.';
 $lang['imglib_missing_font']            = 'Kullanılacak font bulunamadı.';
 $lang['imglib_save_failed']             = 'Resim kaydedilemedi. Resmin ve klasörün yazılabilir olduğunu kontrol ediniz.';

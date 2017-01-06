@@ -24,6 +24,7 @@ $lang['imglib_libpath_invalid']         = 'Cesta ku knižnici pre prácu s obraz
 $lang['imglib_image_process_failed']    = 'Spracovanie obrázku zlyhalo. Uistite sa, že server podporuje zvolený protokol a cesta ku knižnici je správna.';
 $lang['imglib_rotation_angle_required'] = 'Je potrebné zadať uhol rotácie pre otáčanie obrázku.';
 $lang['imglib_invalid_path']            = 'Cesta k obrázku nie je platná.';
+$lang['imglib_invalid_image']           = 'The provided image is not valid.';
 $lang['imglib_copy_failed']             = 'Kopírovanie obrázkov zlyhalo.';
 $lang['imglib_missing_font']            = 'Nie je možné nájsť požadované písmo.';
 $lang['imglib_save_failed']             = 'Nie je možné uložiť obrázok. Uistite sa prosím, že je možné zapisovať do adresára.';

@@ -23,6 +23,7 @@ $lang['imglib_libpath_invalid'] = 'مسار مكتبة الصو غير صحيح.
 $lang['imglib_image_process_failed'] = 'معالجة الصورة فشلت. الرجاء التحقق من أن الخادم يدعم بروتوكول الصور و مسار مكتبة الصور صحيح.';
 $lang['imglib_rotation_angle_required'] = 'زاوية الدوران مطلوبة لتدوير الصورة.';
 $lang['imglib_invalid_path'] = 'مسار الصورة غير صحيح.';
+$lang['imglib_invalid_image'] = 'The provided image is not valid.';
 $lang['imglib_copy_failed'] = 'عملية نسخ الصورة فشلت.';
 $lang['imglib_missing_font'] = 'غير قادر على إيجاد الخط.';
 $lang['imglib_save_failed'] = 'غير قادر على حفظ الصورة. الرجاء التأكد من أن ملف الصورة والمجلد قابلة للكتابة.';
