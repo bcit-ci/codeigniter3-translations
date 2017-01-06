@@ -47,7 +47,7 @@ hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.0.3        orionstar          László Bóra
 indonesian               3.0.3        ridho1991          Mutasim Ridlo
 italian                  3.1.0        ster               Stefano Mazzega
-japanese                 3.0.3        tsukasa            Tsukasa Takao
+japanese                 3.0.3        tsukasa            Tsukasa Takao???
 khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
 latvian                  3.0.3        DavisMiculis       Davis Miculis
 lithuanian               3.1.0        dgvirtual          Donatas Glodenis
