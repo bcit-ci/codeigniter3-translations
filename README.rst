@@ -52,7 +52,7 @@ khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
 latvian                  3.0.3        DavisMiculis       Davis Miculis
 lithuanian               3.1.0        dgvirtual          Donatas Glodenis
 korean                   3.0.3        KwonLatte          HyeongJoo Kwon
-norwegian                3.0.3        yhoiseth           Yngve Hoiseth
+norwegian                3.1.3*       yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
 polish                   3.1.3*       michalsn           Michał Śniatała
 portuguese               3.0.3        j38600             Júlio Sebastião
