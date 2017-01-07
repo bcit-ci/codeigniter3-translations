@@ -13,6 +13,7 @@ Release Date: Unreleased
 
     -   bulgarian
     -   indonesian
+    -   norwegian
     -   polish
     -   slovak
     -   slovenian
