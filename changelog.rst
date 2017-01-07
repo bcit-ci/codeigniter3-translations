@@ -13,7 +13,10 @@ Release Date: Unreleased
 
     -   bulgarian
     -   indonesian
+    -   polish
+    -   slovak
     -   slovenian
+    -   spanish
     -   tamil
     -   traditional chinese
     -   turkish
