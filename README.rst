@@ -69,7 +69,7 @@ tamil                    3.1.3*       karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
 traditional-chinese      3.1.3*       appleboy           Bo-Yi Wu
 turkish                  3.1.3*       obozdag            Osman Bozdag
-ukranian                 3.1.1        flybot             Sergiy Kosiy
+ukranian                 3.1.3*       flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
 vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm ???
 =======================  ===========  =================  =========================
