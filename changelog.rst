@@ -17,6 +17,7 @@ Release Date: Unreleased
     -   tamil
     -   traditional chinese
     -   turkish
+    -   ukranian
 
 -   Copyright date updated
 -   Link to CodeIgniter website updated (https)
