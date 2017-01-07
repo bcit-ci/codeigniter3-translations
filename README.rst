@@ -67,7 +67,7 @@ spanish                  3.0.3        Razican            Iban Eguia
 swedish                  3.1.0        peterdenk          Peter Denk
 tamil                    3.1.3*       karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
-traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
+traditional-chinese      3.1.3*       appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
 ukranian                 3.1.1        flybot             Sergiy Kosiy
 urdu                     3.0.3        codeonion          Muhammad Ali
