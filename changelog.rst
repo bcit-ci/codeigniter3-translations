@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   bulgarian
+    -   czech
     -   indonesian
     -   norwegian
     -   polish
