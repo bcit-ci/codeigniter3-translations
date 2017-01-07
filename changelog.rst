@@ -11,7 +11,9 @@ Release Date: Unreleased
 
 -   Updated Translations
 
-    -    bulgarian
+    -   bulgarian
+    -   indonesian
+    -   tamil
 
 -   Copyright date updated
 -   Link to CodeIgniter website updated (https)
