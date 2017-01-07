@@ -45,7 +45,7 @@ greek                    3.0.4        xargr              Grigoris Charamidis ???
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.0.3        orionstar          László Bóra
-indonesian               3.0.3        ridho1991          Mutasim Ridlo
+indonesian               3.1.3*       ridho1991          Mutasim Ridlo
 italian                  3.1.0        ster               Stefano Mazzega
 japanese                 3.0.3        tsukasa            Tsukasa Takao???
 khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
@@ -62,10 +62,10 @@ russian                  3.0.3        vadimyer           Vadim Yermolin
 serbian                  3.1.0        novakurosevic      Novak Urosevic ???
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
-slovenian                3.0.4        andrejflorjancic   Andrej Florjančič ???
+slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
 spanish                  3.0.3        Razican            Iban Eguia
 swedish                  3.1.0        peterdenk          Peter Denk
-tamil                    3.0.3        karthik-code       Karthikeyan
+tamil                    3.1.3*       karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
 traditional-chinese      3.0.3        appleboy           Bo-Yi Wu
 turkish                  3.0.3        obozdag            Osman Bozdag
