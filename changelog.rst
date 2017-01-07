@@ -2,10 +2,41 @@
 Change Log
 ##########
 
-Version 3.0.x
+Version 3.1.3
 =============
 
 Release Date: Unreleased
+
+-   New Translations
+
+-   Updated Translations
+
+    -    bulgarian
+
+-   Copyright date updated
+-   Link to CodeIgniter website updated (https)
+
+Version 3.1.2
+=============
+
+Release Date: Oct 28, 2016
+
+No changes, just synching with framework.
+
+Version 3.1.1
+=============
+
+Release Date: Oct 22, 2016
+
+-   Updated Translations
+
+    -   portuguese-brazilian
+    -   ukrainian
+
+Version 3.1.0
+=============
+
+Release Date: Jul 26, 2016
 
 -   New Translations
 
