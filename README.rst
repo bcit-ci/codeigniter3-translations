@@ -62,7 +62,7 @@ russian                  3.0.3        vadimyer           Vadim Yermolin
 serbian                  3.1.0        novakurosevic      Novak Urosevic
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
-slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
+slovenian                3.1.2        andrejflorjancic   Andrej Florjančič
 spanish                  3.0.3        Razican            Iban Eguia
 swedish                  3.1.0        peterdenk          Peter Denk
 tamil                    3.0.3        karthik-code       Karthikeyan
