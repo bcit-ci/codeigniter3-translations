@@ -36,7 +36,7 @@ azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
 bengali                  3.0.5        kabircse           Kabir Hossain
 bulgarian                3.1.3*       ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
-czech                    3.0.3        Ruplahlava         Štěpán Postránecký
+czech                    3.1.3*       Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
