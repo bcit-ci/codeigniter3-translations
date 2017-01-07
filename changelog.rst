@@ -16,6 +16,7 @@ Release Date: Unreleased
     -   slovenian
     -   tamil
     -   traditional chinese
+    -   turkish
 
 -   Copyright date updated
 -   Link to CodeIgniter website updated (https)
