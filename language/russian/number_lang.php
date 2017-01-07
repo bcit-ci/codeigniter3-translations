@@ -3,14 +3,14 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'Тб';
-$lang['gigabyte_abbr'] = 'Гб';
-$lang['megabyte_abbr'] = 'Мб';
-$lang['kilobyte_abbr'] = 'Кб';
+$lang['terabyte_abbr'] = 'ТБ';
+$lang['gigabyte_abbr'] = 'ГБ';
+$lang['megabyte_abbr'] = 'МБ';
+$lang['kilobyte_abbr'] = 'КБ';
 $lang['bytes'] = 'Байт';

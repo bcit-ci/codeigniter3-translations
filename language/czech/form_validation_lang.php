@@ -3,9 +3,9 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -37,4 +37,4 @@ $lang['form_validation_less_than_equal_to']    = 'Pole {field} musí být menš�
 $lang['form_validation_greater_than']          = 'Pole {field} musí být větší než pole {param}.';
 $lang['form_validation_greater_than_equal_to'] = 'Pole {field} musí být větší nebo stejné jako pole {param}.';
 $lang['form_validation_error_message_not_set'] = 'Pro pole {field} není nastavena chybová zpráva.';
-$lang['form_validation_in_list']               = 'The {field} field must be one of: {param}.'; //FIXME
+$lang['form_validation_in_list']               = 'Pole {field} musí být jedním z: {param}.'; 

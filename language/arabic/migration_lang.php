@@ -3,17 +3,17 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['migration_none_found']		= 'No migrations were found.';
-$lang['migration_not_found']		= 'No migration could be found with the version number: %s.';
-$lang['migration_sequence_gap']		= 'There is a gap in the migration sequence near version number: %s.';
-$lang['migration_multiple_version']	= 'There are multiple migrations with the same version number: %s.';
-$lang['migration_class_doesnt_exist']	= 'The migration class "%s" could not be found.';
-$lang['migration_missing_up_method']	= 'The migration class "%s" is missing an "up" method.';
-$lang['migration_missing_down_method']	= 'The migration class "%s" is missing a "down" method.';
-$lang['migration_invalid_filename']	= 'Migration "%s" has an invalid filename.';
+$lang['migration_none_found'] = "لا يوجد أي عمليات ترحيل.";
+$lang['migration_not_found'] = "تعذر العثور على عملية الترحيل هذه.";
+$lang['migration_sequence_gap'] = 'هناك فجوة بين تسلسل عمليات الترحيل عند الرقم : %s.';
+$lang['migration_multiple_version'] = "هناك عدة عمليات ترحيل لها نفس التعداد: %d.";
+$lang['migration_class_doesnt_exist'] = "تعذر العثور على صنف الترحيل \"%s\".";
+$lang['migration_missing_up_method'] = "صنيف الترحيل \"%s\" يفتقد إلى دالة 'up'.";
+$lang['migration_missing_down_method'] = "صنف الترحيل \"%s\" يفتقد إلى دالة 'down'.";
+$lang['migration_invalid_filename'] = "اسم الملف الخاص بالترحيل \"%s\" غير صحيح.";

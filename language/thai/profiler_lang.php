@@ -3,15 +3,15 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database']		= 'ฐานข้อมูล';
 $lang['profiler_controller_info'] = 'คลาส/เมธอด';
-$lang['profiler_benchmarks']	= 'การวัดเสมรรถนะ';
+$lang['profiler_benchmarks']	= 'การวัดสมรรถนะ';
 $lang['profiler_queries']		= 'คิวรี';
 $lang['profiler_get_data']		= 'ข้อมูล GET';
 $lang['profiler_post_data']		= 'ข้อมูล POST';

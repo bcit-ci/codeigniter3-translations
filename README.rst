@@ -2,14 +2,13 @@
 Translations for CodeIgniter System Messages
 ############################################
 
-Note: In preparation for the 3.0 release, we have switched to a more proper branching model. 
-    The *master* branch has been tagged for release, and all new changes or additions will be to the *develop* branch.
-
-This project contains translations for the CodeIgniter 
+This project contains translations for the CodeIgniter
 system messages folder, **system/language/english**.
+A changelog has been added to the repository, so you can track updates
+between official releases.
 
 Copy the folder(s) for the idioms you are interested in,
-from inside the **language** folder of this project to your 
+from inside the **language** folder of this project to your
 **application/language** folder.
 
 You may then use the CodeIgniter Language class to reference the translations
@@ -28,41 +27,58 @@ Repository Information
 
 Each language is maintained by a community member, per the table below:
 
-=======================  ===========  ==============  =========================
-Idiom                    Status       User            Maintainer
-=======================  ===========  ==============  =========================
-arabic                   part         daif            Daif Alotaibi
-bulgarian                good         ivantcholakov   Ivan Tcholakov
-catalan                  good         Ignasimg        Ignasi Molsosa
-czech                    most         Ruplahlava      Štěpán Postránecký
-dutch                    good         pkrul           Pieter Krul
-french                   good         includebeer     Alain Rivest
-german                   most         Rufnex          Johannes Gamperl
-indonesian               good         ridho1991       Mutasim Ridlo
-italian                  good         ster            Stefano Mazzega
-japanese                 most         tsukasa         Tsukasa Takao
-korean                   good         KwonLatte       HyeongJoo Kwon
-norwegian                most         yhoiseth        Yngve Hoiseth
-persian                  most         MSDehghan       Mohammad Sadegh
-polish                   good         michalsn        Michał Śniatała
-portugese                good         j38600          Júlio Sebastião
-portugese-brazilian      good         mateusfbi       Mateus Brandão
-romanian                 good         Chiribuc        Cristian Robert Chiribuc
-russian                  good         vadimyer        Vadim Yermolin
-simplified-chinese       most         denghongcai     Deng HongCai
-spanish                  good         Razican         Iban Eguia
-swedish                  good         peterdenk       Peter Denk
-thai                     most         karidoe         Anuchit Thiam-uan
-traditional-chinese      most         PeterDaveHello  Peter Dave Hello
-turkish                  most         obozdag         Osman Bozdag
-ukranian                 good         flybot          Sergiy Kosiy
-=======================  ===========  ==============  =========================
+=======================  ===========  =================  =========================
+Idiom                    Status       User               Maintainer
+=======================  ===========  =================  =========================
+arabic                   3.0.3        daif               Daif Alotaibi
+armenian                 3.0.4        tgrnmrdn           Tigran Muradyan
+azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
+bengali                  3.0.5        kabircse           Kabir Hossain
+bulgarian                3.1.3*       ivantcholakov      Ivan Tcholakov
+catalan                  3.0.3        Ignasimg           Ignasi Molsosa
+czech                    3.0.3        Ruplahlava         Štěpán Postránecký
+dutch                    3.0.3        pkrul              Pieter Krul
+filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
+french                   3.0.3        includebeer        Alain Rivest
+german                   3.1.0        Rufnex             Johannes Gamperl
+greek                    3.0.4        xargr              Grigoris Charamidis ???
+gujarati                 3.0.3        sajid19991         Sajid Mathupotra
+hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
+hungarian                3.0.3        orionstar          László Bóra
+indonesian               3.1.3*       ridho1991          Mutasim Ridlo
+italian                  3.1.0        ster               Stefano Mazzega
+japanese                 3.0.3        tsukasa            Tsukasa Takao???
+khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
+latvian                  3.0.3        DavisMiculis       Davis Miculis
+lithuanian               3.1.0        dgvirtual          Donatas Glodenis
+korean                   3.0.3        KwonLatte          HyeongJoo Kwon
+norwegian                3.0.3        yhoiseth           Yngve Hoiseth
+persian                  3.0.3        MSDehghan          Mohammad Sadegh
+polish                   3.1.3*       michalsn           Michał Śniatała
+portuguese               3.0.3        j38600             Júlio Sebastião
+portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
+romanian                 3.0.3        CodefishRo         Cristian Robert Chiribuc
+russian                  3.0.3        vadimyer           Vadim Yermolin
+serbian                  3.1.0        novakurosevic      Novak Urosevic ???
+simplified-chinese       3.0.3        denghongcai        Deng HongCai
+slovak                   3.1.3*       gadelat            Gabriel Potkány
+slovenian                3.1.3*       andrejflorjancic   Andrej Florjančič
+spanish                  3.1.3*       Razican            Iban Eguia
+swedish                  3.1.0        peterdenk          Peter Denk
+tamil                    3.1.3*       karthik-code       Karthikeyan
+thai                     3.0.3        karidoe            Anuchit Thiam-uan
+traditional-chinese      3.1.3*       appleboy           Bo-Yi Wu
+turkish                  3.1.3*       obozdag            Osman Bozdag
+ukranian                 3.1.3*       flybot             Sergiy Kosiy
+urdu                     3.0.3        codeonion          Muhammad Ali
+vietnamese               3.0.4        tinhphaistc        Trần Xuân Sâm ???
+=======================  ===========  =================  =========================
 
 ************
 Requirements
 ************
 
-These translations are intended for use with CodeIgniter 3.0.
+These translations are intended for use with CodeIgniter 3.x.
 
 *******
 License
@@ -75,12 +91,12 @@ Contributing
 ************
 
 If you have a translation or correction, please fork the repository, clone it
-locally, and then create a new branch (from develop) 
+locally, and then create a new branch (from develop)
 for each set of related changes or for
-a complete language pack. Once your branch is complete, *then* create a pull 
+a complete language pack. Once your branch is complete, *then* create a pull
 request to merge it into the main repository. Remember to "sign" your commits.
 
-Pull requests to the repository will only be considered if they come from 
+Pull requests to the repository will only be considered if they come from
 the maintainer for any translations in the request, or if the maintainer
 adds a comment indicating they approve of any changes.
 

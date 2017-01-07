@@ -3,9 +3,9 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -19,5 +19,5 @@ $lang['ftp_unable_to_upload'] = 'Não foi possível fazer upload do arquivo espe
 $lang['ftp_unable_to_download'] = 'Não foi possível fazer download do arquivo especificado. Por favor verifique seu caminho.';
 $lang['ftp_no_source_file'] = 'Não foi possível localizar o arquivo de origem. Por favor verifique seu caminho.';
 $lang['ftp_unable_to_rename'] = 'Não foi possível renomear o arquivo.';
-$lang['ftp_unable_to_delete'] = 'Não foi possível deletar o arquivo.';
+$lang['ftp_unable_to_delete'] = 'Não foi possível remover o arquivo.';
 $lang['ftp_unable_to_move'] = 'Não foi possível mover o arquivo. Por favor tenha certeza que o diretório destino existe.';

@@ -4,16 +4,16 @@
  *
  * @author	CodeIgniter community
  * @author	Ivan Tcholakov
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required'] = 'Полето "{field}" е задължително.';
 $lang['form_validation_isset'] = 'Полето "{field}" трябва да има стойност.';
 $lang['form_validation_valid_email'] = 'Полето "{field}" трябва да съдържа валиден email адрес.';
-$lang['form_validation_valid_emails'] = 'Полето "{field}" трябва да съдържа валиднни email адреси.';
+$lang['form_validation_valid_emails'] = 'Полето "{field}" трябва да съдържа валидни email адреси.';
 $lang['form_validation_valid_url'] = 'Полето "{field}" трябва да съдържа валиден URL адрес.';
 $lang['form_validation_valid_ip'] = 'Полето "{field}" трябва да съдържа валиден IP адрес.';
 $lang['form_validation_min_length'] = 'Полето "{field}" трябва да бъде дълго най-малко {param} символа.';
