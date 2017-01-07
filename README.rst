@@ -54,16 +54,16 @@ lithuanian               3.1.0        dgvirtual          Donatas Glodenis
 korean                   3.0.3        KwonLatte          HyeongJoo Kwon
 norwegian                3.0.3        yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
-polish                   3.0.3        michalsn           Michał Śniatała
+polish                   3.1.3*       michalsn           Michał Śniatała
 portuguese               3.0.3        j38600             Júlio Sebastião
 portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
 romanian                 3.0.3        CodefishRo         Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
 serbian                  3.1.0        novakurosevic      Novak Urosevic ???
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
-slovak                   3.0.3        gadelat            Gabriel Potkány
+slovak                   3.1.3*       gadelat            Gabriel Potkány
 slovenian                3.1.3*       andrejflorjancic   Andrej Florjančič
-spanish                  3.0.3        Razican            Iban Eguia
+spanish                  3.1.3*       Razican            Iban Eguia
 swedish                  3.1.0        peterdenk          Peter Denk
 tamil                    3.1.3*       karthik-code       Karthikeyan
 thai                     3.0.3        karidoe            Anuchit Thiam-uan
