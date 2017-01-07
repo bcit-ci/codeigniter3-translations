@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
@@ -23,6 +23,7 @@ $lang['imglib_libpath_invalid'] = 'Помилковий шлях до біблі
 $lang['imglib_image_process_failed'] = 'Обробка зображення закінчилася невдачею. Будь-ласка, переконайтесь, що Ваш сервер підтримує вибраний протокол, а шлях до вашої бібліотеки обробки зображень реально існує.';
 $lang['imglib_rotation_angle_required'] = 'Необхідно вказати кут повороту.';
 $lang['imglib_invalid_path'] = 'Помилковий шлях до зображення.';
+$lang['imglib_invalid_image'] = 'The provided image is not valid.';
 $lang['imglib_copy_failed'] = 'Копіювання зображення закінчилось невдачею.';
 $lang['imglib_missing_font'] = 'Неможливо знайти шрифт.';
 $lang['imglib_save_failed'] = 'Неможливо зберегти зображення. Будь-ласка, переконайтесь, що зображення і каталог доступні для запису.';
