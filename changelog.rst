@@ -13,6 +13,7 @@ Release Date: Unreleased
 
     -   bulgarian
     -   indonesian
+    -   slovenian
     -   tamil
 
 -   Copyright date updated
