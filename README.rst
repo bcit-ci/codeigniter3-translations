@@ -55,7 +55,7 @@ korean                   3.0.3        KwonLatte          HyeongJoo Kwon
 norwegian                3.1.3*       yhoiseth           Yngve Hoiseth
 persian                  3.0.3        MSDehghan          Mohammad Sadegh
 polish                   3.1.3*       michalsn           Michał Śniatała
-portuguese               3.0.3        j38600             Júlio Sebastião
+portuguese               3.1.3*       j38600             Júlio Sebastião
 portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
 romanian                 3.0.3        CodefishRo         Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
