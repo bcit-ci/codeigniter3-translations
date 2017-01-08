@@ -18,6 +18,7 @@ Release Date: Unreleased
     -   norwegian
     -   polish
     -   portugese
+    -   simplified chinese
     -   slovak
     -   slovenian
     -   spanish
