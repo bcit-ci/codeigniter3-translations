@@ -60,7 +60,7 @@ portuguese-brazilian     3.1.1        mateusfbi          Mateus Brandão
 romanian                 3.0.3        CodefishRo         Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
 serbian                  3.1.0        novakurosevic      Novak Urosevic ???
-simplified-chinese       3.0.3        denghongcai        Deng HongCai
+simplified-chinese       3.1.3*       denghongcai        Deng HongCai
 slovak                   3.1.3*       gadelat            Gabriel Potkány
 slovenian                3.1.3*       andrejflorjancic   Andrej Florjančič
 spanish                  3.1.3*       Razican            Iban Eguia
