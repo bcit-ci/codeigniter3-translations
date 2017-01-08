@@ -11,6 +11,7 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   arabic
     -   bulgarian
     -   czech
     -   indonesian
