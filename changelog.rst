@@ -2,10 +2,20 @@
 Change Log
 ##########
 
-Version 3.1.3
+Version 3.x
 =============
 
 Release Date: Unreleased
+
+-   New Translations
+
+-   Updated Translations
+
+
+Version 3.1.3
+=============
+
+Release Date: Jan 9, 2017
 
 -   New Translations
 
