@@ -14,6 +14,7 @@ Release Date: Unreleased
     -   arabic
     -   bulgarian
     -   czech
+    -   hungarian
     -   indonesian
     -   norwegian
     -   polish
