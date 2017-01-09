@@ -16,6 +16,7 @@ Release Date: Unreleased
     -   czech
     -   hungarian
     -   indonesian
+    -   italian
     -   norwegian
     -   polish
     -   portugese
