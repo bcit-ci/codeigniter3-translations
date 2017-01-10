@@ -3,17 +3,17 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name']		= 'Test Name';
-$lang['ut_test_datatype']	= 'Test Datentyp';
+$lang['ut_test_name']		= 'Test-Name';
+$lang['ut_test_datatype']	= 'Test-Datentyp';
 $lang['ut_res_datatype']	= 'Erwarteter Datentyp';
 $lang['ut_result']			= 'Ergebnis';
-$lang['ut_undefined']		= 'Undefinierter Test Name';
+$lang['ut_undefined']		= 'Undefinierter Test-Name';
 $lang['ut_file']			= 'Dateiname';
 $lang['ut_line']			= 'Zeilennummer';
 $lang['ut_passed']			= 'Bestanden';

@@ -4,9 +4,9 @@
  *
  * @author CodeIgniter community
  * @author Mutasim Ridlo, S.Kom
- * @copyright Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license http://opensource.org/licenses/MIT MIT License
- * @link http://codeigniter.com
+ * @link https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -29,7 +29,7 @@ $lang['cal_monday'] = 'Senin';
 $lang['cal_tuesday'] = 'Selasa';
 $lang['cal_wednesday'] = 'Rabu';
 $lang['cal_thursday'] = 'Kamis';
-$lang['cal_friday'] = 'Jum\'at';
+$lang['cal_friday'] = 'Jumat';
 $lang['cal_saturday'] = 'Sabtu';
 $lang['cal_jan'] = 'Jan';
 $lang['cal_feb'] = 'Feb';

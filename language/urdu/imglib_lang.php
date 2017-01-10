@@ -4,7 +4,7 @@
  *
  * @author CodeIgniter community
  * @author Peter Denk
- * @copyright Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license http://opensource.org/licenses/MIT MIT License
  * @link http://codeigniter.com
  */
@@ -24,6 +24,7 @@ $lang['imglib_libpath_invalid']		= '.آپکی تصویر کی لائبریری �
 $lang['imglib_image_process_failed']	= '.تصوی کی پروسیسنگ میں ناکامی ہوگی. آپ اس بات کی تصدیق کریں کے آپکے سرور کو منتخب کردہ پروٹوکول کی حمایت حاصل ہے اور آپکی امیج لائبریری کا پاتھ درست ہے.';
 $lang['imglib_rotation_angle_required']	= '.تصویر کو گھومنے کیلئے زاویے کی ضرورت ہوتی ہے';
 $lang['imglib_invalid_path']		= '.تصویر کا پاتھ درست نہیں';
+$lang['imglib_invalid_image']		= 'The provided image is not valid.';
 $lang['imglib_copy_failed']		= '.تصویر کو کاپی کرنے کی روٹین ناکام رہی';
 $lang['imglib_missing_font']		= '.استعمال کرنے کے لئے ایک فونٹ تلاش کرنے میں ناکامی ہی';
 $lang['imglib_save_failed']		= '.تصویر کو محفوظ کرنے میں ناکامی. گزارش ہے کہ اس بات کی تسدیک کرلیں کے تصویر اور فائل کی ڈائرکٹری پر لکھنا ممکن ہے';
