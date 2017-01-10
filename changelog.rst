@@ -11,6 +11,8 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   french
+
 
 Version 3.1.3
 =============
