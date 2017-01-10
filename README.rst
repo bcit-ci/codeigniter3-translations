@@ -32,7 +32,7 @@ Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
 arabic                   3.1.3        daif               Daif Alotaibi
 armenian                 3.0.4        tgrnmrdn           Tigran Muradyan
-azerbaijani              3.0.3        Qarakom            Sübhan Cabbarov
+azerbaijani              3.1.0        Qarakom            Sübhan Cabbarov
 bengali                  3.0.5        kabircse           Kabir Hossain
 bulgarian                3.1.3        ivantcholakov      Ivan Tcholakov
 catalan                  3.0.3        Ignasimg           Ignasi Molsosa
