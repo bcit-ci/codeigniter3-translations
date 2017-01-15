@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   french
+    -   greek
     -   persian
     -   portugese-brazilian
 
