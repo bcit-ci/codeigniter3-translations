@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   french
+    -   portugese-brazilian
 
 
 Version 3.1.3
