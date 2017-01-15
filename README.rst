@@ -41,7 +41,7 @@ dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.1.3*       includebeer        Alain Rivest
 german                   3.1.0        Rufnex             Johannes Gamperl
-greek                    3.0.4        xargr              Grigoris Charamidis ???
+greek                    3.1.3*       xargr              Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.3        orionstar          László Bóra
