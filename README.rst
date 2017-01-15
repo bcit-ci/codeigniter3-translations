@@ -53,7 +53,7 @@ latvian                  3.1.3        DavisMiculis       Davis Miculis
 lithuanian               3.1.0        dgvirtual          Donatas Glodenis
 korean                   3.0.3        KwonLatte          HyeongJoo Kwon
 norwegian                3.1.3        yhoiseth           Yngve Hoiseth
-persian                  3.0.3        MSDehghan          Mohammad Sadegh
+persian                  3.1.3*       MSDehghan          Mohammad Sadegh
 polish                   3.1.3        michalsn           Michał Śniatała
 portuguese               3.1.3        j38600             Júlio Sebastião
 portuguese-brazilian     3.1.3*       mateusfbi          Mateus Brandão
