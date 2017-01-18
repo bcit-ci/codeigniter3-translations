@@ -11,6 +11,7 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   filipino
     -   french
     -   greek
     -   persian
