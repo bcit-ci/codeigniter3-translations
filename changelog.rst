@@ -11,11 +11,29 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   armenian
+    -   azerbaijani
+    -   bengali
+    -   catalan
+    -   dutch
     -   filipino
     -   french
+    -   german
     -   greek
+    -   gujarati
+    -   hindi
+    -   japanese
+    -   khmer
+    -   lithuanian
     -   persian
     -   portugese-brazilian
+    -   romanian
+    -   russian
+    -   serbian
+    -   swedish
+    -   thai
+    -   urdu
+    -   vietnamese
 
 
 Version 3.1.3
