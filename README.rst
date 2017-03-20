@@ -30,48 +30,48 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  =================  =========================
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
-arabic                   3.1.3        daif               Daif Alotaibi
-armenian                 3.1.3*       tgrnmrdn           Tigran Muradyan
-azerbaijani              3.1.3*       Qarakom            Sübhan Cabbarov
-bengali                  3.1.3.*      kabircse           Kabir Hossain
-bulgarian                3.1.3        ivantcholakov      Ivan Tcholakov
-catalan                  3.1.3.*      Ignasimg           Ignasi Molsosa
-czech                    3.1.3        Ruplahlava         Štěpán Postránecký
-dutch                    3.1.3*       pkrul              Pieter Krul
-filipino                 3.1.3*       dzerium            Edzer Josh V. Padilla
-french                   3.1.3*       includebeer        Alain Rivest
-german                   3.1.3*       Rufnex             Johannes Gamperl 
-greek                    3.1.3*       xargr              Grigoris Charamidis
-gujarati                 3.1.3*       sajid19991         Sajid Mathupotra
-hindi                    3.1.3*       shindesushilkumar  Sushilkumar Shinde
-hungarian                3.1.3        orionstar          László Bóra
-indonesian               3.1.3        ridho1991          Mutasim Ridlo
-italian                  3.1.3        ster               Stefano Mazzega
-japanese                 3.1.3*       tsukasa            Tsukasa Takao ???
-khmer                    3.1.3*       Chanthoeun         Chanthoeun Kim
-latvian                  3.1.3        DavisMiculis       Davis Miculis
-lithuanian               3.1.3*       dgvirtual          Donatas Glodenis
-korean                   3.1.3*       KwonLatte          HyeongJoo Kwon
-norwegian                3.1.3        yhoiseth           Yngve Hoiseth
-persian                  3.1.3*       MSDehghan          Mohammad Sadegh
-polish                   3.1.3        michalsn           Michał Śniatała
-portuguese               3.1.3        j38600             Júlio Sebastião
-portuguese-brazilian     3.1.3*       mateusfbi          Mateus Brandão
-romanian                 3.1.3*       CodefishRo         Cristian Robert Chiribuc
-russian                  3.1.3*       vadimyer           Vadim Yermolin
-serbian                  3.1.3*       novakurosevic      Novak Urosevic ???
-simplified-chinese       3.1.3        denghongcai        Deng HongCai
-slovak                   3.1.3        gadelat            Gabriel Potkány
-slovenian                3.1.3        andrejflorjancic   Andrej Florjančič
-spanish                  3.1.3        Razican            Iban Eguia
-swedish                  3.1.3*       peterdenk          Peter Denk
-tamil                    3.1.3        karthik-code       Karthikeyan
-thai                     3.1.3*       karidoe            Anuchit Thiam-uan
-traditional-chinese      3.1.3        appleboy           Bo-Yi Wu
-turkish                  3.1.3        obozdag            Osman Bozdag
-ukranian                 3.1.3        flybot             Sergiy Kosiy
-urdu                     3.1.3*       codeonion          Muhammad Ali
-vietnamese               3.1.3*       tinhphaistc        Trần Xuân Sâm ???
+arabic                   3.1.4        daif               Daif Alotaibi
+armenian                 3.1.4        tgrnmrdn           Tigran Muradyan
+azerbaijani              3.1.4        Qarakom            Sübhan Cabbarov
+bengali                  3.1.4        kabircse           Kabir Hossain
+bulgarian                3.1.4        ivantcholakov      Ivan Tcholakov
+catalan                  3.1.4        Ignasimg           Ignasi Molsosa
+czech                    3.1.4        Ruplahlava         Štěpán Postránecký
+dutch                    3.1.4        pkrul              Pieter Krul
+filipino                 3.1.4        dzerium            Edzer Josh V. Padilla
+french                   3.1.4        includebeer        Alain Rivest
+german                   3.1.4        Rufnex             Johannes Gamperl 
+greek                    3.1.4        xargr              Grigoris Charamidis
+gujarati                 3.1.4        sajid19991         Sajid Mathupotra
+hindi                    3.1.4        shindesushilkumar  Sushilkumar Shinde
+hungarian                3.1.4        orionstar          László Bóra
+indonesian               3.1.4        ridho1991          Mutasim Ridlo
+italian                  3.1.4        ster               Stefano Mazzega
+japanese                 3.1.4        tsukasa            Tsukasa Takao ???
+khmer                    3.1.4        Chanthoeun         Chanthoeun Kim
+latvian                  3.1.4        DavisMiculis       Davis Miculis
+lithuanian               3.1.4        dgvirtual          Donatas Glodenis
+korean                   3.1.4        KwonLatte          HyeongJoo Kwon
+norwegian                3.1.4        yhoiseth           Yngve Hoiseth
+persian                  3.1.4        MSDehghan          Mohammad Sadegh
+polish                   3.1.4        michalsn           Michał Śniatała
+portuguese               3.1.4        j38600             Júlio Sebastião
+portuguese-brazilian     3.1.4        mateusfbi          Mateus Brandão
+romanian                 3.1.4        CodefishRo         Cristian Robert Chiribuc
+russian                  3.1.4        vadimyer           Vadim Yermolin
+serbian                  3.1.4        novakurosevic      Novak Urosevic ???
+simplified-chinese       3.1.4        denghongcai        Deng HongCai
+slovak                   3.1.4        gadelat            Gabriel Potkány
+slovenian                3.1.4        andrejflorjancic   Andrej Florjančič
+spanish                  3.1.4        Razican            Iban Eguia
+swedish                  3.1.4        peterdenk          Peter Denk
+tamil                    3.1.4        karthik-code       Karthikeyan
+thai                     3.1.4        karidoe            Anuchit Thiam-uan
+traditional-chinese      3.1.4        appleboy           Bo-Yi Wu
+turkish                  3.1.4        obozdag            Osman Bozdag
+ukranian                 3.1.4        flybot             Sergiy Kosiy
+urdu                     3.1.4        codeonion          Muhammad Ali
+vietnamese               3.1.4        tinhphaistc        Trần Xuân Sâm ???
 =======================  ===========  =================  =========================
 
 ************

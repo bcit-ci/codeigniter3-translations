@@ -11,6 +11,15 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+Version 3.1.4
+==============
+
+Release Date: Mar 20, 2017
+
+-   New Translations
+
+-   Updated Translations
+
     -   armenian
     -   azerbaijani
     -   bengali
