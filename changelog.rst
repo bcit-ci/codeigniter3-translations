@@ -9,6 +9,8 @@ Release Date: Unreleased
 
 -   New Translations
 
+    -   croatian
+
 -   Updated Translations
 
 Version 3.1.4
