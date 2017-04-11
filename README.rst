@@ -67,7 +67,7 @@ slovenian                3.1.4        andrejflorjancic   Andrej Florjančič
 spanish                  3.1.4        Razican            Iban Eguia
 swedish                  3.1.4        peterdenk          Peter Denk
 tamil                    3.1.4        karthik-code       Karthikeyan
-thai                     3.1.4        karidoe            Anuchit Thiam-uan
+thai                     3.1.4*       karidoe            Anuchit Thiam-uan
 traditional-chinese      3.1.4        appleboy           Bo-Yi Wu
 turkish                  3.1.4        obozdag            Osman Bozdag
 ukranian                 3.1.4        flybot             Sergiy Kosiy
