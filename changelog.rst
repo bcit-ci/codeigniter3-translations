@@ -14,6 +14,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   arabic
+    -   thai
 
 Version 3.1.4
 ==============
