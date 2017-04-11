@@ -6,7 +6,7 @@
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014 - 2016, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -29,9 +29,9 @@
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  * @since	Version 1.0.0
  * @filesource
  */
@@ -65,3 +65,4 @@ $lang['form_validation_less_than_equal_to']	= 'Polje {field} mora vsebovati šte
 $lang['form_validation_greater_than']		= 'Polje {field} mora vsebovati številko večjo od {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'Polje {field} mora vsebovati številko enako ali večjo od {param}.';
 $lang['form_validation_error_message_not_set']	= 'Ni možno dostopati do sporočila napake za ustrezno polje {field}.';
+$lang['form_validation_in_list'] = 'Polje {polje} mora biti eno izmed: {param}.';

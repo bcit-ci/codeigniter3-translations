@@ -3,9 +3,9 @@
 * System messages translation for CodeIgniter(tm)
 *
 * @author	CodeIgniter community
-* @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
+* @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
 * @license	http://opensource.org/licenses/MIT MIT License
-* @link	http://codeigniter.com
+* @link	https://codeigniter.com
 */
 defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['cal_su'] = 'रवि';
@@ -23,10 +23,10 @@ $lang['cal_thu'] = 'गुरु';
 $lang['cal_fri'] = 'शुक्र';
 $lang['cal_sat'] = 'शनि';
 $lang['cal_sunday'] = 'रविवार';
-$lang['cal_monday'] = 'सोमवार;';
-$lang['cal_tuesday'] = 'मंगलवार;';
-$lang['cal_wednesday'] = 'बुधवार;';
-$lang['cal_thursday'] = 'गुरुवार ;';
+$lang['cal_monday'] = 'सोमवार';
+$lang['cal_tuesday'] = 'मंगलवार';
+$lang['cal_wednesday'] = 'बुधवार';
+$lang['cal_thursday'] = 'गुरुवार';
 $lang['cal_friday'] = 'शुक्रवार';
 $lang['cal_saturday'] = 'शनिवार';
 $lang['cal_jan'] = 'जनवरी';
