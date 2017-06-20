@@ -9,7 +9,19 @@ Release Date: Unreleased
 
 -   New Translations
 
+
+-   Updated Translations
+
+
+Version 3.1.5
+=============
+
+Release Date: Jun 20, 2017
+
+-   New Translations
+
     -   croatian
+    -   danish
 
 -   Updated Translations
 
