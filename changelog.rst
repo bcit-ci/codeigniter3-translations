@@ -12,6 +12,8 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   japanese
+
 
 Version 3.1.5
 =============
