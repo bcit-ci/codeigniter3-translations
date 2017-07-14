@@ -49,7 +49,7 @@ hindi                    3.1.5        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.5        orionstar          László Bóra
 indonesian               3.1.5        ridho1991          Mutasim Ridlo
 italian                  3.1.5        ster               Stefano Mazzega
-japanese                 3.1.5        tsukasa            Tsukasa Takao ???
+japanese                 3.1.5*       ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
 latvian                  3.1.5        DavisMiculis       Davis Miculis
 lithuanian               3.1.5        dgvirtual          Donatas Glodenis
@@ -101,8 +101,8 @@ request to merge it into the main repository. Remember to "sign" your commits.
 Pull requests to the repository will only be considered if they come from
 the maintainer for any translations in the request, or if the maintainer
 adds a comment indicating they approve of any changes.
+If a maintainer is unresponsive
 
-If you would like provide a translation, please send me an email, with
-your name, github account, and a brief explanation of your suitability.
+PR conversations should be conducted in English, thanks.
 
 `Jim Parry <jim_parry@bcit.ca>`_
