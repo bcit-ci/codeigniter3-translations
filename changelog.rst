@@ -11,7 +11,8 @@ Release Date: Unreleased
 
 
 -   Updated Translations
-
+    
+    -   arabic
     -   japanese
 
 
