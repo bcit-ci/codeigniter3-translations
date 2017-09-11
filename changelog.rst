@@ -15,6 +15,7 @@ Release Date: Unreleased
     -   arabic
     -   japanese
     -   korean
+    -   portugese-brazilian
 
 
 Version 3.1.5
