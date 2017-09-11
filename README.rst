@@ -58,7 +58,7 @@ norwegian                3.1.5        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
 portuguese               3.1.5        j38600             Júlio Sebastião
-portuguese-brazilian     3.1.5        mateusfbi          Mateus Brandão
+portuguese-brazilian     3.1.5*       mateusfbi          Mateus Brandão
 romanian                 3.1.5        CodefishRo         Cristian Robert Chiribuc
 russian                  3.1.5        vadimyer           Vadim Yermolin
 serbian                  3.1.5        novakurosevic      Novak Urosevic ???
