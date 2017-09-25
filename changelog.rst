@@ -9,6 +9,12 @@ Release Date: Unreleased
 
 -   New Translations
 
+-   Updated Translations
+    
+Version 3.1.6
+=============
+
+Release Date: Sept 25, 2017
 
 -   Updated Translations
     
@@ -17,7 +23,6 @@ Release Date: Unreleased
     -   korean
     -   portugese
     -   portugese-brazilian
-
 
 Version 3.1.5
 =============
@@ -38,8 +43,6 @@ Version 3.1.4
 ==============
 
 Release Date: Mar 20, 2017
-
--   New Translations
 
 -   Updated Translations
 
@@ -72,8 +75,6 @@ Version 3.1.3
 =============
 
 Release Date: Jan 9, 2017
-
--   New Translations
 
 -   Updated Translations
 
