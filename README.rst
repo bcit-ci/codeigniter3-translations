@@ -30,7 +30,7 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  =================  =========================
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
-arabic                   3.1.5*       daif               Daif Alotaibi ???
+arabic                   3.1.6        daif               Daif Alotaibi ???
 armenian                 3.1.5        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.5        Qarakom            Sübhan Cabbarov
 bengali                  3.1.5        kabircse           Kabir Hossain
@@ -49,16 +49,16 @@ hindi                    3.1.5        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.5        orionstar          László Bóra
 indonesian               3.1.5        ridho1991          Mutasim Ridlo
 italian                  3.1.5        ster               Stefano Mazzega
-japanese                 3.1.5*       ???                N/A
+japanese                 3.1.6        ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
 latvian                  3.1.5        DavisMiculis       Davis Miculis
 lithuanian               3.1.5        dgvirtual          Donatas Glodenis
-korean                   3.1.5*       KwonLatte          HyeongJoo Kwon ???
+korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
 norwegian                3.1.5        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
-portuguese               3.1.5*       j38600             Júlio Sebastião
-portuguese-brazilian     3.1.5*       mateusfbi          Mateus Brandão
+portuguese               3.1.6        j38600             Júlio Sebastião
+portuguese-brazilian     3.1.6        mateusfbi          Mateus Brandão
 romanian                 3.1.5        CodefishRo         Cristian Robert Chiribuc
 russian                  3.1.5        vadimyer           Vadim Yermolin
 serbian                  3.1.5        novakurosevic      Novak Urosevic ???
