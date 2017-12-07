@@ -52,7 +52,7 @@ italian                  3.1.5        ster               Stefano Mazzega
 japanese                 3.1.6        ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
 latvian                  3.1.5        DavisMiculis       Davis Miculis
-lithuanian               3.1.5        dgvirtual          Donatas Glodenis
+lithuanian               3.1.5*       dgvirtual          Donatas Glodenis
 korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
 norwegian                3.1.5        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
