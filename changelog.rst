@@ -10,6 +10,8 @@ Release Date: Unreleased
 -   New Translations
 
 -   Updated Translations
+
+    -   lithuanian
     
 Version 3.1.6
 =============
