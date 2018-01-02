@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   lithuanian
+    -   portugese-brazilian
     
 Version 3.1.6
 =============
