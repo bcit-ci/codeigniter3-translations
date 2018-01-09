@@ -4,7 +4,7 @@
  *
  * @author CodeIgniter community
  * @author HyeongJoo Kwon
- * @copyright Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license http://opensource.org/licenses/MIT MIT License
  * @link https://codeigniter.com
  */
