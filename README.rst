@@ -52,13 +52,13 @@ italian                  3.1.5        ster               Stefano Mazzega
 japanese                 3.1.6        ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
 latvian                  3.1.5        DavisMiculis       Davis Miculis
-lithuanian               3.1.5*       dgvirtual          Donatas Glodenis
+lithuanian               3.1.7        dgvirtual          Donatas Glodenis
 korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
 norwegian                3.1.5        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
 portuguese               3.1.6        j38600             Júlio Sebastião
-portuguese-brazilian     3.1.6*       mateusfbi          Mateus Brandão
+portuguese-brazilian     3.1.7        mateusfbi          Mateus Brandão
 romanian                 3.1.5        CodefishRo         Cristian Robert Chiribuc
 russian                  3.1.5        vadimyer           Vadim Yermolin
 serbian                  3.1.5        novakurosevic      Novak Urosevic ???
