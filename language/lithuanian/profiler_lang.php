@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -15,9 +15,9 @@ $lang['profiler_benchmarks'] = 'KONTROLINĖS UŽDUOTYS';
 $lang['profiler_queries'] = 'UŽKLAUSOS';
 $lang['profiler_get_data'] = 'GET DUOMENYS';
 $lang['profiler_post_data'] = 'POST DUOMENYS';
-$lang['profiler_uri_string'] = 'URI STRING';
+$lang['profiler_uri_string'] = 'URI EILUTĖ';
 $lang['profiler_memory_usage'] = 'ATMINTIES NAUDOJIMAS';
-$lang['profiler_config'] = 'CONFIGŪRACIJOS REIKŠMĖS';
+$lang['profiler_config'] = 'KONFIGŪRACIJOS REIKŠMĖS';
 $lang['profiler_session_data'] = 'SESIJOS DUOMENYS';
 $lang['profiler_headers'] = 'HTTP ANTRAŠTĖS';
 $lang['profiler_no_db'] = 'Duomenų bazės tvarkyklė šiuo metu nėra įkelta';

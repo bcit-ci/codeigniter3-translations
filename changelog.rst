@@ -10,6 +10,17 @@ Release Date: Unreleased
 -   New Translations
 
 -   Updated Translations
+
+    
+Version 3.1.7
+=============
+
+Release Date: Jan 13, 2018
+
+-   Updated Translations
+
+    -   lithuanian
+    -   portugese-brazilian
     
 Version 3.1.6
 =============
