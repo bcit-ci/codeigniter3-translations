@@ -30,7 +30,7 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  =================  =========================
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
-arabic                   3.1.6        daif               Daif Alotaibi ???
+arabic                   3.1.6*       daif               Daif Alotaibi ???
 armenian                 3.1.5        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.5        Qarakom            Sübhan Cabbarov
 bengali                  3.1.5        kabircse           Kabir Hossain
