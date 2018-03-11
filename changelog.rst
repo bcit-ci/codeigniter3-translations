@@ -11,6 +11,8 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   arabic
+
     
 Version 3.1.7
 =============
