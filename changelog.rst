@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   arabic
+    -   norwegian
 
     
 Version 3.1.7
