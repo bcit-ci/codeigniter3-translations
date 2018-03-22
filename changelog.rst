@@ -12,6 +12,19 @@ Release Date: Unreleased
 -   Updated Translations
 
     
+Version 3.1.8
+=============
+
+Release Date: Mar 22, 2018
+
+-   New Translations
+
+-   Updated Translations
+
+    -   arabic
+    -   norwegian
+
+    
 Version 3.1.7
 =============
 

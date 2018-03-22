@@ -30,7 +30,7 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  =================  =========================
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
-arabic                   3.1.6        daif               Daif Alotaibi ???
+arabic                   3.1.8        daif               Daif Alotaibi ???
 armenian                 3.1.5        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.5        Qarakom            Sübhan Cabbarov
 bengali                  3.1.5        kabircse           Kabir Hossain
@@ -54,7 +54,7 @@ khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
 latvian                  3.1.5        DavisMiculis       Davis Miculis
 lithuanian               3.1.7        dgvirtual          Donatas Glodenis
 korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
-norwegian                3.1.5        yhoiseth           Yngve Hoiseth
+norwegian                3.1.8        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
 portuguese               3.1.6        j38600             Júlio Sebastião
