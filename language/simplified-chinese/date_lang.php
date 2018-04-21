@@ -9,19 +9,19 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year'] = '年';
-$lang['date_years'] = '年';
-$lang['date_month'] = '月';
-$lang['date_months'] = '月';
-$lang['date_week'] = '周';
-$lang['date_weeks'] = '周';
-$lang['date_day'] = '天';
-$lang['date_days'] = '天';
-$lang['date_hour'] = '时';
-$lang['date_hours'] = '时';
-$lang['date_minute'] = '分';
+$lang['date_year']    = '年';
+$lang['date_years']   = '年';
+$lang['date_month']   = '月';
+$lang['date_months']  = '月';
+$lang['date_week']    = '周';
+$lang['date_weeks']   = '周';
+$lang['date_day']     = '天';
+$lang['date_days']    = '天';
+$lang['date_hour']    = '时';
+$lang['date_hours']   = '时';
+$lang['date_minute']  = '分';
 $lang['date_minutes'] = '分';
-$lang['date_second'] = '秒';
+$lang['date_second']  = '秒';
 $lang['date_seconds'] = '秒';
 
 $lang['UM12']	= '(UTC -12:00) 贝克 / 霍德兰岛';
@@ -52,7 +52,7 @@ $lang['UP575']	= '(UTC +5:45) 尼泊尔时间';
 $lang['UP6']	= '(UTC +6:00) 孟加拉国标准时间，不丹时间，鄂木斯克时间';
 $lang['UP65']	= '(UTC +6:30) 缅甸';
 $lang['UP7']	= '(UTC +7:00) 克拉斯诺雅茨克时间，柬埔寨、老挝、泰国、越南';
-$lang['UP8']	= '(UTC +8:00) 澳大利亚西部标准时间，北京时间，伊尔库茨克时间';
+$lang['UP8']	= '(UTC +8:00) 中华人民共和国(北京,上海,香港,台湾),澳大利亚';
 $lang['UP875']	= '(UTC +8:45) 澳大利亚中央西部标准时间';
 $lang['UP9']	= '(UTC +9:00) 日本标准时间，韩国标准时间，雅库茨克时间';
 $lang['UP95']	= '(UTC +9:30) 澳大利亚中部标准时间';
