@@ -10,7 +10,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database'] = 'BANCO DE DADOS';
-$lang['profiler_controller_info'] = 'CLASSE/METODO';
+$lang['profiler_controller_info'] = 'CLASSE/MÉTODO';
 $lang['profiler_benchmarks'] = 'BENCHMARKS';
 $lang['profiler_queries'] = 'CONSULTAS';
 $lang['profiler_get_data'] = 'DADOS GET';
