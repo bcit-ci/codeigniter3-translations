@@ -11,6 +11,8 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    -   portugese-brazilian
+    -   simplified-chinese
     
 Version 3.1.8
 =============
