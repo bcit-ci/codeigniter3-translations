@@ -11,6 +11,14 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+    
+Version 3.1.9
+=============
+
+Release Date: June 12, 2018
+
+-   Updated Translations
+
     -   portugese-brazilian
     -   simplified-chinese
     
@@ -18,8 +26,6 @@ Version 3.1.8
 =============
 
 Release Date: Mar 22, 2018
-
--   New Translations
 
 -   Updated Translations
 
