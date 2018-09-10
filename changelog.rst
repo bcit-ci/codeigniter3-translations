@@ -11,7 +11,7 @@ Release Date: Unreleased
 
 -   Updated Translations
 
-    -   portugese
+    -   portugese-brazilian
     
 Version 3.1.9
 =============
