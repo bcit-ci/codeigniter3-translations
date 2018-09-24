@@ -34,7 +34,7 @@ arabic                   3.1.8        daif               Daif Alotaibi ???
 armenian                 3.1.5        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.5        Qarakom            Sübhan Cabbarov
 bengali                  3.1.5        kabircse           Kabir Hossain
-bulgarian                3.1.5        ivantcholakov      Ivan Tcholakov
+bulgarian                3.1.10*      ivantcholakov      Ivan Tcholakov
 catalan                  3.1.5        Ignasimg           Ignasi Molsosa
 croatian                 3.1.5        PaleRider981       Mario Ljubicic
 czech                    3.1.5        Ruplahlava         Štěpán Postránecký
@@ -58,7 +58,7 @@ norwegian                3.1.8        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
 portuguese               3.1.6        j38600             Júlio Sebastião
-portuguese-brazilian     3.1.9*       mateusfbi          Mateus Brandão
+portuguese-brazilian     3.1.10*      mateusfbi          Mateus Brandão
 romanian                 3.1.5        CodefishRo         Cristian Robert Chiribuc
 russian                  3.1.5        vadimyer           Vadim Yermolin
 serbian                  3.1.5        novakurosevic      Novak Urosevic ???
