@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
 
     -   bulgarian
+    -   french
     -   portugese-brazilian
     
 Version 3.1.9
