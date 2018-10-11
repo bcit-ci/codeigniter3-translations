@@ -14,6 +14,7 @@ Release Date: Unreleased
     -   bulgarian
     -   french
     -   portugese-brazilian
+    -   thai
     
 Version 3.1.9
 =============
