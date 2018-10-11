@@ -9,11 +9,11 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name']		= 'ชื่อกากรทดสอบ';
+$lang['ut_test_name']		= 'ชื่อการทดสอบ';
 $lang['ut_test_datatype']	= 'ชนิดข้อมูลที่ทดสอบ';
 $lang['ut_res_datatype']	= 'ชนิดข้อมูลที่คาดหวัง';
 $lang['ut_result']			= 'ผลลัพธ์';
-$lang['ut_undefined']		= 'ไม่ได้กำหนดชื่อการทดสอบ';
+$lang['ut_undefined']		= 'ไม่กำหนดชื่อการทดสอบ';
 $lang['ut_file']			= 'ชื่อไฟล์';
 $lang['ut_line']			= 'หมายเลขบรรทัด';
 $lang['ut_passed']			= 'ผ่าน';
