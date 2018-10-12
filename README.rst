@@ -51,9 +51,9 @@ indonesian               3.1.5        ridho1991          Mutasim Ridlo
 italian                  3.1.5        ster               Stefano Mazzega
 japanese                 3.1.6        ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
+korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
 latvian                  3.1.5        DavisMiculis       Davis Miculis
 lithuanian               3.1.7        dgvirtual          Donatas Glodenis
-korean                   3.1.6        KwonLatte          HyeongJoo Kwon ???
 norwegian                3.1.8        yhoiseth           Yngve Hoiseth
 persian                  3.1.5        MSDehghan          Mohammad Sadegh
 polish                   3.1.5        michalsn           Michał Śniatała
