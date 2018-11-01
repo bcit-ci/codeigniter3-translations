@@ -4,7 +4,7 @@
  *
  * @author	CodeIgniter community
  * @author	Ivan Tcholakov
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -16,6 +16,7 @@ $lang['form_validation_valid_email'] = 'Полето "{field}" трябва да
 $lang['form_validation_valid_emails'] = 'Полето "{field}" трябва да съдържа валидни email адреси.';
 $lang['form_validation_valid_url'] = 'Полето "{field}" трябва да съдържа валиден URL адрес.';
 $lang['form_validation_valid_ip'] = 'Полето "{field}" трябва да съдържа валиден IP адрес.';
+$lang['form_validation_valid_base64'] = 'Полето {field} трябва да съдържа валиден Base64 символен низ.';
 $lang['form_validation_min_length'] = 'Полето "{field}" трябва да бъде дълго най-малко {param} символа.';
 $lang['form_validation_max_length'] = 'Полето "{field}" трябва да бъде дълго най-много {param} символа.';
 $lang['form_validation_exact_length'] = 'Полето "{field}" трябва да бъде дълго точно {param}s символа.';

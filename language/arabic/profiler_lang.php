@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -27,6 +27,6 @@ $lang['profiler_no_get'] = 'ليس هناك بيانات GET';
 $lang['profiler_no_uri'] = 'ليس هناك بيانات URI';
 $lang['profiler_no_memory'] = 'بيانات استهلاك الذاكرة غير متوفرة';
 $lang['profiler_no_profiles'] = 'لا يوجد أي بيانات تقييم حيث أن جميع أقسام التقييم مُعطّلة.';
-$lang['profiler_section_hide'] = 'اخفاء';
-$lang['profiler_section_show'] = 'اظهار';
+$lang['profiler_section_hide'] = 'إخفاء';
+$lang['profiler_section_show'] = 'إظهار';
 $lang['profiler_seconds'] = 'ثواني';

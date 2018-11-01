@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -15,9 +15,10 @@ $lang['form_validation_valid_email'] = 'O campo {field} deve conter um email vá
 $lang['form_validation_valid_emails'] = 'O campo {field} deve conter apenas emails válidos.';
 $lang['form_validation_valid_url'] = 'O campo {field} deve conter uma URL válida.';
 $lang['form_validation_valid_ip'] = 'O campo {field} deve conter um IP válido.';
+$lang['form_validation_valid_base64'] = 'O campo {field} deve conter um valor Base64 válido.';
 $lang['form_validation_min_length'] = 'O campo {field} deve ter pelo menos {param} caractere(s).';
 $lang['form_validation_max_length'] = 'O campo {field} ultrapassou o limite de {param} caractere(s).';
-$lang['form_validation_exact_length'] = 'O campo {field} não pode exceder {param} caractere(s).';
+$lang['form_validation_exact_length'] = 'O campo {field} deve conter exatamente {param} caractere(s).';
 $lang['form_validation_alpha'] = 'O campo {field} deve conter somente letras.';
 $lang['form_validation_alpha_numeric'] = 'O campo {field} deve conter somente letras e números.';
 $lang['form_validation_alpha_numeric_spaces'] = 'O campo {field} deve conter somente letras, números e espaços.';

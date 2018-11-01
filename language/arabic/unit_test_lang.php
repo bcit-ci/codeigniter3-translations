@@ -3,18 +3,18 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['ut_test_name'] = 'إسم الإختبار';
+$lang['ut_test_name'] = 'اسم الإختبار';
 $lang['ut_test_datatype'] = 'اختبار نوع البيانات';
 $lang['ut_res_datatype'] = 'نوع البيانات المتوقّع';
 $lang['ut_result'] = 'النتيجة';
 $lang['ut_undefined'] = 'اسم اختبار غير محدد';
-$lang['ut_file'] = 'إسم الملف';
+$lang['ut_file'] = 'اسم الملف';
 $lang['ut_line'] = 'رقم السطر';
 $lang['ut_passed'] = 'نجح';
 $lang['ut_failed'] = 'فشل';

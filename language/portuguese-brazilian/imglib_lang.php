@@ -3,15 +3,15 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = 'Você deve especificar a origem da imagem em suas preferências.';
-$lang['imglib_gd_required'] = 'A Bilblioteca GD é necessária para está funcionalidade.';
-$lang['imglib_gd_required_for_props'] = 'Seu servidor deve suportar a Bilblioteca GD em razão de determinar as propriedades da imagem.';
+$lang['imglib_gd_required'] = 'A Biblioteca GD é necessária para está funcionalidade.';
+$lang['imglib_gd_required_for_props'] = 'Seu servidor deve suportar a Biblioteca GD em razão de determinar as propriedades da imagem.';
 $lang['imglib_unsupported_imagecreate'] = 'Seu servidor não suporta a função GD necessária para processar este tipo de imagem.';
 $lang['imglib_gif_not_supported'] = 'Imagens GIF geralmente não são suportadas devido à restrições de licenças. Você deve usar JPG ou PNG.';
 $lang['imglib_jpg_not_supported'] = 'Imagens JPG não são suportadas.';

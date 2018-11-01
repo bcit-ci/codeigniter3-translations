@@ -3,14 +3,14 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database'] = 'BANCO DE DADOS';
-$lang['profiler_controller_info'] = 'CLASSE/METODO';
+$lang['profiler_controller_info'] = 'CLASSE/MÉTODO';
 $lang['profiler_benchmarks'] = 'BENCHMARKS';
 $lang['profiler_queries'] = 'CONSULTAS';
 $lang['profiler_get_data'] = 'DADOS GET';

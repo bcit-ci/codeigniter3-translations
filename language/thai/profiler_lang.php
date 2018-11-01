@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -15,13 +15,13 @@ $lang['profiler_benchmarks']	= 'การวัดสมรรถนะ';
 $lang['profiler_queries']		= 'คิวรี';
 $lang['profiler_get_data']		= 'ข้อมูล GET';
 $lang['profiler_post_data']		= 'ข้อมูล POST';
-$lang['profiler_uri_string']	= 'URI STRING';
+$lang['profiler_uri_string']	= 'URI';
 $lang['profiler_memory_usage']	= 'การใช้งานหน่วยความจำ';
 $lang['profiler_config']		= 'ตัวแปรคอนฟิก';
-$lang['profiler_session_data']	= 'ข้อมูล เซ็สชั่น';
-$lang['profiler_headers']		= 'HTTP HEADERS';
-$lang['profiler_no_db']			= 'ไม่มีการเรียกใช้งานไดร์เวอร์ฐานข้อมูลในขณะนี้';
-$lang['profiler_no_queries']	= 'ไม่มีคิวรีที่รันอยู่';
+$lang['profiler_session_data']	= 'ข้อมูล SESSION';
+$lang['profiler_headers']		= 'ส่วนหัวของ HTTP';
+$lang['profiler_no_db']			= 'ไดร์เวอร์ของฐานข้อมูลยังไม่ถูกเรียกใช้งาน';
+$lang['profiler_no_queries']	= 'ไม่มีคิวรีที่ทำงานอยู่';
 $lang['profiler_no_post']		= 'ไม่มีข้อมูล POST';
 $lang['profiler_no_get']		= 'ไม่มีข้อมูล GET';
 $lang['profiler_no_uri']		= 'ไม่มีข้อมูล URI';
