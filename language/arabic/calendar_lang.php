@@ -3,28 +3,28 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
+ * @link	https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['cal_su']			= 'أح';
-$lang['cal_mo']			= 'إث';
+$lang['cal_mo']			= 'ٱث';
 $lang['cal_tu']			= 'ثل';
 $lang['cal_we']			= 'أر';
 $lang['cal_th']			= 'خم';
 $lang['cal_fr']			= 'جم';
 $lang['cal_sa']			= 'سب';
 $lang['cal_sun']		= 'أح';
-$lang['cal_mon']		= 'إث';
+$lang['cal_mon']		= 'ٱث';
 $lang['cal_tue']		= 'ثل';
 $lang['cal_wed']		= 'أر';
 $lang['cal_thu']		= 'خم';
 $lang['cal_fri']		= 'جم';
 $lang['cal_sat']		= 'سب';
 $lang['cal_sunday']		= 'الأحد';
-$lang['cal_monday']		= 'الإثنين';
+$lang['cal_monday']		= 'الاثنين';
 $lang['cal_tuesday']	= 'الثلاثاء';
 $lang['cal_wednesday']	= 'الأربعاء';
 $lang['cal_thursday']	= 'الخميس';
