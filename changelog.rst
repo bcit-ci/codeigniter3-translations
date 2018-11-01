@@ -13,6 +13,7 @@ Release Date: Unreleased
 
     -   bulgarian
     -   french
+    -   lithuanian
     -   portugese-brazilian
     -   thai
     
