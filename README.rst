@@ -44,7 +44,7 @@ filipino                 3.1.5        dzerium            Edzer Josh V. Padilla
 french                   3.1.10*      includebeer        Alain Rivest
 german                   3.1.5        Rufnex             Johannes Gamperl 
 greek                    3.1.5        xargr              Grigoris Charamidis
-gujarati                 3.1.5        sajid19991         Sajid Mathupotra
+gujarati                 3.1.10*      sajid19991         Sajid Mathupotra
 hindi                    3.1.5        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.5        orionstar          László Bóra
 indonesian               3.1.5        ridho1991          Mutasim Ridlo
