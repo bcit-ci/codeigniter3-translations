@@ -13,7 +13,7 @@ Release Date: Unreleased
 
     -   bulgarian
     -   french
-    -   gujarti
+    -   gujarati
     -   lithuanian
     -   portugese-brazilian
     -   thai
