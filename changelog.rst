@@ -14,6 +14,7 @@ Release Date: Unreleased
     -   bulgarian
     -   french
     -   gujarati
+    -   indonesian
     -   lithuanian
     -   portugese-brazilian
     -   thai
