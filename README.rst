@@ -47,7 +47,7 @@ greek                    3.1.5        xargr              Grigoris Charamidis
 gujarati                 3.1.10*      sajid19991         Sajid Mathupotra
 hindi                    3.1.5        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.5        orionstar          László Bóra
-indonesian               3.1.5        ridho1991          Mutasim Ridlo
+indonesian               3.1.10*      ridho1991          Mutasim Ridlo
 italian                  3.1.5        ster               Stefano Mazzega
 japanese                 3.1.6        ???                N/A
 khmer                    3.1.5        Chanthoeun         Chanthoeun Kim
