@@ -3,11 +3,18 @@ Change Log
 ##########
 
 Version 3.x
-=============
+==============
 
 Release Date: Unreleased
 
 -   New Translations
+
+-   Updated Translations
+
+Version 3.1.10
+==============
+
+Release Date: Jan 16, 2019
 
 -   Updated Translations
 
