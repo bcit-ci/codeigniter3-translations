@@ -3,7 +3,7 @@ Change Log
 ##########
 
 Version 3.x
-=============
+==============
 
 Release Date: Unreleased
 
@@ -11,13 +11,35 @@ Release Date: Unreleased
 
 -   Updated Translations
 
+Version 3.1.10
+==============
+
+Release Date: Jan 16, 2019
+
+-   Updated Translations
+
+    -   bulgarian
+    -   french
+    -   gujarati
+    -   indonesian
+    -   lithuanian
+    -   portugese-brazilian
+    -   thai
+    
+Version 3.1.9
+=============
+
+Release Date: June 12, 2018
+
+-   Updated Translations
+
+    -   portugese-brazilian
+    -   simplified-chinese
     
 Version 3.1.8
 =============
 
 Release Date: Mar 22, 2018
-
--   New Translations
 
 -   Updated Translations
 
