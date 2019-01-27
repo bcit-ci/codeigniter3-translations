@@ -4,9 +4,10 @@
  *
  * @author	CodeIgniter community
  * @author	Stefano Mazzega
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
+ * @since	Version 1.0.0
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -15,7 +16,8 @@ $lang['form_validation_isset'] = 'Il campo {field} deve avere un valore.';
 $lang['form_validation_valid_email'] = 'Il campo {field} deve contenere un indirizzo email valido.';
 $lang['form_validation_valid_emails'] = 'Il campo {field} deve contenere tutti indirizzi email validi.';
 $lang['form_validation_valid_url'] = 'Il campo {field} deve contenere un URL valido.';
-$lang['form_validation_valid_ip'] = 'Il campo {field} deve contenenre un indirizzo IP valido.';
+$lang['form_validation_valid_ip'] = 'Il campo {field} deve contenere un indirizzo IP valido.';
+$lang['form_validation_valid_base64'] = 'Il campo {field} deve contenere una stringa in Base64.';
 $lang['form_validation_min_length'] = 'Il campo {field} deve essere composto da almeno {param} caratteri.';
 $lang['form_validation_max_length'] = 'Il campo {field} deve essere composto da meno di {param} caratteri.';
 $lang['form_validation_exact_length'] = 'Il campo {field} deve essere composto esattamente da {param} caratetteri.';

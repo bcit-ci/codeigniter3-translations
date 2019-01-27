@@ -46,7 +46,7 @@ gujarati                 3.0.3        sajid19991         Sajid Mathupotra
 hindi                    3.1.0        shindesushilkumar  Sushilkumar Shinde
 hungarian                3.1.3*       orionstar          László Bóra
 indonesian               3.1.3*       ridho1991          Mutasim Ridlo
-italian                  3.1.3        ster               Stefano Mazzega
+italian                  3.1.10       ster               Stefano Mazzega
 japanese                 3.0.3        tsukasa            Tsukasa Takao???
 khmer                    3.0.3        Chanthoeun         Chanthoeun Kim
 latvian                  3.0.3        DavisMiculis       Davis Miculis
