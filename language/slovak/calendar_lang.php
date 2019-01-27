@@ -4,7 +4,7 @@
  *
  * @author    CodeIgniter community
  * @author    Gabriel Potkány <gadelat+codeigniter@gmail.com>
- * @copyright Copyright (c) 2014-2018, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
  * @license   http://opensource.org/licenses/MIT MIT License
  * @link      https://codeigniter.com
  */
