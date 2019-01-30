@@ -11,8 +11,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']              = 'Pole {field} je povinné.';
 $lang['form_validation_isset']                 = 'Pole {field} musí obsahovat hodnotu.';
-$lang['form_validation_valid_email']           = 'Pole {field} musí obsahovat validní emailovo adresu.';
-$lang['form_validation_valid_emails']          = 'Pole {field} musí obsahovat validní emailovo adresy.';
+$lang['form_validation_valid_email']           = 'Pole {field} musí obsahovat validní emailovou adresu.';
+$lang['form_validation_valid_emails']          = 'Pole {field} musí obsahovat validní emailovou adresy.';
 $lang['form_validation_valid_url']             = 'Pole {field} musí obsahovat validní URL.';
 $lang['form_validation_valid_ip']              = 'Pole {field} musí obsahovat validní IP.';
 $lang['form_validation_min_length']            = 'Pole {field} musí obsahovat alespoň {param} znaků.';
