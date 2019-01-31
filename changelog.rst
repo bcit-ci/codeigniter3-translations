@@ -10,6 +10,7 @@ Release Date: Unreleased
 -   New Translations
 
 -   Updated Translations
+    -   czech
 
 Version 3.1.10
 ==============
