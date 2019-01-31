@@ -37,7 +37,7 @@ bengali                  3.1.5        kabircse           Kabir Hossain
 bulgarian                3.1.10       ivantcholakov      Ivan Tcholakov
 catalan                  3.1.5        Ignasimg           Ignasi Molsosa
 croatian                 3.1.5        PaleRider981       Mario Ljubicic
-czech                    3.1.5        Ruplahlava         Štěpán Postránecký
+czech                    3.1.10*      Ruplahlava         Štěpán Postránecký
 danish                   3.1.5        janhansson*        Jan Hansson
 dutch                    3.1.5        pkrul              Pieter Krul
 filipino                 3.1.5        dzerium            Edzer Josh V. Padilla
