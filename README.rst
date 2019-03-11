@@ -41,7 +41,7 @@ czech                    3.1.10*      Ruplahlava         Štěpán Postránecký
 danish                   3.1.5        janhansson*        Jan Hansson
 dutch                    3.1.5        pkrul              Pieter Krul
 filipino                 3.1.5        dzerium            Edzer Josh V. Padilla
-french                   3.1.10       includebeer        Alain Rivest
+french                   3.1.10*      includebeer        Alain Rivest
 german                   3.1.5        Rufnex             Johannes Gamperl 
 greek                    3.1.5        xargr              Grigoris Charamidis
 gujarati                 3.1.10       sajid19991         Sajid Mathupotra
