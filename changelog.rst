@@ -12,6 +12,7 @@ Release Date: Unreleased
 -   Updated Translations
     -   czech
     -   french
+    -   portugese-brazilian
 
 Version 3.1.10
 ==============
