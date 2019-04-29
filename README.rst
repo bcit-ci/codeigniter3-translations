@@ -33,6 +33,7 @@ Idiom                    Status       User               Maintainer
 arabic                   3.1.8        daif               Daif Alotaibi ???
 armenian                 3.1.5        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.5        Qarakom            Sübhan Cabbarov
+basque                   3.1.10*      agonirena          Ander Goñi
 bengali                  3.1.5        kabircse           Kabir Hossain
 bulgarian                3.1.10       ivantcholakov      Ivan Tcholakov
 catalan                  3.1.5        Ignasimg           Ignasi Molsosa
