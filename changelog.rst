@@ -9,6 +9,8 @@ Release Date: Unreleased
 
 -   New Translations
 
+    -   basque
+    
 -   Updated Translations
     -   czech
     -   french
