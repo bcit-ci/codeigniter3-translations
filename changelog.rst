@@ -12,6 +12,7 @@ Release Date: Unreleased
     -   basque
     
 -   Updated Translations
+
     -   arabic
     -   czech
     -   french
