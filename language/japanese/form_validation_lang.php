@@ -15,6 +15,7 @@ $lang['form_validation_valid_email']		= '{field}欄はメールアドレスと�
 $lang['form_validation_valid_emails']		= '{field}欄は正しいメールアドレスでなければいけません';
 $lang['form_validation_valid_url']		= '{field}欄は正しいURLでなければいけません';
 $lang['form_validation_valid_ip']		= '{field}欄は正しいIPアドレスでなければいけません';
+$lang['form_validation_valid_base64']		= '{field}欄は正しいBASE64文字列でなければいけません';
 $lang['form_validation_min_length']		= '{field}欄は{param}文字以上、でなければいけません';
 $lang['form_validation_max_length']		= '{field}欄は{param}文字以下、でなければいけません';
 $lang['form_validation_exact_length']		= '{field}欄は{param}文字でなければいけません';
