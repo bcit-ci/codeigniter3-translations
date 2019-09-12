@@ -9,20 +9,20 @@
 * @link	https://codeigniter.com
 */
 defined('BASEPATH') OR exit('No direct script access allowed');
-$lang['date_year'] = 'साल';
-$lang['date_years'] = 'वर्षों';
-$lang['date_month'] = 'महीना';
-$lang['date_months'] = 'महीने';
-$lang['date_week'] = 'सप्ताह';
-$lang['date_weeks'] = 'सप्ताह';
-$lang['date_day'] = 'दिन';
-$lang['date_days'] = 'दिनों';
-$lang['date_hour'] = 'घंटा';
-$lang['date_hours'] = 'घंटे';
-$lang['date_minute'] = 'मिनट';
-$lang['date_minutes'] = 'मिनटों';
-$lang['date_second'] = 'सेकंड';
-$lang['date_seconds'] = 'सेकंड';
+$lang['date_year'] = 'वर्ष';
+$lang['date_years'] = 'वर्षे';
+$lang['date_month'] = 'महिना';
+$lang['date_months'] = 'महिने';
+$lang['date_week'] = 'आठवडा';
+$lang['date_weeks'] = 'आठवडे';
+$lang['date_day'] = 'दिवस';
+$lang['date_days'] = 'दिवस';
+$lang['date_hour'] = 'तास';
+$lang['date_hours'] = 'तास';
+$lang['date_minute'] = 'मिनिट';
+$lang['date_minutes'] = 'मिनिटे';
+$lang['date_second'] = 'सेकंद';
+$lang['date_seconds'] = 'सेकंद';
 $lang['UM12'] = '(यूटीसी -12: 00) बेकर / हौलेंड द्वीप';
 $lang['UM11'] = '(यूटीसी -11: 00) नियू';
 $lang['UM10'] = '(यूटीसी -10: 00) हवाई-अलूशन मानक समय, कुक आइलैंड्स, ताहिती';
