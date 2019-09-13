@@ -7,7 +7,7 @@
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	https://codeigniter.com
 */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') OR exit('स्क्रिप्टमध्ये थेट प्रवेश करण्यास परवानगी नाही');
 $lang['cal_su'] = 'रवि';
 $lang['cal_mo'] = 'सोम';
 $lang['cal_tu'] = 'मंगळ';
