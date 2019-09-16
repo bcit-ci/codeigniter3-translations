@@ -7,7 +7,7 @@
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	https://codeigniter.com
 */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') OR exit('थेट स्क्रिप्ट प्रवेश परवानगी नाही');
 
 $lang['terabyte_abbr'] = 'टीबी';
 $lang['gigabyte_abbr'] = 'जीबी';
