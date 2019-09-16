@@ -7,24 +7,24 @@
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	https://codeigniter.com
 */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') OR exit('थेट स्क्रिप्ट प्रवेश परवानगी नाही');
 
-$lang['ut_test_name'] = 'टेस्ट नाम';
-$lang['ut_test_datatype'] = 'टेस्ट डाटाटाइप';
-$lang['ut_res_datatype'] = 'इछित डाटाटाइप';
-$lang['ut_result'] = 'परिणाम';
-$lang['ut_undefined'] = 'अपरिभाषित टेस्ट का नाम';
-$lang['ut_file'] = 'फ़ाइल का नाम';
-$lang['ut_line'] = 'लाइन नंबर';
+$lang['ut_test_name'] = 'चाचणी नाव';
+$lang['ut_test_datatype'] = 'चाचणी डेटाटाइप';
+$lang['ut_res_datatype'] = 'अपेक्षित डेटाटाइप';
+$lang['ut_result'] = 'निकाल';
+$lang['ut_undefined'] = 'अपरिभाषित चाचणी नाव';
+$lang['ut_file'] = 'फाईल नाव';
+$lang['ut_line'] = 'ओळ क्रमांक';
 $lang['ut_passed'] = 'उत्तीर्ण';
-$lang['ut_failed'] = 'विफल';
-$lang['ut_boolean'] = 'बूलियन';
+$lang['ut_failed'] = 'अयशस्वी';
+$lang['ut_boolean'] = 'बुलियन';
 $lang['ut_integer'] = 'पूर्णांक';
 $lang['ut_float'] = 'फ्लोट';
 $lang['ut_double'] = 'फ्लोट'; // can be the same as float
-$lang['ut_string'] = 'शृंखला';
+$lang['ut_string'] = 'मालिका';
 $lang['ut_array'] = 'ऐरे';
 $lang['ut_object'] = 'ऑब्जेक्ट';
-$lang['ut_resource'] = 'रिसोर्स';
-$lang['ut_null'] = 'मूल्य विरहित';
-$lang['ut_notes'] = 'टिप्पणियाँ';
+$lang['ut_resource'] = 'स्त्रोत';
+$lang['ut_null'] = 'निरर्थक';
+$lang['ut_notes'] = 'टिप्पण्या';
