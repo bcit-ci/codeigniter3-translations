@@ -7,13 +7,12 @@
 * @license	http://opensource.org/licenses/MIT MIT License
 * @link	https://codeigniter.com
 */
-defined('BASEPATH') OR exit('No direct script access allowed');
-
-$lang['migration_none_found'] = 'कोई माइग्रेशन नहीं पाए गए।';
-$lang['migration_not_found'] = 'कोई माइग्रेशन वर्जन नंबर के साथनहीं नहीं पाया जा सका:% s।';
-$lang['migration_sequence_gap'] = 'वर्जन नंबर %s के निकट माइग्रेशन अनुक्रम में एक अंतर है। ';
-$lang['migration_multiple_version'] = 'वर्जन नंबर %s के जैसे कई माइग्रेशन पाये गए हैं।';
-$lang['migration_class_doesnt_exist'] = 'माइग्रेशन क्लास "%s" नहीं पाया जा सका।';
-$lang['migration_missing_up_method'] = 'माइग्रेशन क्लास "%s" में "up" मेथड मौजूद नहीं है।';
-$lang['migration_missing_down_method'] = 'माइग्रेशन क्लास "%s" में "down" मेथड मौजूद नहीं है।';
-$lang['migration_invalid_filename'] = 'माइग्रेशन "%s" एक अवैध फाइल नाम है।';
+defined('BASEPATH') OR exit('थेट स्क्रिप्ट प्रवेश परवानगी नाही');
+$lang['migration_none_found'] = 'कोणतेही स्थलांतर आढळले नाही.';
+$lang['migration_not_found'] = 'आवृत्ती क्रमांक:%s सह कोणतेही स्थलांतर आढळले नाही.';
+$lang['migration_sequence_gap'] = 'आवृत्ती क्रमांकाच्या स्थलांतर क्रमात एक अंतर आहे:%s. ';
+$lang['migration_multiple_version'] = 'समान आवृत्ती क्रमांकासह एकाधिक स्थलांतरण आहेत:%s.';
+$lang['migration_class_doesnt_exist'] = '%s स्थलांतर वर्ग आढळू शकला नाही.';
+$lang['migration_missing_up_method'] = '"%s" स्थलांतर वर्गात एक "up" पद्धत गहाळ आहे.';
+$lang['migration_missing_down_method'] = '"%s" स्थलांतर वर्गात एक "down" पद्धत गहाळ आहे.';
+$lang['migration_invalid_filename'] = 'माइग्रेशन "%s" मध्ये अवैध फाइलनाव आहे.';
