@@ -10,6 +10,7 @@ Release Date: Unreleased
 -   New Translations
 
     -   basque
+    -   marathi
     
 -   Updated Translations
 
