@@ -9,6 +9,17 @@ Release Date: Unreleased
 
 -   New Translations
 
+   
+-   Updated Translations
+
+    
+Version 3.1.11
+==============
+
+Release Date: Unreleased
+
+-   New Translations
+
     -   basque
     -   marathi
     
@@ -17,6 +28,7 @@ Release Date: Unreleased
     -   arabic
     -   czech
     -   french
+    -   portugese-brazilian
     -   portugese-brazilian
 
 Version 3.1.10
