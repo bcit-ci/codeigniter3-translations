@@ -11,8 +11,9 @@ Release Date: Unreleased
 
    
 -   Updated Translations
-
     
+      - thai
+      
 Version 3.1.11
 ==============
 
