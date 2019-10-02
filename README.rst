@@ -70,7 +70,7 @@ slovenian                3.1.5        andrejflorjancic    Andrej Florjančič
 spanish                  3.1.5        Razican             Iban Eguia
 swedish                  3.1.5        peterdenk           Peter Denk
 tamil                    3.1.5        karthik-code        Karthikeyan
-thai                     3.1.10       ?                   ?
+thai                     3.1.11*      settavut            Settavut Sunsiti
 traditional-chinese      3.1.5        appleboy            Bo-Yi Wu
 turkish                  3.1.5        obozdag             Osman Bozdag
 ukranian                 3.1.5        flybot              Sergiy Kosiy
