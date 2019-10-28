@@ -50,7 +50,7 @@ hindi                    3.1.5        shindesushilkumar   Sushilkumar Shinde
 hungarian                3.1.5        orionstar           László Bóra
 indonesian               3.1.10       ridho1991           Mutasim Ridlo
 italian                  3.1.5        ster                Stefano Mazzega
-japanese                 3.1.6        ???                 N/A
+japanese                 3.1.11*      ytetsuro            ytetsuro 
 khmer                    3.1.5        Chanthoeun          Chanthoeun Kim
 korean                   3.1.6        KwonLatte           HyeongJoo Kwon ???
 latvian                  3.1.5        DavisMiculis        Davis Miculis
