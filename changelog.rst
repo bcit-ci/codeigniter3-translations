@@ -12,6 +12,7 @@ Release Date: Unreleased
    
 -   Updated Translations
     
+      - japanese
       - thai
       
 Version 3.1.11
