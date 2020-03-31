@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2020, British Columbia Institute of Technology (https://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -16,6 +16,7 @@ $lang['form_validation_valid_emails']           = 'O campo {field} deve conter t
 $lang['form_validation_valid_url']              = 'O campo {field} deve conter um URL válido.';
 $lang['form_validation_valid_ip']               = 'O campo {field} deve conter um IP válido.';
 $lang['form_validation_valid_mac']              = 'O campo {field} deve conter um endereço MAC válido.';
+$lang['form_validation_valid_base64']			= 'O campo {field} deve conter uma string Base64 válida.';
 $lang['form_validation_min_length']             = 'O campo {field} deve conter pelo menos {param} caracteres.';
 $lang['form_validation_max_length']             = 'O campo {field} não pode conter mais que {param} caracteres.';
 $lang['form_validation_exact_length']           = 'O campo {field} deve conter exatamente {param} caracteres.';
