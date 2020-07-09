@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2020, British Columbia Institute of Technology (https://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -13,7 +13,7 @@ $lang['upload_userfile_not_set'] = 'Não foi possível encontrar uma variável P
 $lang['upload_file_exceeds_limit'] = 'O ficheiro carregado tem um tamanho superior ao permitido pelo ficheiro de configuração do PHP.';
 $lang['upload_file_exceeds_form_limit'] = 'O ficheiro carregado tem um tamanho superior ao definido no formulário.';
 $lang['upload_file_partial'] = 'O ficheiro não foi carregado na totalidade.';
-$lang['upload_no_temp_directory'] = 'A pasta temporária desapareceu.';
+$lang['upload_no_temp_directory'] = 'A pasta temporária não existe.';
 $lang['upload_unable_to_write_file'] = 'Não foi possível guardar o ficheiro.';
 $lang['upload_stopped_by_extension'] = 'O upload do ficheiro parou por causa da sua extensão.';
 $lang['upload_no_file_selected'] = 'Não selecionou nenhum ficheiro para fazer o upload.';
