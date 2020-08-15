@@ -3,25 +3,26 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author		CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * @copyright	Copyright (c) 2019-2020 CodeIgniter Foundation
  * @license		http://opensource.org/licenses/MIT	MIT License
  * @link		https://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['date_year']		= 'Év';
+$lang['date_year']		= 'év';
 $lang['date_years']		= 'év';
-$lang['date_month']		= 'Hónap';
+$lang['date_month']		= 'hónap';
 $lang['date_months']	= 'hónap';
-$lang['date_week']		= 'Hét';
+$lang['date_week']		= 'hét';
 $lang['date_weeks']		= 'hét';
-$lang['date_day']		= 'Nap';
+$lang['date_day']		= 'nap';
 $lang['date_days']		= 'nap';
-$lang['date_hour']		= 'Óra';
+$lang['date_hour']		= 'óra';
 $lang['date_hours']		= 'óra';
-$lang['date_minute']	= 'Perc';
+$lang['date_minute']	= 'perc';
 $lang['date_minutes']	= 'perc';
-$lang['date_second']	= 'Másodperc';
+$lang['date_second']	= 'mp';
 $lang['date_seconds']	= 'mp';
 
 $lang['UM12']	= '(UTC -12:00) Baker-, Howland-sziget';
