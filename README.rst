@@ -35,6 +35,7 @@ armenian                 3.1.5        tgrnmrdn            Tigran Muradyan
 azerbaijani              3.1.5        Qarakom             Sübhan Cabbarov
 basque                   3.1.11       agonirena           Ander Goñi
 bengali                  3.1.5        kabircse            Kabir Hossain
+bosnian                  3.1.11       cikov               Cikov Doce 
 bulgarian                3.1.10       ivantcholakov       Ivan Tcholakov
 catalan                  3.1.5        Ignasimg            Ignasi Molsosa
 croatian                 3.1.5        PaleRider981        Mario Ljubicic
