@@ -3,7 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author		CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * @copyright	Copyright (c) 2019-2020 CodeIgniter Foundation
  * @license		http://opensource.org/licenses/MIT	MIT License
  * @link		https://codeigniter.com
  */
@@ -22,9 +23,9 @@ $lang['db_must_use_where']				= 'A frissítések csak akkor engedélyezettek, ha
 $lang['db_del_must_use_where']			= 'A törlések csak akkor engedélyezettek, ha tartalmaznak "where" vagy "like" szelekciót.';
 $lang['db_field_param_missing']			= 'A mezők lekéréséhez a tábla nevének paraméterként történő megadása szükséges.';
 $lang['db_unsupported_function']		= 'Ez a függvény nem elérhető a használt adatbázis esetén.';
-$lang['db_transaction_failure']			= 'Tranzakció hiba, a visszavonás (rollback) megtörtént.';
+$lang['db_transaction_failure']			= 'Tranzakciós hiba: Visszavonás (rollback) megtörtént.';
 $lang['db_unable_to_drop']				= 'A megadott adatbázis eldobása sikertelen.';
-$lang['db_unsupported_feature']			= 'Ez a szolgáltatás nem elérhető a használt adatbázis esetén.';
+$lang['db_unsupported_feature']			= 'Ez a szolgáltatás nem elérhető a használt adatbázismotor esetén.';
 $lang['db_unsupported_compression']		= 'A választott fájl tömörítési eljárást nem támogatja a szerver.';
 $lang['db_filepath_error']				= 'Nem sikerült adatot írni a megadott könyvtárba.';
 $lang['db_invalid_cache_path']			= 'A megadott gyorsítótár könyvtár érvénytelen vagy nem írható.';

@@ -3,7 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author		CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * @copyright	Copyright (c) 2019-2020 CodeIgniter Foundation
  * @license		http://opensource.org/licenses/MIT	MIT License
  * @link		https://codeigniter.com
  */
@@ -21,7 +22,7 @@ $lang['ut_failed']			= 'Failed';
 $lang['ut_boolean']			= 'Boolean';
 $lang['ut_integer']			= 'Integer';
 $lang['ut_float']			= 'Float';
-$lang['ut_double']			= 'Float'; // a float-tal megegyező lehet
+$lang['ut_double']			= 'Double';
 $lang['ut_string']			= 'String';
 $lang['ut_array']			= 'Array';
 $lang['ut_object']			= 'Object';

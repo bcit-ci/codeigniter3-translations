@@ -3,7 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author		CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * @copyright	Copyright (c) 2019-2020 CodeIgniter Foundation
  * @license		http://opensource.org/licenses/MIT	MIT License
  * @link		https://codeigniter.com
  */
@@ -15,6 +16,8 @@ $lang['form_validation_valid_email']			= '{field} mező csak érvényes email c�
 $lang['form_validation_valid_emails']			= '{field} mező csak érvényes email címeket tartalmazhat.';
 $lang['form_validation_valid_url']				= '{field} mező csak érvényes URL címet tartalmazhat.';
 $lang['form_validation_valid_ip']				= '{field} mező csak érvényes IP címet tartalmazhat.';
+$lang['form_validation_valid_mac']				= '{field} mező csak érvényes MAC címet tartalmazhat.';
+$lang['form_validation_valid_base64']			= '{field} mező csak érvényes Base64 karakterláncot tartalmazhat.';
 $lang['form_validation_min_length']				= '{field} mező legalább {param} karakter hosszú kell hogy legyen.';
 $lang['form_validation_max_length']				= '{field} mező hossza nem haladhatja meg a(z) {param} karaktert.';
 $lang['form_validation_exact_length']			= '{field} mező hossza pontosan {param} karakter kell hogy legyen.';
@@ -32,9 +35,9 @@ $lang['form_validation_is_unique'] 				= '{field} mező csak egyedi értéket ta
 $lang['form_validation_is_natural']				= '{field} mező csak nem negatív egész számokat tartalmazhat.';
 $lang['form_validation_is_natural_no_zero']		= '{field} mező csak pozitív egész számokat tartalmazhat.';
 $lang['form_validation_decimal']				= '{field} mező csak tizedes számokat tartalmazhat.';
-$lang['form_validation_less_than']				= '{field} mező értéke kisebb, mint {param}.';
-$lang['form_validation_less_than_equal_to']		= '{field} mező értéke kisebb vagy egyenlő, mint {param}.';
-$lang['form_validation_greater_than']			= '{field} mező értéke nagyobb, mint {param}.';
-$lang['form_validation_greater_than_equal_to']	= '{field} mező értéke nagyobb vagy egyenlő, mint {param}.';
+$lang['form_validation_less_than']				= '{field} mező értéke legyen kisebb, mint {param}.';
+$lang['form_validation_less_than_equal_to']		= '{field} mező értéke legyen kisebb vagy egyenlő, mint {param}.';
+$lang['form_validation_greater_than']			= '{field} mező értéke legyen nagyobb, mint {param}.';
+$lang['form_validation_greater_than_equal_to']	= '{field} mező értéke legyen nagyobb vagy egyenlő, mint {param}.';
 $lang['form_validation_error_message_not_set']	= '{field} mezőhöz tartozó hibaüzenet nem érhető el!';
 $lang['form_validation_in_list']				= '{field} mező értékének a következők egyikének kell lennie: {param}.';

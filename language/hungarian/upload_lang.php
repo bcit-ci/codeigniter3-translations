@@ -3,7 +3,8 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author		CodeIgniter community
- * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * @copyright	Copyright (c) 2019-2020 CodeIgniter Foundation
  * @license		http://opensource.org/licenses/MIT	MIT License
  * @link		https://codeigniter.com
  */
@@ -15,7 +16,7 @@ $lang['upload_file_exceeds_form_limit']	= 'A feltöltött fájl mérete nagyobb,
 $lang['upload_file_partial']			= 'A fájlt csak részben sikerült feltölteni.';
 $lang['upload_no_temp_directory']		= 'Az átmeneti könyvtár hiányzik.';
 $lang['upload_unable_to_write_file']	= 'Nem sikerült a fájlt lemezre írni.';
-$lang['upload_stopped_by_extension']	= 'A feltöltést egy kiterjesztés megállította.';
+$lang['upload_stopped_by_extension']	= 'A feltöltés leállt a fájl kiterjesztése miatt.';
 $lang['upload_no_file_selected']		= 'Nem választott feltöltendő fájlt.';
 $lang['upload_invalid_filetype']		= 'A feltöltésre kijelölt fájl típusa nem engedélyezett.';
 $lang['upload_invalid_filesize']		= 'A feltöltésre kijelölt fájl mérete nagyobb mint az engedélyezett maximum.';
